@@ -1,0 +1,1277 @@
+   #[1]alternate [2]编辑 [3]Wikipedia (zh) [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
+   [11]alternate [12]alternate [13]alternate [14]Wikipedia的Atom feed
+
+   [15]跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * [16]首页
+     * [17]分类索引
+     * [18]特色内容
+     * [19]新闻动态
+     * [20]最近更改
+     * [21]随机条目
+
+   帮助
+     * [22]帮助
+     * [23]维基社群
+     * [24]方针与指引
+     * [25]互助客栈
+     * [26]知识问答
+     * [27]字词转换
+     * [28]IRC即时聊天
+     * [29]联络我们
+     * [30]关于维基百科
+
+   [31]维基百科 自由的百科全书
+   [32]搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * [33]资助维基百科
+     * [34]创建账号
+     * [35]登录
+
+   [ ] 个人工具
+     * [36]资助维基百科
+     * [37]创建账号
+     * [38]登录
+
+   未登录编辑者的页面 [39]了解详情
+     * [40]贡献
+     * [41]讨论
+
+目录
+
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * [42]序言
+     * [43]1 词源
+     * [44]2 历史
+     * [45]3 区别
+       (BUTTON) 开关区别子章节
+          + [46]3.1 与玄幻作品的区别
+          + [47]3.2 与科幻作品的区别
+          + [48]3.3 与宗教作品的区别
+          + [49]3.4 与武侠作品的区别
+     * [50]4 典型要素
+       (BUTTON) 开关典型要素子章节
+          + [51]4.1 架空世界
+          + [52]4.2 虚构的生物或种族
+          + [53]4.3 虚构的神话宗教体系
+          + [54]4.4 主角队伍
+          + [55]4.5 邪恶势力
+     * [56]5 主要作品
+       (BUTTON) 开关主要作品子章节
+          + [57]5.1 欧美
+          + [58]5.2 俄罗斯
+          + [59]5.3 东亚
+          + [60]5.4 前近代
+     * [61]6 参见
+     * [62]7 参考文献
+     * [63]8 外部链接
+
+   [ ] 开关目录
+
+奇幻作品
+
+   [ ] 82种语言
+     * [64]Afrikaans
+     * [65]Alemannisch
+     * [66]العربية
+     * [67]Asturianu
+     * [68]Azərbaycanca
+     * [69]Беларуская
+     * [70]Беларуская (тарашкевіца)
+     * [71]Български
+     * [72]বাংলা
+     * [73]Bosanski
+     * [74]Català
+     * [75]کوردی
+     * [76]Čeština
+     * [77]Cymraeg
+     * [78]Dansk
+     * [79]Deutsch
+     * [80]English
+     * [81]Esperanto
+     * [82]Español
+     * [83]Eesti
+     * [84]Euskara
+     * [85]فارسی
+     * [86]Suomi
+     * [87]Võro
+     * [88]Français
+     * [89]Frysk
+     * [90]Galego
+     * [91]Gaelg
+     * [92]עברית
+     * [93]हिन्दी
+     * [94]Hrvatski
+     * [95]Magyar
+     * [96]Հայերեն
+     * [97]Bahasa Indonesia
+     * [98]ГӀалгӀай
+     * [99]Íslenska
+     * [100]Italiano
+     * [101]日本語
+     * [102]ქართული
+     * [103]Қазақша
+     * [104]한국어
+     * [105]Кыргызча
+     * [106]Latina
+     * [107]Limburgs
+     * [108]Lombard
+     * [109]Lietuvių
+     * [110]Latviešu
+     * [111]Bahasa Melayu
+     * [112]Nederlands
+     * [113]Norsk nynorsk
+     * [114]Occitan
+     * [115]ਪੰਜਾਬੀ
+     * [116]Polski
+     * [117]پښتو
+     * [118]Português
+     * [119]Română
+     * [120]Русский
+     * [121]Scots
+     * [122]سنڌي
+     * [123]Srpskohrvatski / српскохрватски
+     * [124]සිංහල
+     * [125]Simple English
+     * [126]Slovenčina
+     * [127]Slovenščina
+     * [128]Shqip
+     * [129]Српски / srpski
+     * [130]Svenska
+     * [131]Kiswahili
+     * [132]தமிழ்
+     * [133]ไทย
+     * [134]Tagalog
+     * [135]Türkçe
+     * [136]Татарча / tatarça
+     * [137]Українська
+     * [138]اردو
+     * [139]Oʻzbekcha / ўзбекча
+     * [140]Tiếng Việt
+     * [141]吴语
+     * [142]მარგალური
+     * [143]ייִדיש
+     * [144]閩南語 / Bân-lâm-gú
+     * [145]粵語
+
+   [146]编辑链接
+
+     * [147]条目
+     * [148]讨论
+
+   [ ] 简体
+     * [149]不转换
+     * [150]简体
+     * [151]繁體
+     * [152]大陆简体
+     * [153]香港繁體
+     * [154]澳門繁體
+     * [155]大马简体
+     * [156]新加坡简体
+     * [157]臺灣正體
+
+     * [158]阅读
+     * [159]编辑
+     * [160]查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * [161]阅读
+     * [162]编辑
+     * [163]查看历史
+
+   常规
+     * [164]链入页面
+     * [165]相关更改
+     * [166]上传文件
+     * [167]特殊页面
+     * [168]固定链接
+     * [169]页面信息
+     * [170]引用此页
+     * [171]获取短链接
+     * [172]下载二维码
+
+   打印/导出
+     * [173]下载为PDF
+     * [174]打印版本
+
+   在其他项目中
+     * [175]维基共享资源
+     * [176]维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   维基百科，自由的百科全书
+   本条目存在以下问题，请协助[177]改善本条目或在[178]讨论页针对议题发表看法。
+   此条目的语调或风格或许不适合百科全书。 (2011年12月4日)
+   请根据[179]指南协助[180]改善这篇条目，并在[181]讨论页讨论问题所在，加以改善。
+   [182][45px-Tango-nosources.svg.png]
+   此条目需要补充更多[183]来源。 (2009年1月18日)
+   请协助补充多方面[184]可靠来源以[185]改善这篇条目，[186]无法查证的内容可能会因为[187]异议提出而被移除。
+   致使用者：请搜索一下条目的标题（来源搜索：[188]"奇幻作品" —
+   [189]网页、[190]新闻、[191]书籍、[192]学术、[193]图像），以检查网络上是否存在该主题的更多可靠来源（[194]判定指引
+   ）。
+   提示：此条目页的主题不是[195]奇幻文学。
+                                    奇幻作品
+   [196][250px-Variance_in_character_design_-_Lia_Turtle%2C_Shain%2C_and_C
+   endrea_from_Chaos%26Evolutions.png]
+                                    奇幻作品
+     * [197]奇幻艺术
+     * [198]奇幻漫画
+     * [199]奇幻电影
+     * [200]奇幻文学
+
+                                    类别研究
+     * [201]奇幻文学史
+     * [202]奇幻小说子类型
+     * [203]推想小说
+     * [204]魔法物品
+
+                                     分类
+     * [205]奇幻
+     * [206]奇幻类型
+     * [207]奇幻文学
+     * [208]奇幻小说
+     * [209]奇幻漫画
+     * [210]奇幻冒险电影
+     * [211]奇幻片
+     * [212]奇幻动画
+     * [213]奇幻游戏
+
+     * [214]查
+     * [215]论
+     * [216]编
+
+   奇幻（英语：Fantasy），或称奇幻作品，是[217]虚构作品的一种类型，表现形式有[218]小说、[219]电影、[220]绘画、[221
+   ]漫画、[222]角色扮演游戏等，其故事结构多半以[223]神话、[224]梦境、[225]神秘学与[226]宗教以及古老[227]传说为设定
+   ，因而具有其独特之[228]世界观。
+
+   奇幻作品的故事背景通常发生在与现实[229]世界[230]规律不同的[231]架空世界中，或是在现实[232]地球中加入[233]超自然因素。
+   奇幻这种题材与[234]科幻、[235]恐怖、[236]童话等既有联系，又有不同。奇幻的特点是神话式的想像和探索。[237]神话[238]传说
+   起源于民间传说，它们不属于奇幻，但是为奇幻作品的重要灵感来源。
+
+词源
+
+   [[239]编辑]
+
+   中文里的“奇幻”一词，是由[240]英文的“fantasy”翻译而来。此一译名之固定，乃由[241]台湾[242]奇幻文化艺术基金会的负责人[
+   243]朱学恒于1992年在[244]台湾的电玩月刊杂志《[245]软体世界》（已于2005年底第200期时休刊，后以季刊方式于2006年夏季
+   时复刊）中，开设为期共一年半的“奇幻图书馆”（Fantasy Library）专栏时固定下来，并沿用至今成为通用译名^[246][1]。
+
+历史
+
+   [[247]编辑]
+   [248][220px-Dobrynya_Nikitich_rescues_Zabava_from_the_Gorynych%2C_1941.
+   jpg] 一些童话或是传说，像是 [249]Dobrynya Nikitich 从恶龙 [250]Gorynych 手中救出 Zabrava
+   Putyaichna 的故事就时常成为奇幻文学的写作材料
+
+   [251]中世纪[252]骑士文学与近现代[253]哥特文学的广泛传播，为奇幻小说的兴起打下了坚实基础。[254]亚瑟王[255]传说为当代奇
+   幻小说提供了另一个重要题材，[256]魔法师[257]梅林、[258]圆桌骑士、[259]马术、浪漫却轮廓鲜明的道德问题，在众多作者笔下呈现纷
+   然不同的面貌。
+
+   在19世纪和20世纪初，真正的奇幻作品才出现，许多奇幻小说与[260]科幻小说发表在相同的[261]杂志上（通常也是相同的作者）。在20世纪中
+   叶，[262]J·R·R·托尔金的《[263]哈比人历险记》和《[264]魔戒》、[265]C·S·路易斯的《[266]纳尼亚年代记》、[26
+   7]娥苏拉·勒瑰恩的《[268]地海》系列获得了巨大的声望，奇幻小说写作获得了重生，之后的作品大多模仿这些成功的作品，从[269]神话、[27
+   0]史诗和[271]中世纪浪漫文学中借鉴了许多成分。
+
+   这些奇幻小说促使了[272]龙与地下城这类[273]角色扮演游戏的诞生，而此类游戏反过来产生了更多的小说，影响和促进奇幻小说的发展。游戏公司发
+   行以它们自己的虚构游戏世界为背景的奇幻小说如[274]龙枪编年史、[275]被遗忘的国度和[276]机甲战士等系列名著。
+
+   随著时代的变迁，世界各地都不断的推出各个奇幻小说，但结构多半都大同小异。然而，这些在历史上留上的大作之所以不被取代，不只是[277]经典的因素
+   ，而是[278]架空世界充满奇想，吸引了读者的阅读欲望^[279][2]。
+
+区别
+
+   [[280]编辑]
+
+   和其他的作品类别一样，所谓的奇幻也许只是[281]书商的一种上架策略，未必有一个清晰的定义可以不让某小说不被预期地踢出或被划归这个类别。因此奇
+   幻的区别具有很大的模糊空间。
+
+   清晰的指标可以让你知道一篇小说可能更接近或是远离这个类别，那就是所谓“[282]约定俗成的要素”。当读者反复看到这些要素时，自然会倾向于认为它
+   属于奇幻类别，而不管[283]学者如何进行批判或挑剔，或是作者自己对于被划归类别具有反感。
+
+与玄幻作品的区别
+
+   [[284]编辑]
+
+   奇幻与玄幻的分别，就是在于奇幻作品多半以现实神话、宗教传说为设定，而[285]玄幻小说则完全脱离了现实世界的范畴。
+
+   玄幻小说所涵盖的类型大致上和[286]英语中的“fantasy”较为接近。约莫在玄幻一词开始普及的同时期，奇幻一词亦被引入[287]中文用于对
+   译fantasy，但由于两者的使用社群重叠不大，因而各自发展出不同的意涵。
+
+   对于惯于以奇幻对译fantasy的社群而言，玄幻现在更广泛意指“混和奇幻、科幻、武侠...等多重要素的中文幻想小说”。
+
+   对于惯于以玄幻来统称[288]幻想小说的社群而言，他们有时会以玄幻来统括fantasy的范畴，有时会以魔幻一词来指称欧美的fantasy小说，
+   尤其是强调其偏重于[289]超自然与[290]魔法的特色。
+
+   由于玄幻小说多来自于[291]网路[292]写手，成文的同时就在网络上发表，经常在连载过程中改变自己的风格以适应观众(因拥有即时发表意见的可能
+   ，所以更像是观众而非读者)，这些更改也许使得小说内容经常发生前后矛盾的现象，但只要剧情安排精采合理，不用特意去区别作品的类别，也可以章节主题份
+   量作为区分，若每段章节主题范围上在虚构的世界并仅加入少许其他非传统情节，可归类于奇幻小说；若章节环绕在武侠、科幻上而魔法仅做为点缀，则较被认同
+   为玄幻小说。
+
+与科幻作品的区别
+
+   [[293]编辑]
+
+   奇幻与[294]科幻不同之处在于奇幻通常较偏向非百分之百理性或是不可预测的世界结构上（内容多有魔法、剑、先知），以时间序区分，奇幻较偏向过去也
+   就是历史中寻求背景依据或是相似，而科幻则会偏向现有科技的延续，强化及加强科学方面想像。
+
+   在科幻中使用奇幻元素称为[295]科学奇幻，但经常性地仅作为作品点题需要，原则不和太空歌剧或硬科幻讳背，所以纯粹的科奇幻不多见，如星际大战的原
+   力或高达系列的新人类，像硬科幻中引入神话色彩，沙丘系列的香料或基地系列的心理史学等，便较重架空历史色彩等。
+
+与宗教作品的区别
+
+   [[296]编辑]
+
+   除了外星人之外，对于一些不是人类的角色在故事中出现的情况，仍需更小心的推敲，比方说它们被视为或自称为鬼神，有时无疑地证明是一篇奇幻小说，但也有
+   许多时候这篇作品的完成出自一个严肃的宗教宣传动机。对于信仰者而言，这些现实中好像不存在也不容易发觉的生物种族或是鬼神，而且无疑地是拥有类人或是
+   超人智慧的，只要信仰的宗教这么主张了这份文学作品区分，而不能归类于一种奇幻文学。
+
+与武侠作品的区别
+
+   [[297]编辑]
+
+   早期[298]武侠小说和影片，偏好神话色彩的武功和英雄(如剑仙)，还有种种真实不存在的法宝和怪物，代表有电影[299]如来神掌或[300]火烧
+   红莲寺，小说中有[301]还珠楼主著的[302]蜀山剑侠传，故事多较艰深和抽象，和奇幻的观念很接近，称为剑仙派武侠。但当代的武侠小说写的都是普
+   通人类的[303]武林高手而不是神话英雄，并多有很强烈的历史背景，所以和奇幻的分别较明显了。而以类武侠的奇幻可能是属[304]修真小说的仙侠类
+   作品。
+
+典型要素
+
+   [[305]编辑]
+   [306][220px-The_Enchanted_Garden_of_Messer_Ansaldo_by_Marie_Spartali_St
+   illman_%281889%29.jpg]
+   至今尚无法确定在许多作品中、包含在那些令人惊奇的事物内的作者信念，例如[307]十日谈中令人陶醉的花园。
+
+   奇幻作品通常包含以下要素：
+    1. 与现有物理规律不合符的超自然现象，通常以[308]魔法作为代表。
+    2. 在预设或者是在解释这些现象之后而针对某些故事或传说进行创作，以作家观点而言，就是创作[309]世界观与[310]元素设定。
+    3. 架空世界
+    4. 虚构的生物或种族
+    5. 虚构的神话宗教体系
+    6. 主角队伍
+    7. 邪恶势力
+
+   一般说来奇幻作品分5个类型：
+   新神话主义类型、虚拟架空类型、玄幻修真类型、都市奇幻类型和外来奇幻类型。
+
+   通常奇幻作品的最大特点在于它是建立在一个全新或至少部分虚构的世界观之下，因此得以谱写出与实际相异或完全不同的故事。以著名的奇幻世界观——[31
+   1]被遗忘的国度为底本创作的小说，就有超过千种。
+
+架空世界
+
+   [[312]编辑]
+
+   以[313]魔戒为首杜撰一个世界作为奇幻小说的发生舞台已经成为常见手法。不过在此之前，某些这类的世界似乎经由镜子,树洞和柜子等等物体和地球相通
+   。为了证明作者的想像力，让这个世界被扛在大[314]乌龟壳,[315]大象和植物背上已不稀奇，世界的外海外缘布置连续的大瀑布让落下去的任何东西
+   永远消失也不再是新奇的点子。
+
+   可以让这个世界座落在海底的巨大气泡中，或者让架空世界中全部有没有智慧的生物都拥有飞行或漂浮能力、而在深不见底的大气半空中结巢居住。作家们一定还
+   有更奇妙的点子。
+
+   有些奇幻作品的世界观会设定在离现代非常遥远的历史时代，例如日本的[316]平安时代或是中国的[317]唐朝等等。这样的例子在亚洲地区的作品里最
+   为常见。
+
+虚构的生物或种族
+
+   [[318]编辑]
+   主条目：[319]种族 (奇幻)
+
+   一个显然不是人类或真实动物的生物种族，尝试或理所当然地和故事中的角色顺利沟通，时常是判断一篇作品属于奇幻类型的开始，除非在接下来它们的自我介绍
+   中马上谈到自己来自其他地方。
+
+   他们大多是以[320]传说生物或是真实存在的事物为范本，比方说[321]精灵、[322]矮人、[323]西方龙、[324]不死鸟等等；而在另外
+   的一些作品中那可能只是一张会说话的[325]扑克牌。这些非我族类和人类之间的关系在各作品里都有不同的描写。它们有些被人类视为敌人，也有些是人类
+   的联友。有的作品将他们描写成非正常的存在，仍未脱离掉超自然的鬼神身份，但有些则将它们设定成和一般的动物或民族毫无两样。
+
+   在一些被归类于[326]严肃奇幻的作品当中，这样的族群也许会有自己的特长、社会、文化甚至演化分支，无论如何它们长成这样、或说被描写成这样，大都
+   是为了在故事中演出一些人类办不到的事情。
+
+虚构的神话宗教体系
+
+   [[327]编辑]
+
+   越有名的作品越会极力避免影射现实中的宗教可能会为作者带来的麻烦，因此无论是科幻或奇幻作品，当触及和信仰有关的议题时，一个捏造的神话和宗教体系便
+   应运而生。
+
+   当然有时候虚构的神祇不是因为这么高尚的理由出现，单纯只是因为一群更具威力的角色对于故事的戏剧性开展将有著无可取代的重要贡献。
+
+主角队伍
+
+   [[328]编辑]
+
+   鲜少有奇幻作品的作者，不用某种奇特的职业来象征他在自己的架空世界中捏造的文化。最常见的例子就是：当一个世界有魔法存在，无可避免地就会产生一些称
+   为法师这种以之为业的人。这种事情在科幻小说中比较罕见，但类似例子仍然让人耳熟能详，比如说[329]星际大战中的[330]绝地武士。
+
+   红花也须有绿叶相衬，彰显这种职业身份的特殊性最好的办法就是对照者的存在，而且最好不只一个，任务队伍就这样诞生了，例如在[331]佛罗多、[33
+   2]亚拉冈等凡人中更显得具有不凡身份地位的法师[333]甘道夫。
+
+   [334]角色扮演游戏的出现无疑地强化了奇幻小说的这种成分，后世的奇幻作家们完全没有必要在写小说时再去为法师要用哪一招来克敌制胜而烦恼。就算他
+   们有这方面的喜好，他们的点子也很难比无数游戏制作团队的更好。
+
+邪恶势力
+
+   [[335]编辑]
+
+   许多奇幻作品中的特殊文明，比方说魔法，是“可验证”的，也就是说它很[336]科学。但是连拥有最深厚数理逻辑根基的架空背景设定者，都很难否认，当
+   一颗邪恶的能量宝珠就拥有组织一批势力压倒性庞大的军队的力量时，对于剧情的开展而言非常便利，甚至比捏造那些神祇更简单。
+
+   在[337]魔戒电影中看到那些据说经由某种方法将[338]哥布林和[339]精灵合成、而在诞生时痛声哀嚎的[340]半兽人时，猜想它或许早已经
+   知道此后无数担负起被英雄宰割任务的邪恶生物，都将会经由类似的神秘难明的途径一窝蜂地大量生产出来。
+
+主要作品
+
+   [[341]编辑]
+
+欧美
+
+   [[342]编辑]
+     * 《[343]蛮王柯南》系列 - [344]罗伯特·霍华德 1932年
+     * 《[345]幽灵古堡（英语：[346]Gormenghast (series)）》三部曲 - [347]马温·皮克 1946年
+     * 《[348]纳尼亚》系列 - [349]C·S·路易斯 1950年
+     * 《[350]魔戒》系列 - [351]J·R·R·托尔金 1954年
+     * 《[352]地海》系列 - [353]娥苏拉·勒瑰恩 1968年
+     * 《[354]最后的独角兽》 - [355]彼得·毕格（英语：[356]Peter S. Beagle） 1968年
+     * 《[357]安珀志（英语：[358]The Chronicles of Amber）》 - [359]罗杰·泽拉兹尼 1970年
+     * 《[360]赫德御谜士（英语：[361]The Riddle-Master of Hed）》系列 - [362]派翠西亚·麦奇莉普
+       1976年
+     * 《[363]精灵宝钻》 - [364]J·R·R·托尔金 1977年
+     * 《[365]莎拉娜之剑（英语：[366]The Sword of Shannara）》系列 - [367]泰瑞·布鲁克斯 1977年
+     * 《[368]奎师塔门西的众世界》系列 - [369]黛安娜·韦恩·琼斯 1977年
+     * 《[370]圣石传奇（英语：[371]The Belgariad）》系列 - [372]大卫·艾丁斯（英语：[373]David
+       Eddings） 1982年
+     * 《[374]黑塔》系列 - [375]斯蒂芬·金 1982年
+     * 《[376]碟形世界（英语：[377]Discworld）》系列 - [378]泰瑞·普莱契 1983年
+     * 《[379]费奥纳瓦织锦（英语：[380]The Fionavar Tapestry）》三部曲 -
+       [381]盖伊·凯佛列·凯伊（英语：[382]Guy Gavriel Kay） 1984年
+     * 《[383]龙枪》系列- 主要为[384]玛格丽特·魏丝和[385]崔西·西克曼（英语：[386]Tracy Hickman）
+       1984年
+     * 《[387]创者传（英语：[388]The Tales of Alvin Maker）》 - [389]奥森·斯科特·卡德 1987年
+     * 《[390]黑暗精灵》系列 - [391]R·A·萨尔瓦多 1988年
+     * 《[392]死亡之门（英语：[393]The Death Gate Cycle）》系列 -
+       [394]玛格丽特·魏丝和[395]崔西·西克曼（英语：[396]Tracy Hickman） 1990年
+     * 《[397]时光之轮》 - [398]罗伯特·乔丹 1990年
+     * 《[399]真理之剑》系列 - [400]泰瑞·古德坎（英语：[401]Terry Goodkind） 1994年
+     * 《[402]刺客系列》系列 - [403]罗𬞟·荷布 1995年
+     * 《[404]黑暗元素三部曲》系列 - [405]菲力普·普曼 1995年
+     * 《[406]冰与火之歌》系列 - [407]乔治·R·R·马丁 1996年
+     * 《[408]哈利·波特》系列 - [409]J·K·罗琳 1997年
+     * 《[410]魔法船（英语：[411]Liveship Traders Trilogy）》系列 - [412]罗𬞟·荷布 1998年
+     * 《[413]美国众神》 - [414]尼尔·盖曼 2001年
+     * 《[415]遗产四部曲》 - [416]克里斯托弗·鲍里尼 2002年
+     * 《[417]向达伦大冒险》系列 - [418]向达伦 2002年
+     * 《[419]大魔法师（英语：[420]Jonathan Strange & Mr Norrell）》 - [421]苏珊娜·克拉克
+       2004年
+     * 《[422]远古幽暗的纪年》系列 - [423]米雪尔·佩福 2004年
+     * 《[424]魔域大冒险》系列 - [425]向达伦 2005年
+     * 《[426]诸神之城：伊岚翠》 - [427]布兰登·山德森 2005年
+     * 《[428]夜城系列小说》- [429]西蒙·R·格林（英语：[430]Simon R. Green） 2006年
+     * 《[431]梦书之城》（The City of Dreaming Books）- [432]瓦尔特．莫尔斯（Walter Moers）
+     * 《[433]永恒战士》系列（Eternal Champion）- [434]麦克．摩考克（Michael Moorcock）
+     * 《[435]兽血纹》系列（Monster Blood Tattoo）- [436]D.M. 康尼士（D. M. Cornish）
+     * 《[437]波西杰克森》系列（[438]Percy Jackson & the
+       Olympians）-[439]雷克．莱尔顿（[440]Rick Riordan）
+     * 《[441]龙骑士系列》系列（[442]Dragon Knight）-[443]戈登·R·迪克森（[444]Gordon R.
+       Dickson）
+     * 《[445]迷雾之子》系列（[446]Mistborn）-[447]布兰登·山德森（[448]Brandon Sanderson）
+     * 《[449]历史守护者》系列（[450]The History Keepers）-[451]戴米恩·迪本（[452]Damian
+       Dibben）
+     * 《[453]不死炼金术师》系列（[454]The Secrets of the Immortal Nicholas
+       Flamel）-[455]麦可·史考特（[456]Michael Scott）
+     * 《[457]魔女高校》系列（[458]Hex Hall）-[459]瑞秋·霍金斯（[460]Rachel Hawkins）
+     * 《[461]幻城》系列（[462]Cornache del Mondo
+       Emerso）-[463]丽齐亚·特洛伊斯（[464]Licia Troisi）
+
+俄罗斯
+
+   [[465]编辑]
+     * 《[466]巡者系列》- [467]谢尔盖·卢基扬年科
+
+东亚
+
+   [[468]编辑]
+     * [469]Div
+          + 《[470]地狱系列》
+          + 《[471]阴界黑帮》
+     * [472]烟雨江南
+          + 《[473]亵渎》
+     * [474]梦枕獏
+          + 《[475]阴阳师》系列
+          + 《[476]幻兽少年》系列
+          + 《[477]沙门空海》系列
+     * [478]菊地秀行
+          + 《[479]吸血鬼猎人D》系列
+     * [480]水野良
+          + 《[481]罗德斯岛战记》系列
+     * [482]吉田直
+          + 《[483]叛逆的诸神》
+     * [484]小野不由美
+          + 《[485]十二国记》系列
+          + 《[486]东京异闻》
+     * [487]结城光流
+          + 《[488]篁破幻草子》系列
+          + 《[489]少年阴阳师》系列
+     * [490]上桥菜穗子
+          + 《[491]守护者系列》
+     * [492]毕华流
+          + 《[493]荒原三部曲》
+          + 《[494]桑梓荒原记》
+          + 《[495]白狼传》
+     * [496]水泉
+          + 《[497]风动鸣》系列
+          + 《[498]银色域》系列
+          + 《[499]沉月之钥》系列
+          + 《[500]逐蓝》系列
+          + 《[501]异愿洛恩斯》系列
+     * [502]李荣道
+          + 《[503]龙族》系列
+          + 《[504]喝眼泪的鸟》
+     * [505]沧月
+          + 《[506]镜》系列
+          + 《[507]羽》系列
+          + 《星空》
+     * [508]南方玫瑰
+          + 《[509]十世转生》系列
+          + 《[510]北之星冠》系列
+     * [511]御我
+          + 《[512]1/2王子》系列
+          + 《[513]不杀》系列
+          + 《[514]GOD》系列
+          + 《[515]玄日狩》系列
+          + 《[516]吾命骑士》系列
+          + 《[517]非关英雄》系列
+          + 《[518]公华》系列
+          + 《[519]人娃契》系列
+     * [520]Necroman
+          + 《[521]枪·血玫瑰·necromancer》
+          + 《[522]暴风雨中的蝴蝶》
+     * [523]时间的守护者
+          + 《[524]死亡骑士》
+          + 《[525]魔女与魔神》
+     * [526]护玄
+          + 《[527]特殊传说》系列
+          + 《[528]因与聿案簿录》系列
+          + 《[529]异动之刻》系列
+          + 《[530]兔侠》系列
+     * [531]蝴蝶
+          + 《[532]禁咒师》系列
+     * [533]秀弘
+          + 《[534]玄灵的天平》系列
+          + 《[535]虚无的弥撒》系列
+          + 《[536]深渊礼赞：诡秘穹宇的妄执演绎》
+
+前近代
+
+   [[537]编辑]
+     * 中国
+          + 《[538]太平广记》（[539]宋代）[540]李昉等人
+          + 《[541]西游记》（[542]明代）[543]吴承恩
+          + 《[544]封神演义》（[545]明代）[546]许仲琳
+          + 《[547]阅微草堂笔记》（[548]清代）[549]纪昀
+     * 英国
+          + 《[550]贝奥武甫》（[551]八世纪）佚名
+          + 《[552]亚瑟王之死》（[553]十五世纪）[554]托马斯·马洛礼
+          + 《[555]仙后》（[556]十六世纪）[557]埃德蒙·斯宾塞
+          + 《[558]仲夏夜之梦》（[559]十六世纪）[560]莎士比亚
+          + 《[561]失乐园》（[562]十七世纪）[563]约翰·弥尔顿
+     * 德国
+          + 《[564]尼伯龙根之歌》（[565]十二世纪）佚名
+          + 《[566]浮士德》（[567]十八世纪）[568]歌德
+     * 日本
+          + 《[569]竹取物语》（[570]平安时代）
+          + 《[571]御伽草子》（[572]室町时代）
+          + 《[573]雨月物语》（[574]江户时代）
+
+参见
+
+   [[575]编辑]
+     * [576]黑暗奇幻
+     * [577]恐怖小说
+     * [578]科幻小说
+     * [579]玄幻小说
+     * [580]推想小说
+     * [581]魔法少女
+
+参考文献
+
+   [[582]编辑]
+    1. [583]^
+       [584]朱学恒译，[585]R·A·萨尔瓦多，《[586]黑暗精灵三部曲》·简体中文版译者序，龙门书局，2002年4月，
+       [587]ISBN 7-80111-992-4
+    2. [588]^ [589]托爾金的“第二世界”. 新快报. 2015年2月17日.
+
+外部链接
+
+   [[590]编辑]
+     * [591]奇幻文化艺术基金会（[592]页面存档备份，存于[593]互联网档案馆）
+     * [594]中译奇幻小说书目（[595]页面存档备份，存于[596]互联网档案馆）
+
+   检索自“[597]https://zh.wikipedia.org/w/index.php?title=奇幻作品&oldid=84688546
+   ”
+
+   [598]分类：​
+     * [599]奇幻
+     * [600]奇幻作品
+
+   隐藏分类：​
+     * [601]使用ISBN魔术链接的页面
+     * [602]自2011年12月语调不适于维基百科的条目
+     * [603]拒绝当选首页新条目推荐栏目的条目
+     * [604]自2009年1月需补充来源的条目
+     * [605]含有多个问题的条目
+     * [606]含有英语的条目
+
+     * 本页面最后修订于2024年10月23日 (星期三) 00:54。
+     * 本站的全部文字在[607]知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅[608]使用条款）
+       Wikipedia®和维基百科标志是[609]维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国内税收法501(c)(3)登记的[610]非营利慈善机构。
+
+     * [611]隐私政策
+     * [612]关于维基百科
+     * [613]免责声明
+     * [614]行为准则
+     * [615]开发者
+     * [616]统计
+     * [617]Cookie声明
+     * [618]手机版视图
+
+     * [619]Wikimedia Foundation
+     * [620]Powered by MediaWiki
+
+Références
+
+   Liens visibles :
+   1. https://zh.m.wikipedia.org/wiki/奇幻作品
+   2. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit
+   3. https://zh.wikipedia.org/w/rest.php/v1/search
+   4. https://zh.wikipedia.org/wiki/奇幻作品
+   5. https://zh.wikipedia.org/zh-hans/奇幻作品
+   6. https://zh.wikipedia.org/zh-cn/奇幻作品
+   7. https://zh.wikipedia.org/zh-my/奇幻作品
+   8. https://zh.wikipedia.org/zh-sg/奇幻作品
+   9. https://zh.wikipedia.org/zh-hant/奇幻作品
+  10. https://zh.wikipedia.org/zh-hk/奇幻作品
+  11. https://zh.wikipedia.org/zh-mo/奇幻作品
+  12. https://zh.wikipedia.org/zh-tw/奇幻作品
+  13. https://zh.wikipedia.org/wiki/奇幻作品
+  14. https://zh.wikipedia.org/w/index.php?title=Special:最近更改&feed=atom
+  15. https://zh.wikipedia.org/zh-hans/奇幻作品#bodyContent
+  16. https://zh.wikipedia.org/wiki/Wikipedia:首页
+  17. https://zh.wikipedia.org/wiki/Wikipedia:分类索引
+  18. https://zh.wikipedia.org/wiki/Portal:特色內容
+  19. https://zh.wikipedia.org/wiki/Portal:新聞動態
+  20. https://zh.wikipedia.org/wiki/Special:最近更改
+  21. https://zh.wikipedia.org/wiki/Special:随机页面
+  22. https://zh.wikipedia.org/wiki/Help:目录
+  23. https://zh.wikipedia.org/wiki/Wikipedia:社群首页
+  24. https://zh.wikipedia.org/wiki/Wikipedia:方針與指引
+  25. https://zh.wikipedia.org/wiki/Wikipedia:互助客栈
+  26. https://zh.wikipedia.org/wiki/Wikipedia:知识问答
+  27. https://zh.wikipedia.org/wiki/Wikipedia:字词转换
+  28. https://zh.wikipedia.org/wiki/Wikipedia:IRC聊天频道
+  29. https://zh.wikipedia.org/wiki/Wikipedia:联络我们
+  30. https://zh.wikipedia.org/wiki/Wikipedia:关于
+  31. https://zh.wikipedia.org/wiki/Wikipedia:首页
+  32. https://zh.wikipedia.org/wiki/Special:搜索
+  33. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=zh.wikipedia.org&uselang=zh-hans
+  34. https://zh.wikipedia.org/w/index.php?title=Special:创建账户&returnto=奇幻作品&returntoquery=variant=zh-hans
+  35. https://zh.wikipedia.org/w/index.php?title=Special:用户登录&returnto=奇幻作品&returntoquery=variant=zh-hans
+  36. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=zh.wikipedia.org&uselang=zh-hans
+  37. https://zh.wikipedia.org/w/index.php?title=Special:创建账户&returnto=奇幻作品&returntoquery=variant=zh-hans
+  38. https://zh.wikipedia.org/w/index.php?title=Special:用户登录&returnto=奇幻作品&returntoquery=variant=zh-hans
+  39. https://zh.wikipedia.org/wiki/Help:新手入门
+  40. https://zh.wikipedia.org/wiki/Special:我的贡献
+  41. https://zh.wikipedia.org/wiki/Special:我的讨论页
+  42. https://zh.wikipedia.org/zh-hans/奇幻作品
+  43. https://zh.wikipedia.org/zh-hans/奇幻作品#词源
+  44. https://zh.wikipedia.org/zh-hans/奇幻作品#歷史
+  45. https://zh.wikipedia.org/zh-hans/奇幻作品#區別
+  46. https://zh.wikipedia.org/zh-hans/奇幻作品#與玄幻作品的區別
+  47. https://zh.wikipedia.org/zh-hans/奇幻作品#與科幻作品的區別
+  48. https://zh.wikipedia.org/zh-hans/奇幻作品#與宗教作品的區別
+  49. https://zh.wikipedia.org/zh-hans/奇幻作品#與武俠作品的區別
+  50. https://zh.wikipedia.org/zh-hans/奇幻作品#典型要素
+  51. https://zh.wikipedia.org/zh-hans/奇幻作品#架空世界
+  52. https://zh.wikipedia.org/zh-hans/奇幻作品#虛構的生物或種族
+  53. https://zh.wikipedia.org/zh-hans/奇幻作品#虛構的神話宗教體系
+  54. https://zh.wikipedia.org/zh-hans/奇幻作品#主角隊伍
+  55. https://zh.wikipedia.org/zh-hans/奇幻作品#邪惡勢力
+  56. https://zh.wikipedia.org/zh-hans/奇幻作品#主要作品
+  57. https://zh.wikipedia.org/zh-hans/奇幻作品#歐美
+  58. https://zh.wikipedia.org/zh-hans/奇幻作品#俄羅斯
+  59. https://zh.wikipedia.org/zh-hans/奇幻作品#東亞
+  60. https://zh.wikipedia.org/zh-hans/奇幻作品#前近代
+  61. https://zh.wikipedia.org/zh-hans/奇幻作品#參見
+  62. https://zh.wikipedia.org/zh-hans/奇幻作品#参考文献
+  63. https://zh.wikipedia.org/zh-hans/奇幻作品#外部連結
+  64. https://af.wikipedia.org/wiki/Fantasieroman
+  65. https://als.wikipedia.org/wiki/Fantasy
+  66. https://ar.wikipedia.org/wiki/فنتازيا
+  67. https://ast.wikipedia.org/wiki/Fantasía
+  68. https://az.wikipedia.org/wiki/Fentezi
+  69. https://be.wikipedia.org/wiki/Фэнтэзі
+  70. https://be-tarask.wikipedia.org/wiki/Фэнтэзі
+  71. https://bg.wikipedia.org/wiki/Фентъзи
+  72. https://bn.wikipedia.org/wiki/অলীক_কল্পকাহিনী
+  73. https://bs.wikipedia.org/wiki/Fantastika
+  74. https://ca.wikipedia.org/wiki/Fantasia
+  75. https://ckb.wikipedia.org/wiki/فەنتازیا
+  76. https://cs.wikipedia.org/wiki/Fantasy
+  77. https://cy.wikipedia.org/wiki/Ffantasi
+  78. https://da.wikipedia.org/wiki/Fantasy
+  79. https://de.wikipedia.org/wiki/Fantasy
+  80. https://en.wikipedia.org/wiki/Fantasy
+  81. https://eo.wikipedia.org/wiki/Fantasto
+  82. https://es.wikipedia.org/wiki/Género_fantástico
+  83. https://et.wikipedia.org/wiki/Imeulme
+  84. https://eu.wikipedia.org/wiki/Fantasiazko_literatura
+  85. https://fa.wikipedia.org/wiki/فانتزی
+  86. https://fi.wikipedia.org/wiki/Fantasia
+  87. https://fiu-vro.wikipedia.org/wiki/Immeulmõq
+  88. https://fr.wikipedia.org/wiki/Fantasy
+  89. https://fy.wikipedia.org/wiki/Fantasy_(sjenre)
+  90. https://gl.wikipedia.org/wiki/Fantasía
+  91. https://gv.wikipedia.org/wiki/Fansee
+  92. https://he.wikipedia.org/wiki/פנטזיה
+  93. https://hi.wikipedia.org/wiki/स्वैरकल्पना
+  94. https://hr.wikipedia.org/wiki/Fantastika
+  95. https://hu.wikipedia.org/wiki/Fantasy
+  96. https://hy.wikipedia.org/wiki/Ֆենտեզի
+  97. https://id.wikipedia.org/wiki/Fantasi
+  98. https://inh.wikipedia.org/wiki/Земсеттолг
+  99. https://is.wikipedia.org/wiki/Fantasía
+ 100. https://it.wikipedia.org/wiki/Fantasy
+ 101. https://ja.wikipedia.org/wiki/ファンタジー
+ 102. https://ka.wikipedia.org/wiki/ფენტეზი
+ 103. https://kk.wikipedia.org/wiki/Фэнтези
+ 104. https://ko.wikipedia.org/wiki/판타지
+ 105. https://ky.wikipedia.org/wiki/Фэнтези
+ 106. https://la.wikipedia.org/wiki/Phantasia_(genus)
+ 107. https://li.wikipedia.org/wiki/Fantasy
+ 108. https://lmo.wikipedia.org/wiki/Fantasy
+ 109. https://lt.wikipedia.org/wiki/Maginė_fantastika
+ 110. https://lv.wikipedia.org/wiki/Fantāzijas_literatūra
+ 111. https://ms.wikipedia.org/wiki/Fantasi
+ 112. https://nl.wikipedia.org/wiki/Fantasy_(genre)
+ 113. https://nn.wikipedia.org/wiki/Fantasy
+ 114. https://oc.wikipedia.org/wiki/Fantasiá
+ 115. https://pa.wikipedia.org/wiki/ਮਨੋਕਥਾ
+ 116. https://pl.wikipedia.org/wiki/Fantasy
+ 117. https://ps.wikipedia.org/wiki/خايالي
+ 118. https://pt.wikipedia.org/wiki/Fantasia_(gênero)
+ 119. https://ro.wikipedia.org/wiki/Fantezie_(gen_artistic)
+ 120. https://ru.wikipedia.org/wiki/Фэнтези
+ 121. https://sco.wikipedia.org/wiki/Fantasie
+ 122. https://sd.wikipedia.org/wiki/تخيلاتي
+ 123. https://sh.wikipedia.org/wiki/Fantasy
+ 124. https://si.wikipedia.org/wiki/ෆැන්ටසි
+ 125. https://simple.wikipedia.org/wiki/Fantasy
+ 126. https://sk.wikipedia.org/wiki/Fantasy
+ 127. https://sl.wikipedia.org/wiki/Fantazijska_pripoved
+ 128. https://sq.wikipedia.org/wiki/Fantazia
+ 129. https://sr.wikipedia.org/wiki/Фантастика
+ 130. https://sv.wikipedia.org/wiki/Fantasy
+ 131. https://sw.wikipedia.org/wiki/Bunilizi_ya_kinjozi
+ 132. https://ta.wikipedia.org/wiki/கனவுருப்புனைவு
+ 133. https://th.wikipedia.org/wiki/จินตนิมิต
+ 134. https://tl.wikipedia.org/wiki/Pantasya
+ 135. https://tr.wikipedia.org/wiki/Fantezi
+ 136. https://tt.wikipedia.org/wiki/Фэнтези
+ 137. https://uk.wikipedia.org/wiki/Фентезі
+ 138. https://ur.wikipedia.org/wiki/فنطاسیہ
+ 139. https://uz.wikipedia.org/wiki/Fentezi
+ 140. https://vi.wikipedia.org/wiki/Kỳ_ảo
+ 141. https://wuu.wikipedia.org/wiki/奇幻作品
+ 142. https://xmf.wikipedia.org/wiki/ფენტეზი
+ 143. https://yi.wikipedia.org/wiki/פאנטאזיע
+ 144. https://zh-min-nan.wikipedia.org/wiki/Kî-hoàn
+ 145. https://zh-yue.wikipedia.org/wiki/奇幻
+ 146. https://www.wikidata.org/wiki/Special:EntityPage/Q132311#sitelinks-wikipedia
+ 147. https://zh.wikipedia.org/wiki/奇幻作品
+ 148. https://zh.wikipedia.org/wiki/Talk:奇幻作品
+ 149. https://zh.wikipedia.org/zh/奇幻作品
+ 150. https://zh.wikipedia.org/zh-hans/奇幻作品
+ 151. https://zh.wikipedia.org/zh-hant/奇幻作品
+ 152. https://zh.wikipedia.org/zh-cn/奇幻作品
+ 153. https://zh.wikipedia.org/zh-hk/奇幻作品
+ 154. https://zh.wikipedia.org/zh-mo/奇幻作品
+ 155. https://zh.wikipedia.org/zh-my/奇幻作品
+ 156. https://zh.wikipedia.org/zh-sg/奇幻作品
+ 157. https://zh.wikipedia.org/zh-tw/奇幻作品
+ 158. https://zh.wikipedia.org/wiki/奇幻作品
+ 159. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit
+ 160. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=history
+ 161. https://zh.wikipedia.org/wiki/奇幻作品
+ 162. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit
+ 163. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=history
+ 164. https://zh.wikipedia.org/wiki/Special:链入页面/奇幻作品
+ 165. https://zh.wikipedia.org/wiki/Special:链出更改/奇幻作品
+ 166. https://zh.wikipedia.org/wiki/Project:上传
+ 167. https://zh.wikipedia.org/wiki/Special:特殊页面
+ 168. https://zh.wikipedia.org/w/index.php?title=奇幻作品&oldid=84688546
+ 169. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=info
+ 170. https://zh.wikipedia.org/w/index.php?title=Special:引用此页面&page=奇幻作品&id=84688546&wpFormIdentifier=titleform
+ 171. https://zh.wikipedia.org/w/index.php?title=Special:URL缩短程序&url=https://zh.wikipedia.org/zh-hans/%E5%A5%87%E5%B9%BB%E4%BD%9C%E5%93%81
+ 172. https://zh.wikipedia.org/w/index.php?title=Special:QrCode&url=https://zh.wikipedia.org/zh-hans/%E5%A5%87%E5%B9%BB%E4%BD%9C%E5%93%81
+ 173. https://zh.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=奇幻作品&action=show-download-screen
+ 174. javascript:print();
+ 175. https://commons.wikimedia.org/wiki/Category:Fantasy_(genre)
+ 176. https://www.wikidata.org/wiki/Special:EntityPage/Q132311
+ 177. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit
+ 178. https://zh.wikipedia.org/wiki/Talk:奇幻作品
+ 179. https://zh.wikipedia.org/wiki/Wikipedia:更优秀条目写作指南#寫作風格
+ 180. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit
+ 181. https://zh.wikipedia.org/wiki/Talk:奇幻作品
+ 182. https://zh.wikipedia.org/wiki/File:Tango-nosources.svg
+ 183. https://zh.wikipedia.org/wiki/Wikipedia:列明来源
+ 184. https://zh.wikipedia.org/wiki/Wikipedia:可靠来源
+ 185. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit
+ 186. https://zh.wikipedia.org/wiki/Wikipedia:可供查证
+ 187. https://zh.wikipedia.org/wiki/Template:Fact
+ 188. https://www.google.com/search?&as_eq=wikipedia&q="奇幻作品"
+ 189. https://www.google.com/search?q="奇幻作品"
+ 190. https://www.google.com/search?tbm=nws&q=&as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&q="奇幻作品"
+ 191. https://books.google.com/books?&as_brr=0&as_pub=-icon&q="奇幻作品"
+ 192. https://scholar.google.com/scholar?&q="奇幻作品"
+ 193. https://www.google.com/search?tbm=isch&safe=off&q="奇幻作品"
+ 194. https://zh.wikipedia.org/wiki/Wikipedia:可靠来源
+ 195. https://zh.wikipedia.org/wiki/奇幻文學
+ 196. https://zh.wikipedia.org/wiki/File:Variance_in_character_design_-_Lia_Turtle,_Shain,_and_Cendrea_from_Chaos&Evolutions.png
+ 197. https://zh.wikipedia.org/wiki/奇幻藝術
+ 198. https://zh.wikipedia.org/wiki/奇幻漫畫
+ 199. https://zh.wikipedia.org/wiki/奇幻电影
+ 200. https://zh.wikipedia.org/wiki/奇幻文學
+ 201. https://zh.wikipedia.org/wiki/奇幻文學史
+ 202. https://zh.wikipedia.org/wiki/奇幻小說子類型
+ 203. https://zh.wikipedia.org/wiki/推想虚构作品
+ 204. https://zh.wikipedia.org/wiki/魔法物品
+ 205. https://zh.wikipedia.org/wiki/Category:奇幻
+ 206. https://zh.wikipedia.org/wiki/Category:奇幻類型
+ 207. https://zh.wikipedia.org/wiki/Category:奇幻文學
+ 208. https://zh.wikipedia.org/wiki/Category:奇幻小說
+ 209. https://zh.wikipedia.org/wiki/Category:奇幻漫畫
+ 210. https://zh.wikipedia.org/wiki/Category:奇幻冒險電影
+ 211. https://zh.wikipedia.org/wiki/Category:奇幻片
+ 212. https://zh.wikipedia.org/wiki/Category:奇幻動畫
+ 213. https://zh.wikipedia.org/wiki/Category:奇幻遊戲
+ 214. https://zh.wikipedia.org/wiki/Template:奇幻系列
+ 215. https://zh.wikipedia.org/wiki/Template_talk:奇幻系列
+ 216. https://zh.wikipedia.org/wiki/Special:编辑页面/Template:奇幻系列
+ 217. https://zh.wikipedia.org/wiki/虚构作品
+ 218. https://zh.wikipedia.org/wiki/奇幻小说
+ 219. https://zh.wikipedia.org/wiki/奇幻电影
+ 220. https://zh.wikipedia.org/wiki/奇幻藝術
+ 221. https://zh.wikipedia.org/wiki/奇幻漫畫
+ 222. https://zh.wikipedia.org/wiki/角色扮演游戏
+ 223. https://zh.wikipedia.org/wiki/神話
+ 224. https://zh.wikipedia.org/wiki/夢境
+ 225. https://zh.wikipedia.org/wiki/神秘學
+ 226. https://zh.wikipedia.org/wiki/宗教
+ 227. https://zh.wikipedia.org/wiki/傳說
+ 228. https://zh.wikipedia.org/wiki/世界觀
+ 229. https://zh.wikipedia.org/wiki/世界
+ 230. https://zh.wikipedia.org/wiki/规律
+ 231. https://zh.wikipedia.org/wiki/架空世界
+ 232. https://zh.wikipedia.org/wiki/地球
+ 233. https://zh.wikipedia.org/wiki/超自然
+ 234. https://zh.wikipedia.org/wiki/科幻
+ 235. https://zh.wikipedia.org/wiki/恐怖小說
+ 236. https://zh.wikipedia.org/wiki/童话
+ 237. https://zh.wikipedia.org/wiki/神話
+ 238. https://zh.wikipedia.org/wiki/传说
+ 239. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=1
+ 240. https://zh.wikipedia.org/wiki/英文
+ 241. https://zh.wikipedia.org/wiki/台灣
+ 242. https://zh.wikipedia.org/wiki/奇幻文化藝術基金會
+ 243. https://zh.wikipedia.org/wiki/朱學恆
+ 244. https://zh.wikipedia.org/wiki/台灣
+ 245. https://zh.wikipedia.org/wiki/軟體世界
+ 246. https://zh.wikipedia.org/zh-hans/奇幻作品#cite_note-1
+ 247. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=2
+ 248. https://zh.wikipedia.org/wiki/File:Dobrynya_Nikitich_rescues_Zabava_from_the_Gorynych,_1941.jpg
+ 249. https://zh.wikipedia.org/w/index.php?title=Dobrynya_Nikitich&action=edit&redlink=1
+ 250. https://zh.wikipedia.org/w/index.php?title=Gorynych&action=edit&redlink=1
+ 251. https://zh.wikipedia.org/wiki/中世纪
+ 252. https://zh.wikipedia.org/wiki/骑士文学
+ 253. https://zh.wikipedia.org/wiki/哥特文学
+ 254. https://zh.wikipedia.org/wiki/亚瑟王
+ 255. https://zh.wikipedia.org/wiki/传说
+ 256. https://zh.wikipedia.org/wiki/魔法师
+ 257. https://zh.wikipedia.org/wiki/梅林_(亞瑟王傳說)
+ 258. https://zh.wikipedia.org/wiki/圆桌骑士
+ 259. https://zh.wikipedia.org/wiki/马术
+ 260. https://zh.wikipedia.org/wiki/科幻小说
+ 261. https://zh.wikipedia.org/wiki/杂志
+ 262. https://zh.wikipedia.org/wiki/J·R·R·托尔金
+ 263. https://zh.wikipedia.org/wiki/哈比人歷險記
+ 264. https://zh.wikipedia.org/wiki/魔戒
+ 265. https://zh.wikipedia.org/wiki/C·S·路易斯
+ 266. https://zh.wikipedia.org/wiki/納尼亞年代記
+ 267. https://zh.wikipedia.org/wiki/娥蘇拉·勒瑰恩
+ 268. https://zh.wikipedia.org/wiki/地海
+ 269. https://zh.wikipedia.org/wiki/神话
+ 270. https://zh.wikipedia.org/wiki/史诗
+ 271. https://zh.wikipedia.org/wiki/浪漫主义文学
+ 272. https://zh.wikipedia.org/wiki/龙与地下城
+ 273. https://zh.wikipedia.org/wiki/角色扮演游戏
+ 274. https://zh.wikipedia.org/wiki/龍槍系列小說
+ 275. https://zh.wikipedia.org/wiki/被遗忘的国度
+ 276. https://zh.wikipedia.org/wiki/机甲战士
+ 277. https://zh.wikipedia.org/wiki/经典
+ 278. https://zh.wikipedia.org/wiki/架空世界
+ 279. https://zh.wikipedia.org/zh-hans/奇幻作品#cite_note-2
+ 280. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=3
+ 281. https://zh.wikipedia.org/wiki/出版社
+ 282. https://zh.wikipedia.org/wiki/約定俗成
+ 283. https://zh.wikipedia.org/wiki/知识分子
+ 284. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=4
+ 285. https://zh.wikipedia.org/wiki/玄幻小说
+ 286. https://zh.wikipedia.org/wiki/英語
+ 287. https://zh.wikipedia.org/wiki/中文
+ 288. https://zh.wikipedia.org/wiki/幻想小說
+ 289. https://zh.wikipedia.org/wiki/超自然
+ 290. https://zh.wikipedia.org/wiki/魔法
+ 291. https://zh.wikipedia.org/wiki/互聯網
+ 292. https://zh.wikipedia.org/wiki/作家
+ 293. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=5
+ 294. https://zh.wikipedia.org/wiki/科幻
+ 295. https://zh.wikipedia.org/wiki/科學奇幻
+ 296. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=6
+ 297. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=7
+ 298. https://zh.wikipedia.org/wiki/武俠小說
+ 299. https://zh.wikipedia.org/wiki/如來神掌
+ 300. https://zh.wikipedia.org/wiki/火燒紅蓮寺
+ 301. https://zh.wikipedia.org/wiki/還珠樓主
+ 302. https://zh.wikipedia.org/wiki/蜀山剑侠传
+ 303. https://zh.wikipedia.org/wiki/武林高手
+ 304. https://zh.wikipedia.org/wiki/修真小说
+ 305. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=8
+ 306. https://zh.wikipedia.org/wiki/File:The_Enchanted_Garden_of_Messer_Ansaldo_by_Marie_Spartali_Stillman_(1889).jpg
+ 307. https://zh.wikipedia.org/wiki/十日談
+ 308. https://zh.wikipedia.org/wiki/魔法
+ 309. https://zh.wikipedia.org/wiki/世界觀
+ 310. https://zh.wikipedia.org/wiki/元素
+ 311. https://zh.wikipedia.org/wiki/被遺忘的國度
+ 312. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=9
+ 313. https://zh.wikipedia.org/wiki/魔戒
+ 314. https://zh.wikipedia.org/wiki/烏龜
+ 315. https://zh.wikipedia.org/wiki/大象
+ 316. https://zh.wikipedia.org/wiki/平安時代
+ 317. https://zh.wikipedia.org/wiki/唐朝
+ 318. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=10
+ 319. https://zh.wikipedia.org/wiki/種族_(奇幻)
+ 320. https://zh.wikipedia.org/wiki/傳說生物
+ 321. https://zh.wikipedia.org/wiki/精靈
+ 322. https://zh.wikipedia.org/wiki/矮人
+ 323. https://zh.wikipedia.org/wiki/西方龍
+ 324. https://zh.wikipedia.org/wiki/不死鳥
+ 325. https://zh.wikipedia.org/wiki/撲克牌
+ 326. https://zh.wikipedia.org/wiki/嚴肅奇幻
+ 327. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=11
+ 328. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=12
+ 329. https://zh.wikipedia.org/wiki/星際大戰
+ 330. https://zh.wikipedia.org/wiki/絕地武士
+ 331. https://zh.wikipedia.org/wiki/佛罗多·巴金斯
+ 332. https://zh.wikipedia.org/wiki/亞拉岡_(魔戒)
+ 333. https://zh.wikipedia.org/wiki/甘道夫
+ 334. https://zh.wikipedia.org/wiki/角色扮演遊戲
+ 335. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=13
+ 336. https://zh.wikipedia.org/wiki/科學
+ 337. https://zh.wikipedia.org/wiki/魔戒
+ 338. https://zh.wikipedia.org/wiki/高扁
+ 339. https://zh.wikipedia.org/wiki/精靈
+ 340. https://zh.wikipedia.org/wiki/半獸人
+ 341. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=14
+ 342. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=15
+ 343. https://zh.wikipedia.org/wiki/蛮王柯南
+ 344. https://zh.wikipedia.org/wiki/罗伯特·霍华德
+ 345. https://zh.wikipedia.org/w/index.php?title=幽灵古堡&action=edit&redlink=1
+ 346. https://en.wikipedia.org/wiki/Gormenghast_(series)
+ 347. https://zh.wikipedia.org/wiki/馬溫·皮克
+ 348. https://zh.wikipedia.org/wiki/納尼亞
+ 349. https://zh.wikipedia.org/wiki/C·S·路易斯
+ 350. https://zh.wikipedia.org/wiki/魔戒
+ 351. https://zh.wikipedia.org/wiki/J·R·R·托爾金
+ 352. https://zh.wikipedia.org/wiki/地海
+ 353. https://zh.wikipedia.org/wiki/娥蘇拉·勒瑰恩
+ 354. https://zh.wikipedia.org/wiki/最後的獨角獸
+ 355. https://zh.wikipedia.org/w/index.php?title=彼得·毕格&action=edit&redlink=1
+ 356. https://en.wikipedia.org/wiki/Peter_S._Beagle
+ 357. https://zh.wikipedia.org/w/index.php?title=安珀志&action=edit&redlink=1
+ 358. https://en.wikipedia.org/wiki/The_Chronicles_of_Amber
+ 359. https://zh.wikipedia.org/wiki/羅傑·澤拉茲尼
+ 360. https://zh.wikipedia.org/w/index.php?title=赫德御謎士&action=edit&redlink=1
+ 361. https://en.wikipedia.org/wiki/The_Riddle-Master_of_Hed
+ 362. https://zh.wikipedia.org/wiki/派翠西亞·麥奇莉普
+ 363. https://zh.wikipedia.org/wiki/精靈寶鑽
+ 364. https://zh.wikipedia.org/wiki/J·R·R·托爾金
+ 365. https://zh.wikipedia.org/w/index.php?title=莎拉娜之剑&action=edit&redlink=1
+ 366. https://en.wikipedia.org/wiki/The_Sword_of_Shannara
+ 367. https://zh.wikipedia.org/wiki/泰瑞·布魯克斯
+ 368. https://zh.wikipedia.org/wiki/奎師塔門西的眾世界
+ 369. https://zh.wikipedia.org/wiki/黛安娜·韋恩·瓊斯
+ 370. https://zh.wikipedia.org/w/index.php?title=圣石传奇&action=edit&redlink=1
+ 371. https://en.wikipedia.org/wiki/The_Belgariad
+ 372. https://zh.wikipedia.org/w/index.php?title=大卫·艾丁斯&action=edit&redlink=1
+ 373. https://en.wikipedia.org/wiki/David_Eddings
+ 374. https://zh.wikipedia.org/wiki/黑塔
+ 375. https://zh.wikipedia.org/wiki/斯蒂芬·金
+ 376. https://zh.wikipedia.org/w/index.php?title=碟形世界&action=edit&redlink=1
+ 377. https://en.wikipedia.org/wiki/Discworld
+ 378. https://zh.wikipedia.org/wiki/泰瑞·普萊契
+ 379. https://zh.wikipedia.org/w/index.php?title=费奥纳瓦织锦&action=edit&redlink=1
+ 380. https://en.wikipedia.org/wiki/The_Fionavar_Tapestry
+ 381. https://zh.wikipedia.org/w/index.php?title=盖伊·凯佛列·凯伊&action=edit&redlink=1
+ 382. https://en.wikipedia.org/wiki/Guy_Gavriel_Kay
+ 383. https://zh.wikipedia.org/wiki/龙枪系列小说
+ 384. https://zh.wikipedia.org/wiki/瑪格麗特·魏絲
+ 385. https://zh.wikipedia.org/w/index.php?title=崔西·西克曼&action=edit&redlink=1
+ 386. https://en.wikipedia.org/wiki/Tracy_Hickman
+ 387. https://zh.wikipedia.org/w/index.php?title=创者传&action=edit&redlink=1
+ 388. https://en.wikipedia.org/wiki/The_Tales_of_Alvin_Maker
+ 389. https://zh.wikipedia.org/wiki/奥森·斯科特·卡德
+ 390. https://zh.wikipedia.org/wiki/崔斯特
+ 391. https://zh.wikipedia.org/wiki/R·A·萨尔瓦多
+ 392. https://zh.wikipedia.org/w/index.php?title=死亡之門_(小說)&action=edit&redlink=1
+ 393. https://en.wikipedia.org/wiki/The_Death_Gate_Cycle
+ 394. https://zh.wikipedia.org/wiki/瑪格麗特·魏絲
+ 395. https://zh.wikipedia.org/w/index.php?title=崔西·西克曼&action=edit&redlink=1
+ 396. https://en.wikipedia.org/wiki/Tracy_Hickman
+ 397. https://zh.wikipedia.org/wiki/时光之轮
+ 398. https://zh.wikipedia.org/wiki/羅伯特·喬丹
+ 399. https://zh.wikipedia.org/wiki/真理之劍
+ 400. https://zh.wikipedia.org/w/index.php?title=泰瑞·古德坎&action=edit&redlink=1
+ 401. https://en.wikipedia.org/wiki/Terry_Goodkind
+ 402. https://zh.wikipedia.org/wiki/刺客系列
+ 403. https://zh.wikipedia.org/wiki/羅蘋·荷布
+ 404. https://zh.wikipedia.org/wiki/黑暗元素三部曲
+ 405. https://zh.wikipedia.org/wiki/菲力普·普曼
+ 406. https://zh.wikipedia.org/wiki/冰與火之歌
+ 407. https://zh.wikipedia.org/wiki/喬治·R·R·馬丁
+ 408. https://zh.wikipedia.org/wiki/哈利·波特
+ 409. https://zh.wikipedia.org/wiki/J·K·罗琳
+ 410. https://zh.wikipedia.org/w/index.php?title=魔法船&action=edit&redlink=1
+ 411. https://en.wikipedia.org/wiki/Liveship_Traders_Trilogy
+ 412. https://zh.wikipedia.org/wiki/羅蘋·荷布
+ 413. https://zh.wikipedia.org/wiki/美国众神
+ 414. https://zh.wikipedia.org/wiki/尼爾·蓋曼
+ 415. https://zh.wikipedia.org/wiki/遺產四部曲
+ 416. https://zh.wikipedia.org/wiki/克里斯托弗·鲍里尼
+ 417. https://zh.wikipedia.org/wiki/向達倫大冒險
+ 418. https://zh.wikipedia.org/wiki/向達倫
+ 419. https://zh.wikipedia.org/w/index.php?title=大魔法师&action=edit&redlink=1
+ 420. https://en.wikipedia.org/wiki/Jonathan_Strange_&_Mr_Norrell
+ 421. https://zh.wikipedia.org/wiki/苏珊娜·克拉克
+ 422. https://zh.wikipedia.org/wiki/遠古幽暗的紀年
+ 423. https://zh.wikipedia.org/wiki/米雪爾·佩福
+ 424. https://zh.wikipedia.org/wiki/魔域大冒險
+ 425. https://zh.wikipedia.org/wiki/向達倫
+ 426. https://zh.wikipedia.org/wiki/諸神之城：伊嵐翠
+ 427. https://zh.wikipedia.org/wiki/布蘭登·山德森
+ 428. https://zh.wikipedia.org/wiki/夜城系列小說
+ 429. https://zh.wikipedia.org/w/index.php?title=西蒙·R·格林&action=edit&redlink=1
+ 430. https://en.wikipedia.org/wiki/Simon_R._Green
+ 431. https://zh.wikipedia.org/wiki/梦想之城
+ 432. https://zh.wikipedia.org/w/index.php?title=瓦爾特．莫爾斯&action=edit&redlink=1
+ 433. https://zh.wikipedia.org/w/index.php?title=永恆戰士&action=edit&redlink=1
+ 434. https://zh.wikipedia.org/w/index.php?title=麥克．摩考克&action=edit&redlink=1
+ 435. https://zh.wikipedia.org/wiki/獸血紋
+ 436. https://zh.wikipedia.org/w/index.php?title=D.M._康尼士&action=edit&redlink=1
+ 437. https://zh.wikipedia.org/wiki/波西傑克森
+ 438. https://zh.wikipedia.org/wiki/Percy_Jackson_&_the_Olympians
+ 439. https://zh.wikipedia.org/wiki/雷克·萊爾頓
+ 440. https://zh.wikipedia.org/wiki/雷克·萊爾頓
+ 441. https://zh.wikipedia.org/wiki/伊拉龙_(小说)
+ 442. https://zh.wikipedia.org/wiki/伊拉龙_(小说)
+ 443. https://zh.wikipedia.org/w/index.php?title=戈登·R·迪克森&action=edit&redlink=1
+ 444. https://zh.wikipedia.org/w/index.php?title=Gordon_R._Dickson&action=edit&redlink=1
+ 445. https://zh.wikipedia.org/wiki/迷霧之子
+ 446. https://zh.wikipedia.org/wiki/迷霧之子
+ 447. https://zh.wikipedia.org/wiki/布蘭登·山德森
+ 448. https://zh.wikipedia.org/wiki/布蘭登·山德森
+ 449. https://zh.wikipedia.org/w/index.php?title=歷史守護者&action=edit&redlink=1
+ 450. https://zh.wikipedia.org/w/index.php?title=The_History_Keepers&action=edit&redlink=1
+ 451. https://zh.wikipedia.org/w/index.php?title=戴米恩·迪本&action=edit&redlink=1
+ 452. https://zh.wikipedia.org/w/index.php?title=Damian_Dibben&action=edit&redlink=1
+ 453. https://zh.wikipedia.org/w/index.php?title=不死煉金術師&action=edit&redlink=1
+ 454. https://zh.wikipedia.org/w/index.php?title=The_Secrets_of_the_Immortal_Nicholas_Flamel&action=edit&redlink=1
+ 455. https://zh.wikipedia.org/wiki/麥可·史考特
+ 456. https://zh.wikipedia.org/w/index.php?title=Michael_Scott&action=edit&redlink=1
+ 457. https://zh.wikipedia.org/w/index.php?title=魔女高校&action=edit&redlink=1
+ 458. https://zh.wikipedia.org/w/index.php?title=Hex_Hall&action=edit&redlink=1
+ 459. https://zh.wikipedia.org/w/index.php?title=瑞秋·霍金斯&action=edit&redlink=1
+ 460. https://zh.wikipedia.org/w/index.php?title=Rachel_Hawkins&action=edit&redlink=1
+ 461. https://zh.wikipedia.org/wiki/幻城
+ 462. https://zh.wikipedia.org/w/index.php?title=Cornache_del_Mondo_Emerso&action=edit&redlink=1
+ 463. https://zh.wikipedia.org/w/index.php?title=麗齊亞·特洛伊斯&action=edit&redlink=1
+ 464. https://zh.wikipedia.org/w/index.php?title=Licia_Troisi&action=edit&redlink=1
+ 465. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=16
+ 466. https://zh.wikipedia.org/wiki/巡者系列
+ 467. https://zh.wikipedia.org/wiki/謝爾蓋·盧基揚年科
+ 468. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=17
+ 469. https://zh.wikipedia.org/wiki/Div
+ 470. https://zh.wikipedia.org/w/index.php?title=地獄系列&action=edit&redlink=1
+ 471. https://zh.wikipedia.org/w/index.php?title=陰界黑幫&action=edit&redlink=1
+ 472. https://zh.wikipedia.org/wiki/烟雨江南
+ 473. https://zh.wikipedia.org/w/index.php?title=亵渎_(小说)&action=edit&redlink=1
+ 474. https://zh.wikipedia.org/wiki/夢枕獏
+ 475. https://zh.wikipedia.org/wiki/陰陽師_(小說)
+ 476. https://zh.wikipedia.org/wiki/幻影少年
+ 477. https://zh.wikipedia.org/wiki/沙门空海
+ 478. https://zh.wikipedia.org/wiki/菊地秀行
+ 479. https://zh.wikipedia.org/wiki/吸血鬼猎人D
+ 480. https://zh.wikipedia.org/wiki/水野良
+ 481. https://zh.wikipedia.org/wiki/羅德斯島戰記
+ 482. https://zh.wikipedia.org/wiki/吉田直
+ 483. https://zh.wikipedia.org/w/index.php?title=叛逆的諸神&action=edit&redlink=1
+ 484. https://zh.wikipedia.org/wiki/小野不由美
+ 485. https://zh.wikipedia.org/wiki/十二國記
+ 486. https://zh.wikipedia.org/w/index.php?title=東京異聞&action=edit&redlink=1
+ 487. https://zh.wikipedia.org/wiki/結城光流
+ 488. https://zh.wikipedia.org/wiki/篁破幻草子
+ 489. https://zh.wikipedia.org/wiki/少年陰陽師
+ 490. https://zh.wikipedia.org/wiki/上橋菜穗子
+ 491. https://zh.wikipedia.org/wiki/守護者系列
+ 492. https://zh.wikipedia.org/wiki/畢華流
+ 493. https://zh.wikipedia.org/wiki/荒原三部曲
+ 494. https://zh.wikipedia.org/wiki/桑梓荒原記
+ 495. https://zh.wikipedia.org/w/index.php?title=白狼傳&action=edit&redlink=1
+ 496. https://zh.wikipedia.org/wiki/水泉
+ 497. https://zh.wikipedia.org/wiki/風動鳴
+ 498. https://zh.wikipedia.org/w/index.php?title=銀色域&action=edit&redlink=1
+ 499. https://zh.wikipedia.org/wiki/沉月之鑰角色列表
+ 500. https://zh.wikipedia.org/w/index.php?title=逐藍&action=edit&redlink=1
+ 501. https://zh.wikipedia.org/w/index.php?title=異願洛恩斯&action=edit&redlink=1
+ 502. https://zh.wikipedia.org/wiki/李榮道
+ 503. https://zh.wikipedia.org/wiki/龍族_(李榮道)
+ 504. https://zh.wikipedia.org/wiki/喝眼淚的鳥
+ 505. https://zh.wikipedia.org/wiki/沧月
+ 506. https://zh.wikipedia.org/w/index.php?title=镜_(小说)&action=edit&redlink=1
+ 507. https://zh.wikipedia.org/w/index.php?title=羽_(小说)&action=edit&redlink=1
+ 508. https://zh.wikipedia.org/w/index.php?title=南方玫瑰&action=edit&redlink=1
+ 509. https://zh.wikipedia.org/w/index.php?title=十世轉生&action=edit&redlink=1
+ 510. https://zh.wikipedia.org/w/index.php?title=北之星冠&action=edit&redlink=1
+ 511. https://zh.wikipedia.org/wiki/御我
+ 512. https://zh.wikipedia.org/wiki/1/2王子
+ 513. https://zh.wikipedia.org/wiki/不殺
+ 514. https://zh.wikipedia.org/wiki/GOD神啟末路
+ 515. https://zh.wikipedia.org/w/index.php?title=玄日狩&action=edit&redlink=1
+ 516. https://zh.wikipedia.org/wiki/吾命騎士
+ 517. https://zh.wikipedia.org/wiki/非關英雄
+ 518. https://zh.wikipedia.org/w/index.php?title=公華&action=edit&redlink=1
+ 519. https://zh.wikipedia.org/w/index.php?title=人娃契&action=edit&redlink=1
+ 520. https://zh.wikipedia.org/w/index.php?title=Necroman&action=edit&redlink=1
+ 521. https://zh.wikipedia.org/w/index.php?title=枪·血玫瑰·necromancer&action=edit&redlink=1
+ 522. https://zh.wikipedia.org/w/index.php?title=暴风雨中的蝴蝶&action=edit&redlink=1
+ 523. https://zh.wikipedia.org/w/index.php?title=时间的守护者&action=edit&redlink=1
+ 524. https://zh.wikipedia.org/wiki/死亡騎士
+ 525. https://zh.wikipedia.org/w/index.php?title=魔女与魔神&action=edit&redlink=1
+ 526. https://zh.wikipedia.org/wiki/護玄
+ 527. https://zh.wikipedia.org/wiki/特殊傳說
+ 528. https://zh.wikipedia.org/w/index.php?title=因與聿案簿錄&action=edit&redlink=1
+ 529. https://zh.wikipedia.org/wiki/異動之刻
+ 530. https://zh.wikipedia.org/w/index.php?title=兔俠&action=edit&redlink=1
+ 531. https://zh.wikipedia.org/w/index.php?title=蝴蝶_(作家)&action=edit&redlink=1
+ 532. https://zh.wikipedia.org/w/index.php?title=禁咒師&action=edit&redlink=1
+ 533. https://zh.wikipedia.org/w/index.php?title=秀弘&action=edit&redlink=1
+ 534. https://zh.wikipedia.org/w/index.php?title=玄靈的天平&action=edit&redlink=1
+ 535. https://zh.wikipedia.org/w/index.php?title=玄靈的天平&action=edit&redlink=1
+ 536. https://zh.wikipedia.org/w/index.php?title=玄靈的天平&action=edit&redlink=1
+ 537. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=18
+ 538. https://zh.wikipedia.org/wiki/太平廣記
+ 539. https://zh.wikipedia.org/wiki/宋代
+ 540. https://zh.wikipedia.org/wiki/李昉
+ 541. https://zh.wikipedia.org/wiki/西遊記
+ 542. https://zh.wikipedia.org/wiki/明代
+ 543. https://zh.wikipedia.org/wiki/吳承恩
+ 544. https://zh.wikipedia.org/wiki/封神演義
+ 545. https://zh.wikipedia.org/wiki/明代
+ 546. https://zh.wikipedia.org/wiki/許仲琳
+ 547. https://zh.wikipedia.org/wiki/閱微草堂筆記
+ 548. https://zh.wikipedia.org/wiki/清代
+ 549. https://zh.wikipedia.org/wiki/紀昀
+ 550. https://zh.wikipedia.org/wiki/贝奥武甫
+ 551. https://zh.wikipedia.org/wiki/8世纪
+ 552. https://zh.wikipedia.org/wiki/亚瑟王之死
+ 553. https://zh.wikipedia.org/wiki/15世纪
+ 554. https://zh.wikipedia.org/wiki/托马斯·马洛礼
+ 555. https://zh.wikipedia.org/wiki/仙后
+ 556. https://zh.wikipedia.org/wiki/16世纪
+ 557. https://zh.wikipedia.org/wiki/埃德蒙·斯宾塞
+ 558. https://zh.wikipedia.org/wiki/仲夏夜之夢
+ 559. https://zh.wikipedia.org/wiki/十六世紀
+ 560. https://zh.wikipedia.org/wiki/莎士比亞
+ 561. https://zh.wikipedia.org/wiki/失樂園
+ 562. https://zh.wikipedia.org/wiki/十七世紀
+ 563. https://zh.wikipedia.org/wiki/约翰·弥尔顿
+ 564. https://zh.wikipedia.org/wiki/尼伯龙根之歌
+ 565. https://zh.wikipedia.org/wiki/12世纪
+ 566. https://zh.wikipedia.org/wiki/浮士德
+ 567. https://zh.wikipedia.org/wiki/十八世紀
+ 568. https://zh.wikipedia.org/wiki/歌德
+ 569. https://zh.wikipedia.org/wiki/竹取物語
+ 570. https://zh.wikipedia.org/wiki/平安時代
+ 571. https://zh.wikipedia.org/wiki/御伽草子_(小說)
+ 572. https://zh.wikipedia.org/wiki/室町時代
+ 573. https://zh.wikipedia.org/wiki/雨月物語
+ 574. https://zh.wikipedia.org/wiki/江戶時代
+ 575. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=19
+ 576. https://zh.wikipedia.org/wiki/黑暗奇幻
+ 577. https://zh.wikipedia.org/wiki/恐怖小說
+ 578. https://zh.wikipedia.org/wiki/科幻小说
+ 579. https://zh.wikipedia.org/wiki/玄幻小說
+ 580. https://zh.wikipedia.org/wiki/推想小说
+ 581. https://zh.wikipedia.org/wiki/魔法少女
+ 582. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=20
+ 583. https://zh.wikipedia.org/zh-hans/奇幻作品#cite_ref-1
+ 584. https://zh.wikipedia.org/wiki/朱学恒
+ 585. https://zh.wikipedia.org/wiki/R·A·萨尔瓦多
+ 586. https://zh.wikipedia.org/wiki/黑暗精灵三部曲
+ 587. https://zh.wikipedia.org/wiki/Special:网络书源/7801119924
+ 588. https://zh.wikipedia.org/zh-hans/奇幻作品#cite_ref-2
+ 589. http://ent.sina.com.cn/zz/2015-02-17/doc-icczmvun6175503.shtml
+ 590. https://zh.wikipedia.org/w/index.php?title=奇幻作品&action=edit&section=21
+ 591. http://www.fantasy.tw/
+ 592. https://web.archive.org/web/20100817081442/http://www.fantasy.tw/
+ 593. https://zh.wikipedia.org/wiki/互联网档案馆
+ 594. http://ffnbtw.brinkster.net/
+ 595. https://web.archive.org/web/20071022122507/http://ffnbtw.brinkster.net/
+ 596. https://zh.wikipedia.org/wiki/互联网档案馆
+ 597. https://zh.wikipedia.org/w/index.php?title=奇幻作品&oldid=84688546
+ 598. https://zh.wikipedia.org/wiki/Special:页面分类
+ 599. https://zh.wikipedia.org/wiki/Category:奇幻
+ 600. https://zh.wikipedia.org/wiki/Category:奇幻作品
+ 601. https://zh.wikipedia.org/wiki/Category:使用ISBN魔术链接的页面
+ 602. https://zh.wikipedia.org/wiki/Category:自2011年12月语调不适于维基百科的条目
+ 603. https://zh.wikipedia.org/wiki/Category:拒绝当选首页新条目推荐栏目的条目
+ 604. https://zh.wikipedia.org/wiki/Category:自2009年1月需补充来源的条目
+ 605. https://zh.wikipedia.org/wiki/Category:含有多个问题的条目
+ 606. https://zh.wikipedia.org/wiki/Category:含有英語的條目
+ 607. https://creativecommons.org/licenses/by-sa/4.0/deed.zh
+ 608. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 609. https://wikimediafoundation.org/zh
+ 610. https://donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility
+ 611. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 612. https://zh.wikipedia.org/wiki/Wikipedia:关于
+ 613. https://zh.wikipedia.org/wiki/Wikipedia:免责声明
+ 614. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 615. https://developer.wikimedia.org/
+ 616. https://stats.wikimedia.org/#/zh.wikipedia.org
+ 617. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 618. https://zh.m.wikipedia.org/w/index.php?title=奇幻作品&variant=zh-hans&mobileaction=toggle_view_mobile
+ 619. https://wikimediafoundation.org/
+ 620. https://www.mediawiki.org/
+
+   Liens cachés :
+ 622. https://zh.wikipedia.org/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89
