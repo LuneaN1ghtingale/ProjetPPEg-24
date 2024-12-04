@@ -6,4 +6,6 @@ Juliette HENRY : https://github.com/juliettehnr/PPE1-2024
 
 Marie (Sasha) Latimier : https://github.com/LuneaN1ghtingale/PPE1-24
 
+Mélanie ZHUGE : https://github.com/XXicheese/PPE1-2024
+
 
