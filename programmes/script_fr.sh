@@ -50,9 +50,9 @@ do
 	nb_mots=$(lynx "$line" -dump -nolist | wc -w)
 	aspiration=$(echo "<a href='../aspirations/français-$num_ligne.html'>aspiration</a>")
 	dump=$(lynx  -dump -nolist ./aspirations/français-$num_ligne.html > ./dumps-text/français-$num_ligne.txt)
-	dumplink=$(echo "<a href='../dumps-text/français-$num_ligne.html'>dump</a>")
+	dumplink=$(echo "<a href='../dumps-text/français-$num_ligne.txt'>dump</a>")
 	
-	compte=$(egrep -i -o "fantastique(s)?" ./dumps-text/français-$num_ligne.txt | wc -l)
+	compte=$(egrep -i -o "\bfantastique(s)?\b" ./dumps-text/français-$num_ligne.txt | wc -l)
 
 	echo -e "
 		<tr>
