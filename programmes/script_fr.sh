@@ -23,20 +23,38 @@ echo "<html>
 <th>Nombre de mots</th>
 </tr>
 </thead>
-<tbody>" > tableau_fr.html
+<tbody>" > ./tableaux/tableau_fr.html
 
 while read -r line
 do
-	http_code=$(curl -s -I -L -w "%{http_code}" -0 /dev/null $line)
- 	encoding=$(curl -s -I -L -w "%{content_type}" -0 /dev/null $line | grep -P -o "charset=\S+" | cut -d'=' -f2) 
+	reponse=$(curl --connect-timeout 5 -s -L -w  "%{content_type}\t%{http_code}" -o ./aspirations/français-$num_ligne.html $line)
+	echo $line
+        http_code=$(echo "$reponse" | cut -f2)
+        content_type=$(echo "$reponse" | cut -f1)
+ 	encodage=$(echo "$content_type" | egrep -o "charset=\S+" | cut -d "=" -f2 | tail -n1)
+        encodage=${encodage:-"N/A"}
+ 
   
- 	if [ -z "$encoding" ]
- 	then
-	encoding="N/A"
-	fi 
+ 	if [ $http_code != "200" ] ;
+        then
+        echo "URL invalide ou introuvable : code http = $http_code" >&2
+        nb_mots="/"
+        encodage="/"
+        content_type="/"
+        fi
 
-	nbmots=$(lynx "$line" -dump -nolist | wc -w)
-	echo -e "<tr><td>$num_ligne</td><td>$line</td><td>$encoding</td><td>$nbmots</td></tr>" >> tableau_fr.html
+
+	nb_mots=$(lynx "$line" -dump -nolist | wc -w)
+	aspiration=$(echo "<a href='../aspirations/français-$num_ligne.html'>aspiration</a>")
+	
+	echo -e "
+		<tr>
+		<td>$num_ligne</td>
+		<td><a class=\"has-text-primary\" href=\"$line\">$line</a></td>
+		<td>$encodage</td>
+		<td>$nb_mots</td>
+		<td>$aspiration</td>
+		</tr>" >> ./tableaux/tableau_fr.html
 	num_ligne=$(expr $num_ligne + 1)
 
 done < $fichier_url
@@ -44,4 +62,5 @@ done < $fichier_url
 echo "</tbody>
 </table>
 </body>
-</html>" >> tableau_fr.html
+</html>" >> ./tableaux/tableau_fr.html
+
