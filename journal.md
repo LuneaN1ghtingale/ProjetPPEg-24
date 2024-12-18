@@ -11,3 +11,5 @@ Juliette : J'ai crée les fichiers journal.md et index.html et j'ai ajouté les 
 
 
 ## Semaine du 16 décembre 
+
+Juliette : J'ai enfin push la dernière version de mon script qui contient maintenant les aspirations.
