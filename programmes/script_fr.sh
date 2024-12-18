@@ -11,18 +11,21 @@ num_ligne=1
 
 echo "<html>
 <head>
-<meta charset='UTF-8'>
+	<meta charset='UTF-8'>
 </head>
 <body>
-<table>
-<thead>
-<tr>
-<th>N° de ligne</th>
-<th>URL</th>
-<th>Type d'encodage</th>
-<th>Nombre de mots</th>
-</tr>
-</thead>
+	<table>
+		<thead>
+			<tr>
+			<th>N° de ligne</th>
+			<th>Lien des URLs</th>
+			<th>Type d'encodage</th>
+			<th>Nombre de mots</th>
+			<th>Nombre d'occurence</th>
+			<th>Lien des aspirations</th>
+			<th>Lien des dumps</th>
+			</tr>
+		</thead>
 <tbody>" > ./tableaux/tableau_fr.html
 
 while read -r line
@@ -49,12 +52,15 @@ do
 	dump=$(lynx  -dump -nolist ./aspirations/français-$num_ligne.html > ./dumps-text/français-$num_ligne.txt)
 	dumplink=$(echo "<a href='../dumps-text/français-$num_ligne.html'>dump</a>")
 	
+	compte=$(egrep -i -o "fantastique(s)?" ./dumps-text/français-$num_ligne.txt | wc -l)
+
 	echo -e "
 		<tr>
 		<td>$num_ligne</td>
 		<td><a class=\"has-text-primary\" href=\"$line\">$line</a></td>
 		<td>$encodage</td>
 		<td>$nb_mots</td>
+		<td>$compte</td>
 		<td>$aspiration</td>
 		<td>$dumplink</td>
 		</tr>" >> ./tableaux/tableau_fr.html
