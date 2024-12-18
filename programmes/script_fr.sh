@@ -46,6 +46,8 @@ do
 
 	nb_mots=$(lynx "$line" -dump -nolist | wc -w)
 	aspiration=$(echo "<a href='../aspirations/français-$num_ligne.html'>aspiration</a>")
+	dump=$(lynx  -dump -nolist ./aspirations/français-$num_ligne.html > ./dumps-text/français-$num_ligne.txt)
+	dumplink=$(echo "<a href='../dumps-text/français-$num_ligne.html'>dump</a>")
 	
 	echo -e "
 		<tr>
@@ -54,6 +56,7 @@ do
 		<td>$encodage</td>
 		<td>$nb_mots</td>
 		<td>$aspiration</td>
+		<td>$dumplink</td>
 		</tr>" >> ./tableaux/tableau_fr.html
 	num_ligne=$(expr $num_ligne + 1)
 
