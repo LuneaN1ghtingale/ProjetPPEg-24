@@ -1,28 +1,20 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-# Vérifier si le fichier des URLs est fourni en argument
-if [ -z "$1" ]; then
-    echo "Erreur : Veuillez fournir un fichier d'URL en argument."
-    exit 1
+if [ $# -ne 1 ]; then
+  echo "Le script prend exactement 1 argument : le fichier contenant les URLs"
+  exit 1
 fi
 
-# Vérifier que le fichier existe
-if [ ! -f "$1" ]; then
-    echo "Erreur : Le fichier '$1' n'existe pas."
-    exit 1
-fi
+fichier_url=$1
+num_ligne=1
 
-valid_url=()
-invalid_url=()
-num=1
+# Création des répertoires nécessaires
+mkdir -p ../aspirations
+mkdir -p ../dumps-text
+mkdir -p ../tableaux
 
-# Changement de sortie en HTML
-output_file="../tableaux/tableau_ch.html"
-mkdir -p "../tableaux"
-
-# En-tête HTML
-echo "<!DOCTYPE html>
-<html>
+# Début du tableau HTML
+echo "<html>
 <head>
     <meta charset='UTF-8'>
     <title>Tableau des URLs</title>
@@ -42,66 +34,90 @@ echo "<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <h1>Tableau des données récupérées</h1>
     <table>
         <thead>
             <tr>
-                <th>Numéro</th>
-                <th>URL</th>
-                <th>Code HTTP</th>
-                <th>Encodage</th>
+                <th>N° de ligne</th>
+                <th>Lien des URLs</th>
+                <th>Type d'encodage</th>
                 <th>Nombre de mots</th>
+                <th>Nombre d'occurrences</th>
+                <th>Lien des aspirations</th>
+                <th>Lien des dumps</th>
             </tr>
         </thead>
-        <tbody>" > "$output_file"
+        <tbody>" > ../tableaux/tableau_ch.html
 
-# Lire le fichier ligne par ligne
-while IFS= read -r line; do
-    line=$(echo "$line" | xargs)  # Supprime les espaces en début et fin de ligne
+# Lecture et traitement des URLs
+while read -r url; do
+    file_path="../aspirations/chinois-$num_ligne.html"
 
-    # Vérifier si l'URL commence par http ou https
-    if [[ "$line" =~ ^https?:// ]]; then
-        valid_url+=("$line")
-    else
-        invalid_url+=("$line")
+    # Téléchargement du fichier HTML si absent
+    if [ ! -f "$file_path" ]; then
+        echo "Téléchargement de $url vers $file_path..."
+        curl --connect-timeout 5 -s -L -o "$file_path" "$url"
+
+        if [ $? -ne 0 ] || [ ! -s "$file_path" ]; then
+            echo "Erreur : Échec du téléchargement pour $url" >&2
+            echo "<html>
+<head><meta charset='UTF-8'></head>
+<body>Impossible de télécharger $url</body>
+</html>" > "$file_path"
+        fi
     fi
-done < "$1"
 
-# Traiter les URLs valides
-for url in "${valid_url[@]}"; do
-    http_code=$(curl -o /dev/null -s -w "%{http_code}" "$url")
-    encoding=$(curl -sI "$url" | grep -i "Content-Type" | grep -o "charset=[^;]*" | cut -d= -f2)
-    word_count=$(curl -s "$url" | wc -w)
+    # Analyse du fichier téléchargé
+    reponse=$(curl --connect-timeout 5 -s -L -w "%{content_type}\t%{http_code}" -o /dev/null "$url")
+    http_code=$(echo "$reponse" | cut -f2)
+    content_type=$(echo "$reponse" | cut -f1)
+    # encodage=$(echo "$content_type" | egrep -o "charset=\S+" | cut -d "=" -f2 | tail -n1)
+    # encodage=${encodage:-"N/A"}
+    encodage=$(curl -sI "$url" | grep -i "Content-Type" | sed -n 's/.*charset=\([^;]*\).*/\1/p')
+	encodage=${encodage:-"N/A"}
 
-    # Vérifier si le code HTTP est une erreur (4xx ou 5xx)
-    if [[ "$http_code" =~ ^[45][0-9]{2}$ ]]; then
-        echo "HTTP erreur : $http_code pour $url. Vous pouvez le corriger ou réessayer plus tard."
+    if [ "$http_code" != "200" ]; then
+        echo "URL invalide ou introuvable : code HTTP = $http_code" >&2
+        nb_mots="/"
+        encodage="/"
+        compte="/"
     else
-        # Ajouter une ligne au tableau HTML
-        echo "            <tr>
-                <td>${num}</td>
-                <td><a href=\"$url\">$url</a></td>
-                <td>${http_code}</td>
-                <td>${encoding:-N/A}</td>
-                <td>${word_count}</td>
-            </tr>" >> "$output_file"
-        ((num++))
-    fi
-done
+        # Comptage des mots dans le fichier
+        nb_mots=$(lynx -dump -nolist "$file_path" | wc -w)
 
-# Fermer le tableau HTML
+        # Création du dump
+        dump_path="../dumps-text/chinois-$num_ligne.txt"
+        lynx -dump -nolist "$file_path" > "$dump_path"
+
+        # Comptage des occurrences du mot
+        compte=$(egrep -i -o "\b奇幻?\b" "$dump_path" | wc -l)
+
+    fi
+
+    # Liens pour le tableau HTML
+    aspiration="<a href='../aspirations/chinois-$num_ligne.html'>aspiration</a>"
+    dumplink="<a href='../dumps-text/chinois-$num_ligne.txt'>dump</a>"
+
+    # Ajout de la ligne au tableau HTML
+    echo "        <tr>
+            <td>$num_ligne</td>
+            <td><a href=\"$url\">$url</a></td>
+            <td>$encodage</td>
+            <td>$nb_mots</td>
+            <td>$compte</td>
+            <td>$aspiration</td>
+            <td>$dumplink</td>
+        </tr>" >> ../tableaux/tableau_ch.html
+
+    # Incrémentation du numéro de ligne
+    num_ligne=$((num_ligne + 1))
+
+done < "$fichier_url"
+
+# Fermeture du tableau HTML
 echo "        </tbody>
     </table>
 </body>
-</html>" >> "$output_file"
+</html>" >> ../tableaux/tableau_ch.html
 
-# Afficher les URLs invalides
-if [ ${#invalid_url[@]} -gt 0 ]; then
-    echo -e "\nURLs invalides :"
-    for url in "${invalid_url[@]}"; do
-        echo "Ce URL n'est pas correct : $url"
-    done
-fi
-
-echo "La sortie a été enregistrée dans $output_file"
+echo "Tableau généré avec succès dans ../tableaux/tableau_ch.html"
 

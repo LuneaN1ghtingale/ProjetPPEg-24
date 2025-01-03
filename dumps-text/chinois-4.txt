@@ -1,4 +1,4 @@
-   [1]字典网白色LOGO
+   字典网白色LOGO
 
    (BUTTON)
 
@@ -7,18 +7,18 @@
    (BUTTON)
      __________________________________________________________________
 
-     * [2]字典网首页
-     * [3]新华字典
-     * [4]新华词典
-     * [5]成语词典
+     * 字典网首页
+     * 新华字典
+     * 新华词典
+     * 成语词典
      __________________________________________________________________
 
      * (BUTTON) 注册/登录
 
    ____________________ (BUTTON) 查字典
 
-    1. [6]首页
-    2. [7]新华词典
+    1. 首页
+    2. 新华词典
     3. 词语： 奇幻
 
    词
@@ -28,10 +28,10 @@
    拼音：qí huàn
    注音：ㄑ一ˊ ㄏㄨㄢˋ
    奇幻包含的字
-   [8]奇
-   [9]幻
+   奇
+   幻
    包含奇幻的词或成语
-   [10]奇幻莫测
+   奇幻莫测
    奇幻的基本释意
 
    [ qí huàn ]
@@ -78,29 +78,12 @@
    奇幻，拼音：qíhuàn，英文：fantasy，解释：指奇异而虚幻，不真实的。七年级上册21课中的词语六年级上册26课中的词语五年级上册33课
    中的词语小说简介奇幻文学（或称奇幻小说）之中的“奇幻”一词，是由英文的“fantasy”翻译而来。
    奇幻的近义词
-   [11]玄幻
-   [12]魔幻
+   玄幻
+   魔幻
    奇幻的英文翻译
    fantasy (fiction)
 
    字典网提供新华字典、新华词典和成语词典的在线查字典服务，便捷的汉字拼音、笔画、解释和释义查询平台。
 
-   © 2005 [13]苏ICP备10219657号 [14]字典网 www.zidian.com.cn
+   © 2005 苏ICP备10219657号 字典网 www.zidian.com.cn
    [gotop.svg]
-
-Références
-
-   1. https://www.zidian.com.cn/ci/u5947u5e7b
-   2. https://www.zidian.com.cn/ci/u5947u5e7b
-   3. https://www.zidian.com.cn/zi
-   4. https://www.zidian.com.cn/ci
-   5. https://www.zidian.com.cn/chengyu
-   6. https://www.zidian.com.cn/
-   7. https://www.zidian.com.cn/ci
-   8. https://www.zidian.com.cn/zi/u5947
-   9. https://www.zidian.com.cn/zi/u5e7b
-  10. https://www.zidian.com.cn/ci/u5947u5e7bu83abu6d4b
-  11. https://www.zidian.com.cn/ci/u7384u5e7b
-  12. https://www.zidian.com.cn/ci/u9b54u5e7b
-  13. https://beian.miit.gov.cn/
-  14. https://www.zidian.com.cn/ci/u5947u5e7b

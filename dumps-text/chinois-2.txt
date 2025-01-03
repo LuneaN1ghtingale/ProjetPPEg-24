@@ -1,36 +1,36 @@
-   #[1]alternate [2]alternate [3]alternate [4]alternate
+   #alternate alternate alternate alternate
 
-   [5]网页[6]新闻[7]贴吧[8]知道[9]网盘[10]图片[11]视频[12]地图[13]文库[14]资讯[15]采购百科
-   [16]百度首页
+   网页新闻贴吧知道网盘图片视频地图文库资讯采购百科
+   百度首页
    登录
-   [17]注册
-   [18]百度百科
+   注册
+   百度百科
    奇幻__________________
-   (BUTTON) 进入词条 (BUTTON) 全站搜索[19]帮助
+   (BUTTON) 进入词条 (BUTTON) 全站搜索帮助
 
-   [20]首页
+   首页
 
-   [21]秒懂百科
+   秒懂百科
 
-   [22]特色百科
+   特色百科
 
-   [23]知识专题
+   知识专题
 
-   [24]加入百科
+   加入百科
 
-   [25]百科团队
+   百科团队
 
-   [26]权威合作
+   权威合作
 
-   [27]个人中心
+   个人中心
 
 奇幻
 
-   播报[28]讨论上传视频
+   播报讨论上传视频
    汉语词语
    展开2个同名词条
    收藏
-   查看[29]我的收藏
+   查看我的收藏
    0有用+1
    0
    奇幻，汉语词语，拼音：qí huàn，意思是奇异而虚幻，不真实的，出自《西京赋》。
@@ -45,7 +45,7 @@
           qí huàn
 
    近义词
-          [30]玄幻、魔幻
+          玄幻、魔幻
 
    注    音
           ㄑㄧˊ ㄏㄨㄢˋ
@@ -55,9 +55,9 @@
 
 目录
 
-    1. 1[31]释义
-    2. 2[32]出处
-    3. 3[33]例句
+    1. 1释义
+    2. 2出处
+    3. 3例句
 
 释义
 
@@ -73,84 +73,27 @@
 
    播报
    编辑
-   汉 张衡 《西京赋》：“奇幻[34]儵忽，易貌分形；吞刀吐火，云雾[35]杳冥。”^ [1]
+   汉 张衡 《西京赋》：“奇幻儵忽，易貌分形；吞刀吐火，云雾杳冥。”^ [1]
 
 例句
 
    播报
    编辑
    1、奇异虚幻。
-   汉 张衡 《西京赋》：“奇幻[36]儵忽，易貌分形；吞刀吐火，云雾[37]杳冥。”
-   明 沈德符 《野获编·玩具·玛瑙》：“西洋玛瑙遍行天下，其值不过玉之十一，而色之奇幻，质之[38]莹润，远胜旧物。”
+   汉 张衡 《西京赋》：“奇幻儵忽，易貌分形；吞刀吐火，云雾杳冥。”
+   明 沈德符 《野获编·玩具·玛瑙》：“西洋玛瑙遍行天下，其值不过玉之十一，而色之奇幻，质之莹润，远胜旧物。”
    王西彦 《鱼鬼》一：“吊在腰间的大鱼篓，一撞一簸地在他脚下投着一个奇幻的影子。”
    2、谓虚妄，不切实际。
    清 叶廷琯 《鸥陂渔话·黎襄勤公病中异梦》：“此事似涉奇幻，然古来名臣没而成神……见於载籍甚多。”
    老舍 《四世同堂》十一：“ 高第 愿意这样去冒险。她的心里，因 仲石 的牺牲，装满了奇幻的思想的。”^ [1]
    新手上路
-   [39]成长任务[40]编辑入门[41]编辑规则[42]本人编辑 new
+   成长任务编辑入门编辑规则本人编辑 new
    我有疑问
-   内容质疑[43]在线客服[44]官方贴吧意见反馈
+   内容质疑在线客服官方贴吧意见反馈
    投诉建议
-   [45]举报不良信息[46]未通过词条申诉[47]投诉侵权信息[48]封禁查询与解封
+   举报不良信息未通过词条申诉投诉侵权信息封禁查询与解封
 
-   ©2024 Baidu [49]使用百度前必读 | [50]百科协议 | [51]隐私政策 | [52]百度百科合作平台 | [53]京ICP
-   证030173号  [copy_rignt_24.png]
+   ©2024 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号
+   [copy_rignt_24.png]
 
-   [54]京公网安备11000002000001号
-
-Références
-
-   1. https://baike.baidu.com/item/奇幻/60677582
-   2. https://baike.baidu.com/item/奇幻/60677582
-   3. https://baike.baidu.com/item/奇幻/60677582
-   4. https://baike.baidu.hk/item/奇幻/60677582
-   5. https://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=奇幻
-   6. http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=奇幻
-   7. https://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=奇幻
-   8. https://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=奇幻
-   9. https://pan.baidu.com/disk/home#/search?from=1027327l&key=奇幻
-  10. http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=奇幻
-  11. https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&ie=utf-8&rsv_spt=17&wd=奇幻
-  12. http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=奇幻
-  13. https://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=奇幻
-  14. https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&fr=baike&word=奇幻
-  15. https://b2b.baidu.com/s?fr=bks0000&q=奇幻
-  16. http://www.baidu.com/
-  17. https://passport.baidu.com/v2/?reg&regType=1&tpl=wk
-  18. https://baike.baidu.com/#home
-  19. https://baike.baidu.com/help
-  20. https://baike.baidu.com/
-  21. https://baike.baidu.com/item/奇幻/60677582?fr=ge_ala
-  22. https://baike.baidu.com/item/奇幻/60677582?fr=ge_ala
-  23. https://baike.baidu.com/item/奇幻/60677582?fr=ge_ala
-  24. https://baike.baidu.com/item/奇幻/60677582?fr=ge_ala
-  25. https://baike.baidu.com/item/奇幻/60677582?fr=ge_ala
-  26. https://baike.baidu.com/item/奇幻/60677582?fr=ge_ala
-  27. https://baike.baidu.com/usercenter
-  28. https://baike.baidu.com/planet/talk?lemmaId=60677582&fromModule=lemma_right-issue-btn
-  29. https://baike.baidu.com/uc/favolemma
-  30. https://baike.baidu.com/item/玄幻/16548141?fromModule=lemma_inlink
-  31. https://baike.baidu.com/item/奇幻/60677582?fr=ge_ala#1
-  32. https://baike.baidu.com/item/奇幻/60677582?fr=ge_ala#2
-  33. https://baike.baidu.com/item/奇幻/60677582?fr=ge_ala#3
-  34. https://baike.baidu.com/item/儵忽/5745151?fromModule=lemma_inlink
-  35. https://baike.baidu.com/item/杳冥/3387710?fromModule=lemma_inlink
-  36. https://baike.baidu.com/item/儵忽/5745151?fromModule=lemma_inlink
-  37. https://baike.baidu.com/item/杳冥/3387710?fromModule=lemma_inlink
-  38. https://baike.baidu.com/item/莹润/4897403?fromModule=lemma_inlink
-  39. https://baike.baidu.com/usercenter/tasks#guide
-  40. https://baike.baidu.com/help#main01
-  41. https://baike.baidu.com/help#main06
-  42. https://baike.baidu.com/item/百度百科：本人词条编辑服务/22442459?bk_fr=pcFooter
-  43. https://ufosdk.baidu.com/bailingPC/getEntryPath/aKo-PBP84zlnBbgvj2STxzZNwlrmWT8XVd-PzIQ3C-c=
-  44. http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=百度百科
-  45. http://help.baidu.com/newadd?prod_id=10&category=1
-  46. http://help.baidu.com/newadd?prod_id=10&category=2
-  47. http://help.baidu.com/newadd?prod_id=10&category=6
-  48. http://help.baidu.com/newadd?prod_id=10&category=5
-  49. http://www.baidu.com/duty/
-  50. http://help.baidu.com/question?prod_en=baike&class=89&id=1637
-  51. http://help.baidu.com/question?prod_id=10&class=690&id=1001779
-  52. https://baike.baidu.com/operation/cooperation
-  53. https://beian.miit.gov.cn/
-  54. http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001
+   京公网安备11000002000001号

@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <title>《黑神话：悟空》与游戏东方主义反写-中国社会科学网</title>
+    <meta name="renderer" content="webkit"/>
+<meta name="force-rendering" content="webkit"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<meta name="Keywords" content="" />
+<meta name="description" content="《黑神话：悟空》与游戏东方主义反写" />
+<meta name="baidu-site-verification" content="d2eTvy3SqO" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="131527">
+<meta name="contentid" content="5790153">
+<meta name="publishdate" content="2024-10-11">
+<meta name="author" content="王晏清">
+<meta name="source" content="中国社会科学网-中国社会科学报">
+    <script type="text/javascript" src="../../../images/jquery-3.6.0.js"></script>
+    <script type="text/javascript" src="../../../images/sk_pc_mobile_v2022.js"></script>
+
+    <link class="stylefile" rel="stylesheet" href="../../../images/sk_nav0_base_pc.css">
+    <link class="stylefile" rel="stylesheet" href="../../../images/sk_all_v2_pc.css">
+
+    <link class="mobileStyle" rel="stylesheet" type="text/css" href="../../../images/sk_base_mobile.css" />
+    <link class="mobileStyle" rel="stylesheet" type="text/css" href="../../../images/sk_all_v2_mobile.css" />
+
+    <link rel="stylesheet" type="text/css" href="../../../images/idangerous.swiper2.7.6.css">
+    <script type="text/javascript" src="../../../images/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="../../../images/idangerous.swiper2.7.6.min.js"></script>
+    <script type="text/javascript" src="../../../images/jquery.qrcode.min.js"></script>
+    <!--[if IE 9]>
+    <script type="text/javascript" src="../../../images/placeholder.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="../../../images/jweixin-1.6.0.js"></script>
+    <script>
+
+        $(function () {
+ //请求后台获取微信分享配置及验证签名
+    $.ajax({
+ url: 'https://cssn.cn/wx-api/config/h5/share-init',
+ type: 'GET',  //方法
+ data: {
+  url: location.href,  //参数
+ },
+ headers: {},
+ contentType: "application/x-www-form-urlencoded",  //请求格式
+ dataType: 'json',
+ success: function(res) {
+  
+  //判断无附件图使用logo
+  var imgUrl = '';
+console.log(imgUrl);
+  if(imgUrl == undefined || imgUrl == null || imgUrl == '') {
+   //没有附件默认logo
+   imgUrl = 'https://www.cssn.cn/images/skweixinlog.jpg';
+  }
+ console.log(imgUrl);
+//加载微信分享配置
+  wx.config({
+   debug: false,
+   appId: res.data.appId,
+   timestamp: res.data.timestamp,
+   nonceStr: res.data.nonceStr,
+   signature: res.data.signature,
+   jsApiList: ["updateAppMessageShareData", "updateTimelineShareData"]
+  });
+ //微信分享加载
+  wx.ready(function () {
+//微信分享到朋友
+   wx.updateAppMessageShareData({ 
+    title: '《黑神话：悟空》与游戏东方主义反写',//标题
+    desc: '中国社会科学网',//描述
+    link: location.href,//链接
+    imgUrl: imgUrl,//图片
+    success: function () {
+     console.log("微信分享成功");
+    }
+   });
+//微信分享到朋友圈
+   wx.updateTimelineShareData({ 
+    title: '《黑神话：悟空》与游戏东方主义反写',//标题
+    link: location.href,//链接
+    imgUrl: imgUrl,//图片
+    success: function () {
+     console.log("微信分享成功");
+    }
+   })
+  });
+  wx.error(function(res3) {
+   console.log(res3.errMsg);
+  });
+ },
+});
+});
+
+        var isPC = IsPC();//获取是否为PC端
+        if (isPC) {//如果是PC端加载PC的js和css
+            $(".mobileStyle").remove();
+            dynamicLoadJs('../../../images/sk_nav0_base_pc.js')
+        } else {//如果是移动端加载移动端的js和css
+            if (window.sessionStorage.getItem("isPc") == "true") {
+                var oMeta = document.createElement('meta');
+                oMeta.content = '';
+                oMeta.name = 'viewport';
+                document.getElementsByTagName('head')[0].appendChild(oMeta);
+                $(".mobileStyle").remove();
+                dynamicLoadJs('../../../images/sk_nav0_base_pc.js')
+                $(function () {
+                    $(".AppBtn").css('display', 'block');
+                    $(".qrcodeCanvas_wrap").css('display', 'none');
+                    $(".nav_wrap").addClass("AppBtnBox");
+                })
+            } else {
+                $(".stylefile").remove();
+                dynamicLoadJs('../../../images/sk_base_mobile.js')
+                $(function () {
+                    $("html,body").animate({scrollTop: 0}, 100);
+                })
+            }
+            $(function () {
+                //切换pc移动
+                $(".PcBtn").click(function () {
+                    window.sessionStorage.setItem("isPc", "true")
+                    window.location.reload()
+                })
+                $(".AppBtn").click(function () {
+                    window.sessionStorage.setItem("isPc", "false")
+                    window.location.reload()
+                })
+                $(".AppBtn2").click(function () {
+                    window.sessionStorage.setItem("isPc", "false")
+                    window.location.reload()
+                })
+            })
+        }
+    </script>
+</head>
+<body>
+<!-- 嵌套头部开始 -->
+<script>
+    // Quick Tracking 阿里sdk引入
+    (function(w, d, s, q) { 
+        w[q] =w[q] || []; 
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s); 
+        j.async=true; 
+        j.id='beacon-aplus'; 
+        j.src='https://d.alicdn.com/alilog/mlog/aplus/204201353.js'; 
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'aplus_queue');
+
+    aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['appKey', 'qwfmf7ygk8c6a37if0oq266o']  }) 
+    aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['aplus-rhost-v', 'quickaplus-server-api-cn-zhangjiakou.aliyuncs.com']  });
+
+
+
+    $(function() {
+        $('.search_input').on('keyup', function(e) {
+            if (e.keyCode == 13) {
+                gbkSub($(this))
+            } else {
+                $('.search_input').val( $(this).val() )
+            }
+        })
+        $('.search_btn').on('click', function(e) {
+            gbkSub($(this))
+        })
+
+        function gbkSub(obj) {
+            var val = encodeURIComponent($.trim ( obj.parent().find('.search_input').eq(0).val()) )
+            
+            // 埋点搜索
+            aplus_queue.push({
+                'action':'aplus.record',
+                'arguments':['search_click', 'CLK', {
+                    search_key: val,
+                    current_page_name: $('title').text(),
+                    page_name: $('title').text(), //您当前页面的自定义页面编码
+                }]
+
+            });
+            if ( val == '' ) {
+                // alert("请输入您要搜索的内容");
+                var url = 'http://www.cssn.cn/so/';
+                window.open(url);
+            } else {
+                var url = 'http://www.cssn.cn/so/s?qt=' + val;
+                window.open(url);
+            }
+        }
+    })
+
+        
+
+
+        $(function() {
+
+            var article_title = $('.qt_article_title').text();
+            var article_id = $('.qt_article_parent').attr('data-article_id');
+            var share_channel = $('.qt_article_parent').attr('data-share_channel');
+            var published_date = $('.qt_published_date').text();
+            var article_source = $('.qt_article_source').text();
+            var article_author = $('.qt_article_author').text();
+
+            // console.log('article_title:', article_title)
+            // console.log('article_id:', article_id)
+            // console.log('share_channel:', share_channel)
+            // console.log('published_date:', published_date)
+            // console.log('article_source:', article_source)
+            // console.log('article_author:', article_author)
+
+            // Quick Tracking 详情页浏览
+            aplus_queue.push({
+                'action':'aplus.sendPV',
+                'arguments':[{ is_auto: false}, {
+                    //保留字段
+                    page_name:'article_detail_page',
+                    page_title:'文章详情页',
+                    //可选参数
+                    article_title: article_title,
+                    article_id:article_id,
+                    article_author: article_author,
+                    article_source: article_source,
+                    published_date: published_date,
+                }]
+            });
+
+            // 点击分享埋点
+            $('.ops_icons a').on('click', function(e) {
+                var btnName = $(this).attr('title')
+                var isOriginal = ''
+                if (article_source.indexOf('中国社会科学网') != -1 && isOriginal != '') {
+                    isOriginal = '原创'
+                } else {
+                    isOriginal = '非原创'
+                }
+                aplus_queue.push({
+                    'action':'aplus.record',
+                    'arguments':['adp_share_click', 'CLK', {
+                        article_id: article_id,
+                        page_name: "article_detail_page", //您当前页面的自定义页面编码
+                        s_original: isOriginal,//btnName,
+                        article_title: article_title,
+                        published_date: published_date,
+                        article_source: article_source,
+                        article_author: article_author,
+                        share_channel: btnName
+                    }]
+                });
+            })
+
+            // 点击文章页中的链接埋点
+            $('.content_center a').on('click', function() {
+                aplus_queue.push({
+                    'action':'aplus.record',
+                    'arguments':['adp_hyperlinks_click', 'CLK', {
+                        article_id: $(this).attr('href'),
+                        page_name: "文章详情页-超链接点击", //您当前页面的自定义页面编码
+                    }]
+                });
+            })
+
+
+
+
+        })
+</script>
+<!-- head start -->
+<div class="top pcNone">
+    <div class="top_main">
+        <div class="top_left">
+            <a href="/"><img src="/images/sk_logo_v2022.png" alt="" /></a>
+        </div>
+        <div class="top_right">
+            <div class="PcBtn"><img src="/images/sk_m_pcbtn.png" alt="" /></div>
+            <div class="searchBtn"><img src="/images/sk_m_searchbtn.png" alt="" /></div>
+            <div class="AppBtn"><img src="/images/sk_m_mobilebtn.png" alt="" /></div>
+            <div class="search_div mobileNone">
+                <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容" />
+                <input class="search_btn" name="searchButton" type="button" value="搜索" />
+            </div>
+        </div>
+    </div>
+    <div class="search">
+        <div class="search_div">
+            <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容" />
+            <input class="search_btn" name="searchButton" type="button" value="搜索" />
+        </div>
+        <div class="search_close"></div>
+    </div>
+</div>
+<!-- head end -->
+<!-- nav start -->
+<div class="nav_wrap">
+    <div class="nav_main">
+        <div class="nav_box">
+            <ul class="nav_ul clear">
+                <li><a class="icon_learn" href="/xxzx/" target="_blank" ignoreapd="true">中心</a></li>
+                <li><a href="/xszg/" target="_blank" ignoreapd="true">学术中国</a></li>
+                <li><a href="/zkzg/" target="_blank" ignoreapd="true">智库中国</a></li>
+                <li><a href="http://v.cssn.cn/#/index" target="_blank" ignoreapd="true">社科视频</a></li>
+                <li><a href="/dkzgxp/" target="_blank" ignoreapd="true">中国学派</a></li>
+                <li><a href="https://sz.cssn.cn/" target="_blank" ignoreapd="true">数字思政</a></li>
+                <li><a href="/gjgc/" target="_blank" ignoreapd="true">国际观察</a></li>
+                <li><a href="/kgxc/" target="_blank" ignoreapd="true">考古现场</a></li>
+                <li><a href="/ggzp/" target="_blank" class="nav_zp" ignoreapd="true">公告<i></i>招聘</a></li>
+                <li><a class="arrow" href="javascript:;">学科体系<i></i></a></li>
+            </ul>
+            <a class="nav_more nav_site_pc" href="javascript:;">+</a>
+            <a class="nav_more nav_site_more" href="javascript:;"><img src="/images/sk_nav_rtbg.png" /></a>
+        </div>
+        <div class="nav_fixed_logo"><a href="/"><img src="/images/sk02-logo-nav0.png" alt="" /></a>
+        </div>
+        <div class="nav_fixed_search">
+            <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容" />
+            <input class="search_btn" name="searchButton" type="button" value="" />
+        </div>
+        <div class="AppBtn2"><img src="/images/sk_m_mobilebtn.png" alt="" /></div>
+    </div>
+    <!-- 学科体系下拉菜单 -->
+    <div class="sub_xktx">
+        <div class="nav_wrapper">
+            <a href="/mkszy/" target="_blank" ignoreapd="true">马克思主义</a>
+            <a href="/zx/" target="_blank" ignoreapd="true">哲学</a>
+            <a href="/jjx/" target="_blank" ignoreapd="true">经济学</a>
+            <a href="/fx/" target="_blank" ignoreapd="true">法学</a>
+            <a href="/lsx/" target="_blank" ignoreapd="true">历史学</a>
+            <a href="/wx/" target="_blank" ignoreapd="true">文学</a>
+            <a href="/xwcbx/" target="_blank" ignoreapd="true">新闻传播学</a>
+            <a href="/ysx/" target="_blank" ignoreapd="true">艺术学</a>
+            <a href="/zzx/" target="_blank" ignoreapd="true">政治学</a>
+            <a href="/shx/" target="_blank" ignoreapd="true">社会学</a>
+            <a href="/mzx/" target="_blank" ignoreapd="true">民族学</a>
+            <a href="/jyx/" target="_blank" ignoreapd="true">教育学</a>
+            <a href="/glx/" target="_blank" ignoreapd="true">管理学</a>
+            <a href="/jsx/" target="_blank" ignoreapd="true">军事学</a>
+            <a href="/zgdsdj/" target="_blank" ignoreapd="true">中共党史党建</a>
+            <a href="/qygbx/" target="_blank" ignoreapd="true">区域国别学</a>
+            <a href="/gjaqx/" target="_blank" ignoreapd="true">国家安全学</a>
+        </div>
+    </div>
+</div>
+<!-- nav end -->
+<div class="nav_site_more_con clear">
+    <i class="more_btn"></i>
+    <div class="layout clear">
+        <h1 class="clear"><a href="/"><img src="/images/sk_logo_v2022.png" alt="" /></a></h1>
+        <ul class="clear navtop">
+            <li class="icon_learn"><a href="/xxzx/" target="_blank" ignoreapd="true">中心</a></li>
+            <li><a href="/xszg/" target="_blank" ignoreapd="true">学术中国</a></li>
+            <li><a href="/zkzg/" target="_blank" ignoreapd="true">智库中国</a></li>
+            <li><a href="https://v.cssn.cn/#/index" target="_blank" ignoreapd="true">社科视频</a></li>
+            <li><a href="/dkzgxp/" target="_blank" ignoreapd="true">中国学派</a></li>
+            <li><a href="https://sz.cssn.cn/" target="_blank" ignoreapd="true">数字思政</a></li>
+            <li><a href="/gjgc/" target="_blank" ignoreapd="true">国际观察</a></li>
+            <li><a href="/kgxc/" target="_blank" ignoreapd="true">考古现场</a></li>
+            <li><a href="/ggzp/" target="_blank" class="nav_zp" ignoreapd="true">公告 · 招聘</a></li>
+        </ul>
+        <div class="more_con clear">
+            <a href="/zjzg/" target="_blank" ignoreapd="true">志鉴中国</a>
+            <a href="/skgz/" target="_blank" ignoreapd="true">社科关注</a>
+            <a href="/skyl/" target="_blank" ignoreapd="true">社科要论</a>
+            <a href="/dsskhs/" target="_blank" ignoreapd="true">社科好书</a>
+            <a href="/skqns/" target="_blank" ignoreapd="true">社科青年说</a>
+            <a href="/wlqglt/" target="_blank" ignoreapd="true">网络强国论坛</a>
+            <a href="/skrmt/" target="_blank" ignoreapd="true">社科融媒体</a>
+            <a href="/wkskjh/" target="_blank" ignoreapd="true">网刊</a>
+        </div>
+        <h3 class="clear">学科体系</h3>
+        <div class="more_con clear">
+            <a href="/mkszy/" target="_blank" ignoreapd="true">马克思主义</a>
+            <a href="/zx/" target="_blank" ignoreapd="true">哲学</a>
+            <a href="/jjx/" target="_blank" ignoreapd="true">经济学</a>
+            <a href="/fx/" target="_blank" ignoreapd="true">法学</a>
+            <a href="/lsx/" target="_blank" ignoreapd="true">历史学</a>
+            <a href="/wx/" target="_blank" ignoreapd="true">文学</a>
+            <a href="/xwcbx/" target="_blank" ignoreapd="true">新闻传播学</a>
+            <a href="/ysx/" target="_blank" ignoreapd="true">艺术学</a>
+            <a href="/zzx/" target="_blank" ignoreapd="true">政治学</a>
+            <a href="/shx/" target="_blank" ignoreapd="true">社会学</a>
+            <a href="/mzx/" target="_blank" ignoreapd="true">民族学</a>
+            <a href="/jyx/" target="_blank" ignoreapd="true">教育学</a>
+            <a href="/glx/" target="_blank" ignoreapd="true">管理学</a>
+            <a href="/jsx/" target="_blank" ignoreapd="true">军事学</a>
+            <a href="/zgdsdj/" target="_blank" ignoreapd="true">中共党史党建</a>
+            <a href="/qygbx/" target="_blank" ignoreapd="true">区域国别学</a>
+            <a href="/gjaqx/" target="_blank" ignoreapd="true">国家安全学</a>
+        </div>
+        <h3 class="clear mobileNone">新媒体矩阵</h3>
+        <div class="more_con clear mobileNone">
+            <ul class="new_media_ul">
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922337226245876.png" alt="sk_v2022_front_wechat.png"/>
+                        <p>微信小程序</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929538050877342.jpg" alt="小程序106.jpg"/>
+                        <p>微信小程序</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922336887208883.png" alt="sk_v2022_front_gzh.png"/>
+                        <p>微信公众号</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929539559790487.jpg" alt="微信106.jpg"/>
+                        <p>微信公众号</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922336458060142.png" alt="sk_v2022_front_zgxp.png"/>
+                        <p>中国学派</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929539793588017.jpg" alt="学派106.jpg"/>
+                        <p>中国学派</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020230615600845961620.png" alt="W020220922336137882083.png"/>
+                        <p>中国社会科学报</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020230616566952919336.jpg" alt="111.jpg"/>
+                        <p>中国社会科学报</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929459900615313.png" alt="123.png"/>
+                        <p>新浪微博</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929540194201728.jpg" alt="微博106.jpg"/>
+                        <p>新浪微博</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929460609289083.png" alt="123.png"/>
+                        <p>今日头条号</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929540425896749.jpg" alt="头条106.jpg"/>
+                        <p>今日头条号</p>
+                    </div>
+                </div>
+            </li>
+            
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- 嵌套头部结束 -->
+<!-- content -->
+<div class="wrap_fullWidth sk_warp_center_repeat clear qt_article_parent" data-article_id='5790153' data-share_channel="本网原创">
+    <div class="warp_center">
+        <div class="sk_crumbs">
+            <a href="../../../" target="_self" title="首页" class="CurrChnlCls">首页</a>&nbsp;>&nbsp;<a href="../../" target="_self" title="社科关注" class="CurrChnlCls">社科关注</a>&nbsp;>&nbsp;<a href="../" target="_self" title="本网原创" class="CurrChnlCls">本网原创</a>
+        </div>
+        <div class="warp_center_content">
+            
+            <div class="content_head">
+                <h1 class="qt_article_title">《黑神话：悟空》与游戏东方主义反写</h1>
+                
+                <div class="head_intro clear">
+                    <div class="intro_left">
+                        <span class="qt_published_date">2024-10-11</span>
+                        <span class="qt_article_author"><font>作者：</font>何祎金</span>
+                        
+                        <span class="qt_article_source"><font>来源：</font>中国社会科学网-中国社会科学报</span>
+                    </div>
+                </div>
+            </div>
+            <div id="getHeight"></div>
+<div class="content_left">
+    <div class="sk_size_change"><a href="javascript:;" data-size="22" class="a1">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a></div>
+    <div class="wxgzh">
+        <div class="wx_img"><img src="/images/sk_wx_gzh.png" alt="" /></div>
+        <p>微信公众号</p>
+    </div>
+    <div class="intro_right">
+        <div class="title">— <span>分享</span> —</div>
+        <div class="ico_wx">
+            <a class="wx_icon" title="微信"></a>
+            <div class="qrcodeCanvas_wx">
+                <div class="qrcodeCanvas"></div>
+            </div>
+        </div>
+        <div class="view sk_share" id="ops_share"></div>
+        <script src="/images/share_cssn_v2.min.js" charset="utf-8"></script>
+        <div class="ico_url">
+            <a class="url_icon" title="复制地址"></a>
+            <div class="copyUrl">链接已复制</div>
+            <input type="text" class="link_url" style="opacity: 0;width: 1px;height: 1px;position: absolute;bottom:0;z-index: -1;" />
+        </div>
+    </div>
+</div>
+            <div class="content_right">
+                <div class="content_center">
+                    <div class=TRS_Editor><div>　　数字单机游戏《黑神话：悟空》（以下简称《黑神话》）一经发售，不仅很快登顶各大游戏平台的热销与在线人数榜单，还在全球引发了一场中国游戏的“黑神话旋风”。在不断刷新和创造游戏历史的同时，《黑神话》的出场向长期由欧美和日本主导的游戏文化和数字游戏市场发出了强烈的信号——中国游戏不仅有能力创造出具有全球影响力的精品，其游戏研发与美学创意更代表了一股无法忽视的中国力量。</div>
+<div>　　在很大程度上，《黑神话》的推出对于消解和破除萦绕在数字游戏文化中的东方主义无意识有积极意义。回顾有关历史，数字游戏世界观、形象和角色设定中的东方主义文化表现与意识是当代游戏研究的热点议题。在20世纪70年代，限于游戏软硬件技术的发展程度，萨义德在构建东方主义理论时并未触及数字游戏的主题。但是，当代数字游戏的多媒体特征在叙事、影像甚至是玩法上成为延续、激活与再生产东方主义文化无意识的流行载体。</div>
+<div>　　一般而言，当代文化和游戏研究对“游戏东方主义”的探讨可以概括为三个维度的研究路径。</div>
+<div>　　第一个维度是数字游戏中东方主义的文化表现问题。学者们针对欧美日的游戏厂商在游戏内容和叙事中对非西方角色他者化和异趣化的形象建构展开批判。例如，在后殖民学者看来，在许多战术类游戏中，在服饰外形上有着中东地区特征的角色往往被设定为非正义的反派，这种反派定义总是存在高度的刻板印象化。此外，数字游戏对非西方文化和社会的异趣化表现也易于在地方社会引发文化矛盾。游戏东方主义的后果会在玩家中不断巩固类似的刻板印象，并在数字游戏中实现东方主义文化再生产。如何做好游戏的本土化工作，摈弃文化中心主义的傲慢姿态，是全球游戏企业在21世纪需要履行的社会责任。</div>
+<div>　　第二个维度的游戏东方主义批判超越了数字游戏本身。当代游戏越来越成为投射玩家群体和现实社会的媒介参照。这种批判主要针对围绕游戏衍生的文化刻板印象在现实社会中所建立的认知与文化分类。游戏东方主义并不只是文化表现的问题，它还突破了游戏空间，成为一种游戏化的社会认知。根据游戏研究学者的研究，在游戏文化的西方话语中，玩家群体被纳入了等级化的二元分类：所谓“西方玩家”意味着在游戏中追求娱乐精神与健康休闲的积极行为，而“亚洲玩家”则将游戏变成了重复训练或者刻苦练习，不仅毫无游戏体验而言，甚至“玩”游戏这件事也代表了一个游戏玩工群体充满矛盾和异化的劳动过程。克里斯·戈托-琼斯（Chris Goto-Jones）认为游戏东方主义生产了西方的“娱乐玩家”与东方的“苦行僧玩家”两类群体。这种二元分类还衍生了对亚洲人的身体“想象”：因为亚裔玩家在一些游戏与电竞赛事中的出色表现，在西方游戏话语中产生了敏捷灵活、高速反应与精准操作的“亚洲之手”神话。</div>
+<div>　　第三个维度的考察涉及游戏东方主义更为深层次的底层逻辑问题。对游戏、玩家及所在社会的文化建构与想象，体现出游戏东方主义的生产和再生产与现实世界中的全球结构存在密切的勾连。法国社会学家拉图尔在早期的文章中指出，数字游戏空间的运转与维系，需要依托一个隐性的全球数字分工体系。当欧美玩家在游戏空间中恣意体验各种游玩探索的乐趣时，背后是外包亚洲工程师的辛勤付出，甚至还存在“金币农夫”这类为欧美玩家代打，以获取虚拟角色游戏经验和道具为生的游戏玩工。不但无法获得游戏体验，他们还被当作游戏生态的破坏者。在这里，与西方追求游戏体验的玩家相对应的是“为他人而玩”的亚洲游戏玩工。为此，有学者扩大了游戏东方主义指涉的意涵，将其生活世界解读为一个内嵌了等级化游戏秩序的社会操作系统。对游戏东方主义的破除，在游戏文化表现的内容与形式上开展重构并不能解决问题，更为关键的对象还是在背后起支撑作用的这套嵌入东方主义意识的社会操作系统。</div>
+<div>　　《黑神话》发行之前，中国游戏的出海已经取得了相当亮眼的成绩，但游戏产品主要集中在手机游戏和网络游戏两个领域，在游戏文化中占据重要分量的单机游戏尚缺少有全球影响力的代表作品。《黑神话》的出现填补了这项空白，正式上线前的试玩动画便已经引燃了全球玩家的热情，上线之后则迅速跻身全球最成功的单机游戏之列，甚至是年度游戏的有力竞争者。&nbsp;&nbsp;</div>
+<div>　　在许多方面，《黑神话》对游戏东方主义进行了反写。就文化表现而言，中国传统经典文学《西游记》在数字游戏中放大了它的文化生命力，游戏化的改写与细节丰富的精美画面一起展现了恢宏大气的中国奇幻故事。并且，它对游戏空间的营造并非完全基于奇幻的想象，而是实地取景了大量有着千年历史的古建筑与文物，每一帧都被玩家当作高质量的壁纸。较之于一些游戏表现异趣化的东方景观，这款游戏为全球游戏玩家呈现精美绝伦的中国古建筑与瑰丽自然景观的同时，历史与奇幻的结合也带来了沉浸式的游戏体验。</div>
+<div>　　《西游记》元素不仅激活了中国玩家的个人情感与集体记忆，还为全球玩家了解中国神话与历史文化开辟了一条游戏化的数字之路。《西游记》小说及相关影视作品已经成为中国社会文化记忆的重要组成部分，游戏东方主义对玩家群体的简单二元归类显然无法概括中国玩家深厚的情感联结与文化认同。《黑神话》的西游记元素与音律在游戏过程中同中国玩家的成长记忆产生了强烈的共振。例如，游戏配乐对《云宫迅音》电子乐的改编，这段标志性的音乐律动直接将很多“80后”玩家带回了童年。作为中国玩家主体性与能动性的表现，他们在游戏过程中拥有自己的情感、记忆与乐趣，绝非西方话语构建的玩家刻板形象。</div>
+<div>　　数字游戏作为一种文化产品是国家“软实力”的重要表现，对游戏东方主义的反写不仅包括对游戏文化中西方偏见的破除，以及对传统文化的游戏化再创造，它还在生产者的角度指向游戏制作和发行背后的全球分工系统。《黑神话》引发的全球旋风并不是一个偶然事件，它是中国游戏产业长期探索积累到一定程度之后取得的好成绩。今天的中国游戏有能力挖掘底蕴深厚的传统文化，在自主研发的精品数字游戏中讲好中国故事。《黑神话》的高品质制作彰显了中国游戏工作者优秀的技术水平与不俗的美学品味，也向全球游戏厂商与玩家昭示了中国游戏研发的实力和魅力。</div>
+<div>　　<b>（作者系北京工业大学社会学系副教授）</b></div></div>
+                    
+                </div>
+                
+                <div class="content_zz">
+                    转载请注明来源：<strong>中国社会科学网</strong>【编辑：余朋翰  王亮（报纸）王晏清（网络）】
+                </div>
+                <div class="warp_center_links clear">
+    <div class="view">
+        <div class="sk_title_02">
+            <span>社科推荐</span>
+        </div>
+        <ul>
+            
+            <li><a href="https://www.cssn.cn/skgz/202410/t20241011_5790125.shtml" target="_blank">跨学科聚焦人工智能多领域应用</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202501/t20250102_5829933.shtml" target="_blank">学者研讨构建高水平社会主义市场经济体制</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202412/t20241231_5829820.shtml" target="_blank">构建中国哲学社会科学自主知识体系重大成果发布</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/202501/t20250103_5830639.shtml" target="_blank">拓展大运河理论与实践研究</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/202501/t20250103_5830638.shtml" target="_blank">跨学科推动气候法学研究</a></li>
+            
+        </ul>
+    </div>
+</div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="fiexd_title_wrap">
+    <div class="fiexd_title">
+        <span class="fiexd_title_text"></span>
+    </div>
+</div>
+<script language="javascript">
+    $(document).ready(function(){
+        //分辨率变更
+        if($(window).width()<1430){
+            $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a>')
+        }
+        if($(window).width()>1430){
+            $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="22">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a>')
+        }
+        $(window).resize(function() {
+            //分辨率变更
+            if($(window).width()<1430){
+                $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a>')
+            }
+            if($(window).width()>1430){
+                $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="22">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a>')
+            }
+        });
+        $(document).on('click','.sk_size_change a',function () {
+            // 文章字体大小调整
+            $(".sk_size_change a").removeClass('active');
+            $(this).addClass('active');
+            var size = $(this).attr('data-size')
+            setSize(size)
+        })
+    });
+    function setSize(size){
+        //文章文字大小调整
+        var fontSize = parseInt(size)
+        $(".content_center *").animate({"font-size":fontSize+'px'})
+        $(".content_center h2").animate({"font-size":parseInt(fontSize+6)+'px'})
+    }
+    (function (window, $) {
+        var web_url = window.location.href
+        $('.link_url').attr('value', web_url)
+        $('.url_icon').on('click', function () {
+            $('.link_url').select();
+            document.execCommand('copy');
+            $(this).parent().find('.copyUrl').addClass('copy_cur');
+        })
+        $('.copyUrl').on('animationend', function () {
+            $('.copyUrl').removeClass('copy_cur');
+        })
+    })(window, jQuery);
+</script>
+<script>
+    // 二维码
+    $('.qrcodeCanvas').qrcode({
+        text: window.location.href
+    });
+
+    var isPC = IsPC();
+    if (isPC) {
+        $('.qrcodeCanvas').find('canvas').eq(0).css({
+            'width': '100%',
+            'height': '100%',
+            'display': 'block'
+        })
+    }
+
+    var navWrapH = $('.nav_wrap').outerHeight()
+    var crumbsH = $('.sk_crumbs').outerHeight()
+    var fiexdH = $('.fiexd_title_wrap').outerHeight()
+    var warpCenterH = parseInt( $('.warp_center_content').css('padding-top') )
+    // var titleH = $('.content_head').find('h1').eq(0).outerHeight()
+
+    var headHeight = navWrapH + crumbsH + warpCenterH
+    var offset = $('#getHeight').offset();
+    var dis = offset['top'];
+    var leftHeight = dis - navWrapH - fiexdH
+
+    $('.fiexd_title_text').text($('.content_head').find('h1').eq(0).text())
+    // $('.fiexd_subTitle_text').text($('.content_head').find('h2').eq(0).text())
+    // $('.fiexd_title_wrap').css('top', navWrapH)
+    // console.log( 'headHeight:', headHeight )
+
+    // console.log(warpCenterH)
+    $(window).on('scroll', function() {
+
+        if ( $(window).scrollTop() > headHeight ) {
+
+            // $('.fiexd_title_wrap').show().stop().animate({'top': navWrapH},500)
+
+            $('.fiexd_title_wrap').show().css('top', navWrapH)
+
+        } else {
+            //     $('.fiexd_title_wrap').stop().animate({'top': 0} ,500, function() {
+            //         $(this).hide()
+            //     })
+
+            $('.fiexd_title_wrap').css({
+                'top': -navWrapH-32
+            })
+            // console.log( $(window).scrollTop() )
+        }
+        if ( $(window).scrollTop() > leftHeight ) {
+            $('.content_left').addClass('left_fixed')
+
+        } else {
+            $('.content_left').removeClass('left_fixed')
+        }
+    })
+</script>
+<!-- footer -->
+<div class="sk_footer sk_footer_white">
+    <div class="links">
+    <a href="/gywm/" target="_blank" ignoreapd="true">关于我们</a>
+    <a href="/ggfw/" target="_blank" ignoreapd="true">广告服务</a>
+    <a href="/wzsm/" target="_blank" ignoreapd="true">网站声明</a>
+    <a href="/wzjc/" target="_blank" ignoreapd="true">网站纠错</a>
+    <a href="/lxwm/" target="_blank" ignoreapd="true">联系我们</a>
+</div>
+<div class="icp">
+    <span>举报电话：010-65393398</span>
+    <span>举报邮箱：zgshkxw@cass.org.cn</span>
+    <span>互联网新闻信息服务许可证：10120220003</span>
+    <span><a target="_blank" rel="noopener noreferrer" href="https://beian.miit.gov.cn/" ignoreapd="true">京ICP备11013869号</a></span>
+    <span><a target="_blank" rel="noopener noreferrer" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030146" ignoreapd="true">京公网安备11010502030146号</a></span>
+</div>
+<div class="icp icp_sscp">
+    <span class="sk_sscp_logo"><img src="/images/sk_logo_sscp.png" alt="" /></span>
+    <span>中国社会科学杂志社版权所有，未经书面授权禁止使用</span>
+    <span>Copyright &copy; 2011-2024 by www.cssn.cn all rights reserved</span>
+
+    <div class="knet">
+        <script src="https://kxlogo.knet.cn/seallogo.dll?sn=a13101211010042869jlua000000&size=3"></script>
+    </div>
+
+</div>
+<div class="rightBar mobileNone">
+    <a href="javascript:void(0);" class="backTop"></a>
+</div>
+<!--天润代码统计-->
+<div style="display:none">
+<script src="/images/cssn_webdig.js" language="javascript" type="text/javascript"></script>
+</div>
+<!-- cssn.cn Baidu tongji analytics -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?9ac7f8383ed02699dcafe4c2cba61e1f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+<script>
+    $(".content_center").find("div").removeAttr("class");
+    var htm=$(".content_center").html();
+    htm=htm.replace(/div/ig, "p");
+    $(".content_center").html(htm);
+</script>
+</body>
+</html>
