@@ -16,7 +16,12 @@ Mélanie: unification du script avec les autres membres, en s'appuyant sur le sc
 ## Semaine du 16 décembre 
 
 Juliette : J'ai enfin push la dernière version de mon script qui contient maintenant les aspirations, les dumps et le nombre d'occurences du mot "fanstastique(s)".
+Marie : fichier url/Anglais complété.
 
 ## Semaine du 30 décenbre
   
 Mélanie: Ajout code pour télécharger automatiquement dump depuis urls dans aspirations; ajout style pour le tableau. Problème rencontré: le nombre d'occurence n'appartient pas au résultat que j'ai trouvé sur le site + problème d'encodage N/A à résoudre.
+
+## Semaine du 6 janvier
+
+Marie : (le 8 janvier) avancé sur mon script (qui s'occupe de l'analyse du mot "fantasic" en anglais). 
