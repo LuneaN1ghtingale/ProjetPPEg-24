@@ -16,6 +16,7 @@ Mélanie: unification du script avec les autres membres, en s'appuyant sur le sc
 ## Semaine du 16 décembre 
 
 Juliette : J'ai enfin push la dernière version de mon script qui contient maintenant les aspirations, les dumps et le nombre d'occurences du mot "fanstastique(s)".
+Mélanie: Modification URLs car comptage 4/0 (interdit par le site)
 Marie : fichier url/Anglais complété.
 
 ## Semaine du 30 décenbre
@@ -24,4 +25,6 @@ Mélanie: Ajout code pour télécharger automatiquement dump depuis urls dans as
 
 ## Semaine du 6 janvier
 
-Marie : (le 8 janvier) avancé sur mon script (qui s'occupe de l'analyse du mot "fantasic" en anglais). 
+Marie : (le 8 janvier) avancé sur mon script (qui s'occupe de l'analyse du mot "fantasic" en anglais).   
+Mélanie : Ajout Contexte et Concordances, modification CSS. PALS à améliorer, les caractères chinois ne respecte pas le format demandé:Le format de fichier attendu par PALS est le suivant : un
+mot par ligne, possibilité de séparer en phrases avec une ligne vide. 

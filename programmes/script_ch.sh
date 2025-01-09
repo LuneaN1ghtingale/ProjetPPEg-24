@@ -8,13 +8,14 @@ fi
 fichier_url=$1
 num_ligne=1
 
-# Création des répertoires nécessaires
 mkdir -p ../aspirations
 mkdir -p ../dumps-text
+mkdir -p ../contexte
+mkdir -p ../concordances
 mkdir -p ../tableaux
 
-# Début du tableau HTML
-echo "<html>
+cat <<EOF > ../tableaux/tableau_ch.html
+<html>
 <head>
     <meta charset='UTF-8'>
     <title>Tableau des URLs</title>
@@ -31,6 +32,10 @@ echo "<html>
         th {
             background-color: #f2f2f2;
         }
+        .mot-cible {
+            font-weight: bold;
+            color: red;
+        }
     </style>
 </head>
 <body>
@@ -42,82 +47,173 @@ echo "<html>
                 <th>Type d'encodage</th>
                 <th>Nombre de mots</th>
                 <th>Nombre d'occurrences</th>
-                <th>Lien des aspirations</th>
-                <th>Lien des dumps</th>
+                <th>Aspiration</th>
+                <th>Dump</th>
+                <th>Contexte</th>
+                <th>Concordances</th>
             </tr>
         </thead>
-        <tbody>" > ../tableaux/tableau_ch.html
+        <tbody>
+EOF
 
-# Lecture et traitement des URLs
 while read -r url; do
-    file_path="../aspirations/chinois-$num_ligne.html"
+    http_code=$(curl -sI -L "$url" -o /dev/null -w "%{http_code}")
 
-    # Téléchargement du fichier HTML si absent
-    if [ ! -f "$file_path" ]; then
-        echo "Téléchargement de $url vers $file_path..."
-        curl --connect-timeout 5 -s -L -o "$file_path" "$url"
-
-        if [ $? -ne 0 ] || [ ! -s "$file_path" ]; then
-            echo "Erreur : Échec du téléchargement pour $url" >&2
-            echo "<html>
+    if [[ "$http_code" != 2* && "$http_code" != 3* ]]; then
+        echo "URL invalide ou introuvable : code HTTP = $http_code" >&2
+        echo "  <tr>
+                <td>$num_ligne</td>
+                <td><a href=\"$url\">$url</a></td>
+                <td>/</td>
+                <td>/</td>
+                <td>/</td>
+                <td>/</td>
+                <td>/</td>
+                <td>/</td>
+                <td>/</td>
+              </tr>" >> ../tableaux/tableau_ch.html
+    else
+        file_path="../aspirations/chinois-$num_ligne.html"
+        if [ ! -f "$file_path" ]; then
+            echo "Téléchargement de $url vers $file_path..."
+            curl --connect-timeout 5 -s -L -o "$file_path" "$url"
+            # Si échec du téléchargement, on crée une page HTML d’erreur
+            if [ $? -ne 0 ] || [ ! -s "$file_path" ]; then
+                echo "Erreur : Échec du téléchargement pour $url" >&2
+                cat <<EOD > "$file_path"
+<html>
 <head><meta charset='UTF-8'></head>
 <body>Impossible de télécharger $url</body>
-</html>" > "$file_path"
+</html>
+EOD
+            fi
         fi
-    fi
 
-    # Analyse du fichier téléchargé
-    reponse=$(curl --connect-timeout 5 -s -L -w "%{content_type}\t%{http_code}" -o /dev/null "$url")
-    http_code=$(echo "$reponse" | cut -f2)
-    content_type=$(echo "$reponse" | cut -f1)
-    # encodage=$(echo "$content_type" | egrep -o "charset=\S+" | cut -d "=" -f2 | tail -n1)
-    # encodage=${encodage:-"N/A"}
-    encodage=$(curl -sI "$url" | grep -i "Content-Type" | sed -n 's/.*charset=\([^;]*\).*/\1/p')
-	encodage=${encodage:-"N/A"}
+        # Détection de l'encodage
+        content_type=$(curl -sI -L "$url" | grep -i "Content-Type")
+        if [[ "$content_type" =~ charset=([a-zA-Z0-9-]+) ]]; then
+            encodage="${BASH_REMATCH[1]}"
+        else
+            html_content=$(curl -sL "$url")
+            encodage=$(echo "$html_content" \
+                | sed -nE 's/.*<meta[^>]*charset="?([^"]*)"?[^>]*>.*/\1/ip' \
+                | head -n1)
+            if [ -z "$encodage" ]; then
+                encodage=$(echo "$html_content" \
+                    | sed -nE 's/.*<meta[^>]*http-equiv="?Content-Type"?[^>]*content="?[^"]*charset=([^";]+)"?[^>]*>.*/\1/ip' \
+                    | head -n1)
+            fi
+            encodage=${encodage:-"N/A"}
+        fi
 
-    if [ "$http_code" != "200" ]; then
-        echo "URL invalide ou introuvable : code HTTP = $http_code" >&2
-        nb_mots="/"
-        encodage="/"
-        compte="/"
-    else
-        # Comptage des mots dans le fichier
-        nb_mots=$(lynx -dump -nolist "$file_path" | wc -w)
-
-        # Création du dump
+        # Dump text
         dump_path="../dumps-text/chinois-$num_ligne.txt"
         lynx -dump -nolist "$file_path" > "$dump_path"
 
-        # Comptage des occurrences du mot
-        compte=$(egrep -i -o "\b奇幻?\b" "$dump_path" | wc -l)
+        # Nombre total de mots
+        nb_mots=$(wc -w < "$dump_path")
 
+        # Compte des occurrences
+        compte=$(egrep -i -o "奇幻?" "$file_path" | wc -l)
+
+        # Contexte: nettoyage
+        context_path="../contexte/chinois-$num_ligne.txt"
+        cat "$dump_path" \
+          | sed '/^[[:space:]]*$/d' \
+          | sed -E 's/\[[0-9]+\]//g' \
+          | sed '/^References/Id' \
+          | sed '/^mailto:/Id' \
+          | sed '/^URL:/Id' \
+          > "$context_path"
+
+        # Concordances
+# ...
+concordance_path="../concordances/chinois-$num_ligne.html"
+{
+  echo "<html>"
+  echo "<head>"
+  echo "<meta charset='UTF-8'>"
+  echo "<style>"
+  echo "table { border-collapse: collapse; width: 100%; }"
+  echo "th, td { border: 1px solid #aaa; padding: 8px; }"
+  echo "th { background-color: #f2f2f2; }"
+  echo ".mot-cible { font-weight: bold; }"
+  echo "</style>"
+  echo "</head>"
+  echo "<body>"
+  echo "<table>"
+  echo "<tr>"
+  echo "  <th>Contexte gauche</th>"
+  echo "  <th>Mot</th>"
+  echo "  <th>Contexte droit</th>"
+  echo "</tr>"
+
+  while IFS= read -r line; do
+    # On remplace ! et ? par un point pour découper naïvement en phrases
+    line=$(echo "$line" | tr '?!' '.')
+    IFS='.' read -ra phrases <<< "$line"
+
+    for phrase in "${phrases[@]}"; do
+      # Vérifie si la phrase contient le mot
+      if echo "$phrase" | grep -qi "奇幻\?"; then
+
+        # Extraction gauche / mot / droite
+        left=$(echo "$phrase"   | sed -E "s/(.*)(奇幻\?*)(.*)/\1/; t; d")
+        center=$(echo "$phrase" | sed -E "s/(.*)(奇幻\?*)(.*)/\2/; t; d")
+        right=$(echo "$phrase"  | sed -E "s/(.*)(奇幻\?*)(.*)/\3/; t; d")
+
+        # Si center n’est pas vide, c’est qu’on a trouvé le mot
+        if [[ -n "$center" ]]; then
+          # Échappement minimal des chevrons
+          left_esc=$(echo "$left"   | sed 's/</\&lt;/g; s/>/\&gt;/g')
+          center_esc=$(echo "$center" | sed 's/</\&lt;/g; s/>/\&gt;/g')
+          right_esc=$(echo "$right"  | sed 's/</\&lt;/g; s/>/\&gt;/g')
+
+          echo "<tr>"
+          echo "  <td>$left_esc</td>"
+          echo "  <td class='mot-cible'>$center_esc</td>"
+          echo "  <td>$right_esc</td>"
+          echo "</tr>"
+        fi
+      fi
+    done
+  done < "$context_path"
+
+  echo "</table>"
+  echo "</body></html>"
+} > "$concordance_path"
+# ...
+
+
+
+        # Liens pour la table HTML
+        aspiration_link="<a href='../aspirations/chinois-$num_ligne.html'>aspiration</a>"
+        dump_link="<a href='../dumps-text/chinois-$num_ligne.txt'>dump</a>"
+        contexte_link="<a href='../contexte/chinois-$num_ligne.txt'>contexte</a>"
+        concordance_link="<a href='../concordances/chinois-$num_ligne.html'>concordances</a>"
+
+        echo "  <tr>
+                <td>$num_ligne</td>
+                <td><a href=\"$url\">$url</a></td>
+                <td>$encodage</td>
+                <td>$nb_mots</td>
+                <td>$compte</td>
+                <td>$aspiration_link</td>
+                <td>$dump_link</td>
+                <td>$contexte_link</td>
+                <td>$concordance_link</td>
+              </tr>" >> ../tableaux/tableau_ch.html
     fi
 
-    # Liens pour le tableau HTML
-    aspiration="<a href='../aspirations/chinois-$num_ligne.html'>aspiration</a>"
-    dumplink="<a href='../dumps-text/chinois-$num_ligne.txt'>dump</a>"
-
-    # Ajout de la ligne au tableau HTML
-    echo "        <tr>
-            <td>$num_ligne</td>
-            <td><a href=\"$url\">$url</a></td>
-            <td>$encodage</td>
-            <td>$nb_mots</td>
-            <td>$compte</td>
-            <td>$aspiration</td>
-            <td>$dumplink</td>
-        </tr>" >> ../tableaux/tableau_ch.html
-
-    # Incrémentation du numéro de ligne
     num_ligne=$((num_ligne + 1))
-
 done < "$fichier_url"
 
-# Fermeture du tableau HTML
-echo "        </tbody>
+cat <<EOF >> ../tableaux/tableau_ch.html
+        </tbody>
     </table>
 </body>
-</html>" >> ../tableaux/tableau_ch.html
+</html>
+EOF
 
 echo "Tableau généré avec succès dans ../tableaux/tableau_ch.html"
 
