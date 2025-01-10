@@ -12,7 +12,7 @@
      *
      * Dictionnaires
      *
-     * M茅talexicographie
+     * Métalexicographie
      *
      * Outils
      *

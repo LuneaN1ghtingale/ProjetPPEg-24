@@ -41,7 +41,7 @@ Sommaire
 
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
-     * 1 Fantastique ou merveilleux
+     * 1 Fantastique vs merveilleux
      * 2 Registres apparentés
      * 3 Histoire
        (BUTTON) Afficher / masquer la sous-section Histoire
@@ -160,7 +160,7 @@ Fantastique
    Le fantastique est un genre narratif caractérisé par l’intrusion du
    surnaturel dans le cadre réaliste d'un récit.
 
-Fantastique ou merveilleux
+Fantastique vs merveilleux
 
    [modifier | modifier le code]
 
@@ -1164,8 +1164,8 @@ Liens externes
      * icône décorative Portail de la fantasy et du fantastique
 
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Fantastique&oldid=22118328
-   4 ».
+   « https://fr.wikipedia.org/w/index.php?title=Fantastique&oldid=22189954
+   1 ».
    Catégories :
      * Fantastique
      * Genre et forme littéraire
@@ -1183,8 +1183,8 @@ Liens externes
      * Portail:Littérature/Articles liés
      * Portail:Fantasy et fantastique/Articles liés
 
-     * La dernière modification de cette page a été faite le 16 décembre
-       2024 à 08:48.
+     * La dernière modification de cette page a été faite le 8 janvier
+       2025 à 09:44.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation
