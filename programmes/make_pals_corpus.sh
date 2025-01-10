@@ -17,26 +17,39 @@ fichier_sortie_contexte="../pals/contexte-text-$nom_base.txt"
 > "$fichier_sortie_dumps"
 > "$fichier_sortie_contexte"
 
-
-convert_to_pals_format() {
-  cat "$1" \
-    | tr '?!' '.' \
-    | sed 's/\./\.\n\n/g' \
-    | tr -s '[:space:]' '\n' \
-    | awk 'BEGIN{blank=0} NF {print; blank=0} !NF {if(!blank){print ""; blank=1}}'
+# chinois en utilisant thulac
+convert_to_pals_chinois() {
+  python3 -c "
+import sys, re, thulac
+thu = thulac.thulac(seg_only=True)
+for line in sys.stdin:
+    line = re.sub(r'[?!]', '.', line)
+    if not line.strip():
+        print('')
+        continue
+    phrases = re.split(r'(?<=\.)', line)
+    for phrase in phrases:
+        phrase = phrase.strip()
+        if not phrase:
+            continue
+        segmented = thu.cut(phrase, text=True)
+        for word in segmented.split():
+            print(word)
+        print('')
+" < "$1"
 }
 
-# Traitement des fichiers dumps nommés "chinois-*.txt"
+echo "Traitement des dumps..."
 for dump_file in "$dossier_dumps"/chinois-*.txt; do
   if [[ -f "$dump_file" ]]; then
-    convert_to_pals_format "$dump_file" >> "$fichier_sortie_dumps"
+    convert_to_pals_chinois "$dump_file" >> "$fichier_sortie_dumps"
   fi
 done
 
-# Traitement des fichiers contexte nommés "chinois-*.txt"
+echo "Traitement des contextes..."
 for ctx_file in "$dossier_contexte"/chinois-*.txt; do
   if [[ -f "$ctx_file" ]]; then
-    convert_to_pals_format "$ctx_file" >> "$fichier_sortie_contexte"
+    convert_to_pals_chinois "$ctx_file" >> "$fichier_sortie_contexte"
   fi
 done
 

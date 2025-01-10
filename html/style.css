@@ -1,0 +1,208 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  min-height: 100vh;
+  position: relative;
+}
+
+.titre-centre {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Barre de navigation */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  z-index: 999;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* espace entre le titre et le menu */
+  padding: 10px 20px;
+}
+
+/* Nom du site à gauche */
+.site-name {
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+/* Menu principal à droite */
+nav {
+  /* Aucun alignement particulier requis ici puisque justify-content gère la répartition */
+}
+
+ul.menu {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+ul.menu > li > a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 15px;
+  transition: background-color 0.3s;
+}
+
+ul.menu > li:hover > a {
+  background-color: #444;
+}
+
+/* Sous-menus élargis */
+.submenu {
+  position: absolute;
+  display: none;
+  background-color: #333;
+  list-style: none;
+  margin-top: 10px;
+  padding: 0;
+  width: 150px; /* largeur élargie pour le sous-menu */
+}
+
+ul.menu li {
+  position: relative;
+}
+
+ul.menu li:hover .submenu {
+  display: block;
+}
+
+.submenu li a {
+  display: block;
+  padding: 10px 15px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.submenu li a:hover {
+  background-color: #444;
+}
+
+main {
+  padding-top: 0px;
+  min-height: 100vh;
+  position: relative;
+}
+
+.bg-slide {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.mot-cle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 20px 30px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+#mot {
+  font-size: 4rem;
+  margin-bottom: 15px;
+}
+
+.lang-versions {
+  font-style: italic;
+  display: block;
+  margin-top: 5px;
+}
+
+#definition {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.slideshow-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;         /* Nouvelle valeur */
+  overflow: hidden;
+}
+
+.slide-buttons {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  z-index: 100; /* Assure que les boutons sont au-dessus */
+}
+
+.slide-buttons button {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: none;
+  background-color: #ccc;
+  margin: 0 5px;
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.3s;
+}
+
+.slide-buttons button:hover,
+.slide-buttons button.active {
+  background-color: #333;
+}
+
+/* Style pour la section Présentation */
+#presentation {
+  background-color: rgba(255, 255, 255, 0.8); /* fond blanc semi-transparent */
+  padding: 50px 20px;
+  margin-top: 100vh; /* pour s'assurer qu'elle apparaît après le diaporama initial */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Tableau */
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            margin: 0 auto;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .mot-cible {
+            font-weight: bold;
+            color: red;
+        }
+
+/* footer */
+footer {
+            background-color: #222;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }

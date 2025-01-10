@@ -1,9 +1,157 @@
-<html>
-  <head>
-    <meta charset='UTF-8'>
-  </head>
-  <body>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Projet Encadré</title>
+  <link rel="stylesheet" href="html/style.css" />
+</head>
 
-    
-  </body>
+<body>
+
+  <!-- Barre de navigation en haut -->
+  <header>
+    <div class="header-content">
+          <h1 class="site-name">Projet Encadré</h1>
+      <!-- Menu Sommaire -->
+      <nav>
+        <ul class="menu">
+          <li><a href="#">Accueil</a></li>
+
+          <li><a href="html/presentation.html">Présentation</a></li>
+
+          <li>
+            <a href="#">Tableaux</a>
+            <ul class="submenu">
+              <li><a href="html/tableau_cn.html">Tableau CN</a></li>
+              <li><a href="#">Tableau FR</a></li>
+              <li><a href="#">Tableau EN</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="#">Scripts</a>
+            <ul class="submenu">
+              <li><a href="html/script_cn.html">Script CN</a></li>
+              <li><a href="#">Script FR</a></li>
+              <li><a href="#">Script EN</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="#">Nuages</a>
+            <ul class="submenu">
+              <li><a href="html/nuage_cn.html">Nuage CN</a></li>
+              <li><a href="#">Nuage FR</a></li>
+              <li><a href="#">Nuage EN</a></li>
+            </ul>
+          </li>
+
+          <li><a href="https://github.com/LuneaN1ghtingale/ProjetPPEg-24">GITHUB</a></li>
+        </ul>
+      </nav>
+
+    </div>
+  </header>
+
+<main>
+<section class="slideshow-container">
+  <img id="bgImage" src="html/bg_cn.jpeg" alt="Image de fond" class="bg-slide" />
+
+  <!-- Contenu du mot-clé et de sa définition -->
+  <div class="mot-cle">
+    <div class="contenu-mot">
+      <h2 id="mot">
+        Mot clé :
+        <span class="lang-versions">
+          Français – 中文 – English
+        </span>
+      </h2>
+      <p id="definition">
+        Ici se trouve la définition du mot dans les trois langues.
+      </p>
+    </div>
+  </div>
+
+  <!-- Boutons de sélection de slide -->
+  <div class="slide-buttons">
+    <button data-index="0" aria-label="Slide 1"></button>
+    <button data-index="1" aria-label="Slide 2"></button>
+    <button data-index="2" aria-label="Slide 3"></button>
+  </div>
+</section>
+
+</main>
+
+
+<!-- Script pour le diaporama d'images et de textes -->
+<script>
+  // Tableau contenant les informations de chaque slide
+  const slides = [
+    {
+      image: "html/bg_cn.jpeg",
+      mot: "奇幻",
+      definition: '奇幻（拼音：qí huàn），由英文的 “fantasy”翻译而来，意思是奇异而虚幻，不真实的，出自《西京赋》。<br>汉 张衡 《西京赋》：“奇幻儵忽，易貌分形；吞刀吐火，云雾杳冥。”<br>中文里，它通常指涉及非现实元素的故事、场景或艺术作品，如奇幻小说、奇幻电影。它也可以作为形容词，“奇幻”用来修饰某种充满奇异、美丽、不可思议特征的景象或经历。'
+    },
+    {
+      image: "chemin/vers/image_anglaise.jpg",
+      mot: "Fantasy",
+      definition: 'blablabla'
+    },
+    {
+      image: "chemin/vers/image_français.jpg",
+      mot: "Fantastique",
+      definition: 'blablabla'
+    },
+    // Ajoutez d'autres slides si nécessaire
+  ];
+
+  let currentSlide = 0;
+  const slideButtons = document.querySelectorAll('.slide-buttons button');
+
+  function updateActiveButton() {
+    slideButtons.forEach(btn => btn.classList.remove('active'));
+    if (slideButtons[currentSlide]) {
+      slideButtons[currentSlide].classList.add('active');
+    }
+  }
+
+  function showSlide(index) {
+    currentSlide = (index + slides.length) % slides.length;
+    document.getElementById("bgImage").src = slides[currentSlide].image;
+    document.getElementById("mot").innerHTML = slides[currentSlide].mot;
+    document.getElementById("definition").innerHTML = slides[currentSlide].definition;
+    updateActiveButton();
+  }
+
+  function showNextSlide() {
+    showSlide(currentSlide + 1);
+  }
+
+  function showPrevSlide() {
+    showSlide(currentSlide - 1);
+  }
+
+  // Changer le slide automatiquement toutes les 6 secondes (6000 ms)
+  setInterval(showNextSlide, 6000);
+
+  // Afficher immédiatement le premier slide au chargement
+  showSlide(currentSlide);
+
+  // Ajouter des écouteurs d'événements pour les boutons de sélection de slide
+  slideButtons.forEach(btn => {
+    btn.addEventListener('click', function() {
+      let idx = Number(this.dataset.index);
+      showSlide(idx);
+    });
+  });
+</script>
+
+<footer>
+    <p>
+        © 2025 Projet M1 TAL <br>
+        Réalisé par ZHUGE Mélanie, HENRY Juliette, LATIMIER Marie Sasha
+    </p>
+</footer>
+
+</body>
 </html>
