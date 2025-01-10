@@ -208,7 +208,7 @@ concordance_path="../concordances/chinois-$num_ligne.html"
     num_ligne=$((num_ligne + 1))
 done < "$fichier_url"
 
-cat <<EOF >> ../tableaux/tableau_ch.html
+C
         </tbody>
     </table>
 </body>
