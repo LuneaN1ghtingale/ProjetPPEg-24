@@ -1,21 +1,43 @@
 <html>
 <head>
-	<meta charset='UTF-8'>
+    <meta charset='UTF-8'>
+    <title>Tableau des URLs</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .mot-cible {
+            font-weight: bold;
+            color: red;
+        }
+    </style>
+
 </head>
 <body>
-	<table>
-		<thead>
-			<tr>
-			<th>N° de ligne</th>
-			<th>Lien des URLs</th>
-			<th>Type d'encodage</th>
-			<th>Nombre de mots</th>
-			<th>Nombre d'occurence</th>
-			<th>Lien des aspirations</th>
-			<th>Lien des dumps</th>
-			</tr>
-		</thead>
-<tbody>
+    <table>
+        <thead>
+            <tr>
+                <th>N° de ligne</th>
+                <th>Lien des URLs</th>
+                <th>Type d'encodage</th>
+                <th>Nombre de mots</th>
+                <th>Nombre d'occurrences</th>
+                <th>Aspiration</th>
+                <th>Dump</th>
+                <th>Contexte</th>
+                <th>Concordances</th>
+            </tr>
+        </thead>
+        <tbody>
 
 		<tr>
 		<td>1</td>
@@ -25,6 +47,8 @@
 		<td>197</td>
 		<td><a href='../aspirations/français-1.html'>aspiration</a></td>
 		<td><a href='../dumps-text/français-1.txt'>dump</a></td>
+		<td><a href='../contexte/français-1.txt'>contexte</a></td>
+		<td><a href='../concordances/français-1.html'>concordances</a></td>
 		</tr>
 
 		<tr>
@@ -35,8 +59,10 @@
 		<td>39</td>
 		<td><a href='../aspirations/français-2.html'>aspiration</a></td>
 		<td><a href='../dumps-text/français-2.txt'>dump</a></td>
+		<td><a href='../contexte/français-2.txt'>contexte</a></td>
+		<td><a href='../concordances/français-2.html'>concordances</a></td>
 		</tr>
-</tbody>
-</table>
+        </tbody>
+    </table>
 </body>
 </html>
