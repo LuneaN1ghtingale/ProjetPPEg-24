@@ -1,0 +1,365 @@
+   #Cahiers du Celec Théories du fantastique : les écrivaines italiennes
+   recréent le genre – Cahiers du Celec
+
+---------------
+       [PDF, 84k] TEI
+
+Théories du fantastique : les écrivaines italiennes recréent le genre
+       Beatrice Laghezza
+       DOI : 10.35562/celec.478
+---------------
+Texte
+       Lorsqu’on considère, d’un côté le retard avec lequel le récit
+       fantastique est né puis s’est développé en Italie, et de l’autre
+       les résistances que d’illustres critiques ont opposées, sur la base
+       d’arguments de nature formelle ou idéologique, à l’éclosion d’une
+       tradition interprétative susceptible d’éclairer l’histoire de ce
+       genre1, il peut paraître surprenant de constater que la toute
+       première étude sur le fantastique italien publiée en Italie remonte
+       à l’année 1925, bien avant, donc, la publication de ce livre
+       capital qu’est l’Introduction à la littérature fantastique (1970)
+       de Tzvetan Todorov2. De plus, le livre en question, Il fantastico
+       nella letteratura italiana della seconda metà del sec. XVIII [« Le
+       fantastique dans la littérature italienne de la seconde moitié du
+       xviiie siècle »], est l’œuvre d’une femme, Isotta Pieri Bortolotti,
+       laquelle analyse, dans les ouvrages de Gaspare et Carlo Gozzi, les
+       premiers exemples de « ce genre poétique et fantastique [qui se
+       manifestent] en plein xviiie siècle3 ». À l’étonnement que suscite
+       cette rareté bibliographique s’associe la perplexité pour le rôle
+       tout à fait marginal qui a été réservé aux femmes par les critiques
+       qui se sont penché(e)s sur la présence et les frontières du genre
+       fantastique dans la littérature italienne des xixe et xxe siècles.
+       À coté des pères fondateurs du fantastique italien et de leurs
+       successeurs les plus connus – d’Igino Ugo Tarchetti à Antonio
+       Tabucchi, en passant par Camillo et Arrigo Boito, Luigi Pirandello,
+       Alberto Savinio, Dino Buzzati, Tommaso Landolfi, Italo Calvino et
+       Giorgio Manganelli – l’histoire de la littérature italienne peut en
+       effet se targuer d’une légion d’écrivaines fantastiques qui, de
+       même que leurs collègues hommes, fréquentèrent le répertoire du
+       surnaturel tout entier, en le renouvelant dans leurs œuvres.
+---------------
+       et occidentale du genre, ces mêmes écrivaines choisirent soit de
+       s’inscrire dans la continuité de celle-ci pour élaborer des
+       conceptions du fantastique personnelles et originales, soit au
+       contraire de prendre leurs distances avec une telle tradition, pour
+       revendiquer l’indépendance de leur imaginaire vis- à-vis des
+       auctoritates masculines. Ce n’est cependant qu’en 1986 que la
+       critique littéraire semble s’apercevoir de la présence, jusqu’alors
+       refoulée, d’un fantastique italien écrit par les femmes : en cette
+       année-là, paraît l’anthologie L’orrore al femminile. 20 autrici di
+       narrativa gotica, nera, fantastica [« L’horreur au féminin.
+       20 écrivaines de littérature gothique, noire, fantastique »], dont
+       les éditeurs scientifiques, Elinor Childe et John G. Pinamonte, ne
+       sélectionnent pas moins de cinq Italiennes (à savoir : Matilde
+       Serao, Carolina Invernizio, Grazia Deledda, Annie Vivanti, Rosa
+       Rosà4). Un véritable débat sur la question du fantastique féminin
+       naît une dizaine d’années plus tard, grâce à un travail précurseur
+       de Monica Farnetti, intitulé « Irruzioni del semiotico nel
+       simbolico. Appunti sul fantastico femminile » [« Irruptions du
+       sémiotique dans le symbolique. Notes sur le fantastique féminin »]
+       et publié dans un recueil d’études sur le fantastique dirigé par
+       Marina Galletti5 en 1996. À partir de cette date, Farnetti consacre
+       à ce sujet de nombreuses interventions qui ont l’ambition
+       d’inscrire la problématique du fantastique féminin dans le cadre du
+       vaste débat sur le fantastique italien qui, précisément pendant les
+       années quatre-vingt-dix, se développe de plus en plus. Tandis que
+       se multiplient les études – dans des revues ou des actes de
+       colloques – consacrées à telle ou telle femme écrivain fantastique,
+       au début du troisième millénaire apparaissent les premiers bilans
+       critiques, qui visent à tracer les grandes lignes d’une histoire du
+       fantastique italien décliné au féminin. Pour ne citer que les
+       contributions les plus représentatives, nous rappellerons le livre
+       d’Annamaria Cavalli, Oltre la soglia. Fantastico, sogno e femminile
+       nella letteratura italiana e dintorni6 [« Au-delà du seuil.
+       Fantastique, rêve et féminin dans la littérature italienne et ses
+       alentours »] publié en 2002, les actes d’un séminaire de recherches
+       qui s’est déroulé, toujours en 2002, entre Venise et Florence, dont
+---------------
+       Monica Farnetti et Uta Treder, sous le titre éloquent de La
+       perturbante7, les actes du colloque londonien de 2003 sur le
+       gothique et le fantastique italiens, publiés en 2007 par Francesca
+       Billiani et Gigliola Sulis (au sein de l’ouvrage, une section
+       entière porte sur le fantastique écrit par les femmes8), l’étude de
+       2007 de Danielle Hipkins qui comporte des chapitres monographiques
+       sur Paola Capriolo, Francesca Duranti et Rossana Ombres9, le volume
+---------------
+       sans doute ennuyeuse en dépit de sa brièveté, est cependant
+       intéressante, dans la mesure où elle nous permet de remarquer que
+       le fantastique féminin, malgré l’attention critique dont il a été
+       l’objet pendant la décennie qui vient de s’écouler, reste un
+       domaine de recherche réservé aux femmes : sa réhabilitation
+---------------
+       mentionner deux positions théoriques qui, à notre avis, montrent
+       avec une admirable clarté la question fondamentale autour de
+       laquelle tourne le débat sur le fantastique féminin, au risque d’y
+       rester enlisé. Le point de départ est le suivant : le fantastique
+       féminin est-il affaire de genre – au sens sexuel du mot – ou bien
+       de genre – au sens que ce terme possède dans la théorie
+       littéraire ? Dans son étude de 2002, « Definire il fantastico
+       femminile » [« Définir le fantastique féminin »], Farnetti affirme
+       que « pour penser le fantastique dans une perspective féminine,
+       l’essai de Freud », Das Unheimliche (1919), sur lequel on fonde,
+       par tradition, l’esthétique du genre, « est en partie inutilisable,
+---------------
+       Farnetti identifie trois « déviations significatives » par rapport
+       au « paradigme freudien14 », qui correspondraient à autant de
+       preuves de l’existence d’un fantastique féminin ontologiquement et
+       génétiquement différent du fantastique des hommes. Le premier
+       modèle alternatif concerne « la réponse émotionnelle que le
+       personnage, au niveau textuel, fournit à l’événement
+       inquiétant15 », réponse en vertu de laquelle les écrivaines
+       « remplacent » la « dimension du conflit angoissé et angoissant
+       avec l’“étranger” » – typique du fantastique des hommes – par « une
+       relation empathique » d’« ouverture, de gentillesse, de compassion,
+       voire même d’affection et d’amour16 », dont le but est « l’amitié
+---------------
+       psychanalytique coïncide avec cette composante « ironique, pour ne
+       pas dire euphorique19 », qui, d’après Farnetti, caractérise la
+       posture narrative des écrivaines du fantastique. Ces hypothèses,
+       sans doute fascinantes et riches en suggestions, risquent, à notre
+       avis, d’être invalidées par trois considérations. En premier lieu,
+       Farnetti emploie la notion de fantastique dans une acception très
+       large et flexible, en faisant converger dans cette catégorie de
+       nombreux genres et registres littéraires : le merveilleux, le
+---------------
+       surnaturel à laquelle fait référence cette spécialiste constitue
+       bien plus une prérogative du merveilleux ou du féerique, que du
+       fantastique au sens strict de ce mot. En deuxième lieu, Farnetti
+       semble oublier que l’ironie représente l’un des instruments
+       rhétoriques les plus fréquemment adoptés par l’écrivain fantastique
+       et « maniériste20 » du xxe siècle ; celui-ci, parfaitement
+       conscient qu’il a derrière lui un répertoire extraordinaire de
+---------------
+       modernité (et de l a postmodernité). Ce n’est certes pas un hasard
+       si l’« ironie » représente l’élément fondamental sur lequel Calvino
+       bâtit sa propre théorie d’un fantastique italien du xxe siècle
+       considéré comme un genre éminemment « intellectuel21 ». Par
+       ailleurs, et en troisième lieu, Farnetti semble négliger une autre
+       caractéristique récurrente du fantastique contemporain : dans les
+       textes du xxe siècle, la perte de l’effet inquiétant et
+       l’acquiescement au surnaturel – qui fait irruption dans la réalité
+---------------
+       lui-même a contribué à la reconnaissance théorique de cet aspect,
+       dans la mesure où il a évoqué, à propos de La métamorphose (Die
+       Verwandlung, 1915) de Kafka, un « fantastique adapté » au sein
+       duquel « l’événement surnaturel ne provoque plus d’hésitation car
+       le monde décrit est tout entier bizarre, aussi anormal que
+       l’événement même à quoi il fait fond22 ». Bien avant Todorov,
+       d’ailleurs, Jean-Paul Sartre, dans une brève mais pénétrante étude
+       publiée en 1947 et consacrée aux nouvelles formes du fantastique au
+       xxe siècle, mentionnait quelques exemples de ce « fantastique […]
+       contemporain23 » où « le monde humain à l’endroit » s’est
+       transformé en un monde « à l’envers24 », dans lequel les
+---------------
+       normales25 ». Ce n’est donc ni dans la disparition de l’expérience
+       unheimlich, ni dans l’empathie, ni dans l’ironie, que nous pouvons
+       découvrir les fondements spécifiques d’un fantastique féminin : ces
+       trois éléments représentent autant de stratégies de réécriture
+       propres à tout le fantastique du xxe siècle, masculin aussi bien
+       que féminin.
+       Dans son livre sur le fantastique, Danielle Hipkins affirme, au
+       contraire, que les écrivaines italiennes ne sont absolument pas
+       immunisées contre les complexes freudiens : il serait, par
+---------------
+       femmes sont restées très longtemps à l’écart de l’histoire
+       littéraire et des politiques éditoriales, les écrivaines du
+       fantastique ne seraient pas seulement victimes de cette « angoisse
+       de l’influence » qui, d’après Harold Bloom26, frappe, à partir
+       d’une certaine époque, toute la littérature, devenue consciente de
+       sa « condition posthume27 » ; en plus de cette anxiété généralisée,
+       les femmes manifesteraient une angoisse épigonale plus spécifique
+       vis-à-vis d’un canon littéraire du fantastique exclusivement
+       composé d’auctoritates masculines. Une trace reconnaissable de
+       cette angoisse réside, selon Hipkins, dans le taux
+       d’intertextualité très élevé qui caractériserait les textes
+       fantastiques écrits par des femmes.
+       Malgré les différences évidentes, à la fois sur le plan théorique
+       et méthodologique, il nous semble que ces deux approches ont un
+       élément en commun : Farnetti et Hipkins considèrent qu’une
+       définition du fantastique féminin italien ne saurait faire
+       abstraction d’une comparaison/confrontation avec la tradition
+       masculine ; cette relation conflictuelle prend les formes
+---------------
+       Nous souhaiterions ici, en revanche, sortir de cette bifurcation
+       – ou de cette impasse – en essayant de parcourir une troisième
+       voie : l’examen des poétiques du fantastique élaborées par les
+       écrivains femmes qui ont pratiqué ce genre. Il ne s’agit nullement
+       d’une proposition théorique, mais empirique, que vient conforter
+       l’opinion de plusieurs théoriciens, selon lesquels « parmi tous les
+       registres et les genres littéraires » le fantastique serait « l’un
+       des plus clairement auto-conscients28 » ; il est d’ailleurs aisé de
+       constater que nombre d’écrivains fantastiques – hommes et femmes –
+       n’ont pas résisté à la tentation de réfléchir sur leurs œuvres, et
+       plus généralement, sur l’horizon littéraire destiné à les
+---------------
+       théorique, dans lequel une critique littéraire d’exception, Matilde
+       Serao, explique qu’à la différence du « merveilleux » mis en œuvre
+       par Carlo Gozzi dans ses Fiabe [« Contes de fées »], le fantastique
+       « n’est absolument pas contraire à tout ce qui est ordinaire », car
+       « le fantastique n’est pas le contraire de la vie », il ne
+       bouleverse pas les lois de l’existence » : « le fantastique, c’est
+       tout autre chose, tout autre chose30 ! », écrit-elle. En effet,
+       tandis que dans le merveilleux « les lois habituelles de la nature
+       sont suspendues » et que « tout peut arriver : […] ce qui est
+       étrange, mais aussi ce qui est impossible31 », le fantastique
+       « correspond à la vie et il lui correspond, parfois, selon une
+       mesure mathématique : il a des règles intimes, profondes, en vertu
+       desquelles il peut apparaître tel qu’il est réellement,
+       fantastique, certes, mais en même temps logique32 ». Serao propose
+       ici une définition « exclusive » et circonscrite du genre, qu’elle
+       distingue clairement de registres littéraires comme le féerique ou
+---------------
+       vraisemblance auxquels obéit la réalité extérieure au texte, et de
+       l’autre, un événement qui brise la cohérence logique et narrative
+       de cet univers. Le fantastique de Serao est en somme le fantastique
+       classique du xixe siècle, dont les modèles – expressément cités
+       dans le texte – s’appellent Hoffmann et Poe, et qui prend naissance
+---------------
+       théoriser, dans la seconde moitié du xxe siècle, des critiques
+       comme Caillois et Todorov33.
+       En revanche, l’idée selon laquelle le fantastique peuplé de
+       monstres et de fantômes, et bâti sur la croyance du lecteur, doit
+       désormais céder la place à un fantastique plus quotidien et plus
+       existentiel, émerge dans les douze Quaderni d’appunti inédits
+       [« Cahiers de notes »] de Paola Masino, conservés dans l’Archivio
+---------------
+       réflexions réunies dans les deux premiers calepins, et qu’on peut
+       dater des années 1929-1939, semblent anticiper de plusieurs
+       décennies la célèbre distinction de Calvino entre le fantastique
+       « visionnaire » du xixe siècle et le fantastique « psychologique »
+       ou « mental » du xxe siècle, où le mystère « commence à faire
+       partie d’une dimension intérieure, à l’instar d’un état d’âme ou
+---------------
+       les notes de Masino on découvre également une réflexion sur cette
+       « rhétorique de l’indicible37 » qui constitue un véritable topos du
+       fantastique : « les gens – remarque Masino – sont facilement
+       disposés à croire à l’horreur », cependant « ce qu’on peut
+       représenter n’est jamais la véritable essence du drame […]. Le
+       drame authentique est dans tout ce que nous imaginons38 ». D’autres
+       éléments significatifs de la pensée de Masino sur le fantastique,
+       qui affleurent des cahiers de notes, sont l’importance qu’elle
+       accorde au « domaine mystérieux39 » de l’enfance, son intérêt pour
+       l’inquiétante étrangeté que suscitent les objets technologiques,
+       telle que la radio40, et même, l’hypothèse selon laquelle le
+       fantastique doit se croiser avec la science-fiction ou avec le
+       récit cosmogonique pour « chercher une nouvelle capacité
+       d’expression dans les premiers pas de la science » : « autrement
+---------------
+       « l’imagination aussi, la fantaisie aussi, comme les rêves, sont
+       une partie de l’homme et sont, dès lors, réalité43 ». Le
+       fantastique philosophique des Quaderni est en somme celui qui naît
+       du « climat spirituel » qui gouverne l’âme de tout artiste
+       authentique : vivifié « par un désir d’absolu44 », ce fantastique
+       jaillit des « pensées universelles et inéluctables45 » « du Moi, de
+       la Vie, de la Mort, de la Folie, de l’Amour46 ».
+       À première vue, la tension spéculative qui nourrit le genre dans la
+       poétique de Masino semble se situer très loin du fantastique
+       onirique qu’Elsa Morante théorise dans les Lettere ad Antonio
+       [« Lettres à Antonio »], écrites entre les mois de janvier et
+---------------
+       avec la réflexion sur le rôle que les matériaux oniriques revêtent
+       dans la création littéraire. Ce dernier aspect est en réalité un
+       topos du fantastique du xixe siècle. Il suffira de mentionner ici
+       le fameux essai de Robert Louis Stevenson, A Chapter on Dreams
+       [« Un chapitre sur les rêves »] (1888), où l’auteur de The Strange
+---------------
+       formes artistiques parfaites, sous peine de condamner l’écriture au
+       chaos de l’irreprésentable. Si dans les page du journal
+       « métapoïétique57 » de 1938 le fantastique de Morante est en somme
+       un fruit hybride, qui naît de la greffe de la mémoire sur le rêve,
+       dans les essais « I personaggi » [« Les personnages »], de 1950,
+---------------
+       libérer la ville terrifiée59 », de même, « l’écrivain et tout
+       particulièrement le romancier » – auquel nous pourrions ajouter
+       l’auteur de récits fantastiques – « représente, dans le monde, […]
+       l’intervention qui soustrait la ville humaine aux monstres de
+       l’absurde […], de façon à retrouver, même parmi les confusions les
+---------------
+       donner en spectacle, mais pour obtenir une connaissance
+       absolue »61.
+       Fantastique logique chez Matilde Serao, fantastique philosophique
+       chez Paola Masino, fantastique onirique et gnoséologique chez Elsa
+       Morante : ce sont là trois exemples possibles de la façon dont les
+       écrivains femmes du fantastique italien inscrivent leur propre
+       poétique dans une réflexion sur l’esthétique du genre. Il nous
+       semble qu’une telle approche nous permet de sortir de l’impasse du
+---------------
+       (1980-2007). I. Il punto sul fantastico italiano », Moderna, IX, 2,
+       2007, p. 213-252.
+       2 Cf. TODOROV TZ., Introduction àla littérature fantastique, Paris,
+       Éditions du Seuil, 1970. Bien que de nombreux critiques et
+       philosophes se soient…
+---------------
+       22 TODOROV TZ., Introductionàlalittératurefantastique, op. cit.,
+       p. 181.
+       23 SARTRE J.-P., « Aminadabou du fantastique considéré comme un
+       langage », in Idem, Situations.I.Essais critiques, Paris,
+       Gallimard, 1947, p. 117.
+---------------
+       1996.
+       28 CESERANI R., Ilfantastico, op. cit., p. 70.
+       29 L’étude des poétiques du fantastique mériterait d’être
+       approfondie aussi en ce qui concerne les auteurs canoniques. En
+       effet, il n’existe, à l’…
+---------------
+       31 Ibid., p. 244-245.
+       32 Ibid., p. 259.
+       33 Cf. CAILLOIS Roger, Au cœur du fantastique, Paris, Gallimard,
+       1965, et TODOROV TZ., Introduction à la littérature fantastique,
+       op. cit.
+       34 CALVINO I., « Racconti fantastici dell’Ottocento » [1983], in
+---------------
+       Roma”, p. 3. Nous…
+       36 Ibid., p. 45.
+       37 Cf. BELLEMIN-NOËL Jean, « Des formes fantastiques aux thèmes
+       fantasmatiques », Littérature, 2, mai 1971, p. 103-118.
+       38 MASINO P., AppuntiI, op. cit., p. 6.
+---------------
+       (1980-2007). I. Il punto sul fantastico italiano », Moderna, IX, 2,
+       2007, p. 213-252. Retour au texte
+       2 Cf. TODOROV TZ., Introduction à la littérature fantastique,
+       Paris, Éditions du Seuil, 1970. Bien que de nombreux critiques et
+       philosophes se soient intéressés au fantastique avant Todorov
+       – pensons par exemple à P.-G. Castex, L. Vax, M. Milner,
+       R. Caillois, J.-P. Sartre, P. Penzoldt – l’Introduction à la
+       littérature fantastique marque sans doute un tournant dans
+       l’histoire de la théorie du fantastique (cf. CESERANI Remo, Il
+       fantastico, Bologne, Il Mulino, 1996, p. 12, note 2). Par ailleurs,
+       le livre de Todorov revêt une importance fondamentale pour la
+       critique littéraire italienne, puisqu’un vrai débat sur le
+       fantastique ne se développe en Italie que dans les années
+       soixante-dix, à la suite de la publication de l’Introduction en
+       1970 et, surtout, de sa traduction par l’éditeur Garzanti en 1977
+---------------
+       [1970], in Idem, Saggi 1945-1985, édités par M. Barenghi, Milan,
+       Mondadori, 1995, vol. I, p. 267. Retour au texte
+       22 TODOROV TZ., Introduction à la littérature fantastique,
+       op. cit., p. 181. Retour au texte
+       23 SARTRE J.-P., « Aminadab ou du fantastique considéré comme un
+       langage », in Idem, Situations. I. Essais critiques, Paris,
+       Gallimard, 1947, p. 117. Retour au texte
+---------------
+       letteratura, Turin, Einaudi, 1996. Retour au texte
+       28 CESERANI R., Il fantastico, op. cit., p. 70. Retour au texte
+       29 L’étude des poétiques du fantastique mériterait d’être
+       approfondie aussi en ce qui concerne les auteurs canoniques. En
+       effet, il n’existe, à l’heure actuelle, qu’une seule contribution
+---------------
+       31 Ibid., p. 244-245. Retour au texte
+       32 Ibid., p. 259. Retour au texte
+       33 Cf. CAILLOIS Roger, Au cœur du fantastique, Paris, Gallimard,
+       1965, et TODOROV TZ., Introduction à la littérature fantastique,
+       op. cit. Retour au texte
+       34 CALVINO I., « Racconti fantastici dell’Ottocento » [1983], in
+---------------
+       au texte
+       36 Ibid., p. 45. Retour au texte
+       37 Cf. BELLEMIN-NOËL Jean, « Des formes fantastiques aux thèmes
+       fantasmatiques », Littérature, 2, mai 1971, p. 103-118. Retour au
+       texte
+---------------
+
+Référence électronique
+       Beatrice Laghezza, « Théories du fantastique : les écrivaines
+       italiennes recréent le genre », Cahiers du Celec [En ligne],
+       9 | 2015, mis en ligne le 01 juin 2023, consulté le 11 janvier

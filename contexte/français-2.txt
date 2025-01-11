@@ -1,134 +1,1043 @@
-   fantastique_____________________________________ Chercher
-   options d'affichage                              catégorie : [toutes______]
-     * FANTASTIQUE, adj. et subst.
+       (BUTTON) Afficher / masquer la sous-section Définition et
+       délimitations
+          + 1.1 Fantastique et science-fiction
+          + 1.2 Fantastique et horreur
+          + 1.3 Fantastique et merveilleux
+     * 2 Histoire
+       (BUTTON) Afficher / masquer la sous-section Histoire
+          + 2.1 Les précurseurs du muet
+          + 2.2 L'expressionnisme allemand
+          + 2.3 Le fantastique muet dans le reste de l'Europe
+          + 2.4 Le fantastique hollywoodien du muet...
+          + 2.5 ... au parlant
+          + 2.6 Le fantastique onirique de la Seconde Guerre mondiale
+          + 2.7 Monstres et mutants de l'ère atomique
+          + 2.8 Renouveau du fantastique au Royaume-Uni
+          + 2.9 L'apogée du gothique
+          + 2.10 Le réalisme fantastique des années 1960-70
+          + 2.11 Du gore au slasher, renouvellement des mythes de
+            l'horreur
+---------------
+          + 2.13 La vogue de l'heroic fantasy
+          + 2.14 Blockbusters et remakes
+          + 2.15 Nouvelle vague du fantastique au tournant des années 2000
+     * 3 Thématique
+       (BUTTON) Afficher / masquer la sous-section Thématique
+---------------
+     * 8 Mélange des genres
+       (BUTTON) Afficher / masquer la sous-section Mélange des genres
+          + 8.1 Animation fantastique
+          + 8.2 Comédie fantastique
+          + 8.3 Western fantastique
+          + 8.4 Péplum et fantastique
+          + 8.5 Fantastique érotique
+     * 9 Notes et références
+     * 10 Bibliographie
+---------------
+   [ ] Basculer la table des matières
 
-   FANTASTIQUE, adj. et subst.
-   A.− Vieux
-   1. [En parlant d'une pers.] Qui donne libre cours à son imagination, se
-   forge des chimères. Un assez grand nombre (...) de rêveurs fantastiques
-   se promettaient, (...) l'égalité des biens, ou le suffrage universel
-   (Guizot, Hist. civilisation,Leçon n^o13, 1828, p. 21).
-   − P. méton. [En parlant de l'activité imaginaire d'une pers.] Qui n'est
-   qu'une construction de l'imagination, n'a aucun fondement dans la
-   réalité. Desseins, projets fantastiques. Synon. imaginaire.Je détruis,
-   par le raisonnement, les idées fantastiques qu'on s'est faites du ciel,
-   et je cherche à montrer où est vraiment le ciel (P. Leroux, Humanité,t.
-   1, 1840, p. V).Une justice fantastique sortie de l'imagination des
-   utopistes (Sorel, Réfl. violence,1908, p. 339):
-   1. L'imagination combine les idées conservées des objets simples, non
-   selon leurs rapports réels qui forment les êtres existans, mais dans
-   leurs rapports possibles ou supposés tels, dont résultent des êtres ou
-   absens, ou chimériques, ou même fantastiques et contradictoires...
-   Senancour, Rêveries,1799, p. 145.
-   2. [En parlant d'un être vivant, d'un inanimé concr.]
-   a) Dont l'existence est purement imaginaire, constitue une invention.
-   Synon. fictif.Je suis dans la ferme persuasion que l'île Grande est,
-   comme l'île Pepis, une terre fantastique; le rapport de La Roche qui
-   prétend y avoir vu de grands arbres, est dénué de toute vraisemblance
-   (Voy. La Pérouse,t. 2, 1797, p. 43).Il fallait (...) mentir, inventer
-   des histoires sur un sous-chef qui n'existait pas, sur un garçon de
-   bureau fantastique (A. Daudet, Trente ans Paris,1888, p. 34).
-   b) Qui est visible, mais sans consistance réelle. Si elle [l'eau] les
-   eût réfléchies comme la lumière, les formes des arbres et des terres
-   qui bordent ses rivages eussent apparu à sa surface, (...) l'illusion
-   se fût confondue sans cesse avec la réalité. Les oiseaux eussent
-   voltigé en vain autour d'un saule fantastique pour y faire leurs nids,
-   et les bœufs se fussent heurtés contre un saule réel (Bern. de St-P.,
-   Harm. nat.,1814, p. 199).Beaucoup (...) supposaient que le corps de
-   Jésus avait été fantastique, que toute sa vie matérielle (...) ne fut
-   qu'une apparence (Renan, Évangiles,1877, p. 421).
-   B.− Usuel
-   1. Qui appartient au surnaturel, qui est créé par l'imagination.
-   Apparition, vision fantastique; monstres, ombres fantastiques. Synon.
-   extraordinaire, irréel, merveilleux.Toute sa vie il avait été
-   atrocement poltron, et quand il était ivre surtout, il était assailli
-   par les revenants, (...) par le monde fantastique des superstitions du
-   pays (Sand, Hist. vie,t. 1, 1855, p. 282).Nous ne savons pas ce qu'il y
-   a dans les choses, mais nous avons découvert que les diables, lutins et
-   farfadets n'y sont pas. Que ces êtres fantastiques soient possibles ou
-   non, cela dépasse notre portée (Alain, Propos,1932, p. 1104):
-   2. ... le penseur le plus positif est prêt à jurer qu'il y a là-bas,
-   dans ces ombres, sous quelque bocage fantastique, un être surnaturel et
-   solitaire, une fée quelconque... Hugo, Rhin,1842, p. 141.
-   SYNT. Animaux, bêtes, figures, oiseaux, personnages, terreurs
-   fantastiques.
-   − Emploi subst. masc. à valeur de neutre. Ce qui est surnaturel. Synon.
-   féerique, irréel, surnaturel.Sans être précisément un vampire, une
-   goule, un homme artificiel (...) il [un personnage mystérieux]
-   participait, au dire des gens amis du fantastique, de toutes ces
-   natures anthropomorphes (Balzac, Sarrasine,1831, p. 396).Moi qui, dès
-   l'enfance, fus pourtant fermé au fantastique, à l'étrange, qui ne
-   pouvais souffrir les histoires de nains et de fées (Mauriac, Mém.
-   intér.,1950, p. 27):
-   3. Vous ne trouvez pas, monsieur, que la nuit est bien vide et d'un
-   noir bien vulgaire depuis qu'elle n'a plus d'apparitions. On se dit : «
-   Plus de fantastique, plus de croyances étranges, tout l'inexpliqué est
-   explicable. Le surnaturel baisse comme un lac qu'un canal épuise; la
-   science, de jour en jour, recule les limites du merveilleux ».
-   Maupassant, Contes et nouv.,t. 2, Peur, 1884, p. 958.
-   2. Qui paraît imaginaire, surnaturel. Apparence, aspect, effet
-   fantastique; formes, reflets, rochers fantastiques. La présence de M.
-   de Monte-Cristo chez elle à une pareille heure, son entrée mystérieuse,
-   fantastique, inexplicable, par un mur, semblaient des impossibilités à
-   la raison ébranlée de Valentine (Dumas père, Monte-Cristo,t. 2, 1846,
-   p. 558).J'ai toujours aimé les voyages à l'heure crépusculaire. C'est
-   le moment où la nature se déforme et devient fantastique (Hugo, Fr. et
-   Belg.,1885, p. 157).
-   − P. ext. Dont la réalité, pourtant fondée, dépasse l'imagination par
-   une certaine démesure. Synon. extraordinaire, fabuleux, faramineux
-   (fam.), incroyable, mirifique, prodigieux.L'aisance fantastique du
-   baron de Rothschild (Banville, Odes funam.,1859, p. 163).Quelle
-   effronterie fantastique!... (...) c'était une réflexion inouïe!...
-   absolument inédite (Céline, Mort à crédit,1936, p. 502).
-   4. ... nous vîmes l'immense et fantastique atelier du tissage : deux
-   cents métiers, cent ouvriers. Cette variété infinie de mouvements sous
-   une action commune est une des plus saisissantes choses que j'aie
+Cinéma fantastique
+
+   [ ] 10 langues
 ---------------
-   œuvre] Qui met en scène, présente des êtres irréels, des phénomènes
-   surnaturels. Auteur, cinéma, conte, écrivain, histoire, œuvre,
-   peinture, récit fantastique. Chez un Allemand, le conte de fées serait
-   plus fantastique, plus féerique de tout point, non corrigé par la
-   raison (Sainte-Beuve, Nouv. lundis,t. 1, 1861, p. 311).J'ai reçu les
-   dessins fantastiques qui m'ont diverti (Flaub., Corresp.,1872, p.
-   355).Jaloux m'a prêté « Ferelith », roman fantastique de Lord
-   Kilmarnoch (...). C'est l'histoire d'une femme à qui un fantôme fait un
-   enfant (Green, Journal,1936, p. 50).
-   b) Emploi subst. Genre littéraire, artistique, caractérisé par
-   l'évocation de thèmes surnaturels; p. méton. évocation du surnaturel
-   dans une œuvre, chez un auteur. Le fantastique, qui lui semblait
-   autrefois un si vaste royaume du continent poétique, ne lui en apparut
-   que comme une province; il comprit qu'on ne fera jamais rien de beau en
-   inventant des animaux qui ne sont pas, des plantes qui n'existent
-   point, en donnant des ailes à un cheval, des queues de poisson à des
-   corps de femmes (Flaub., 1^reÉduc. sent.,1845, p. 241).Son fantastique
-   [de Goya] ne vient pas des albums de caprices italiens, mais du fond de
-   la peur des hommes (Malraux, Voix sil.,1951, p. 97):
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   fantastique
+   Description de cette image, également commentée ci-après
+   Affiche de King Kong classique du cinéma fantastique hollywoodien des
+   années 1930
+
 ---------------
-   s'ébrouent à l'aube, dans la prairie, au glissement du bateau noir qui
-   porte le vampire sur les eaux du canal désert, on est tenté de croire
-   que les metteurs en scène ont perdu le sens du fantastique et que
-   Murnau était seul à savoir faire un film de ce genre. Green,
-   Journal,1932, p. 110.
+   Premier film du genre Le Voyage dans la Lune
+   Pays d'origine France
+   Genre littéraire connexe Roman fantastique
+
+   Pour plus de détails, voir le corps de l'article.
+
+   Le cinéma fantastique est un genre cinématographique regroupant des
+   films faisant appel au surnaturel, à l'horreur, à l'insolite ou aux
+   monstres. L’intrigue se fonde sur des éléments irrationnels, ou
 ---------------
-   Inst. I, p. 27 ds Hug.); 1738 « ce qui n'existe que dans l'imagination
-   » (Piron, Métromanie, II, 8 ds Littré); 1821 genre littér. (Nodier,
-   Smarra, p. 10 : L'Odyssée d'Homère est du fantastique sérieux). Empr.
-   au b. lat. phantasticus « imaginaire, irréel », gr. φ α ν τ α σ τ ι κ ο
-   ́ ς. Fréq. abs. littér. : 1 172. Fréq. rel. littér. : xix^es. : a) 1
-   644, b) 2 254; xx^es. : a) 1 957, b) 1 195.
-   DÉR.
-   Fantastiquement, adv.a) [Correspond à fantastique A 2] De façon
-   prodigieuse, extraordinaire. Synon. extraordinairement, fabuleusement,
-   incroyablement.Ma conception s'est fantastiquement élargie (Valéry,
-   Corresp.[avec Gide], 1891, p. 122).Les insectes, si formidablement
-   outillés pour l'attaque et si fantastiquement cuirassés (Maeterlinck,
-   Intellig. fleurs,1907, p. 185).b) [Correspond à fantastique B] D'une
-   manière étrange, surnaturelle. Ô la rivière dans la rue!
-   Fantastiquement apparue (Verlaine, Œuvres compl.,t. 1, Romances sans
+   faisant appel à l'épouvante, au cauchemar, à la folie. Bien que
+   représentant un genre à part entière, le cinéma de science-fiction se
+   rattache au fantastique en mettant en scène des faits considérés comme
+   impossibles, et qui s'accompagnent pour certains d'entre eux, d'horreur
+   et d'épouvante (Alien de Ridley Scott, The Thing de John Carpenter). Le
+   cinéma fantastique tire son origine de la littérature du même genre, et
+   commence par adapter les œuvres classiques comme Frankenstein ou le
+   Prométhée moderne ou Dracula.
+
+   L'histoire du cinéma fantastique se découpe en plusieurs périodes : à
+   commencer, durant le cinéma muet, par les films de Georges Méliès,
+   précurseur du genre, et l’expressionnisme allemand. La période du
+   cinéma parlant voit l’essor du fantastique hollywoodien des années 1930
+   et 1940. Les années 1950 sont marquées par l'apparition de mutants
+   post-atomiques et d'extra-terrestres, tandis que les années 1960 voient
+   la domination du genre gothique marqué par les films britanniques de la
+   Hammer Film Productions. Dans les années 1970 et 1980 le réalisme
+   fantastique, et le cinéma gore s'imposent dans le genre, et à partir
+   des années 2000 ce sont les blockbusters en images de synthèse.
+
 ---------------
-   (...) Une tête de mort éclairée en dedans (Rollinat, Névroses,1883, p.
-   326).− [fɑ ̃tastikmɑ ̃]. Cf. fantôme. − 1^reattest. xv^es. [ms.] «
-   d'une manière fantastique » (Evrart de Conty, Prob. d'Aristote, BN 210,
-   f^o211a); de fantastique, suff. -ment^2*. − Fréq. abs. littér. : 17.
-   BBG. − Gall. 1955, p. 494. − Lew. 1960, p. 20, 251. − Mat.
-   Louis-Philippe. 1951, p. 298. − Roques (G.). La Lexicogr. et l'alchim.
+   [modifier | modifier le code]
+
+   Le fantastique se définit par rapport à l'irrationnel et à
+   l'anormalité. Pierre-Georges Castex écrit dans Le Conte fantastique en
+   France (1951) que c'est « une intrusion brutale du mystère dans le
+   cadre de la vie réelle »^[1]^,^[2]. Cette intrusion se fait toujours
+   dans un environnement donné pour réel, dont l'irruption d'un élément
+   anormal fait contraste et justifie son caractère fantastique, sans pour
+   autant que l'élément en question appartienne au surnaturel^[1]. Il peut
+   être simplement monstrueux comme la créature de Frankenstein, ou
+   inexpliqué comme une attaque de mouettes dans le film Les Oiseaux
+   d'Hitchcock^[1]. Le fantastique ne se définit pas selon un contexte
+   particulier, un récit fantastique peut concerner n'importe quelle
+   époque, et se dérouler dans un lieu réel ou imaginaire mais dont la
+   dimension est cohérente^[3].
+
+   Les frontières du fantastique au cinéma sont floues et poreuses. Le
+   genre avoisine avec le merveilleux, la fantasy, la science-fiction et
+   l'horreur, et n'existe pas dans la liste des genres cinématographiques
+   hollywoodiens, qui lui substitue le genre horror movies (cinéma
+   d'horreur)^[3]. Dans un article publié en mars 1982 dans L'Écran
+   fantastique intitulé « Tentative de définition du fantastique »,
+   Jean-Claude Romer comprend le genre dans six catégories^[4] : le
+   fantastique stricto sensu, qui est rattaché au folklore et à la
+   tradition, autour des légendes, des fantômes, des vampires, des
+   loups-garous et des sorcières. Selon sa définition « on peut parler de
+   Fantastique lorsque, dans le monde réel, on se trouve en présence de
+   phénomènes incompatibles avec les lois dites "naturelles". »^[4]; la
+   science-fiction, qui concerne autant Frankenstein, que RoboCop autour
+---------------
+   des films comme La Belle et la Bête, ou Le Choc des Titans^[4].
+
+Fantastique et science-fiction
+
+   [modifier | modifier le code]
+---------------
+   l'emploi de machines et de procédés créés par un savoir scientifique,
+   donnant un caractère rationnel à ce qui serait présenté comme
+   miraculeux dans le fantastique^[6].
+
+   Pour Gérard Lenne par contre, la science-fiction est un « conglomérat
+   hétéroclite » constitué de fusées, de robots ou de martiens, et n'est
+   pas une catégorie cohérente^[7]. La science-fiction est fantastique,
+   car elle est conçue sur le même schéma : un danger inconnu qui menace
+   l'homme^[8]. Les éléments scientifiques sont liés à un dérèglement, une
+   folie^[9]. Elle reprend en les transformant les mythes du fantastique
+   et du merveilleux, comme l'envahisseur venu d'un autre monde qui n'est
+   que l'avatar d'un autre type d'envahisseur nocturne, le vampire^[8], ou
+---------------
+   bête géante, dont King Kong est le modèle originel^[10], associé au
+   mythe du dragon oriental^[11]. Pour autant Lenne n'englobe pas toute la
+   science-fiction dans le fantastique, car une partie liée à la
+   littérature ancienne, représentée par Jules Verne, concerne plus le
+   genre de l'aventure^[9].
+
+Fantastique et horreur
+
+   [modifier | modifier le code]
+---------------
+   à l'irrationnel ou à l'anormalité. Frank Henry prend comme exemple le
+   final sanglant de Taxi Driver film n'appartenant pas au genre du
+   fantastique^[5]. Selon Éric Dufour dans son ouvrage Le cinéma d'horreur
+   et ses figures, ce qui distingue le fantastique de l'horreur tient à la
+   structure narrative des films. Le fantastique en tant que genre du
+   cinéma traditionnel, fait progresser l'action de sorte que la situation
+   initiale du récit est modifiée par l'action des personnages^[12]. Alors
+---------------
+   L'autre critère qui distingue les deux genres, vient de la manière dont
+   les films se concluent. Dufour se basant sur Lenne, définit le
+   fantastique comme un combat de l'ordre contre un désordre, dans le
+   fantastique la fin ne peut aboutir qu'à une victoire du premier contre
+   le second^[14], il se finit bien, là où un film d'horreur lui, ne se
+   finit pas^[15]. L'auteur compare les deux fins de La Chose d'un autre
+   monde de Christian Nyby et de son remake The Thing par John Carpenter :
+   le premier appartient au genre fantastique par l'élimination de la
+   chose et le retour à l'ordre selon le schéma du mal vaincu par le bien,
+   tandis que la conclusion du remake est ouverte, le spectateur ne sait
+---------------
+   leurs apparences, a été définitivement éliminée, ou si, des deux
+   survivants, l'un ou l'autre n'a pas été contaminé; ce qui en fait un
+   film d'horreur. Le film d'horreur se différencie du fantastique par son
+   refus de toute finalité^[15].
+
+---------------
+   en exposant certaines des caractéristiques fondamentales du genre^[13].
+
+Fantastique et merveilleux
+
+   [modifier | modifier le code]
+
+   Le merveilleux qui appartient au monde de l'enfance et de la féerie,
+   est différent du fantastique, car pour Franck Henry, dans un monde
+   irréel l'extraordinaire constitue la norme, il n'y a donc pas intrusion
+   d'éléments anormaux qui justifieraient le fantastique^[16]. Gérard
+   Lenne aussi, exclut le merveilleux du fantastique, et même l'y oppose
+   sur plusieurs points. Il appartient au cadre exclusif de l'imaginaire
+   et ne rencontre pas le réel^[17]. Au cinéma, le merveilleux s'exprime
+---------------
+   animées de Jiří Trnka, et a plus de mal à convaincre en prise de vues
+   réelles, comme dans Le Magicien d'Oz^[18]. Le merveilleux peut être
+   considéré comme « l'enfance du fantastique »^[19]. Les premiers
+   réalisateurs du fantastique ont d'abord puisé leur inspirations dans la
+   matière du féérique pour réaliser les premiers films du genre, à
+   commencer par Méliès^[19]. Plusieurs thèmes et figures sont à la
+---------------
+   Georges Méliès (1902).
+
+   Le cinéma fantastique tire ses premières inspirations de la littérature
+   fantastique. La naissance du cinéma en 1895 coïncide avec la
+   publication des romans fantastiques de la fin du XIX^e siècle. En fait,
+   à part Mary Shelley et Edgar Poe, les principaux auteurs adaptés au
+   début du cinéma sont tardifs comme Robert-Louis Stevenson, Bram Stoker
+   ou H. G. Wells, dont les romans paraissent entre 1886 et 1897^[22]. Le
+   premier réalisateur à aborder le fantastique au cinéma est Georges
+   Méliès, qui est aussi un précurseur des effets spéciaux^[23]. Son
+   Voyage dans la lune constitue le premier essai de film de
+   science-fiction. Il est aussi le premier a réaliser un film sur le
+   thème du vampirisme avec le Manoir du diable en 1896^[24]. Aux
+   États-Unis le cinéma fantastique fait son apparition en 1908 avec D^r
+   Jekyll and Mr. Hyde première adaptation du roman de Stevenson, et en
+   1910 celle du Frankenstein de Mary Shelley réalisé par J. Searle
+---------------
+
+   Après la première guerre mondiale, l'expressionnisme allemand fait du
+   fantastique un genre à part entière dans le cinéma. Les cinéastes
+   développent une esthétique particulière représentée par des climats
+   angoissants, dans un contexte marqué par les traumatismes de la
+---------------
+   Wiene retrouve l'acteur Conrad Veidt avec qui il tourne Les Mains
+   d'Orlac. Comédien représentatif de l'expressionnisme, Veidt tourne à
+   l'époque plusieurs films fantastiques dont Le Crime du docteur Warren
+   de Murnau libre adaptation de L'Étrange Cas du docteur Jekyll et de M.
+   Hyde, Le Cabinet des figures de cire de Paul Leni, et L'Étudiant de
+---------------
+   notamment avec L'Homme qui rit^[31].
+
+Le fantastique muet dans le reste de l'Europe
+
+   [modifier | modifier le code]
+
+   En Scandinavie, trois films représentent la filmographie fantastique,
+   en premier celui de Victor Sjöström La Charrette fantôme (1920) d'après
+   le roman de Selma Lagerlöf. Au Danemark, le documentaire de Benjamin
+   Christensen la Sorcellerie à travers les âges (1922), qui se veut
+   didactique, est marqué par des scènes fantastiques représentant les
+   rituels diaboliques^[32]. Mauritz Stiller quant à lui, réalise La
+   Légende de Gösta Berling (1924) qui, comme le film de Sjöström, est
+   surtout basé sur la tradition du romantisme nordique^[33].
+
+   En France le fantastique est un genre peu pratiqué dans le cinéma muet
+   populaire, étant plutôt réservé au cinéma d'avant-garde^[30]. L'un des
+   films importants de cette période est celui que Jean Epstein réalise en
+---------------
+   devant la lune et un rasoir fend un œil.
+
+Le fantastique hollywoodien du muet...
+
+   [modifier | modifier le code]
+---------------
+   l'Opéra.
+
+   Dans le domaine du fantastique, le cinéma muet hollywoodien est
+   principalement marqué par la collaboration entre le réalisateur Tod
+   Browning et son acteur de prédilection Lon Chaney. Celui-ci, surnommé
+---------------
+   aux États-Unis ont fait connaître les œuvres. Deux firmes, la RKO
+   Pictures et Universal Pictures vont produire plusieurs classiques du
+   film fantastique et d'horreur^[35]. Le succès de Dracula de Tod
+   Browning va amener Universal à lancer toute une production de films
+   d'horreur autour de monstres emblématiques, hormis Dracula, le monstre
+---------------
+   Zaroff, et King Kong devenus des classiques du genre^[36].
+
+Le fantastique onirique de la Seconde Guerre mondiale
+
+   [modifier | modifier le code]
+---------------
+   Hatfield dans le Portrait de Dorian Gray d'Albert Lewin (1945).
+
+   Le cinéma fantastique durant la Seconde Guerre mondiale, va délaisser
+   les films de monstres, pour s'orienter vers des histoires d'angoisse et
+   d'onirisme, et ce, non seulement à Hollywood, mais aussi en Europe. Les
+---------------
+   privilégient les effets suggestifs de peur, plutôt que de la montrer
+   directement^[36]. Albert Lewin adapte en 1944 un classique de la
+   littérature fantastique Le Portrait de Dorian Gray dont les effets
+   spéciaux du film en noir et blanc reposent sur la décomposition du
+   portrait filmé en couleur, qui montre dans toute son horreur la
+---------------
+
+   En Europe des réalisateurs français et danois sont les principaux
+   représentants de cet onirisme fantastique. Le diable devient l'un des
+   personnages récurrents. Avec Dies Irae dix ans après son précédent film
+   Vampyr, Carl Theodor Dreyer revenait à la réalisation avec une œuvre
+   traitant de la sorcellerie et du satanisme^[41]. En France se développe
+   un important mouvement de fantastique hérité du réalisme poétique de
+   l'avant-guerre, avec Maurice Tourneur qui réalise La Main du diable,
+   Marcel Carné Les Visiteurs du soir, et Jean Delannoy et Jean Cocteau
+---------------
+   maquillage de la bête incarnée par Jean Marais^[43]. La période de
+   l'après-guerre voit aussi la production de plusieurs romances
+   fantastiques sur des thèmes légendaires ou fantomatiques, avec La
+   Fiancée des ténèbres, ou Sylvie et le fantôme^[44].
+
+---------------
+   par les bombardements atomiques d'Hiroshima et Nagasaki, et le début de
+   la guerre froide, que les monstres font leur retour dans le cinéma
+   fantastique entre 1950 et 1959. Des monstres d'un type nouveau font
+   leurs apparitions dans un cinéma américain orienté vers l'anticipation
+   et qui voit l'essor du cinéma de science-fiction. Ils sont les
+---------------
+   surtout le plus célèbre du genre, Godzilla^[49].
+
+Renouveau du fantastique au Royaume-Uni
+
+   [modifier | modifier le code]
+---------------
+   Dracula.
+
+   Alors que le film fantastique est délaissé aux États-Unis au profit de
+   la science-fiction, c'est du Royaume-Uni que le genre retrouve une
+   nouvelle jeunesse à partir du milieu des années 1950. Un film fait
+   figure de précurseur, Au cœur de la nuit film à sketches réalisé en
+   1945^[50]. En 1955 la Hammer Film Productions se lance dans la
+   production de films fantastiques avec Le Monstre de Val Guest à la fois
+   film d'horreur et de science-fiction^[35].
+
+---------------
+   Peter Cushing et Christopher Lee, acteurs récurrents et emblématiques
+   du cinéma d'horreur des années 1960. La Hammer inaugure le style du
+   fantastique gothique, marqué par le réalisme des scènes d'horreur et
+   l'introduction de l'érotisme, là où Universal était contraint
+   d'édulcorer ces scènes à cause du code de censure Hays^[35]. À la suite
+   du succès du Cauchemar de Dracula, la Hammer va exploiter le filon, en
+   mettant en scène tous les classiques du fantastique. Hormis Dracula et
+   Frankenstein, suivent le lycanthrope de La Nuit du loup-garou, la momie
+   de La Malédiction des pharaons, Le Fantôme de l'Opéra, Les Deux Visages
+---------------
+
+   Dans un autre registre la Hammer produit aussi plusieurs films à thème
+   préhistorique et de créatures fantastiques, lancés par le succès de La
+   Déesse de feu et surtout Un million d'années avant J.C. de Don Chaffey
+   avec les effets spéciaux de Ray Harryhausen notoire aussi pour Jason et
+---------------
+
+   À la suite du succès des films de la Hammer, l'esthétique gothique
+   domine dans le cinéma fantastique des années 1960. Aux États-Unis ce
+   genre s'impose avec les films à petits budgets de Roger Corman cinéaste
+   et producteur, qui adapte avec succès les œuvres d'Edgar Poe et
+---------------
+   films de la Hammer et de Corman avec son Bal des vampires sorti en
+   1968^[56]. En France un film participe aussi de cette tendance gothique
+   du fantastique, Les Yeux sans visage de Georges Franju^[57].
+
+   En Italie, Riccardo Freda réalise en 1956 Les Vampires film qui
+---------------
+   passe à la réalisation et devient le principal représentant du
+   gothique, avec son film Le Masque du démon qui révéla l'actrice Barbara
+   Steele comme figure emblématique du fantastique italien^[58]. Inspiré
+   de l'esthétique de la Hammer, Bava, par sa maitrise des éclairages,
+   signe avec ce film en noir et blanc l'un des classiques du cinéma
+---------------
+   d'artiste, en l'occurrence Anthony Dawson^[61]. Il réalise les
+   gothiques La Sorcière sanglante, et Danse macabre avec Barbara Steele,
+   ainsi que des films ou se combinent western et fantastique comme dans
+   Et le vent apporta la violence, ou guerre et fantastique avec La Vierge
+   de Nuremberg^[62]. À la fin des années 1960 le genre décline, la
+   plupart les cinéastes se tournant vers le Western Spaghetti^[61].
+---------------
+   Nuits de Dracula^[63].
+
+Le réalisme fantastique des années 1960-70
+
+   [modifier | modifier le code]
+---------------
+
+   Dans le courant des années 1960, en parallèle au gothique, se développe
+   une autre forme de fantastique plus ancré vers le réel et dans un
+   contexte contemporain. Un film de 1936 annonçait cette tendance, Le
+   Mort qui marche de Michael Curtiz^[64]. Alfred Hitchcock tourne alors
+---------------
+   Oiseaux en 1963, film qui préfigure le cinéma catastrophe^[65]. Après
+   Le Bal des vampires et Répulsion, Roman Polanski marque la filmographie
+   du fantastique en 1968 avec Rosemary's Baby film qui relance la
+   thématique du diable et qui trouve son aboutissement avec le succès
+   retentissant de L'Exorciste de William Friedkin, et de la série des
+---------------
+   Argento est l'un des principaux représentant du giallo, avec des films
+   misant sur l'angoisse et la mort. Ses deux plus célèbres réalisations
+   dans le fantastique pur sont Suspiria et Inferno où son style se
+   singularise par ses gros plans, et le choix de couleurs vives^[67].
+
+   Deux jeunes réalisateurs américains se font connaître en réalisant des
+   films où fantastique et réel se côtoient. Steven Spielberg avec Duel
+   histoire d'un conducteur poursuivi par un camion meurtrier, et Brian De
+   Palma avec Sœurs de sang film qui aborde le fantastique psychologique,
+   sur le thème du dédoublement de la personnalité^[68].
+
+---------------
+   censurés voire interdits^[64]. C'est en 1968 avec la fin du code de
+   censure aux États-Unis, que le genre peut s'épanouir. Un film qui fait
+   date dans l'histoire du cinéma fantastique, La Nuit des morts-vivants
+   de George A. Romero. Romero introduit dans ce film, un nouveau type de
+   monstre désigné communément sous le terme de zombie. Non pas une
+---------------
+   tronçonneuse installe les codes du genre relayé par John Carpenter avec
+   Halloween et Sean S. Cunningham avec Vendredi 13. Si avec ces films le
+   registre du fantastique est ambigu, en présentant des situations
+   plausibles et rationnelles, mais assimilées à l'expression de la folie
+   et de l'insensé^[71], avec Les Griffes de la nuit Wes Craven recentre
+   le genre dans le domaine du fantastique, en inventant un nouveau
+   personnage emblématique du film d'horreur, résurgence contemporaine du
+   croque-mitaine, Freddy Krueger qui perpètre ses meurtres en hantant les
+---------------
+   Bande-annonce de La Planète des singes.
+
+   À la fin des années 1960 dans la ligne du réalisme fantastique, dont le
+   film d'Alfred Hitchcock Les Oiseaux est l'une des principales
+   influences, et dans le contexte de la guerre du Viêt Nam, des films à
+---------------
+   [modifier | modifier le code]
+   [170px-Eraserhead.jpg] Jack Nance dans Eraserhead de David Lynch,
+   membre de la nouvelle génération de cinéastes du fantastique des années
+   1980.
+
+   Aux États-Unis la période qui va de la moitié des années 1970, date du
+   succès de L'Exorciste, à la première moitié des années 1990, voit la
+   domination d'un cinéma fantastique à grand spectacle sous l'initiative
+   et le financement des grands studios hollywoodiens^[79]. Pour des
+   studios, comme la Fox ou la Warner, le genre n'est plus l'apanage de la
+---------------
+   internationaux des Dents de la mer de Spielberg, et de la saga Star
+   Wars de Lucas qui lance le genre du space opera, vont établir
+   durablement la domination des États-Unis dans le genre du fantastique,
+   due notamment à la profusion d'effets spéciaux de plus en plus
+   sophistiqués^[80]. Plusieurs des succès de cette période mélangent le
+   fantastique et la comédie, SOS Fantômes d'Ivan Reitman et Beetlejuice
+   de Tim Burton sur le thème des fantômes, et les monstres envahisseurs
+   de Gremlins de Joe Dante^[81].
+---------------
+   Après les succès de Carrie au bal du diable de Palma en 1976 et Shining
+   de Stanley Kubrick en 1980, Stephen King va devenir l'un des auteurs
+   fantastiques les plus adaptés dans le cinéma. Les principaux
+   réalisateurs du fantastique, Cronenberg avec Dead Zone, Carpenter avec
+   Christine, George A. Romero avec qui il collabore sur Creepshow et La
+   Part des ténèbres contribuent à populariser l'écrivain^[84]^,^[22].
+
+Nouvelle vague du fantastique au tournant des années 2000
+
+   [modifier | modifier le code]
+
+   Dans les années 1990 et 2000 le fantastique se renouvelle par ses
+   thèmes et son traitement. Riche d'une longue tradition de films de
+   fantômes, le Japon marque la filmographie fantastique avec Ring d'Hideo
+   Nakata, et Cure de Kiyoshi Kurosawa^[85]. L'Espagne revient sur le
+   devant de la scène du fantastique, en produisant des films dans la
+   droite ligne des films asiatiques, abordant un fantastique inspiré
+   notamment par le cinéma américain gothique des années 1960 et 80, et
+   des films de fantômes et de diables comme les Innocents de Clayton, ou
+---------------
+   récit, qui ne se situe pas dans un pays particulier, et tourné en
+   langue anglaise, vise le marché international^[87]. D'autres thèmes
+   sont abordés dans le fantastique espagnol, le diable et la sorcellerie.
+   Le réalisateur mexicain Guillermo del Toro avec Le Labyrinthe de Pan et
+   L'Échine du Diable produits en Espagne, contextualise ses récits
+   fantastiques dans le cadre de la guerre d'Espagne^[88].
+
+   Avec REC de Jaume Balagueró et Paco Plaza et NO-DO d'Elio Quiroga (es)
+   le fantastique espagnol se situe dans le réel, en reprenant pour REC le
+   principe de la caméra subjective qui avait fait le succès du Projet
+   Blair Witch, tandis que NO-DO intègre des extraits de films
+   documentaires^[89]. Les États-Unis s'inspirent des thèmes du
+   fantastique japonais et espagnol avec le Sixième sens de M. Night
+   Shyamalan , évoquant l'histoire d'un enfant qui voit des fantômes et
+   qu'un psychologue joué par Bruce Willis essaie d'aider^[85].
+---------------
+   [modifier | modifier le code]
+
+   L'ensemble des thèmes du cinéma fantastique est emprunté à la
+   littérature du même genre, car il reprend le même cadre
+   imaginaire^[90]. S'inspirant de la typologie de l'ouvrage Introduction
+   à la littérature fantastique de Tzvetan Todorov qui définit le genre
+   comme suit : « Le fantastique, c'est l'hésitation éprouvée par un être
+   qui ne connaît que les lois naturelles face à un événement en apparence
+   surnaturel », Alain Pelosato divise la thématique en deux groupes
+---------------
+   aucun intermédiaire n'est défini, tandis que le « tu » renvoie à un
+   intermédiaire et à son opposition avec le « je »^[91]. De ces deux
+   groupes, Pelosato définit un fantastique « psychologique » lié aux
+   histoires de possession et d'inconscient qui caractérisent des films
+   autour du diable ou de fantômes, et ajoute un fantastique « social » en
+   rapport avec les histoires de créatures et d'environnements
+   inconnus^[90].
+
+   Gérard Lenne quant à lui, propose une approche taxinomique, en divisant
+   le fantastique en deux voies : la voie A et la voie B, correspondant à
+   une combinaison de thèmes qui constituent les principaux mythes. Il
+   distingue par exemple, le dédoublement, le gigantisme, le bien et le
+---------------
+
+   À partir de ces typologies, découlent les différents thèmes abordés
+   dans le cinéma fantastique, les principaux sont:
+
+Le bien et le mal, la possession
+---------------
+
+   L'opposition du bien et du mal et les thèmes de la possession maléfique
+   s'inscrivent à l'origine dans la littérature fantastique d'essence
+   romantique, qui reprend à son compte la plupart des mythes hérités du
+   Moyen Âge, période de fortes croyances religieuses^[96]. Plusieurs
+   mythes du fantastique font appel à ce thème. Par exemple le vampire qui
+   ne peut être vaincu que par les instruments de la religion chrétienne
+   représentant le bien contre le mal, comme le crucifix ou l'eau bénite;
+---------------
+   thème du dédoublement.
+
+   Le thème du double est fondamental dans le fantastique. Pour Gérard
+   Lenne il s'agit plus d'une structure thématique, tous les mythes du
+   fantastique étant basés sur une série de dualités^[97]. Le vampire peut
+   être vu comme le double du mortel qu'il était avant sa transformation,
+   de même chez le loup-garou coexistent deux personnalités, celle de
+---------------
+   et Angelo Rossitto, deux des acteurs de La Monstrueuse Parade.
+
+   La monstruosité est une constante du fantastique qui renvoie à un être
+   représentant l'inconnu, une créature dont l'apparence symbolise la peur
+   ou le danger. Le monstre revêt plusieurs formes et a plusieurs
+---------------
+
+   Par son caractère spectaculaire, le gigantisme est l'un des thèmes
+   souvent abordé dans le cinéma fantastique. Symbolisant la puissance, le
+   pouvoir, l'image du père, il renvoie aux mythes ancestraux des géants
+   de la mythologie ou de la religion^[105]. Le cinéma propose plusieurs
+---------------
+   le résultat d'une miniaturisation de l'homme qui est alors confronté à
+   un environnement devenant gigantesque. C'est le scénario d'un des
+   classiques du cinéma fantastique L'Homme qui rétrécit qui raconte
+   l'histoire d'un homme qui, après le passage d'un nuage radioactif,
+   devient de plus en plus petit, et son environnement, de plus en plus
+---------------
+   [modifier | modifier le code]
+
+   Thème surtout abordé dans le cinéma fantastique social^[101], le délire
+   renvoie à la perception confuse de l'environnement par le héros. Le
+   film Total Recall en est une illustration parfaite à travers l'histoire
+---------------
+   [modifier | modifier le code]
+
+   Selon Tzvetan Todorov, la loi qui régit le cinéma fantastique est
+   l’hésitation entre réel et imaginaire. Dans un cauchemar cette
+   hésitation est présente et fait s'interroger sur la réalité ou
+---------------
+   (Polansky, 1968) ou plus récemment Insidious (Wan, Whannel, Robitel,
+   2010) jouent sur cette hésitation. Le cauchemar est une thématique
+   privilégiée du cinéma fantastique. Dans Freddy (Les Griffes de la nuit,
+   Wes Craven, 1984) les plus grandes peurs nées de l’enfance prennent vie
+   dans le sommeil. Le cauchemar devient mortel et réalité. Dans d’autres
+---------------
+   Thème classique de la littérature basé sur l'identité, le changement,
+   depuis Ovide jusqu'à Kafka en passant par le mythe de Faust, la
+   métamorphose trouve nombre d'illustrations dans le cinéma fantastique
+   et de science-fiction. Plusieurs mythes sont basés sur la métamorphose
+   comme le vampire, le loup-garou, il est aussi le résultat
+---------------
+   [modifier | modifier le code]
+
+   Le cinéma fantastique comme tout cinéma de genre, obéit à des
+   conventions stylistiques et formelles qui le caractérise. Ce sont des
+   ambiances lugubres marqué par l'obscurité ou un climat inquiétant, ou
+   les situations provoquant la peur et les cris. Ces conventions peuvent
+   à force de répétitions constituer des clichés et être reprises de
+   manière parodique dans les comédies fantastiques. Pour Gérad Lenne la
+   convention devient un poncif quand elle se vide de sa signification
+   symbolique^[114].
+---------------
+   [modifier | modifier le code]
+
+   Élément formel inévitable du fantastique, l'obscurité est le contexte
+   de phénomènes étranges et inquiétants. Hérité de l'expressionnisme, son
+   traitement dans les films fantastiques est caractérisé par des
+   ambiances dramatiques contrastées^[115]. Les classiques du fantastique
+   des années 1930, Frankenstein, Dracula, le Loup garou, font évoluer
+   leurs personnages principalement la nuit. Et même quand le récit se
+---------------
+   [modifier | modifier le code]
+
+   De même que dans l'obscurité, le récit fantastique se complaît à
+   évoluer dans des climats favorisant des ambiances d'étrangeté et de
+   peur, afin de mettre en condition le spectateur^[117]. Ce sont, par
+---------------
+   première adaptation autorisée du roman de Bram Stoker.
+
+   Figure du fantastique appartenant au folklore et aux superstitions,
+   faisant partie de la famille des fantômes, revenants et non-morts, le
+   vampire prend une dimension mythologique dans la littérature avec le
+---------------
+   l'échange du sang^[123].
+
+   Apparu dans le fantastique aux premiers temps du cinéma avec Méliès
+   qui, en 1896, dans Le Manoir du diable, montre une chauve-souris se
+   transformant en démon, ce sont principalement les adaptations du roman
+---------------
+   Cauchemar de Dracula^[124]. Gérad Lenne constate qu'« indépendamment du
+   personnage de Dracula, la filmographie des vampires est la plus
+   abondante du « fantastique » »^[125].
+
+Le loup-garou
+---------------
+   de 1941 Le Loup-garou avec Lon Chaney Jr..
+
+   Tout comme le vampire, le loup-garou est une figure fantastique
+   d'origine folklorique et aussi mythologique dont l'origine remonte à
+   l'antiquité grecque^[126], notamment par l'exemple de Léto la mère
+---------------
+   Meirschultz, dans le film Maniac (en) (1934).
+
+   Figure indissociable du fantastique, le savant fou prend son origine
+   dans la sorcellerie et le personnage de l'alchimiste du Moyen Âge, et
+   renvoie aux mythes prométhéens du Golem et de l'apprenti-sorcier et au
+---------------
+   dans Mandragore de Michael Curtiz, et deux ans plus tard dans Le
+   Cabinet du docteur Caligari de Robert Wiene^[131]. Le film qui fait du
+   savant fou un archétype du cinéma fantastique est L'Île du docteur
+   Moreau notamment par la prestation de Charles Laughton qui marque la
+   filmographie du personnage^[131]. Autre représentation classique du
+---------------
+
+   La créature, un être créé par l'homme et qui échappe à son contrôle,
+   est un mythe vivace du fantastique. À la différence des vampires et
+   loups-garous, il ne provient pas d'un folklore ou d'une tradition, mais
+   trouve son inspiration dans le thème de l'alchimiste qui cherche à
+---------------
+   et Ellen Burstyn dans une scène de L'Exorciste.
+
+   Aux premiers temps du cinéma fantastique, la place de l'enfant est
+   plutôt celle d'une victime, telle que le Frankenstein de James Whale en
+   donne un exemple avec la petite fille victime accidentelle de la
+---------------
+   Malédiction^[144].
+
+   Le nouveau-né est un autre type de figure du fantastique, souvent
+   monstrueux, soit qu'il ait été engendré par une puissance maléfique
+   comme dans Rosemary's Baby, ou par des extra-terrestres dans L'Enfant
+---------------
+   l'inanimé, sur l'anthropomorphisme, la miniaturisation, la possession
+   et la perte d'identité^[145]. Méliès fut le premier réalisateur à en
+   faire un sujet de films fantastiques avec Gugusse et l'automate (en) de
+   1897 et Coppelia : La Poupée animée de 1900, ces deux films ayant
+   disparu^[145]. La série de films la plus populaire mettant en scène une
+---------------
+   de clown.
+
+   En tant que personnage fantastique le clown est d'abord exploité pour
+   son caractère tragique dans des films comme L'Homme qui rit où le
+   personnage de Gwynplaine défiguré par des trafiquants d'enfants,
+---------------
+   de madame Muir de Joseph L. Mankiewicz (1947), dans Always de Steven
+   Spielberg (1989) ou dans Ghost de Jerry Zucker (1990). Il est aussi le
+   sujet de multiples comédies fantastiques, Fantômes à l'italienne, SOS
+   Fantômes ou Beetlejuice^[150].
+
+---------------
+
+   Forme dérivée du revenant, le mort-vivant devient un archétype du
+   cinéma fantastique et d'horreur avec le film de Romero La Nuit des
+   morts-vivants qui modernise le personnage et en fait une figure
+   centrale du cinéma post apocalyptique. Si au début du cinéma le thème
+---------------
+   Karloff.
+
+   Dernière forme de mort-vivant représentée dans le cinéma fantastique,
+   la momie fait une apparition tardive, avec La Momie de Karl Freund en
+   1932 joué par Boris Karloff. Sa popularité est liée en grande partie à
+---------------
+   La Universal, à la suite du succès du film de Freund produira un cycle
+   de quatre films autour de la momie avec comme vedette Lon Chaney
+   Jr.^[158]. Le cinéma fantastique mexicain reprend le mythe de la momie
+   dans les années 1950 en l'adaptant à la culture du pays pour en faire
+   une momie précolombienne avec La Momie aztèque (en) de Rafael
+---------------
+   [modifier | modifier le code]
+
+   Le cinéma fantastique est caractérisé par les différents lieux et
+   cadres qui situent les récits, souvent inquiétants, obscurs et isolés.
+   Les plus communs sont le cimetière, que l'on retrouve autant dans les
+---------------
+
+   Les cimetières ou les cryptes à l'architecture gothique, constituent un
+   des environnements classiques du fantastique. Décor commun aux films de
+   vampire et de Frankenstein, c'est aussi le lieu que choisit George
+   Romero pour situer le début de la Nuit des morts-vivants où les deux
+---------------
+   [modifier | modifier le code]
+
+   La forêt joue un rôle important dans les récits fantastiques depuis les
+   contes et mythologies, jusqu'aux romans modernes. Naturellement elle
+   constitue un des cadres les plus souvent employés dans le cinéma
+   fantastique, ainsi que dans le cinéma d'horreur et de science-fiction.
+   La forêt est le décor de films d'inspirations gothiques, comme les
+   différents Frankenstein à commencer par le film de James Whale, où la
+---------------
+   La maison, la ferme ou le château, et tout autre édifice d'habitation,
+   constituent l'un des environnements de prédilection du cinéma
+   fantastique. Il représente à la fois le lieu qui sert d'abri face à un
+   danger, et peut devenir un danger en lui-même. Dans la Nuit des
+   morts-vivants les protagonistes se réfugient dans une maison isolée
+   d'où ils se barricadent pour empêcher les zombies d'entrer^[163]. Mais
+   c'est surtout en tant qu'édifice menaçant, qu'il prend sa dimension
+   fantastique, qu'il s'agisse de la maison en elle-même ou de certaines
+   de ses pièces. Par exemple le grenier ou la cave sont les lieux de
+   dissimulation de secrets ou de souvenirs mystérieux qui peuvent
+---------------
+
+   Différents procédés cinématographiques servent à accentuer le caractère
+   fantastique d'un film. Deux tendances se dégagent, l'exhibition et la
+   suggestion. La première utilise des effets techniques à des fins de
+   démonstration, tandis que la seconde use d'effets qui jouent sur
+---------------
+   anciens procédés associé au genre est le recours aux effets spéciaux
+   (désignés aussi trucages), qui sont employés dès les origines du cinéma
+   fantastique, et dont plusieurs films sont représentatifs, à commencer
+   par le Voyage dans la lune de Méliès en 1902, en passant par King Kong,
+   jusqu'aux images de synthèse de Jurassic Park. Le maquillage est
+---------------
+   Brundle devenant un hybride entre une mouche et un homme. Le son (ou
+   son absence) est aussi un élément important participant à la narration
+   des films fantastiques, de même certains effets de mise en scène comme
+   le hors-champ ou l'effet-bus.
+
+---------------
+   filmait des véhicules place de l'Opéra à Paris. Après avoir réparé le
+   film il constata qu'un omnibus s'était changé en corbillard^[166]. Il
+   se tourne naturellement vers des sujets fantastiques pour expérimenter
+   ses différents procédés de trucages comme la surimpression, le système
+   des caches, ou les premiers effets spéciaux mécanique avec la
+---------------
+   de latex, et de cire et en 1921 il utilise la peau des coquilles d'œufs
+   pour simuler le blanchissement des yeux d'un aveugle pour le film The
+   Love Night^[182]. L'un des premiers maquillages marquant du fantastique
+   est celui de Nosferatu le vampire de Murnau joué par Max Schreck, son
+   illusion fut telle qu'elle est à l'origine d'une légende lancé par Ado
+---------------
+
+   Avec Lon Chaney le maquillage va être étroitement lié au cinéma
+   fantastique et d'horreur. Élaborant ses propres maquillages, il
+   parvient à l'aide de prothèses et de déguisements à se rendre
+   monstrueux et méconnaissable, comme dans le Fantôme de l'opéra, ou en
+   Quasimodo pour Notre-Dame de Paris^[25]. Après sa mort et marquant les
+   débuts du cinéma fantastique parlant, son successeur dans cette
+   activité est Jack Pierce qui réalise les maquillages du monstre de
+   Frankenstein qui firent sa renommée, de la momie et du loup-garou. À la
+---------------
+
+   Dans les années 1940, l'un des maquillages les plus marquants du cinéma
+   fantastique, est celui de la bête pour le film de Jean Cocteau La Belle
+   et la Bête. Jean Marais dût endurer pendant cinq heures le masque fait
+   de vrais poils, fabriqué par le perruquier Pontet d'après les dessins
+   de Christian Bérard^[184], que l'acteur appliquait lui-même assisté du
+   maquilleur Hagop Arakelian^[185]. Dans les années 1960 à 1970, la
+   Hammer reprend les anciens mythes du fantastique. Mais les maquillages
+   de Jack Pierce étant protégés par le copyright, le maquilleur Phil
+   Leakey doit réinventer un nouveau masque pour le monstre de
+---------------
+   John Chambers. Le budget élevé du film obligeait à avoir un résultat
+   convaincant et éviter tout ridicule^[73]. Un autre maquilleur accède à
+   la notoriété dans le cinéma fantastique de cette période, le
+   britannique Dick Smith célèbre pour son travail dans L'Exorciste de
+   William Friedkin et qui compte parmi ses disciples plusieurs
+---------------
+
+   Rick Baker s'impose à partir des années 1980 comme l'un des plus
+   importants maquilleurs du cinéma fantastique, avec ses réalisations sur
+   le Loup-garou de Londres (1981), Ed Wood et la Planète des singes de
+   Tim Burton (1995 et 2001), Men in Black et The Wolfman (2010), pour ces
+---------------
+
+   Avec l'apparition du cinéma parlant au début des années 1930, le son
+   prend son importance dans le cinéma fantastique . L'un des premiers
+   films caractérisant les effets sonores est L'Homme invisible de James
+   Whale. Pour Charles Tesson l'homme invisible est : « l'inverse d'un
+---------------
+
+   Dans un autre registre, la musique de film donne aussi une identité
+   musicale aux films fantastiques. Par ses thèmes musicaux elle participe
+   à l'ambiance étrange ou terrifiante du film. Certains des personnages
+   classiques du fantastiques, comme le monstre de Frankenstein ou
+   Dracula, sont accompagnés d'un thème musical qui annonce leur
+   venue^[193]. La musique des films fantastiques doit aussi beaucoup à
+   l'influence de la musique classique due en partie au fait que certains
+   compositeurs spécialisés dans le genre comme Jerry Goldsmith ou Elliot
+   Goldenthal ont étudié avec des compositeurs classiques^[194]. Des
+   compositeurs classiques comme Richard Strauss, Jean Sibelius, ou Gustav
+   Holst ont influencé la musique de films fantastiques. Ainsi Les
+   Planètes œuvre symphonique de Holst a souvent inspiré des films de
+   science-fiction^[195]. Bernard Herrmann est l'un des compositeurs
+---------------
+
+   Plusieurs effets visuels et de mise en scène servent à renforcer
+   l'ambiance surnaturelle ou angoissante d'un film fantastique. Parmi ces
+   procédés le hors-champ est souvent utilisé pour provoquer une peur en
+   dissimulant la cause de cette peur^[198]. Ou au contraire tenter de
+---------------
+   Le plan subjectif ou caméra subjective, choisit de montrer le film ou
+   une séquence du film, selon la perception visuelle du principal
+   protagoniste. Il est introduit dans le fantastique par Rouben Mamoulian
+   en 1931, avec Docteur Jekyll et M. Hyde dont le processus de
+   transformation du docteur en Mister Hyde est tournée en caméra
+---------------
+   technique ainsi que le procédé inverse (travelling avant et zoom
+   arrière) ont été par la suite utilisés dans plusieurs films
+   fantastiques comme Les Dents de la mer, Hurlements, Hardware, ou The
+   Descent^[201].
+
+---------------
+   [modifier | modifier le code]
+
+Animation fantastique
+
+   [modifier | modifier le code]
+---------------
+   Par nature, l'animation par sa capacité de mettre en image des
+   environnements imaginaires ou des animaux qui parlent, peut être
+   considérée comme fantastique dans le sens le plus large du terme.
+   Cependant, seuls les films, dont les thématiques et arguments
+   appartiennent au domaine du fantastique se rattachent au genre^[203].
+   L'un des pionniers de l'animation Winsor McCay créateur de Little Nemo,
+   réalise deux films d'animation fantastiques How a Mosquito Operates en
+   1912 et Gertie le dinosaure en 1914^[203]. Avec Walt Disney commence
+   l'hégémonie du dessin animé américain qui va dominer des années 1930
+   aux années 1980. Si Walt Disney se spécialise principalement dans
+   l'adaptation de conte de fée et d'œuvres appartenant au domaine de la
+   fantasy et du merveilleux, il marque l'animation fantastique avec son
+   troisième long métrage Fantasia à travers les deux séquences, le Sacre
+   du printemps représentant des dinosaures évoluant sur la musique d'Igor
+---------------
+   collaboration de l'illustrateur Frank Frazetta^[204].
+
+   D'Europe l'animation fantastique, est représentée en France
+   principalement par Paul Grimault, dans une veine poétique et
+   surréaliste, et qui laisse un long métrage d'animation le Roi et
+---------------
+   principalement la figure de Jiří Trnka et ses marionnettes
+   animées^[204]. Hormis la France, c'est de Grande-Bretagne que sont
+   produits deux films marquants de l'animation fantastique d'Europe de
+   l'Ouest, La Ferme des animaux d'après George Orwell (1954) et le film
+   d'animation psychédélique Yellow Submarine inspiré de l'album de The
+   Beatles^[205].
+
+   L'animation fantastique est dominée depuis les années 1980 par l'Asie
+   par l'intermédiaire des productions japonaises^[205]. Elles commencent
+   à émerger dans les années 1950 avec les premières productions de la
+   Toei Company, et connaissent la consécration avec nombre de séries
+   animées inspirées par les univers futuristes et les robots. Les
+   représentants les plus importants de cette animation fantastique sont
+   Osamu Tezuka créateur d'Astro, le petit robot, Hayao Miyazaki qui
+   marque la filmographie avec plusieurs longs-métrages d'inspirations
+   fantastiques et féeriques, et Katsuhiro Ōtomo qui réalise le
+   post-apocalyptique Akira. Les années 1990 vont donner lieu à plusieurs
+   films d'animations se situant dans des univers et des ambiances
+---------------
+   brigade des loups (1999)^[205].
+
+Comédie fantastique
+
+   [modifier | modifier le code]
+---------------
+   Buster Keaton (1923).
+
+   Pour Gérard Lenne, le comique et le fantastique ont en commun de
+   reposer sur « la rupture d'un ordre »^[206]. L'humour a été associé au
+   fantastique dès les premiers temps du cinéma muet, et repose en grande
+   partie sur le pastiche et la parodie, en détournant les codes du genre.
+   Les deux stars du burlesque Charlie Chaplin et Buster Keaton ont repris
+   dans leurs courts-métrages des thèmes fantastiques. Dans Malec chez les
+   fantômes et dans Les Trois Âges, Keaton se trouve confronté
+   successivement à des fantômes ou à des animaux préhistoriques^[207].
+   Dans les années 1940 et 1950 la parodie fantastique gagne en popularité
+   avec les films du duo Abbott et Costello qui se confrontent dans sept
+   productions aux monstres classiques du fantastique popularisés par
+   Universal, avec la participation de plusieurs stars du genre comme
+   Boris Karloff, Béla Lugosi ou Lon Chaney Jr.. De cette série se détache
+   Deux Nigauds contre Frankenstein^[208].
+
+   En France, l'un des premiers films à associer fantastique et humour est
+   François 1^er sur le thème du voyage dans le temps, avec
+   Fernandel^[209]. Dans les années 1950, Bourvil est la vedette d'une
+   comédie fantastique d'après Marcel Aymé Garou-Garou, le passe-muraille,
+   et il faut attendre 1969 pour qu'une nouvelle comédie fantastique sorte
+   en France avec Hibernatus de Molinaro, joué par Louis de Funès^[207].
+   Le voyage dans le temps est aussi à l'origine d'un des succès de la
+---------------
+
+   Dans les années 1960 et 1970 trois parodies vont marquer la
+   filmographie fantastique, Docteur Jerry et Mister Love de Jerry Lewis,
+   Le Bal des vampires de Roman Polanski et Frankenstein Junior de Mel
+   Brooks^[207]. Ce dernier réalisa aussi une autre parodie avec Dracula
+---------------
+   (1973) et Woody et les Robots de Woody Allen (1974)^[209]. Les années
+   1980 est la décennie d'une importante productions de comédies
+   fantastiques en tous genres, avec les succès de la trilogie de Retour
+   vers le futur (1985) qui renouvelle le thème du voyage dans le temps.
+   Joe Dante réalisateur qui a déjà dans ses films d'horreur incorporé de
+---------------
+   Scream^[209].
+
+Western fantastique
+
+   [modifier | modifier le code]
+
+   Genres antinomiques, le western et le fantastique ont pourtant été
+   associés dans certains films. Des westerns ont incorporé des éléments
+   irrationnels, mystérieux ou surnaturels, autant dans des films à petits
+---------------
+   héros d'un cercueil qu'il transporte durant tout le film et dont le
+   contenu est révélé lors de la fusillade finale dans le cimetière^[211].
+   Autre western-spaghetti évoquant par son ambiance le fantastique
+   Blindman, le justicier aveugle de Ferdinando Baldi. Clint Eastwood mêle
+   le fantastique dans deux de ses westerns L'Homme des hautes plaines et
+   Pale Rider où le héros est accompagné d'une part de mystère^[211]. Dans
+   le cinéma fantastique certains films font référence au western par les
+   paysages, ou les codes formels, comme La Vallée de Gwangi où des
+   cow-boys capturent au lasso un allosaurus animé par Ray
+---------------
+   jouait dans Les Sept Mercenaires^[214].
+
+Péplum et fantastique
+
+   [modifier | modifier le code]
+---------------
+   genre du cinéma historique. Cependant, il regroupe aussi des films
+   mettant en scène les récits mythologiques ou bibliques ou qui associent
+   des éléments fantastiques et surnaturels. Dans la filmographie on y
+   trouve des récits tirés de la Bible comme Samson et Dalila, de
+   l'Odyssée comme Ulysse, ou librement inspiré de la mythologie comme la
+   série des Hercules avec Steve Reeves^[215]. L'un des personnages
+   représentatifs du péplum fantastique est Maciste, que plusieurs
+   réalisateurs italiens font évoluer dans des ambiances fantastiques,
+   depuis Maciste aux enfers film muet réalisé par Guido Brignone en 1925,
+   jusqu'à Maciste en enfer de 1962 réalisé par Riccardo Freda^[59]. Ray
+   Harryhausen participe aux effets spéciaux de deux péplums fantastiques,
+   celui de Don Chaffey Jason et les Argonautes considéré comme son
+   chef-d'œuvre^[216] et Le Choc des Titans^[215].
+
+Fantastique érotique
+
+   [modifier | modifier le code]
+
+   Dans la littérature le fantastique a entretenu une part d'érotisme dans
+   des œuvres comme le Portrait de Dorian Gray ou le Dracula de Bram
+   Stoker. Mais c'est surtout à partir des années 1960 que l'érotisme
+   s'impose dans le cinéma fantastique, avec les productions de la Hammer,
+   qui se démarquent alors des productions hollywoodiennes contraintes par
+   les restrictions du code Hays. La nudité, d'abord suggéré au début des
+---------------
+   reprendre des thèmes et des figures comme Dracula, le Monstre de
+   Frankenstein ou le docteur Jekyll, ou donner des versions érotiques ou
+   pornographiques de films fantastiques comme 2001 l'Odyssée de l'espace
+   (2069 a sex Odyssey 1974), Mondwest (Sex World 1978), ou Star Wars (Sex
+   War 1985)^[218].
+---------------
+   107. ↑ Lenne 1985, p. 78
+   108. ↑ ^a b c et d Lenne 1985, p. 79
+   109. ↑ ^a et b « Histoire du cinéma fantastique | Ciclic », sur Upopi
+       (consulté le 30 avril 2020)
+   110. ↑ ^a et b Les Métamorphoses Centre Pompidou
+---------------
+   215. ↑ ^a et b Andrevon 2013, p. 737
+   216. ↑ Andrevon 2013, p. 500.
+   217. ↑ Dossier Hammer Cinéma fantastique.net
+   218. ↑ Andrevon 2013, p. 1057-1058.
+
+---------------
+
+   [modifier | modifier le code]
+     * Gérard Lenne, Le Cinéma « fantastique » et ses mythologies, Paris,
+       Henri Veyrier, 1985, 206 p. (ISBN 2-85199-375-5)
+
+     * Gérard Lenne, Histoires du cinéma fantastique, Paris, Seghers,
+       1989, 167 p. (ISBN 2-232-10249-1)
+
+     * Patrick Brion, Le Cinéma fantastique : Les grands classiques
+       américains, Paris, Édition de la Martinière, septembre 1994, 360 p.
+       (ISBN 2-7324-2094-8)
+
+     * Alain Pelosato, Le Cinéma fantastique, Pantin, éditions
+       Naturellement, 1998, 319 p. (ISBN 2-910370-40-2)
+
+     * Frank Lafond, Cauchemars américains : fantastique et horreur dans
+       le cinéma moderne, Liège, éditions du Céfal, 2003, 238 p.
+       (ISBN 2-87130-122-0)
+     * Franck Henry, Le Cinéma Fantastique, Paris, Cahiers du cinéma :
+       SCÉRÉN-CNDP, coll. « Les petits cahiers », février 2009, 95 p.
+       (ISBN 978-2-86642-544-9)
+
+     * Marie-Soledad Rodriguez (dir.), Le Fantastique dans le cinéma
+       espagnol contemporain, Paris, Presses Sorbonne Nouvelle, 2011,
+       184 p. (ISBN 978-2-87854-501-2)
+     * Frédéric Gimello-Mesplomb (dir.), L'invention d'un genre: le cinéma
+       fantastique français, ou, les constructions sociales d'un objet de
+       la cinéphilie ordinaire, L'harmattan, 2012, 216 p.
+       (ISBN 978-2-296-96806-6, HAL hal-01858212, lire en ligne)
+     * John Landis (trad. de l'anglais), Créatures fantastiques et
+       monstres au cinéma : 100 ans de cauchemar, Paris, Flammarion, 2012,
+       319 p. (ISBN 978-2-08-127714-4)
+     * Jean-Pierre Andrevon (dir.), 100 ans et plus de cinéma fantastique
+       et de science-fiction, Pertuis, Rouge profond, 2013, 1083 p.
+       (ISBN 978-2-915083-56-9)
+     * Frank Lafond, Dictionnaire du cinéma fantastique et de
+       science-fiction, Paris, éditions Vendémiaire, 2014, 414 p.
+       (ISBN 978-2-36358-145-7 et 2-36358-145-8)
+
+     * Christophe Champclaux et Linda Tahir-Meriaux (trad. de l'anglais),
+       Le Film fantastique, Paris, Le Courrier du livre, coll. « Ciné
+       Vintage », 2016, 176 p. (ISBN 978-2-7029-1277-5)
+
+     * Sylvain Ménard, Symphonies Fantastiques : Musiques de films
+       fantastiques et de science-fiction, Rosières-en-Haye, Camion Blanc,
+       2016, 723 p. (ISBN 978-2-35779-758-1)
+
+---------------
+     * Éric Dufour, Le cinéma d'horreur et ses figures, Paris, Presses
+       universitaires de France, coll. « Lignes d'art », 2006, 204 p.
+       (ISBN 978-2-200-35548-7), « Cinéma fantastique et cinéma
+       d'horreur », p. 55-67
+     * Michel Chion, Les films de science-fiction, Paris, Les Cahiers du
+       cinéma, 2008, 413 p. (ISBN 978-2-86642-560-9), « Frontières entre
+       science-fiction, fantastique et merveilleux », p. 41-42
+     * Valérie Palacios, Le cinéma gothique : Un genre mutant,
+       Rosières-en-Haye, Camion Noir, 2009, 215 p.
+---------------
+
+   [modifier | modifier le code]
+     * Jean-Claude Romer, « Tentative de définition du fantastique »,
+       L'Écran Fantastique, Paris, Média Presse Edition, n^o 23,‎ mars
+       1982, p. 4-7 (lire en ligne)
+     * Gilles Menegaldo, « Cinéma fantastique : échanges critiques
+       France/États-Unis », Revue française d’études américaines, Paris,
+       Belin, n^o 88,‎ février 2001, p. 62-78 (ISBN 9782701129167, lire en
+---------------
+     * Expérimental
+     * Exploitation
+     * Fantastique
+          + fantasy
+          + film à trucs
+---------------
+
+     * icône décorative Portail du cinéma
+     * icône décorative Portail de la fantasy et du fantastique
+
+   Ce document provient de
+---------------
+   21282795 ».
+   Catégories :
+     * Film fantastique
+     * Genre cinématographique
+
+---------------
+       colonnes
+     * Portail:Cinéma/Articles liés
+     * Portail:Fantasy et fantastique/Articles liés
+
+     * La dernière modification de cette page a été faite le 19 décembre
