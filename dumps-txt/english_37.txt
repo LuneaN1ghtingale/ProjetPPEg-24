@@ -1,0 +1,835 @@
+
+
+
+
+
+
+The Unsinkable Fantasy - European Journal of Psychoanalysis
+
+ 
+img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ {"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/the-unsinkable-fantasy\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.journal-psychoanalysis.eu\/#listItem","position":1,"name":"Home","item":"https:\/\/www.journal-psychoanalysis.eu\/","nextItem":"https:\/\/www.journal-psychoanalysis.eu\/articles\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/#listItem","position":2,"name":"Articles","item":"https:\/\/www.journal-psychoanalysis.eu\/articles\/","nextItem":"https:\/\/www.journal-psychoanalysis.eu\/articles\/the-unsinkable-fantasy\/#listItem","previousItem":"https:\/\/www.journal-psychoanalysis.eu\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/the-unsinkable-fantasy\/#listItem","position":3,"name":"The Unsinkable Fantasy","previousItem":"https:\/\/www.journal-psychoanalysis.eu\/articles\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/www.journal-psychoanalysis.eu\/#organization","name":"European Journal of Psychoanalysis","url":"https:\/\/www.journal-psychoanalysis.eu\/"},{"@type":"WebPage","@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/the-unsinkable-fantasy\/#webpage","url":"https:\/\/www.journal-psychoanalysis.eu\/articles\/the-unsinkable-fantasy\/","name":"The Unsinkable Fantasy - European Journal of Psychoanalysis","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.journal-psychoanalysis.eu\/#website"},"breadcrumb":{"@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/the-unsinkable-fantasy\/#breadcrumblist"},"datePublished":"2022-07-16T20:24:23+03:00","dateModified":"2022-08-03T16:06:51+03:00"},{"@type":"WebSite","@id":"https:\/\/www.journal-psychoanalysis.eu\/#website","url":"https:\/\/www.journal-psychoanalysis.eu\/","name":"European Journal of Psychoanalysis","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.journal-psychoanalysis.eu\/#organization"}}]} 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ /* 
+ */ 
+ 
+ 
+
+ 
+/* 
+ */ 
+ 
+
+ 
+
+ 
+ /* 
+ */ 
+ 
+
+
+
+
+ 
+ document.documentElement.className = document.documentElement.className.replace('no-js', 'js'); 
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Journal
+
+
+
+Salon
+
+
+
+About
+
+
+
+
+
+
+
+
+
+
+
+
+Current Issue
+
+
+
+All Issues
+
+
+
+On The Horizon
+
+
+
+Global
+
+
+
+The JEP
+
+
+
+
+
+
+
+
+
+
+
+
+Geneviève Morel
+
+The Unsinkable Fantasy
+
+
+
+
+Summary
+:
+
+It is because the symptom is a source of complaint that one speaks about it in psychoanalysis, to get rid of it. However, fantasy is so sweet / pleasurable that there is no incentive to speak of it, as Freud noted. We would rather keep to ourselves this intimate and painless satisfaction. Yet without addressing the fantasy, there is no hope that symptoms will give way, even if they appear to move / shift / transform themselves.  But the fantasy is not deciphered, even though one may speak of the symptoms that are built on it. What to do then?
+
+We will study, based on clinical and literary examples, how Lacan reversed the Freudian problematic by theorizing psychoanalysis as a staging of fantasy. One possible outcome of the cure could therefore see the fantasy losing its substance, and the symptom reducing itself around what remains of it.
+
+&nbsp;
+
+
+
+
+Introduction
+
+
+Because the symptom is a source of complaint, we speak about it in psychoanalysis, to get rid of it.  To the contrary, fantasy is so enjoyable that there is no incentive to speak of it, as Freud had noticed.  We would rather keep to ourselves this intimate and painless satisfaction.  Yet, without addressing the fantasy, there is no hope for symptoms to give in, even though they appear to be altering.  However, the fantasy cannot be deciphered, even as the symptoms it is built on are spoken of.  What can be done then?
+
+With the use of clinical and literary examples, we will assess how Lacan theorized psychoanalysis as a staging of the fantasy, hence reversing the Freudian perspective.  One possible outcome of analysis could therefore entail a loss of the fantasy’s substance, leading to a reduction of the symptom upon what remains of the fantasy.
+
+&nbsp;
+
+
+Eager for Punishment
+
+
+Although we use it in order to tolerate life’s unpleasantness, fantasy is a terribly efficient trap.  Freud noted that his patients who reported the daydream “a child is being beaten” were in fact completely obsessed by this fantasy which was transformed into a symptom: all their lives, they were getting others to actually beat them up, in a more or less displaced form.  Lacan called “fundamental fantasy” a fantasy thus transformed into a life-invading symptom.
+
+A short story by Richard Yates best displays the question of fantasy in psychoanalysis—Yates is an author well known for 
+Revolutionary Road
+, his best seller.  “A Glutton for Punishment” (2001, originally published in 1963) was surprisingly translated in French as “
+Sans Peur et Sans Reproche
+” [Without Fear and Without Reproach].  This short story demonstrates how one can eternally fall into the trap of a game, transformed into a fundamental fantasy, even though one is perfectly aware of it—this constitutes the distinctive point of this story, of particular interest for us in psychoanalysis.
+
+The first sentence of the short story reads: “For a little while when Walter Henderson was nine years old he thought falling dead was the very zenith of romance, and so did a number of his friends.” (Yates 2001, p. 58).  These little boys had discovered that the really interesting moment in their war games was the concluding instant when one falls as if hit by a mortal bullet.  Therefore, they set the rest of the game to compete in who would die the most gracefully.  Walter had become a champion in the art of falling down to the ground spectacularly like a “rumpled corpse”.  He later forgot all about this game, until 25 years later in his office, while waiting for his boss to 
+fire
+ him.  “That was when the childhood memory began to prey on, for it suddenly struck him (…) that letting things happen and taking them gracefully had been, in a way, the 
+pattern of his life
+. (…) The role of good loser had always held an inordinate appeal for him” (ibid., p. 59, emphasis added): playing football, at school, at university, for exams, in the Air Force.  There had been only one exception: the relative ease—“one clear triumph” (ibid., p. 67)—with which he had conquered his wife.  He had first held easy jobs, with no possibility of failure, and later had obtained his current one where he was asked to prove himself.  He had answered: “Good. That’s what I am looking for” (ibid., p. 60).  Of late he had the feeling that he was not up to the task and had warned his wife, who refrained from showing that she knew “she was dealing with a chronic, compulsive failure, a strange little boy in love with the attitudes of collapse” (ibid., p. 60).  He himself had never realized it until that moment when he waited to be “fired” (ibid., p. 59), when he remembered his favorite childhood game.  The rest of the short story shows him brilliantly playing this game: first in front of his boss, in his elegance of leaving his office, then in front of his colleagues and his secretary.  Each time, the accent is placed on the end of “a scene of a movie” (ibid., p. 62), framed by the gaze of the other, the moment when he disappears, when the door closes behind him, the elevator goes down, etc.  He becomes well aware of the pleasure he experiences, and this discovery shocks him: “He felt as if he had surprised himself in some obscene and shameful act, and he had never felt more helpless, or more frightened” (ibid., p. 63).  The author describes the enjoyment of the hero entwined with the intimate knowledge that he has experienced this enjoyment—knowledge which provokes an explosion of shame.
+
+In a great state of angst, Walter decides to lie to his wife by hiding his dismissal until he finds a new job.  He imbues his lie with “a kind of nobility”, whereas he thinks of “his plan” and the difficulty in “day-to-day deception.” (ibid., p. 65).  He is therefore still and again a prisoner of the idea of the childhood game, even though he became aware of the enjoyment attached to it: he remains a dupe of his fantasy.  He relives his conquest of this ideal woman before their marriage.  This idealization prepares, without his knowing, the next game he is already playing against his wife, and will bring the game to its conclusion, under his fantasized gaze.  Here, we see the set-up of a scenario for the battle against the Other, preamble to the final fall, within a path that is necessary to the conclusion sought for.  It is about the circular trajectory of the scopic drive, before reaching its goal that is satisfaction.  Everything unfolds in an impeccable order: he goes back home, pretends to be tired, watches his wife setting up the weekend evening, seducing him, etc.
+
+Then, finally, “the movie camera started rolling again (ibid
+.
+, p. 70). (…) At the edge of the carpet he stopped and seemed to stiffen, a wounded man holding himself together; the he turned around and faced her with the suggestion of a melancholy smile.
+
+‘Well, darling’— he began. His right hand came up and touched the middle button of his shirt, as if to unfasten it, and then with a great deflating sigh he collapsed backward into the chair, one foot sliding out on the carpet and the other curled under beneath him. It was the most graceful thing he had done all day. ‘They got me,’ he said” (ibid., p. 71).
+
+You therefore see that, for Walter, the obsessional fantasy of playing with his own death is a trap whose consequence is, a repetition of failure in his life: what is of outmost importance is the satisfaction reached in achieving the scenario of the fantasy.  Knowing that he enjoys it does not prevent the hero from repeating the scenario.  Herein lies one of the essential difficulties in psychoanalysis with regards to the fantasy: how can the analysand renounce such behavior?  How can she/he separate from the enjoyment resulting from this fantasy that matters more than anything else?
+
+With his theory of the fundamental fantasy, Lacan elaborated fantasy beyond the representation inducing a symptom.  The fantasy became the key of the subject’s life, which could be found in analysis and would deliver the key to one’s destiny.  In this view, fantasy appears as what drives repetition in life, as a singular law, often pathological.  Let’s briefly, and not exhaustively, review some elements of the fantasy in Lacanian theory.
+
+&nbsp;
+
+
+Criticism of the Fundamental Fantasy
+
+
+The fantasy is one of the most elaborated concepts in Lacan, at least in the central part of his teachings in the 1960’s.  The 1966-1967 seminar, 
+La logique du fantasme
+ [The Logic of Fantasy], is entirely dedicated to its study.  The fantasy is written as a formula (or 
+matheme
+) that apparently removes all reference to development and Oedipus: the formula establishes a relationship between the subject split by what causes his desire–what he doesn’t know–the object 
+a
+ that Lacan considers as his own invention in psychoanalysis[1]; hence, fantasy appears as the extreme point of a sophisticated structuralism.  Moreover, he is in the midst of a new institutional theory in terms of two consecutive seminars 
+La logique du fantasme
+ [The Logic of Fantasy](1966-1967) and 
+L’acte psychanalytique
+ [The psychoanalytical Act] (1967-1968) which take place at the time of the invention of the 
+passe
+.  Lacan had already abolished the difference between personal and didactic analysis.  With the 
+passe
+ he had hoped to recruit the analysts of his school at the end of their analyses.  The goal of the 
+passe
+ was to identify the singular desire that allowed the analysand to take on the challenge of an operation he knew the secret of because it had reached completion and had ended with the dismissal of the analyst (called “
+désêtre
+[2] [unbeing]”).
+
+At the end of 
+Seminar IV
+, in 1964, the end of analysis is defined in reference to the fundamental fantasy.  First, only the desire of the analyst makes the “crossing of the plane of identification” possible.  Embodying the analysand’s cause of desire, the analyst allows him to differentiate its ideals; then, “after spotting the subject in relationship to [the object] 
+a
+, the experience of the fundamental fantasy becomes drive” (1973, p. 245).  This last formulation, so enigmatic, has provoked much writing!  It evokes a “beyond” identification in a definite progress obtained through a crossing at the end of treatment.  Some saw in it the hope of a “perverse” or “cynical” liberation of the drive, even the promised land of the famous sexual freedom of the new subject, reborn after “traversing the fantasy”—a term thriftily used by Lacan, but a thousand times debased by his students.  On the contrary, others, after Lacan’s death, read in it the necessity of definitively renouncing jouissance after the revelation of traversing the fantasy which would mark the beginning of an unprecedented asceticism: the new analyst should entirely dedicate herself to the analytical cause, her drive should be devoted to it.  But such an austere lifestyle would not take place—we saw it in the various Lacanian groups or schools—without a “frame” or an “orientation” provided by “enlightened” 
+leaders
+.
+
+The importance of the concept of fantasy in Lacan’s teachings was correlative to that taken by the object
+ a
+, cause of desire.  Initially an imaginary object of desire[3]—hence of lack—in its rivalry with the little other, the partner of the ego in the mirror stage, the object
+ a
+ holds its symbolic coordinates with the big Other, locus of the symbolic, language and speech, inasmuch as the subject is born as the object of desire of his parents who incarnate this big Other (2006, p. 547)[4].  From the seminar 
+L’éthique
+ [The Ethics of Psychoanalysis] (1959-1960), the object
+ a
+ finds a real substrate in 
+das Ding
+, “the Thing” in Freud (Assoun 1993, p.103), and then becomes the pivot of the operation of separation[5] that founds the identity of the subject on its reunion with the object
+ a
+.  The formula of the fantasy articulates the subject’s lack to this object that serves as a plug; the fantasy itself becomes the only recourse for the subject facing the impossibility of sexual relationship.  Moreover, Lacan did not forget to situate its invention historically in reference to Melanie Klein to differentiate his object
+ a
+ from her partial object, and to Winnicott to deduce it from the transitional object; at the same time, he was fighting, in his “return to Freud”, to extract psychoanalysis from the post-Freudian “detour” of object relations.
+
+The fundamental fantasy is an expression that does not exist in Freud who rather speaks of original fantasies (
+Urphantasien
+) with a different meaning of universal formations that would belong to the “phylogenetic heritage” of humanity.  While attributing a 
+ready-made
+ quality to the fantasy borrowing from the collective formations of culture, Lacan rather pulled it towards the singularity of the absolute cause of desire that he writes object
+ a
+.  However, the formula of fantasy borrows much from the commentary of “A Child is Being Beaten”, of which Lacan kept that what holds the drive in fantasy is a sentence.
+
+In the notes of 
+La logique du fantasme
+ [The Logic of Fantasy], one can value the essential place taken by the fantasy and the object
+ a
+.  Fantasy here is in the place of the real.  This real is jouissance, as in beyond the pleasure principle (1966-1967, p.326-327).  Finally, Lacan (1967a, p. 323-328) writes: “The fantasy, to take things to the level of interpretation, plays in it the function of axiom, that is, it distinguishes itself from the variable laws of deduction, which specify in each structure the reduction of symptoms, to appear as a constant”.
+
+A doctrine resulted from this, making the fantasy a sentence with the eminent place of a unique axiom in the subject’s structure, that is a fixed point or a center of gravity that would sustain the whole of this structure, that of a constant determining the life of the subject, that of singular law of desire giving the key to one’s destiny.  By its uniqueness, fantasy would distinguish itself from symptoms that are deduced from it in a variable and overdetermined way, as Freud showed.
+
+Was this doctrine, so strong and seductive in its simplicity, verified in clinical work?  Yes and no.  Yes, in some cases like the example I will share, but I do not believe it can be universalized.  No, because in the 1990’s we reached some excess inasmuch as we thought it would suffice to find “the” formula of a subject’s fantasy to untie his symptoms and end his analysis.  Of course, all this led to a dead-end, because it is not enough to name the jouissance of a symptom to resolve it.  We were therefore returning without noticing to the insufficient theory of the symptom as metaphor that would be undone without residue and furthermore we were making the end of each analysis determined by a theory already established, which is in direct contradiction with Freud’s warnings, as well as Lacan’s, with regards to maintaining the necessary position of the analyst as not-knowing when facing a new case, no matter the theoretical knowledge required otherwise from the analyst (Lacan 1967a, p. 556).  The result of these abusive simplifications was felt in the shrinking of cases or accounts of stereotypical vignettes demonstrating this succinct reading of the Lacanian theory of the fundamental fantasy[6].
+
+&nbsp;
+
+
+The “Fall” of the Fantasy
+
+
+While Lacan was alive however, after the fantasy and the object 
+a
+ had taken such a prominent place, we witnessed a kind of “fall” from this position.  In 1976, Lacan no longer defines the end of analysis in relationship to the fantasy but by the identification to the symptom that requires a certain know-how[7].  Henceforth, it is no longer the fantasy that occupies the place of the real, but the symptom “that is the only thing truly real[8]”.  At the end of the cure, it is no longer about “the fallen fantasy” (1967a, p. 252), nor about separating from the object 
+a
+, but—something which resonates very differently—about finding “a satisfaction that marks the end of analysis” (ibid, p. 572).  As for the fantasy, it is caught up in the imaginary, as is the object 
+a
+, from where Lacan had tried to extract it: in 
+Encore
+ [Again] (Lacan 1985, p. 85), Lacan notes “the affinity of 
+a
+ with its [imaginary] envelope” and with meaning, and he speaks of “the suspicion” that it induces towards this object.  Hence, it is necessary to differentiate the real, outside meaning and linked to the dead-ends of formalization, from the object 
+a
+, with an affinity with the imaginary.
+
+One can wonder why Lacan undertook such a spectacular reversal regarding the real value of the object 
+a
+ and the fantasy.  The reason often evoked is that of the failure of the 
+passe
+ at the École Freudienne de Paris, “officially” announced at the Deauville conference (Roudinesco 1986, p. 641).  This political and clinical discomfiture would have incited Lacan to abandon a doctrine of the end of analysis based upon the object 
+a
+ and the fantasy.  If this practical motive appears quite plausible, one can nonetheless wonder if there were no other reasons for this change in direction, more theoretical ones.
+
+The Lacanian doctrine of the fundamental fantasy relies very much on the article 
+A Child Is Being Beaten
+, and takes especially into account Freud’s insistence on the second phase of the feminine fantasy, repressed, never remembered by the subject and reconstructed in analysis: “I am beaten by my father” (Freud 1919e, p. 185).  Freud wrote about this phase: “People who harbor phantasies of this kind develop a special sensitiveness and irritability towards anyone whom they can include in the class of fathers. They are easily offended by a person of this kind, and in that way (to their own sorrow and cost) 
+bring about the realization of the imagined situation
+ of being beaten by their father” (ibid, p. 195, emphasis added).
+
+Freud highlights 
+a crossing into the real of life
+, in the form of a painful symptom, of the repressed masochistic phase of the fantasy: there is an anticipation of the idea of the Lacanian fundamental fantasy which inscribes itself as a law in the real and gives the key of the subject’s destiny.  But if Freud calls fantasy this complex formation that he reconstructs painstakingly, it is because of its initial connection to a fantasy, therefore a conscious representation expressed by the subject, “a child is being beaten”.  Therefore, the structure is as follows: there is a 
+conscious sadistic fantasy
+ prior to the analysis, imaginary indeed, but that leads to 
+a real unconscious content
+, that is, to the contrary, a 
+masochistic
+ position of the subject that delivers the keys of his jouissance and his symptom.
+
+Is this situation universal?  If the Lacanian fundamental fantasy is indeed a construction in analysis in relationship with an initial real that is the enjoyment-suffering of the symptom—construction later reduced to a sentence with an axiomatic value—its link to a fantasy or a daydream indicating the fantasy is absolutely not necessary.  In many cases deciphering the symptom owes nothing to an initial fantasy such as “a child is being beaten”.  But in such cases, why keep on naming fantasy what is 
+in fine
+ just the analytical product of deciphering the symptom?  Calling it a fantasy in fact inconveniently accentuates unnecessarily a causality and an imaginary structure that will, from then on, be looked for in—eventually marginal—representations of this deciphering.  Moreover, why look for a unique sentence that condenses this deciphering?  Isn’t it artificial in the cases where there is not, already at the beginning, a sentence that sustains a masturbatory fantasy like in “a child is being beaten”?  Isn’t it an effect of the subject-supposed-to-know to believe, at the beginning of analysis, in the existence of an unconscious sentence that we will therefore feel obligated to produce at the end?  Isn’t this the limit of suggestion in analysis?
+
+Therefore, I believe that it is for these reasons that Lacan had to elaborate anew his theory of the symptom.  He then substitutes a new concept of the symptom to the fundamental fantasy called “sinthome” after 
+RSI
+ [Real Imaginary Symbolic], with the theoretical and clinical advantage that it regroups neurosis, psychosis and perversion (whereas fantasy does not easily fit psychosis) into a common perspective.  But this would go beyond the scope of my paper.  I will present the case of a neurotic analysand that lends to the theory of the fundamental fantasy, and who “traversed her fantasy” in analysis, contrary to Walter Henderson.  Now, as we saw, the theory of the sinthome stems from the same problem that haunted Lacan in the 1950’s when he spoke of the mother’s Desire and the paternal metaphor: the effect of language on living beings, from which the subject is born.  It all begins with the imposed and parasitic effect of language that Lacan highlighted about Joyce, whose symptom or 
+sinthome
+ results from the complex transformation of “imposed words”[9] [
+paroles
+ in French] (2005, p. 95).  There is therefore both a persistence of the question of the effect of language on a subject, and a change, first to answer it, going from the paternal metaphor to the sinthome via the fundamental fantasy.  To show the importance of what is at stake, I will use the case of a hysterical neurosis that I chose exactly because it fits the description of the theory of the fundamental fantasy.  Nonetheless, we will see that it is best to lean on the theory of the symptom, and even the theory of the sinthome.
+
+&nbsp;
+
+
+An Example of the Fundamental Fantasy: The “Death Messenger”
+
+
+Mrs. P.’s entire life is organized around a fundamental fantasy that can be deduced from her analysis started eight years ago: she would have the power of life or death on others. Mrs. P. is an anesthesiologist: her work consists in putting to sleep and waking up patients before and after heavy surgeries with serious life risk.  Obsessed by the death of others, she relentlessly asked herself the following question in her analysis: wouldn’t it be better to help some people to die rather than to live?  Especially elderly people undergoing surgery for incapacitating diseases: “we should better let them die in peace”.  She militates against therapeutic obstinacyin our societies, which is, according to her, an unwarranted prolongation of suffering.
+
+Mrs. P. began an analysis when one of her older brothers died.  She felt responsible for his death because he had called her that morning describing cardiac pains and she had reassured him.  But that night he died of a heart attack, making her feel intense guilt.  It is interesting to note that later she gave another account of this event, very different from the first: in her second version, it was her brother’s work colleagues who had minimized the seriousness of the heart troubles.  It tends to prove that she fantasmatically undertakes the death of others.  Truth be told, she has the bad luck to belong to a family whose members die at a frightening rate: in eight years she lost her brothers, her brother-in-law and her parents.
+
+Mrs. P. comes from a modest farming family.  At her premature birth, her mother was given the opportunity to place her in an incubator, but she preferred to keep the baby with her and pronounced these fateful words, so often repeated to Mrs. P.: “We will see tomorrow if she is still alive”.
+
+She was placed, half dead, in a shoebox filled with cotton: “They didn’t know if I was going to live or die”, she says.  After eight years in analysis, Mrs. P. realizes that she stuck to the ambiguous point of the maternal desire concealed in this sentence so often repeated by her mother.  The ambiguity resides in the mother’s refusal to leave her baby in the hands of physicians in order to look after her herself: thoughtlessness due to excess of maternal love or, to the contrary, death wish?  Mrs. P. is still wondering.  At the occasion of deaths in the family, she scrutinized her mother, convinced that she was “enjoying mourning”.  In this family where hands were needed, boys were favored.  Now, Mrs. P. was the first daughter after two sons: “Girls were less relied upon”; “I told myself that because I was a girl, I was not wanted by my mother.”  Moreover, her premature birth was attributed to the presence 
+in utero
+ of the fetus of a dead twin brother, kept until the end of the mother’s pregnancy.  The idea of having a dead masculine double is a crucial one for Mrs. P., as we are about to see.
+
+From the circumstances of her birth, she deduced that she was born with two “minuses”: being a girl (and not a boy) and being sick (and not healthy).  Her assumption of these two “minuses” articulated as a phallic flaw is the signature of her neurosis: she was worth less, for her parents, than a healthy boy.  Consequently, since her childhood she has been waging “the war of the sexes”, in a hysterical and revengeful mode.
+
+Between 3 and 4 years old, Mrs. P. slept in her parent’s room.  She deduces that she was therefore present when her sister was conceived.  At her sister’s birth, the father threatened to hang himself, which reinforced Mrs. P.’s negative interpretation of her parents’ desire regarding girls.  For that matter, the sister became a miserable alcoholic.
+
+Shortly after her sister’s birth, her mother fell gravely ill.  Mrs. P. was taken away to live with an aunt for three months, waiting everyday with angst for the announcement of her mother’s death.  However, the mother recovered, but Mrs. P. started having repetitive nightmares that lasted until she was 11: “I am holding my mother’s hand, we are strolling.  Suddenly, a fault opens up in the ground and I fall.  Then, I let her hand go.”
+
+The loss of the mother is inextricably linked to her own.  As could be expected, her mother’s death was a kind of “quilting point” [
+point de capiton
+ in French] (Lacan 1981, 293-306 ) in Mrs. P.’s analysis: the material organized itself, 
+après coup
+ [after the facts], around this 
+point of separation
+ in which were knotted her own loss, her mother’s and that, real or fantasmatic, of others.  It happened during a conversation with her sister by their mother’s coffin.  The sister said: “When I think that she carried me nine months!” Mrs. P. then thought secretly: “But she carried 
+me
+ only seven months.”  She then realized the ambivalence of her relationship to her mother, consisting, on one hand, in a deep resentment because of the circumstances of her birth, and on the other hand, in a passionate love that had triggered very early on—during her mother’s illness—Mrs. P.’s medical calling, with the intent to look after her mother.  This ambivalence was focused on elderly patients for whom Mrs. P. wished to avoid the troubles of old age by accelerating their death (luckily this remained completely fantasmatic).  She then realized the ambiguity of her manner of wishing good for others that she called “help to die”, and finally took some distance from such obsessive a fantasy.
+
+Mrs. P.’s mother died around the time of her birthday, and that day she gave me jewelry.  As I was noticing that she was giving me a gift for her 
+own
+ birthday, she answered that she would have liked to receive one from her mother, but that it was no longer possible.  This way, she exhibited the stake of transference: the precious object that she would have liked to be in the desire of her parents, especially her mother’s.  Her father was an alcoholic, a womanizer always ready for salacious jokes, whom the mother blamed for his infidelities.  But this mother, victim in appearances, was in fact the head of the family: “My father applied maternal repression” Mrs. P. commented.  Since her childhood, Mrs. P. had sided with her mother against him, and lent a favorable ear to her mother’s complaints who advised her daughters to never marry, never have children and instead have dogs or cats.
+
+Choosing a husband followed the same fantasy.  When she met him, Mrs. P. made his life hard, tried to “castrate” him and, as per her mother’s principles, denied any commitment to him.  One day, depressed because of a career failure, he made a serious attempt on his life.  A high-risk surgery was needed save him, that could have resulted in permanent disability, and Mrs. P.’s opinion was sought for.  She began with declining the procedure, which meant his certain death, then agreed to attempt the surgery.  This man survived, and then, only then, did she agree to marry him and to have a child with him.  We already encountered Mrs. P.’s fantasy to be the one with the power of life or death not only over her patients but also over her loved ones (as, she thought, her mother had done with her at birth).  We found such an example when her brother died and there is a similar anecdote with her sister’s sick baby: she calls these situations “being the messenger of death”, because her fantasy not only rests on her power over life and death, but also on a specific knowledge, her ability to predict someone else’s death.  The husband she chose is a masculine double almost dead conjuring up the dead twin, a man resuscitated thanks to her, but who threatens constantly to kill himself again.  The link between her deadly fantasy and her sexuality is shown by the existence of precise dreams of enjoyment at the time of her two brothers’ death, which shocked her and made her feel guilty.  Her condition for 
+jouissance
+ is really the “dead man” or the “castrated lover.” (Lacan 2006, p. 617).
+
+Thanks to analysis, Mrs. P.’s fundamental fantasy is therefore readable.  If we wanted to parody Freud and find the “sentence” of her fantasy, we could say “a child is being killed”, but if the central object is the subject, the agent would be the mother.  This fantasy is constructed from an ambiguity of the mother’s desire interpreted as having the right of death or life on children, and related like a kind of oracle: “We don’t know if she will make it through the night.”  This became the law of being for Mrs. P. who incessantly realizes this sentence in her work, so that we could say that her life has been the permanent 
+acting out 
+of this fantasy, somehow in the way Lacan talked about 
+acting out
+ for repetitive behaviors outside of Dora’s analysis or that of the young homosexual woman.  Mrs. P. exhibits the cause of her desire, the dead man, every day in her private and her professional life, as if in some kind of macabre scenario.
+
+Her fundamental fantasy, however, was deciphered from symptomatic behaviors in which it is embodied, with neither her nor I ever stating a sentence such as “a child is being killed”.  Moreover, her fantasy, whose agent appears to be maternal, doesn’t have the same structure as the incestuous Freudian fantasy with the father, and it would be forcing it to try and make the fantasy fit the theory.  What matters is the interpretation by the subject of the initial maternal sentence, the “law of the mother”, that provides the articulation between her own desire and that of her mother.  Mrs. P. had to come back to this equivocal point of maternal desire to break from it, at the time in analysis where she glanced at the difference between what she was for the Other and what she would have liked to be—that is, what Lacan calls, in Seminar XI, the distance between the object 
+a
+ and the ideal (1973, p. 245).  At this point, it is wrong to speak of a crossing of the fantasy.  After this turn in her analysis, Mrs. P. had dreams where the signifiers of death and life were inverted. In one of them, she is with me and we are talking about going to the countryside (previously, in such dreams, it was always about death).  In another dream, following a visit to a widowed friend, she dreams of her own family and they are truly alive (previously she would have had the tendency to dream of dead family members).  She herself notices this inversion, with relief.  At work, she no longer has the same deadly obsessions as before; outside of work, she no longer devotes herself to anticipating constantly the death of her family friends, and neither does she offer her services as hired mourner.  The “messenger of death” is no longer.
+
+Let’s now get back to our previous discussion regarding Lacan’s replacement of the concept of fundamental fantasy by that of symptom in his late teachings.  Of course, the concept of fundamental fantasy fits perfectly the clinical case of Mrs. P.  However, there is neither an initial and nor a final sentence for the fantasy, and there is no conscious masturbatory representation as in “a child is being beaten”.  But in Mrs. P.’s case there are indeed fantasies that are, in taking up Freud’s expression, like “intermediary rings” between the trauma of her birth and her sexual jouissance.  We could formulate them as: “a child is being killed” or “a man is dead”. Moreover, Mrs. P.’s fundamental fantasy is 
+almost
+ directly plugged into her mother’s sentence at birth.  In the end, as I already pointed out, what is important is the phallic interpretation by Mrs. P. of her mother’s words; it is within this interpretation that it can be said that her fundamental fantasy that is inscribed in her behaviors; it is this interpretation that shapes her life, at least until analysis takes away its fateful strength.  However, we then fall back onto the objection presented above: why reduce this interpretation of the maternal discourse to an imaginary formation like the fantasy “a child is being beaten”, whereas it is a construction by the subject found in her analysis, even maybe produced by her?  Better save the word fantasy for cases in which there is indeed one, one actually stated by the subject shaped as a fantasy.
+
+Therefore, I prefer to highlight the 
+inscription in the real of the interpretation of maternal desire by the subject
+, considering it as the symptom that separates the subject from “the law of the mother”.  Because of the pathology it generates, this symptom consists in a pathology of the law.  Moreover, the articulation with euthanasia and palliative care and Mrs. P.’s concern with her contemporaries’ life or death is remarkable because it exhibits the cultural and social envelope of her symptom.  The fantasy of the “dead man”, stemming out of her symptom, allowed Mrs. P. to maintain a relationship with a man and to have a child: her partner hence became himself an integral part of her symptom that mitigates the absence of a sexual relationship.
+
+I think that we can say about this symptom that it is indeed a sinthome, now that Mrs. P. got rid of the suffering it entailed. It knots[10] the real of death, the symbolic of the subject’s entrance into language (maternal words) and the imaginary of her representation of the castrated or dead man, and it entails a know-how with the sexual partner.
+
+The originality of this case is that the symptom takes little from the father and a lot from the mother.  But we must not forget the role of medicine in her resolution; the medical discourse is for Mrs. P. the master signifier with which she identifies or against which she contends (couldn’t we hear the physician’s verdict behind the initial mother’s words?).  In the end, the phallic load of the fantasy and of the symptom, which are very intense, gives this case its color of hysteria.
+
+
+Translated from the French by Cécile G. McKenna
+
+ 
+
+
+
+
+
+
+
+
+
+
+Bibliography:
+
+
+Assoun, P.-L. (1993) 
+Introduction à la métapsychologie freudienne
+ [Introduction to Freudian metapsychology] (Paris, France: PUF, Quadrige).
+
+
+ 
+
+
+Freud, S. (1919e) 
+A Child is Being Beaten, A Contribution to the Study of the Origin of Sexual Perversions.
+ SE, 17, p. 175-204.
+
+
+ 
+
+
+Lacan, J.
+
+— (1966)  
+Écrits
+ [Writings] (Paris, France: Éditions du Seuil).
+
+—  (1966-1967) 
+Le séminaire: Livre XIV:
+ 
+La logique du fantasme
+. Unpublished
+
+—  (1967a) 
+Autres écrits
+ [Other writings] (Paris: Éditions du Seuil).
+
+—  (1967b) “Proposition du 9 October 1967 sur lepsychanalyste de l’école [October 9, 1967 proposition on the analyst of the school]”. In Lacan, 1967a.
+
+—  (1967-1968) 
+Le séminaire: Livre XV:
+ 
+L’acte psychanalytique.
+ Unpublished
+
+—  (1973). 
+Le séminaire: Livre XI:
+ 
+Les quatre concepts fondamentaux de la psychanalyse
+ (Paris, France: Seuil,).
+
+— (1975) 
+Le séminaire: Livre XX:
+ 
+Encore
+ (Paris, France: Seuil).
+
+— (1981) 
+Le Séminaire: Livre III: Les Psychoses
+ [The Seminar, Book III, Psychoses]. (Paris: Éditions du Seuil).
+
+— (2005) 
+Le séminaire: Livre XXIII:
+  
+Le sinthome
+ (Paris: Seuil).
+
+– (2006) 
+Écrits: The first complete edition in English
+, trans. by B. Fink (New York, NY: Norton).
+
+&nbsp;
+
+Roudinesco, E. (1986) 
+La bataille de cent ans. Histoire de la psychanalyse en France II
+ [The hundred year war, History of psychoanalysis in France II]. (Paris: Éditions du Seuil).
+
+&nbsp;
+
+Solano Suarez, E. (1996) « Désir de passe » [Desire for 
+passe
+], 
+La Cause Freudienne
+, 
+Revue de Psychanalyse
+, #33-Mai 1996, ECF.
+
+&nbsp;
+
+Yates, R. (2001) “A Glutton for Punishment”, in 
+The Collected Stories of Richard Yates
+ pp. 58-71 (New York, NY: Picador). (Original story published in 1962).
+
+
+
+
+Notes:
+
+
+[1] The formula is read “barred S, diamond, small
+ a
+”. Lacan asserts his invention in 
+La logique du fantasme
+ [The Logic of Fantasy], session of November 16, 1966. Translator’s note: the formula is written ($◊
+a
+)
+
+&nbsp;
+
+[2] The “
+désêtre
+” is the effect produced at the end of analysis, on the analyst, through the dismissal of the subject supposed to know that she had occupied during the cure.  See Lacan, 1967b, p. 254.
+
+&nbsp;
+
+[3] Lacan (1975, p. 91) uses the example of a scene where Saint Augustine as a child watches his little brother sucking the breast, possessing the object
+ a
+ he wants.  The first conceptualization of the this object is the object of the ego or the small other, which can be found in the couple a-a’ of the ego and the other, constituted during the mirror stage and that can be found again on the imaginary diagonal of the schema L as the obstacle to the symbolic relationship that is attempting to take place between the subject and the Other. Cf. p. 53, Lacan, J. “Le séminaire sur “La Lettre Volée” [The seminar on “The Purloined Letter”]”, in Lacan
+ 
+1966, pp. 11-61.
+
+&nbsp;
+
+[4]  “This is what allows it [the 
+objet a
+] to take on its elective value as the true terminus of analysis, by figuring, in the fundamental fantasy, that before which the subject sees himself being abolished when he realizes himself as desire.
+
+In order for the subject to accede to this point beyond the reduction of the ideals of the person, it is as desire’s 
+objet a
+, as what he was to the Other in his erection as a living being, as 
+wanted
+ or 
+unwanted
+ when he came into the world, that he is called to be reborn in order to know if he wants what he desires…” (Lacan 2006, 571-572).
+
+&nbsp;
+
+[5] Separation is a Lacanian operation coupled with alienation.  In it, the subject experiences that she is never totally represented by a signifier, and hence experiences a loss; it is often expressed through the confrontation of a subject with a forced choice, like “your money or your life!”, where one possibility, and maybe even its alternative, is inevitably lost.  Separation is the operation by which the subject is trying to retrieve the part of being he has lost, in the objects of the drive and in identifying with the 
+objet a
+.
+
+&nbsp;
+
+[6] I am thinking of statements given by 
+passants
+ [the ones who submitted to the 
+passe
+] during the 1990’s international conferences of the 
+Champ Freudien
+ [Freudian Field], for instance E. Solano Suarez, 1996, p. 137-146.
+
+&nbsp;
+
+[7] Seminar 24, Session of November 16, 1976; see also note p. 47.
+
+&nbsp;
+
+[8] Seminar 24, session of March 15, 1977
+
+&nbsp;
+
+[9] This parasitic and intrusive effect of language on human beings was already present in 1958, even if then Lacan was more accentuating the “order” aspect, classifier and mediator of the symbolic, quilted [
+capitonné
+] by the Name of the Father and the phallus, as if having to correct these devastating effects.  See also “ The phallocentrism produced by this dialectic is all that need concern us here. It is, of course, entirely conditioned by the intrusion of the signifier in a man’s psyche and strictly impossible to deduce from any pre-established harmony between this psyche and the nature it expresses” (Lacan 2006, p. 463).
+
+&nbsp;
+
+[10] The 
+sinthome
+, in its Borromean approach, is what knots the real (R), the symbolic (S) and the imaginary (I).
+
+
+
+
+Bio:
+
+
+
+Geneviève Morel
+, psychoanalyst in Paris and Lille, former student at the Ecole Normale Supérieure, Associate University (mathematics), doctor of clinical psychology and psychopathology (University Paris 7). Among her publications: 
+Ambiguïtés sexuelles. Sexuations et psychose
+, (Paris: Anthropos Economica, 2000), translated in English as 
+Sexual Ambiguity
+ (London: Karnak Books, 2011); 
+Clinique du suicide
+ (Paris: Eres, 2002); 
+L’œuvre de Freud. L’invention de la psychanalyse
+ (Levallois-Perret: Bréal, 2006) ; 
+La loi de la mère. Essai sur le sinthome sexuel
+ (Paris: Anthropos Economica, 2008); 
+Pantallas y suenos. Ensayos psicoanaliticos sobre la imagen en movimiento
+ (Barcelona: ​​Ediciones S &amp; P, 2011). She is president of “Savoirs et clinique. Association pour la formation permanente en psychanalyse” and of “Collège des Psychanalystes d’A.l.e.p.h (Association pour l’étude de la psychanalyse et de son histoire)”.
+
+
+
+
+Publication Date:
+
+
+August 25, 2015
+
+
+
+
+
+
+Share This Article
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+
+Topics
+
+ 
+Fantasy
+ 
+Jouissance
+ 
+Lacan
+ 
+Punishment
+ 
+Transformation of Symptom
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+Vol. 2, No. 1, 2015
+
+
+
+
+Bibliography
+
+
+
+Notes
+
+
+
+Bio
+
+
+
+Publication Date
+
+
+ 
+ 
+ 
+
+ 
+ 
+Download.pdf
+ 
+
+
+
+Citation
+
+Morel, G. (2015). The Unsinkable Fantasy. 
+European Journal of Psychoanalysis
+, Vol. 2, No. 1.
+ 
+ 
+ 
+
+ 
+ 
+Copy
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+Journal
+
+
+
+Current Issue
+
+
+
+All Issues
+
+
+
+On The Horizon
+
+
+
+Global
+
+
+
+The JEP
+
+
+
+
+ 
+Salon
+
+
+
+Symposia
+
+
+
+Discourse
+
+
+
+Features
+
+
+
+Articles
+
+
+
+
+ 
+About The EJP
+
+
+
+Submissions
+
+
+
+Editorial
+
+
+
+Contributors
+
+
+
+History
+
+
+
+Links
+
+
+
+
+
+
+ 
+Contact Us
+
+
+
+
+
+Published by I.S.A.P. - ISSN 2284-1059
+Scientific Journal in the List 11 by the ANVUR (Italian Agency for Evaluation of the University System and Research)
+
+© 2024 European Journal of Psychoanalysis
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+

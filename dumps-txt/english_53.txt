@@ -1,0 +1,863 @@
+
+
+
+
+
+
+Book Review Essay: “The Racist Fantasy: Unconscious Roots of Hatred” by Todd McGowan - European Journal of Psychoanalysis
+
+ 
+img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ {"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/book-review-essay-the-racist-fantasy-unconscious-roots-of-hatred-by-todd-mcgowan\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.journal-psychoanalysis.eu\/#listItem","position":1,"name":"Home","item":"https:\/\/www.journal-psychoanalysis.eu\/","nextItem":"https:\/\/www.journal-psychoanalysis.eu\/articles\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/#listItem","position":2,"name":"Articles","item":"https:\/\/www.journal-psychoanalysis.eu\/articles\/","nextItem":"https:\/\/www.journal-psychoanalysis.eu\/articles\/book-review-essay-the-racist-fantasy-unconscious-roots-of-hatred-by-todd-mcgowan\/#listItem","previousItem":"https:\/\/www.journal-psychoanalysis.eu\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/book-review-essay-the-racist-fantasy-unconscious-roots-of-hatred-by-todd-mcgowan\/#listItem","position":3,"name":"Book Review Essay: \"The Racist Fantasy: Unconscious Roots of Hatred\" by Todd McGowan","previousItem":"https:\/\/www.journal-psychoanalysis.eu\/articles\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/www.journal-psychoanalysis.eu\/#organization","name":"European Journal of Psychoanalysis","url":"https:\/\/www.journal-psychoanalysis.eu\/"},{"@type":"WebPage","@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/book-review-essay-the-racist-fantasy-unconscious-roots-of-hatred-by-todd-mcgowan\/#webpage","url":"https:\/\/www.journal-psychoanalysis.eu\/articles\/book-review-essay-the-racist-fantasy-unconscious-roots-of-hatred-by-todd-mcgowan\/","name":"Book Review Essay: \u201cThe Racist Fantasy: Unconscious Roots of Hatred\u201d by Todd McGowan - European Journal of Psychoanalysis","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.journal-psychoanalysis.eu\/#website"},"breadcrumb":{"@id":"https:\/\/www.journal-psychoanalysis.eu\/articles\/book-review-essay-the-racist-fantasy-unconscious-roots-of-hatred-by-todd-mcgowan\/#breadcrumblist"},"datePublished":"2023-05-07T06:20:34+03:00","dateModified":"2023-06-14T02:05:40+03:00"},{"@type":"WebSite","@id":"https:\/\/www.journal-psychoanalysis.eu\/#website","url":"https:\/\/www.journal-psychoanalysis.eu\/","name":"European Journal of Psychoanalysis","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.journal-psychoanalysis.eu\/#organization"}}]} 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ /* 
+ */ 
+ 
+ 
+
+ 
+/* 
+ */ 
+ 
+
+ 
+
+ 
+ /* 
+ */ 
+ 
+
+
+
+
+ 
+ document.documentElement.className = document.documentElement.className.replace('no-js', 'js'); 
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Journal
+
+
+
+Salon
+
+
+
+About
+
+
+
+
+
+
+
+
+
+
+
+
+Current Issue
+
+
+
+All Issues
+
+
+
+On The Horizon
+
+
+
+Global
+
+
+
+The JEP
+
+
+
+
+
+
+
+
+
+
+
+
+Loren Dent
+
+Book Review Essay: &#8220;The Racist Fantasy: Unconscious Roots of Hatred&#8221; by Todd McGowan
+
+
+
+
+Review of 
+
+
+The Racist Fantasy: Unconscious Roots of Hatred 
+
+
+by Todd McGowan, Bloomsbury, 2022, pp. 240. 
+
+
+&nbsp;
+
+
+Author&#8217;s note: 
+This review was written contemporaneously with the murder of Tyre Nichols at the hands of police in Memphis, Tennessee.
+
+
+
+
+
+
+Todd McGowan’s 
+
+
+The Racist Fantasy
+
+
+ has an urgency to it. An accessible text, its footnotes demonstrate McGowan’s command of the 
+
+vertiginous depth of academic work on psychoanalysis and racism and the insidious reach of the racist enjoyment in mass culture. 
+
+McGowan insists on racism as a specific formal elaboration of fantasy. Against the contemporary lexicon of unconscious bias, so prevalent in the diversity-industrial complex of for-profit trainings and workshops, racism as fantasy for McGowan 
+
+delivers enjoyment to the racist… 
+
+
+
+This enjoyment can take the form of extreme violence or extreme eroticism, but in both cases, it appears as excessive in relation to the restrictions of everyday life. (pp. 3-4) 
+
+
+
+The elision of unconscious enjoyment by a theory of unconscious knowledge (or lack thereof) necessarily implicates psychoanalytic theorizing. McGowan rightfully points out the dearth of psychoanalytic work on the pathologies of racism before more contemporary scholarship, the latter including but not limited to the work of David Eng, Hortense Spillers, Stuart Hall, Sheldon George, David Marriott, Christopher Lane, Stephen Frosh, among many others, many of whom have continued to engage the works of Frantz Fanon. 
+
+
+
+McGowan’s book leans on Freudian-Lacanian thinking, whereby fantasy has a grammar. For Freud, in his study of the Wolfman and 
+
+
+A Child is Being Beaten
+
+
+, fantasy provides a frame, a minimal propositional articulation of the subject’s relationship to the object. McGowan is drawing on Lacan’s (2006) double exposition of fantasy as that which both “fundamentally screens the real” (p. 195) while being the “means by which the subject maintains himself at the level of his vanishing desire” (p. 532). The grammar of fantasy is both the means through which, but also the obstacle for the subject. What is specific to the racist fantasy, for McGowan, is not its form but rather the location of the racial other as an object, the racialized figure as embodying the obstacle intrinsic to the enjoyment of fantasy as such. This takes on many forms for McGowan, from the racial other enjoying their possessions, traits (e.g., athletic ability, intelligence, genetic gifts), sexual potency, and cultural productions and rituals. Particularly alluring and valuable for the racist, sometimes consciously but necessarily unconsciously, is how it “offers a way to both experience the excessiveness of enjoyment and a retreat from it” (p. 41). The racist fantasy provides a frame through which the enjoying racist subject enjoys, identifies with, and is insulated from the object of excess, the racialized other.
+
+
+
+McGowan isolates the “moment of birth” of the racist fantasy in capitalist modernity. As we will see, this claim is enmeshed within scholarly debates surrounding the relationship between racism and capital. For McGowan, the emergence of capitalism is coextensive with the European Enlightenment, including the modern philosophy of Descartes and Kant and the political ideals of egalitarianism and the rights of man. McGowan underlines the tension between the universalist principles of 17th and 18th Century Europe and racism. However, rather than attributing racism as a kind of fault or failure of universalist aspirations, McGowan attributes the rise of racialization both within Europe and across its colonial reach as a kind of solution to a psychical dilemma, namely, the unsettling alienation that results from universality, in which one is stripped from particular identities and inequalities. McGowan dubs this the “crisis of nonbelonging” (p. 80), the impossibility of reconciling the dream of an egalitarian liberal community and universal nonbelonging: “the persistence of racism reveals that inclusion always runs up against a fundamental limit &#8211; for some to belong, other must not belong” (p. 81). 
+
+
+
+Alongside the antinomy of liberal modernity and nonbelonging, for McGowan the racist fantasy serves as a rescue for the intrinsic limits of capital. Capitalism, it is argued, fits like a glove and hand with the psychical reality of desire itself; endless accumulation for an unlimited future satisfaction that is structurally impossible. Racism “comes to the rescue for capitalism” (p. 97), providing an appealing frame to explain away the dissatisfaction imminent to the market itself, attributing the discontent of the consumer, worker, and even the capitalist to the racial other. As such, McGowan underscores the fallacies of “woke capitalism,” which nods to antiracist slogans to assuage guilt but leaves the racist fantasy intact as capitalism depends on it. For McGowan, an antiracist world is necessarily anticapitalist.
+
+
+
+In the book&#8217;s final chapter, “On the Other Side of Fantasy,” McGowan articulates some ways forward in traversing the racist fantasy. Opposed to the contemporary (neoliberal) rituals of becoming conscious of and acknowledging implicit bias, whereby racism is a mere psychological defect, McGowan insists on the responsibility of one’s enjoyment through the racial other. This would imply, so it is argued, assuming responsibility for nonbelonging and recognizing that enjoyment is always lacking rather than projecting the desire for unrestrained enjoyment onto the other. As McGowan sees it, such an ethical project is at odds with the liberal discourse of inclusion and mutual recognition insofar as such ideals are grounded in Enlightenment universalism, which necessitates a figure of nonbelonging to secure belonging for others. Instead, a proper crossing of the racist fantasy requires, argues McGowan, “destroying one’s own sense of belonging. An antiracist practice thus undermines the symbolic position of anyone taking it up” (p. 187).  
+
+
+
+As alluded to above, McGowan’s provocative yet accessible book is one of many attempts to examine racism through psychoanalysis. It is far beyond the scope of this review to do justice to the various scholarship of the recent few decades. 
+
+
+The Racist Fantasy
+
+
+ perhaps finds its theoretical home in the tradition of the so-called “theft of enjoyment” thesis, attributable to Slavoj Žižek. In a 
+
+
+Village Voice
+
+
+ essay, Žižek distills the theory as such: 
+
+
+
+What holds together a given community can never be reduced simply to the point of symbolic national identification: A shared relationship toward 
+
+
+the other’s
+
+
+ enjoyment is always implied. Structured by means of fantasies, this thing — enjoyment — is what is at stake when we speak of the menace to our “way of life” presented by the other. (1993) 
+
+
+
+According to the theft of enjoyment thesis, racist fantasy is sustained by locating enjoyment &#8211; as alluring and bothersome &#8211; in the racial or ethnic other. What irks the racist, consciously and unconsciously, is how the other enjoys their strange cultural customs, unusual music, odors, work habits, et cetera. McGowan is indebted to the theft of enjoyment thesis, though he adds the element of the racist subject’s access to enjoyment through the fantasized enjoyment of the other. Nevertheless, at least two limitations to the thesis of racist fantasy as theft of enjoyment appear to apply to McGowan’s efforts. First is the problem of reductionist psychologism. For example, Derek Hook (2018) has argued that in the theft of enjoyment hypothesis 
+
+
+
+explanations of racism as jouissance are surely prone to psychological reductionism inasmuch as they often appear to privilege a series of psychoanalytic assumptions (drive, fantasy, libido, projection, etc.) as existing prior to &#8211; or independently of &#8211; considerations of economic, historical, political and socio-symbolic context. (p. 8) 
+
+
+
+It would be in bad faith to claim that McGowan’s book is ahistorical per se, as he gives many rich examples of the racist fantasy’s instantiation in specific events, traumas, and cultural moments. However, the risk of psychologism is quite near in many of McGowan’s assertions.
+
+
+
+For example, in theorizing the foundational role of the racist fantasy, McGowan reminds us of the psychoanalytic truism that fantasy organizes the subject’s relation to reality and enjoyment rather than a retreat from them. Here we find the vexing question that has plagued Marxist-Freudians of many stripes around the relationship between the particular and universal, individual and collective. Taking cues from Freud’s mass psychology (1921), we encounter theoretical quandaries about group identification, myths of origin, and intergenerational transmission, not to mention Freud’s flirtation with phylogenetic fantasy and its psychical effects. For McGowan, “although there are purely individual fantasies, there are also collective ones that enable societies to cohere around them” (p. 107). Collective fantasy, argues McGowan, is the structuring of social reality. However, tension arises here. At times, McGowan attributes collective fantasy as the “matrix for how our perception works in society” (p. 105), raising head scratching metapsychological questions of what something like collective perception means, who the subject of perception is, and so forth, encroaching dangerously close to an anthropomorphism of the collective as a perceiving subject. 
+
+
+
+Here another difficulty arises. McGowan claims the racist fantasy is a mask or explanation for underlying (oppressive) material conditions: “Racist institutions create brutal conditions for those living under them, but without the racist fantasy to support these institutions, those working to sustain them would lose their incentive to do so. Fantasy provides the payoff” (106). Left unclear is whether the collective (racist) fantasy is the fabric through which such brutal objective conditions are organized or the lure through which some (e.g., whites) are compensated to maintain social reality. In a telling set of examples of how collective fantasy frames reality, McGowan suggests:
+
+
+
+[W]e look at a woman holding a baby in her arms, and we believe that we see a loving mother. We watch a football player yelling at his girlfriend, and we believe that he is an overaggressive job. We hear a group of teens complaining about their high school, and we believe that they are expressing ordinary teen alienation. (p. 107)
+
+
+
+Such cases, presumably of how unconscious fantasies shape perceptions, appear close to the “implicit bias” proposition McGowan wants to reject. Not only that, but there is much left out of such examples. For example, does the subject witnessing the football player yelling at his girlfriend desire, unconsciously desire the yelled-at woman, the jock? Is it aggression or erotic foreplay? Does the fantasy scenario lead one subject to identify with the jock, the girlfriend, or both, or even identify with the voice that is yelling?  
+
+
+
+ It would be unfair to ask McGowan to detail the intricacies of how collective fantasy shapes singular ones. Nevertheless, the internal tensions around such questions in this text underscore that the body of scholarship that leans on psychoanalytic concepts for illuminating social ills has circled these deadlocks. Further, McGowan makes the surprising gesture of drawing a firewall between fantasy and ideology. McGowan acknowledges the importance of racist ideology as the “necessary support and sustenance for capitalist society” (p. 4), though somewhat surprisingly attributes ideology to consciousness, distinct from racist enjoyment, which is unconscious. Again, it would be too much to ask of McGowan to walk the reader through the differences and intertwining of fantasy and ideology in subtle detail. However, it should strike readers familiar with the psychoanalytic and (post-)Marxist scholarship as surprising, as it rubs against efforts to understand how “ideology works phantasmically to ‘eternalize’ or ‘universalize’ historical contingency” (Freccero, 2012, p. 47).  
+
+
+
+In a similar vein, McGowan enters the fray of the ongoing debates around the primacy of race or capital in sustaining misery. This polemic has played out between theorists of racial capitalism, Marxists, and Afropessimism.  He devotes a section of his text to distinguishing race and class along symbolic identification instead of enjoyment. We again arrive at an unexpected claim: “the absence of a class fantasy” (p. 176). McGowan argues that whereas racist fantasy is so alluring in forms of jouissance that are outside of the social order, class is a question of symbolic identification: 
+
+
+
+The class fantasy doesn’t take hold because the indulgences of the wealthy all occur within the confines of social propriety. The pleasures of the rich are never excessive enough to constitute an enjoyment worth fantasizing about… We can identify with the wealthy because their transgressions, no matter how extreme, never go too far” (p. 179). 
+
+
+
+The examples McGowen gives us from popular culture include Stanley Kubrick’s 
+
+
+Eyes Wide Shut
+
+
+ and Martin Scorsese’s 
+
+
+The Wolf of Wallstreet
+
+
+. In these films, the excesses of orgies, debauchery, and drugs are well within the social order itself; nothing in these and similar films&#8217; capitalist fantasy scenarios undermines our identification with the protagonists. “Psychic identification is not the same as fantasy,” McGowan reminds us, so we “don’t envy the excesses of the rich” (p. 180). 
+
+
+
+Such a distinction, it seems, glosses both the complicated intertwining of identification and fantasy and diminishes the fantasmatic enjoyment of capitalist excess and surplus. McGowan could have, for example, examined 
+
+Pier Paolo Pasolini’s 1975 film 
+
+
+Salò or the 120 Days of Sodom
+
+
+. A clear nod to Sade’s work, this controversial film was banned in several countries for its depictions of sexual torture, rape, and murder of underaged teens. The film follows a small group of Italian libertine fascists in the 1940s who kidnap and torture a group of teenagers, culminating in several executions. It would be tempting to read the film as merely a critique of fascist modernity, but this would miss the point. As observed by Timan Zheng (2020): 
+
+
+
+Those that single out its anti-fascism generally overlook the film’s anti-capitalist allusions. Pasolini’s dichotomy between power and subjects works, possibly, more eloquently as a metaphor for class division — paralleling the capitalist’s treatment of the working class, where cruelty and sadistic behavior is a simply logical progression in an unethical system. This complements how Pasolini frames the hierarchical dynamic, viewing the victims as commodities: the fascists keep a routinely record of their slaves’ excrement, pedantically examining for “transgressions” as if they were products via assembly line workers. (para. 5) 
+
+
+
+Zheng notes the importance of holding in mind the time in which the film was made, rather than set, in that Italy in the 1970s was undergoing a transformation by contemporary market capitalism, the film underscoring the sadistic law of excess and consumption. In a commentary on his film, Pasolini (2002) himself revealed his intention to present the bodies of the victims as pure commodities, from the “annulment of the personality of the Other” ( 07:38). What is particularly effective, then, in 
+
+
+Salò
+
+
+ is the sadistic fantasy of capital in so far as it is latent relative to the manifest content of fascism. Excessive jouissance in commodifying the other’s body is presented as political reason, the law followed by the libertines. We then have to ask McGowan why is a film like 
+
+
+Salò
+
+
+ not an exacting representation of something like the capitalist fantasy. Far from the modest excesses of 
+
+
+The Wolf of Wall Street
+
+
+ and 
+
+
+Eyes Wide Shut
+
+
+, the viewer of 
+
+
+Salò
+
+
+ is invited into envying the libertine’s measured, law-bound excesses, even if consciously disgusted and disturbed. 
+
+
+
+Here we can raise concerns regarding McGowan’s effort to separate fantasy from identification tidily. He is quite right that, on one level, the symbolic identification of class serves a kind of pacifying effect &#8211; the white working class can identify with the rich and their enjoyment, even though it can never reach it. Indeed, this is similar to the claims of Du Bois’ 1935 famous wages thesis, extended by Roediger (2017). The white working class is “rewarded” a symbolic place through racialization, gaining a “public and psychological wage” of whiteness (Du Bois, 1935/
+
+2012
+
+ p. 700). However, perhaps a more complex relationship between identification, fantasy, and enjoyment is at stake. Recalling Freud’s 1919 paper, fantasy is supple; a series of permutations and substitutions are possible in unfolding the sequence of witnessing, unconscious (masochistic) fantasy, and conscious (sadistic) fantasy. 
+
+
+
+[B]eating-phantasies have a historical development which is by no means simple, and in the course of which they are changed in most respects more than once— as regards their relation to the author of the phantasy, and as regards their object, their content and their significance. (p. 184) 
+
+
+
+Should something like a collective racist fantasy exist, we could follow Freud’s synchronic and diachronic logic and play with several possible instantiations:
+
+
+&nbsp;
+
+
+Phase one, consciously witnessed: A man is being exploited, whom I hate (because he is black).
+
+
+
+Phase two, unconscious masochistic fantasy: I am being exploited by those in power.
+
+
+
+Phase three, conscious sadistic fantasy: A black man is being exploited by the capitalist; I am 
+
+
+
+probably looking on.
+
+
+&nbsp;
+
+
+Or:
+
+
+
+Phase one, consciously witnessed: A black man is being beaten, whom I hate (because he is a criminal).
+
+
+
+Phase two, unconscious masochistic fantasy: I am being beaten.
+
+
+
+Phase three, conscious sadistic fantasy: A black man is being beaten; I am probably looking on.
+
+
+&nbsp;
+
+
+Or:
+
+
+
+Phase one, consciously witnessed: A white woman is being raped, whom I hate (because she desires someone else).
+
+
+
+Phase two, unconscious masochistic fantasy: I am being raped.
+
+
+
+Phase three, conscious sadistic fantasy: A black woman is being raped; I am probably looking on.
+
+
+&nbsp;
+
+
+We could imagine nearly indefinite scenarios, heading Freud’s (1919) reminder: 
+
+
+
+The situation of being beaten, which was originally simple and monotonous, may go through the most complicated alterations and elaborations; and punishments and humiliations of another kind may be substituted for the beating itself. (p. 186)
+
+
+
+There is a suppleness of fantasy scenarios and the substitutability of the subject, object, and form of humiliation, along with the shifting of witnessing something in reality to unconscious masochistic enjoyment, then finally to conscious sadistic enjoyment. We then must account for how symbolic efficacy is recruited in mapping out the fantasy between various forms of real and desired subjection. 
+
+
+
+In a recent analysis, Hook (2022) carefully reads Fanon’s claim of the unconscious homosexual and masochistic fantasy of white men, psychically charged with the sexuality of black men vis-à-vis white women. Hook emphasizes the psychical work of condensation and displacement, the drifting of the signifier in framing the masochistic racist fantasy. Hook’s approach allows for a non-reductionistic means for analyzing anti-black racist fantasies, skeptical of a too simplistic “theft of enjoyment” lens that neglects historical knottings of real, imaginary, and symbolic interplays of race, sexuality, and subjection. Hook’s analysis is robust and consistent with a body of Lacanian scholarship on racism that aligns itself closely with the work of Afropessimist theorists like Frank Wilderson and Jared Sexton, who &#8211; unlike McGowan &#8211; place blackness as the privileged site of exclusion from the signifier of the human. Commentary on the suitability and limitations of Afropessimist scholarship and its psychoanalytic readings is beyond the scope of this review. However, we could raise the theoretical question for Hook and others as to just how we might account for the historicity of fantasy, as insisted on by Freud, and the possible “flatness of blackness” that is risked in Afropessimist scholarship (Okoth, 2020).
+
+
+
+Undoubtedly, McGowan’s book contributes a wealth of insights into contemporary debates between psychoanalysis, race studies, Marxism, and theories of racial capitalism.  The text is a lucid call for centering unconscious enjoyment at a time when the central ideological trapping emphasizes knowledge and ignorance, leading to flaccid liberal politics of recognition and white moralism. Hopefully, the ongoing engagement of psychoanalysis with theories of racism and (post-)colonial exploitation will continue to develop non-reductive accounts for the coiling of material dispossession with symbolic and imaginary cultural scenographies. Such efforts would undoubtedly need to problematize the slippage into psychologizing explanations, heeding the psychoanalytic truth of the singularity of fantasy. 
+
+
+
+
+
+
+Bibliiography:
+
+
+
+Du Bois, W. E. B. (2012). 
+
+
+Black reconstruction in America: Toward a history of the part which black folk played in the attempt to reconstruct democracy in America, 1860-1880
+
+
+. Routledge. (Original work published 1935)
+
+
+&nbsp;
+
+
+Freccero, C. (2012). Ideological fantasies. 
+
+
+GLQ: A Journal of Lesbian and Gay Studies
+
+
+, 
+
+
+18
+
+
+(1), 47–69.
+
+
+&nbsp;
+
+
+Freud, S. (1919). ‘A child is being beaten’ A contribution to the study of the origin of sexual perversions. In 
+
+
+The standard edition of the complete psychological works of Sigmund Freud
+
+
+, Vol. 17:175-204
+
+
+&nbsp;
+
+
+Freud, S. (1921). Group psychology and the analysis of the Ego. In
+
+
+ The standard edition of the complete psychological works of Sigmund Freud 
+
+
+18:65-144
+
+
+&nbsp;
+
+
+Hook, D. (2018). Racism and jouissance: Evaluating the “racism as (the theft of) enjoyment” hypothesis. 
+
+
+Psychoanalysis, Culture &amp; Society
+
+
+, 244–266.
+
+
+&nbsp;
+
+
+Hook, D. (2022). The Primal scene of anti-blackness: The masochist jouissance of white racism. 
+
+
+The Comparatist
+
+
+, 
+
+
+46
+
+
+(1), 7–28.
+
+
+&nbsp;
+
+
+Lacan, J. (2006). 
+
+
+Écrits
+
+
+. Trans. by Bruce Fink.  Norton.
+
+
+&nbsp;
+
+
+Okoth, K. O. (2020). The flatness of blackness: Afro-Pessimism and the erasure of anti-colonial thought. 
+
+
+Salvage. January
+
+ 
+
+16
+
+
+. 
+
+
+&nbsp;
+
+
+Pasolini, P. (Director). (1975). 
+
+
+Salò: Yesterday and today
+
+
+ [Film]. Produzioni Eurropee Associati. 
+
+
+&nbsp;
+
+
+Pasolini, P., Biette, J. Davoli, N. et al. (2002). 
+
+
+&#8220;Salò&#8221;: Yesterday and today
+
+
+ [
+
+Blu-ray
+
+] (in Italian and English). The Criterion Collection.
+
+
+&nbsp;
+
+
+Roediger, D. R. (2017). The wages of whiteness: Race and the making of the American working class. 
+
+
+Class: The Anthology
+
+
+, 41-55.
+
+
+&nbsp;
+
+
+Zheng, T. (2020, October). Sadism for debauched society: 
+
+
+Salò
+
+
+. 
+
+
+Cineccentric
+
+
+. https://cineccentric.com/
+
+
+&nbsp;
+
+
+Žižek, S. (1993, July). The white issue: The ‘theft of enjoyment’. 
+
+
+The Village Voice.
+
+
+  http://www.villagevoice.com
+ 
+  
+
+
+
+
+
+Bio:
+
+
+
+Loren Dent
+, Ph.D. is a psychologist in private practice in Brooklyn, New York and co-director of training at the Greene Clinic.  He is the editor of 
+DIVISION/Review
+, a publication of the Society for Psychoanalysis and Psychoanalytic Psychology (APA Division 39) and an instructor at the Brooklyn Institute for Social Research, where he teaches courses on psychoanalysis.
+
+
+
+
+Publication Date:
+
+
+June 1, 2023
+
+
+
+
+
+
+Share This Article
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+Vol. 10, No. 1, 2023
+
+
+
+
+Bibliiography
+
+
+
+Bio
+
+
+
+Publication Date
+
+
+ 
+ 
+ 
+
+ 
+ 
+Download.pdf
+ 
+
+
+
+Citation
+
+Dent, L. (2023). Book Review Essay: &#8220;The Racist Fantasy: Unconscious Roots of Hatred&#8221; by Todd McGowan. 
+European Journal of Psychoanalysis
+, Vol. 10, No. 1.
+ 
+ 
+ 
+
+ 
+ 
+Copy
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+Journal
+
+
+
+Current Issue
+
+
+
+All Issues
+
+
+
+On The Horizon
+
+
+
+Global
+
+
+
+The JEP
+
+
+
+
+ 
+Salon
+
+
+
+Symposia
+
+
+
+Discourse
+
+
+
+Features
+
+
+
+Articles
+
+
+
+
+ 
+About The EJP
+
+
+
+Submissions
+
+
+
+Editorial
+
+
+
+Contributors
+
+
+
+History
+
+
+
+Links
+
+
+
+
+
+
+ 
+Contact Us
+
+
+
+
+
+Published by I.S.A.P. - ISSN 2284-1059
+Scientific Journal in the List 11 by the ANVUR (Italian Agency for Evaluation of the University System and Research)
+
+© 2024 European Journal of Psychoanalysis
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+

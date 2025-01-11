@@ -1,0 +1,609 @@
+.async-hide { opacity: 0 !important} 
+Understanding Desire and Sexual Fantasies: An Introduction
+
+
+
+
+
+
+
+
+ Find a therapist
+
+
+
+
+ Find a coach
+
+
+Join as a therapist
+
+
+
+
+ Log in/register
+
+
+
+ Search
+
+
+
+
+
+
+
+ABOUT  
+
+
+About us
+How we help
+Employee support
+Testimonials
+Therapy FAQ
+Press
+Need help with  
+
+
+Anxiety
+Depression
+Relationships
+Addiction
+Stress
+Trauma
+Confidence
+Stress
+Motivation
+See all
+ARTICLES  
+
+
+Most Recent
+Experience of therapy
+Our therapists say
+Meet the therapist
+Our coaches say
+Mind
+Body
+Relationships
+Soul
+Work
+RESOURCES  
+
+
+Types of therapy
+Types of coaching
+Helpful charities
+Apps we like
+Recommended books
+Therapist benefits  
+
+
+Free CPD
+Peer Support
+
+Testimonials
+
+Find A Practitioner  
+
+
+Find A Therapist
+Find A Coach
+Matching Service
+
+
+
+
+ABOUT
+
+
+
+About us
+
+
+How we help
+
+
+Employee support
+
+
+Testimonials
+
+
+Therapy FAQ
+
+
+Press
+
+Need help with
+
+
+
+Anxiety
+
+
+Depression
+
+
+Relationships
+
+
+Addiction
+
+
+Stress
+
+
+Trauma
+
+
+Confidence
+
+
+Stress
+
+
+Motivation
+
+
+See all
+
+ARTICLES
+
+
+
+Most Recent
+
+
+Experience of therapy
+
+
+Our therapists say
+
+
+Meet the therapist
+
+
+Our coaches say
+
+
+Mind
+
+
+Body
+
+
+Relationships
+
+
+Soul
+
+
+Work
+
+RESOURCES
+
+
+
+Types of therapy
+
+
+Types of coaching
+
+
+Helpful charities
+
+
+Apps we like
+
+
+Recommended books
+
+Therapist benefits
+
+
+
+Free CPD
+
+
+Peer Support
+
+
+Testimonials
+
+
+
+Find A Practitioner
+
+
+
+Find A Therapist
+
+
+Find A Coach
+
+
+Matching Service
+
+
+
+Find a therapist
+
+
+
+
+
+Find a coach
+
+
+
+
+Join as a therapist
+
+
+
+
+
+
+Log in / register
+
+Search
+
+
+
+
+
+require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us7.list-manage.com","uuid":"bf0674e815dfdc4e794eba319","lid":"d7af370e04"}) })
+Home
+    
+Articles
+Understanding Desire and Sexual Fantasies: An Introduction
+
+
+
+ Therapists
+
+
+
+ 
+Alexander Gray
+
+couples
+identity
+intimacy
+self
+sex
+
+Being honest about our sexual desires and fantasies can be difficult with our partners, even with ourselves
+
+
+Trainee psychotherapist Alexander Gray
+
+ offers an introduction to sexual fantasies and where they might come from
+Having a relationship with sex and intimacy that works for us can be hugely important to overall mental health – if you need to talk, find your therapist 
+
+here
+
+
+Whilst I was drafting the content for my new profile here on welldoing.org I was wondering what sort of clients I would attract and the material they might bring. I hit save and let the process start. The following day I eagerly checked my emails for any response. One message! It was from Alice, the content manager on the website, asking if I’d like to write a piece on sexual fantasies. Well, that was unexpected.
+Or perhaps it was synchronicity. I was actually half way through 
+Three Women
+ – a gripping true story about the sex lives of three real American women, based on almost a decade of research and writing by Lisa Taddeo. The tales are raw and detailed, full of fantasy but reporting reality. It’s a heady mix, like sitting through a series of sessions with clients, wanting to work with the content but not having access.
+The power of 
+Three Women
+ for me is delivered through the simplicity of storytelling. There is no analysis or judgement, just the inner workings of these women’s minds. As a man I felt privileged to get such a clear picture but I was also curious to know the male side of each story. But that’s another point, presumably, that in this instance the alternate view is not relevant – we are focusing on what these women want, and that’s enough.
+I found myself thinking about previous clients and how they brought their sexual fantasies into the room. I have worked with divorcees getting to know their bodies and their desires, the long-term singles who can’t match their expectations to reality and partners where their mutual fantasies are coming true but not making them as happy as planned. I continued this rumination and found a great podcast, 
+The Sexual Wellness Sessions
+ with Kate Moyle.
+The first episode has Kate discussing desire with Dr Karen Gurney, a clinical psychologist, certified psychosexologist and author of 
+Mind the Gap
+. They explain that desire is a motivation rather than an urge and is something that is not always turned on. Fantasy can come from a mismatch in desire between couples. They suggest instead of trying to force desire, create the right context for it, just as you train your body to be physically fit or meditate to clear your mind.
+However, as a nation we don’t talk about sex openly so our thoughts and feelings can stay in our minds and bodies. Fantasies might be a way of relieving some of that pent-up pressure. Fantasies may also be triggered by changes in your lifestyle through medication, injury or illness, stress, a lack of privacy or diary clashes. Not being able to connect with a partner may result in sexual fantasies fuelling masturbation and vice versa.
+Communicating sexual preferences can be difficult. Themes I’ve explored in sessions include: what clients enjoy about their sex life; what they feel is missing; whether they actually want their fantasies to come true; how any previously held fantasies have played out in reality; whether they entertain their partners fantasies; how they can practically explore their fantasies safely; and, sometimes, where they think the fantasies came from.
+These themes and many more are explored in great depth by Brett Kahr in his 2008 publication of 
+Sex and the Psyche: The Truth about Our Most Secret Fantasies
+. Having surveyed 19,000 Britons and personally interviewed 122 there are some interesting observations and revelations about various fantasies from men and women across the country. Although his case studies are illuminating, longitudinal reflection around childhood experiences influencing fantasies or how they might adapt as we get older is lacking.
+I would be interested to hear of any studies as a follow up and learn more about any difference or similarities between people of different gender, race or creed and indeed how these issues play out in the therapy room considering ethics and transference. How are therapists working with this material at the moment and are any potential clients reading this feeling now is the time to talk to someone?
+
+
+
+Alexander Gray is a verified welldoing.org psychotherapist-in-training at Garden of Eadon where he is working towards UKCP accreditation as an adult therapist. He is also studying for an MA in Transpersonal Child, Adolescent and Family Therapy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Further reading
+
+Sex in the therapy room
+
+
+Why is intimacy so complicated?
+
+
+Is depression killing my sex drive?
+
+
+How an unconscious fear of intimacy can affect your sex life
+
+
+Has lockdown changed your sex life?
+
+
+Find Welldoing therapists near you
+
+Begin search
+
+Related articles
+
+Find Welldoing therapists near you
+
+Start the journey to improve your quality of life
+
+Begin search
+
+Categories
+
+
+
+ Experiences of therapy
+
+
+
+
+ Our therapists say
+
+
+
+
+ Meet the therapist
+
+
+
+
+ Body
+260
+
+
+
+
+
+ Coaches
+82
+
+
+
+
+
+ Mind
+645
+
+
+
+
+
+ Relationships
+214
+
+
+
+
+
+ Soul
+406
+
+
+
+
+
+ Work
+93
+
+
+Recent posts
+
+
+
+Meet the Therapist: Bushra Ahmed
+
+Posted on Jan 10, 2025
+
+
+
+Dear Therapist...&quot;How Can I Feel Happy this New Year, Given the State of the World?&quot;
+
+Posted on Jan 08, 2025
+
+
+
+Meet the Therapist: Julie Gosheva
+
+Posted on Jan 08, 2025
+
+
+
+How to Self-Care in Periods of Transition
+
+Posted on Jan 06, 2025
+
+
+
+5 Ways Journalling Can Help You Get Unstuck
+
+Posted on Dec 23, 2024
+
+
+
+How to Release Stress and Tension Stuck in Your Body
+
+Posted on Dec 19, 2024
+
+
+
+Meet the Therapist: Dr Ibrahim Ndabavunye
+
+Posted on Dec 17, 2024
+
+
+
+Looking Beyond My Traumatic Childhood to Understand Why My Father Sued Me
+
+Posted on Dec 16, 2024
+
+
+
+Recognising the Gifts in Anxiety
+
+Posted on Dec 12, 2024
+
+
+
+How to Navigate Family Resentment Over the Festive Period
+
+Posted on Dec 10, 2024
+Find counsellors and therapists in London
+Ealing
+Bromley
+Clapham
+Islington
+Croydon
+Wimbledon
+Hackney
+Twickenham
+Richmond
+Shoreditch
+Fulham
+Harrow
+Westminster
+Balham
+Lambeth
+Camden
+Stratford
+Pimlico
+Tottenham
+Dulwich
+Hounslow
+Angel
+Hammersmith
+Brixton
+Walthamstow
+Marylebone
+Surbiton
+Dalston
+Lewisham
+Peckham
+Battersea
+Search all London
+
+Find counsellors and therapists in your region
+London
+Manchester
+Belfast
+Leeds
+Bristol
+Glasgow
+Edinburgh
+Nottingham
+Plymouth
+Liverpool
+Sheffield
+Swindon
+Oxford
+Cambridge
+Brighton
+Bournemouth
+Birmingham
+Southampton
+Cardiff
+Swansea
+
+
+
+
+ Mind
+
+
+
+
+ Body
+
+
+
+
+ Relationships
+
+
+
+
+ Soul
+
+
+
+
+ Work
+
+About
+Trustpilot
+Contact us
+
+ Address:
+
+
+[email&#160;protected]
+
+Social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join over 23,000 others on our newsletter
+An email address must be entered
+
+
+
+    
+
+
+Subscribe
+© Copyright 2013 - 2025 by Welldoing. All Rights Reserved.
+
+Cookie policy
+ | 
+Privacy policy
+ | 
+Terms and conditions
+Welldoing Ltd - Registered in England and Wales No. 8614689.
+
+
+
+
+

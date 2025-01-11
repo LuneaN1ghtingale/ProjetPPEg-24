@@ -1,0 +1,1641 @@
+
+
+
+
+
+
+
+(function(w,r){w._rwq=r;w[r]=w[r]||function(){(w[r].q=w[r].q||[]).push(arguments)}})(window,'rewardful');
+
+
+
+
+Best Fantasy World | Motivation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root{--primary-color:#15D57E;}*,*::after,*::before{box-sizing:border-box;}blockquote,body,button,canvas,caption,dd,details,dialog,dl,fieldset,figure,form,h1,h2,h3,h4,h5,h6,hr,html,iframe,img,legend,li,menu,ol,p,pre,table,tbody,td,tfoot,th,thead,tr,ul{border:none;margin:0;padding:0;}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block;}audio,canvas,video{display:inline-block;}audio:not([controls]){display:none;height:0;}[hidden],template{display:none;}a{display:inline-block;-webkit-text-decoration:none;text-decoration:none;}b,strong{font-weight:bolder;}button{background:none;border:none;cursor:pointer;display:inline-block;line-height:1;}button::-moz-focus-inner{border:none;padding:0;}button,input,optgroup,select,textarea{color:inherit;font-family:inherit;font-size:1em;font-weight:inherit;margin:0;padding:0;}[disabled],:disabled{cursor:default;pointer-events:none;}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}html{background-color:#fff;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;line-height:normal;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;overflow-x:hidden;overflow-y:scroll;-ms-overflow-style:scrollbar;-webkit-text-size-adjust:100%;text-size-adjust:100%;text-rendering:optimizeLegibility;}img{vertical-align:bottom;}ol,ul{list-style:none;}table{border-collapse:collapse;}td,th{box-sizing:content-box;}[type='button'],[type='reset'],[type='submit']{-webkit-appearance:button;}[type='email'],[type='search'],[type='tel'],[type='text'],[type='url'],textarea{-webkit-appearance:textfield;-moz-appearance:textfield;appearance:textfield;}[type='number']{-webkit-appearance:textfield;-moz-appearance:textfield;appearance:textfield;}[type='number']::-webkit-outer-spin-button,[type='number']::-webkit-inner-spin-button{-webkit-appearance:none;margin:0;}::-webkit-input-placeholder{color:#737373;opacity:1;}::-moz-placeholder{color:#737373;opacity:1;}:-ms-input-placeholder{color:#737373;opacity:1;}::placeholder{color:#737373;opacity:1;}::-webkit-search-decoration{-webkit-appearance:none;margin:0;}
+
+:root{--button-bold-base:#2e2e2e;--button-bold-hocus:#000;--button-bold-pressed:#515151;--button-bold-text:#fff;--button-outline-base:transparent;--button-outline-hocus:#fafafa;--button-outline-pressed:#f1f1f1;--button-outline-text:#2e2e2e;--text-accent:#e61a58;--text-danger-base:#d63315;--text-danger-mute:#fb5947;--text-default-base:#2e2e2e;--text-default-mute:#737373;--text-default-dim:#8f8f8f;--text-default-dimmer:#8f8f8f;--text-default-dimmest:#d5d5d5;--text-default-divider:#e3e3e3;--text-success-base:#168252;--text-success-mute:#1ea569;--text-warning-base:#976a0c;--text-warning-mute:#c5821d;--background:#fff;}:focus{box-shadow:0 0 0 0.125rem var(--background),0 0 0 0.25rem #005fcc;outline:0.125rem solid transparent;outline-offset:0.125rem;}:focus:not(:focus-visible){box-shadow:none;}:focus-visible{box-shadow:0 0 0 0.125rem var(--background),0 0 0 0.25rem #005fcc;}input:not([class*='Textarea']):focus,input:not([class*='TextInput']):focus textarea:focus,[contenteditable='true']:focus{box-shadow:none;}style[data-emotion-css]{display:none !important;}
+
+.css-11sfz1p-App{width:100%;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;background-color:#FAFAFA;}
+
+
+.css-312c7k-App{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;min-height:100vh;}
+
+
+.css-1ak0z9k-Header{background-color:#FFFFFF;border-bottom-color:#ddd;border-bottom-style:solid;border-bottom-width:1px;}
+
+
+.css-mx79wu-Container{margin-left:auto;margin-right:auto;max-width:1280px;margin-top:0;margin-bottom:0;padding-left:1.0625rem;padding-right:1.0625rem;}
+
+
+.css-1i5o65f{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+
+.css-1k88itq-Flex{padding-bottom:1rem;padding-top:1rem;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+
+
+.css-1es12ig-Flex{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+
+
+.css-1euqb0v-Header{display:block;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;height:40px;margin-right:12px;overflow:hidden;width:40px;}@media (max-width:480px){.css-1euqb0v-Header{height:30px;width:30px;}}
+
+.css-1fz6513-SiteLink-Header{color:#1A1A1A;display:block;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;height:40px;margin-right:12px;overflow:hidden;width:40px;}@media (max-width:480px){.css-1fz6513-SiteLink-Header{height:30px;width:30px;}}
+
+
+.css-nsri7h-Header{height:100%;}
+
+
+
+
+
+
+
+
+@media (min-width:481px){.css-6g0n5w-Header{margin-right:12px;}}
+
+.css-1x7v9ro-SiteLink-Header{color:#1A1A1A;}@media (min-width:481px){.css-1x7v9ro-SiteLink-Header{margin-right:12px;}}
+
+
+.css-aku1ou-Header{display:block;max-height:40px;max-width:270px;}@media (max-width:768px){.css-aku1ou-Header{max-width:240px;}}@media (max-width:480px){.css-aku1ou-Header{max-height:30px;max-width:140px;}}@media (min-width:375px){.css-aku1ou-Header{max-width:160px;}}
+
+
+
+
+.css-1mnw7k2-Header{overflow:hidden;}@media (max-width:768px){.css-1mnw7k2-Header{display:none;}}
+
+.css-1kfyan0-Box-Header{overflow:hidden;}@media (max-width:768px){.css-1kfyan0-Box-Header{display:none;}}
+
+
+.css-rk8w2-Header{padding-bottom:0;}
+
+.css-gtx76t-NavScroll{position:relative;overflow:hidden;width:100%;}
+
+
+.css-1gyzj1o-Header{overflow-x:auto;white-space:nowrap;overflow-y:hidden;padding-bottom:16px;padding-bottom:0;}.css-1gyzj1o-Header:before{background:linear-gradient(to right,#FFFFFF,rgba(255,255,255,0));bottom:0;content:" ";opacity:0;pointer-events:none;position:absolute;top:0;-webkit-transition:opacity 220ms;transition:opacity 220ms;width:24px;left:0;}.css-1gyzj1o-Header:after{background:linear-gradient(to left,#FFFFFF,rgba(255,255,255,0));bottom:0;content:" ";opacity:1;pointer-events:none;position:absolute;top:0;-webkit-transition:opacity 220ms;transition:opacity 220ms;width:24px;right:0;}
+
+
+
+.css-u1i64q{color:var(--text-default-base);}
+
+.css-y5hriu-Heading{overflow:hidden;position:absolute;white-space:nowrap;border:none;-webkit-clip:rect(0,0,0,0);clip:rect(0,0,0,0);height:1px;margin:-1px;padding:0;width:1px;color:var(--text-default-base);}
+
+Main navigation
+
+.css-1bdnmqe{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+
+.css-285i2f-Flex{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+
+
+.css-2bvmvq-Box{margin-left:0.25rem;margin-right:0.25rem;}
+
+
+.css-191i0tx-NavItem{font-size:1rem;padding:8px;}
+
+.css-w5kaqo-baseStyle-NavBarLink-NavItem{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;color:#737373;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;font-size:1.0625rem;font-size:1rem;padding:8px;}.css-w5kaqo-baseStyle-NavBarLink-NavItem:hover,.css-w5kaqo-baseStyle-NavBarLink-NavItem:focus{color:#1A1A1A;}
+
+.css-1jpwh2e-SiteLink-baseStyle-NavBarLink-NavItem{color:#1A1A1A;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;color:#737373;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;font-size:1.0625rem;font-size:1rem;padding:8px;}.css-1jpwh2e-SiteLink-baseStyle-NavBarLink-NavItem:hover,.css-1jpwh2e-SiteLink-baseStyle-NavBarLink-NavItem:focus{color:#1A1A1A;}
+
+Home
+
+
+
+Top Stories
+
+
+
+Latest Stories
+
+
+
+
+
+
+
+.css-1a2fbun-Header{margin-left:auto;}
+
+.css-1epkvf0-Header{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:0.25rem;margin-left:auto;}@media (min-width:30em){.css-1epkvf0-Header{gap:0.75rem;}}
+
+.css-ko5q32-Flex-Header{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:0.25rem;margin-left:auto;}@media (min-width:30em){.css-ko5q32-Flex-Header{gap:0.75rem;}}
+
+
+.css-tyvwrs{min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:62.4375rem;}
+
+.css-1th768i{border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:62.4375rem;}.css-1th768i:hover,.css-1th768i:focus{background-color:var(--button-outline-hocus);}
+
+.css-pqbkgi{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:62.4375rem;}.css-pqbkgi:hover,.css-pqbkgi:focus{background-color:var(--button-outline-hocus);}
+
+.css-11leqp5-IconButton{position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:62.4375rem;}.css-11leqp5-IconButton:hover,.css-11leqp5-IconButton:focus{background-color:var(--button-outline-hocus);}
+
+.css-187a6tp-SiteLink-IconButton{color:#1A1A1A;position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:62.4375rem;}.css-187a6tp-SiteLink-IconButton:hover,.css-187a6tp-SiteLink-IconButton:focus{background-color:var(--button-outline-hocus);}
+
+
+.css-1yagusw{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;gap:0.25rem;}
+
+.css-67v23c-Track{display:inline-block;position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;gap:0.25rem;}
+
+
+.css-m697j6-Track{min-width:0;}
+
+.css-16y4ifr-Track{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;min-width:0;}
+
+.css-fk6upw-Flex-Track{display:inline-block;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;min-width:0;}
+
+
+.css-1581v3d-Icon{height:1.25rem;width:1.25rem;display:inline-block;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-6s58vh-Header{background-color:#FFFFFF;border-top-color:#ddd;border-top-style:solid;border-top-width:1px;display:none;padding-bottom:6px;padding-left:4px;padding-right:4px;padding-top:6px;}@media (max-width:768px){.css-6s58vh-Header{display:block;}}
+
+
+
+
+
+Main navigation
+
+
+
+Home
+
+
+
+Top Stories
+
+
+
+Latest Stories
+
+
+
+
+
+
+
+
+.css-2o4q4a-App{-webkit-flex:1;-ms-flex:1;flex:1;}
+
+
+.css-1oa5q4y-Box{background-color:var(--background);--background:#fff;--button-bold-base:#2e2e2e;--button-bold-hocus:#000;--button-bold-pressed:#515151;--button-bold-text:#fff;--button-outline-base:transparent;--button-outline-hocus:#fafafa;--button-outline-pressed:#f1f1f1;--button-outline-text:#2e2e2e;--text-danger-base:#d63315;--text-danger-mute:#fb5947;--text-default-base:#2e2e2e;--text-default-dim:#8f8f8f;--text-default-dimmer:#8f8f8f;--text-default-dimmest:#d5d5d5;--text-default-divider:#e3e3e3;--text-default-mute:#737373;--text-success-base:#168252;--text-success-mute:#1ea569;--text-warning-base:#976a0c;--text-warning-mute:#c5821d;}
+
+
+.css-1q72trd-Box{padding-top:2rem;}
+
+
+.css-1a95o3s-Container{margin-left:auto;margin-right:auto;max-width:680px;margin-top:0;margin-bottom:0;padding-left:1.0625rem;padding-right:1.0625rem;}
+
+
+
+
+
+.css-5m2217{gap:2rem;}
+
+.css-j5k8fn-Stack{display:grid;gap:2rem;}
+
+
+.css-1p7q77g{gap:1rem;}
+
+.css-14cltkg-Stack{display:grid;gap:1rem;}
+
+
+.css-dd46c6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:0.75rem;}
+
+.css-ehbo0h-Flex{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:0.75rem;}
+
+
+
+.css-1q65qip{color:var(--text-default-base);font-size:2.25rem;font-weight:700;line-height:1.2222222222222223;}@media (min-width:48em){.css-1q65qip{font-size:3rem;font-weight:700;line-height:1.1666666666666667;}}
+
+.css-qmkqlf-Heading{color:var(--text-default-base);font-size:2.25rem;font-weight:700;line-height:1.2222222222222223;}@media (min-width:48em){.css-qmkqlf-Heading{font-size:3rem;font-weight:700;line-height:1.1666666666666667;}}
+
+Best Fantasy World
+
+.css-1jp5f4e{color:var(--text-default-mute);font-size:1.25rem;font-weight:500;line-height:1.4;}@media (min-width:48em){.css-1jp5f4e{font-size:1.5rem;font-weight:500;line-height:1.3333333333333333;}}
+
+.css-beii3i-Heading{color:var(--text-default-mute);font-size:1.25rem;font-weight:500;line-height:1.4;}@media (min-width:48em){.css-beii3i-Heading{font-size:1.5rem;font-weight:500;line-height:1.3333333333333333;}}
+
+Out There
+
+
+.css-njyevr{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:1rem;}
+
+.css-wen0lj-Track{padding-bottom:1rem;padding-top:0.5rem;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:1rem;}
+
+
+.css-k93eyg-Box{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;}
+
+
+.css-z7m9mz-Avatar{box-sizing:content-box;}
+
+.css-n7lfr5-Avatar-Avatar{margin-bottom:-0.125rem;margin-left:-0.125rem;margin-right:-0.125rem;margin-top:-0.125rem;padding-bottom:0.125rem;padding-left:0.125rem;padding-right:0.125rem;padding-top:0.125rem;border-bottom-left-radius:62.4375rem;border-bottom-right-radius:62.4375rem;border-top-left-radius:62.4375rem;border-top-right-radius:62.4375rem;height:3rem;width:3rem;position:relative;box-sizing:content-box;}
+
+
+.css-ewgddh{color:var(--text-default-dim);font-weight:500;}
+
+.css-1umnfsh-Text{background-color:var(--background);--background:#fafafa;--button-bold-base:#2e2e2e;--button-bold-hocus:#000;--button-bold-pressed:#515151;--button-bold-text:#fff;--button-outline-base:transparent;--button-outline-hocus:#fafafa;--button-outline-pressed:#f1f1f1;--button-outline-text:#2e2e2e;--text-danger-base:#d63315;--text-danger-mute:#fb5947;--text-default-base:#2e2e2e;--text-default-dim:#8f8f8f;--text-default-dimmer:#8f8f8f;--text-default-dimmest:#d5d5d5;--text-default-divider:#e3e3e3;--text-default-mute:#737373;--text-success-base:#168252;--text-success-mute:#1ea569;--text-warning-base:#976a0c;--text-warning-mute:#c5821d;border-bottom-left-radius:62.4375rem;border-bottom-right-radius:62.4375rem;border-top-left-radius:62.4375rem;border-top-right-radius:62.4375rem;height:3rem;width:3rem;display:inline-block;overflow:hidden;position:relative;color:var(--text-default-dim);font-weight:500;}
+
+
+.css-8ee72l-Image{height:100%;width:100%;display:inline-block;overflow:hidden;position:absolute;}
+
+
+.css-1phd9a0{object-fit:cover;}
+
+.css-1upe32e-Box{height:100%;width:100%;object-fit:cover;}
+
+
+
+
+
+
+.css-zz9vy7-Flex-Track{-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;min-width:0;}
+
+
+.css-w8b2o3{gap:0.25rem;}
+
+.css-16o6xo-Stack{display:grid;gap:0.25rem;}
+
+
+.css-1lbs5a{font-size:1rem;line-height:1.5;color:var(--text-default-base);font-weight:500;}
+
+.css-r1rwjj-Text{display:inline-block;font-size:1rem;line-height:1.5;color:var(--text-default-base);font-weight:500;}
+
+By
+ 
+.css-nicwbt-TextLink{-webkit-text-decoration:none;text-decoration:none;}.css-nicwbt-TextLink:hover,.css-nicwbt-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+.css-1ceiirg-TextLink{color:var(--text-default-base);-webkit-text-decoration:none;text-decoration:none;}.css-1ceiirg-TextLink:hover,.css-1ceiirg-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+.css-7ltfcy-TextLink-TextLink{border-bottom-left-radius:0.125rem;border-bottom-right-radius:0.125rem;border-top-left-radius:0.125rem;border-top-right-radius:0.125rem;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;color:var(--text-default-base);-webkit-text-decoration:none;text-decoration:none;}.css-7ltfcy-TextLink-TextLink:hover,.css-7ltfcy-TextLink-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+
+.css-jz5tfh-TextLink{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;}
+
+.css-e6lrn7-Track-TextLink{display:inline-block;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;}
+
+
+
+.css-q2y3yl{color:inherit;}
+
+.css-o9bw5a-Text{display:inline-block;color:inherit;}
+
+Crystal Lynn Schumacher
+
+
+
+
+
+.css-1uu4wid{font-size:0.875rem;line-height:1.4285714285714286;color:var(--text-default-mute);}
+
+.css-vfbthl-Text{display:inline-block;font-size:0.875rem;line-height:1.4285714285714286;color:var(--text-default-mute);}
+
+
+.css-17qs7xf-TimeAgo{display:inline-block;color:inherit;}
+
+Published 
+3 years ago
+ 
+.css-rgubrc{font-size:0.875rem;line-height:1.4285714285714286;color:var(--text-default-mute);font-weight:500;}
+
+.css-jr6f7g-Text{display:inline-block;font-size:0.875rem;line-height:1.4285714285714286;color:var(--text-default-mute);font-weight:500;}
+
+•
+ 
+8
+ min read
+
+
+
+
+
+
+.css-dltmcs{background-color:currentColor;}
+
+.css-uow1br{color:var(--text-default-divider);background-color:currentColor;}
+
+.css-1b9s34k-Text{height:0.0625rem;width:100%;display:block;outline:0.0625rem solid transparent;color:var(--text-default-divider);background-color:currentColor;}
+
+
+
+
+
+.css-14n7sri{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}
+
+.css-cj6fhj-Track{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}
+
+
+
+.css-wbzb7p-PostActionBarUI{gap:0.5rem;}
+
+.css-1fgj0dq-PostActionBarUI{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;gap:0.5rem;}
+
+.css-672y7h-Flex-PostActionBarUI{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;gap:0.5rem;}
+
+
+.css-1ozu5o9{padding-left:0.5rem;padding-right:0.5rem;}
+
+.css-1rv1aia{border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;padding-left:0.5rem;padding-right:0.5rem;}.css-1rv1aia:hover,.css-1rv1aia:focus{background-color:var(--button-outline-hocus);}
+
+.css-1cyrllz{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;padding-left:0.5rem;padding-right:0.5rem;}.css-1cyrllz:hover,.css-1cyrllz:focus{background-color:var(--button-outline-hocus);}
+
+.css-1g6999o-Button{position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;padding-left:0.5rem;padding-right:0.5rem;}.css-1g6999o-Button:hover,.css-1g6999o-Button:focus{background-color:var(--button-outline-hocus);}
+
+
+
+
+.css-11muev9{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:0.25rem;}
+
+.css-ncxzaa-Flex{display:inline-block;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:0.25rem;}
+
+
+.css-r2uost-Icon{height:1rem;width:1rem;display:inline-block;color:var(--text-default-base);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-o3fcsh{box-shadow:0 0.125rem 0.5rem 0.125rem rgba(0,0,0,0.15);background-color:#171717;border-radius:0.5rem;color:#fafafa;forced-color-adjust:none;outline:none;padding:1rem;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);}.css-o3fcsh[data-placement=top]{margin-bottom:0.5rem;}.css-o3fcsh[data-placement=bottom]{margin-top:0.5rem;}.css-o3fcsh[data-placement=right]{margin-left:0.5rem;}.css-o3fcsh[data-placement=left]{margin-right:0.5rem;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-11uolzn [role=button]{border-radius:9999px;}
+
+.css-h4pmta-Dropdown{position:relative;}.css-h4pmta-Dropdown [role=button]{border-radius:9999px;}
+
+
+
+.css-1c12kiv-Dropdown{cursor:pointer;display:inline-block;}
+
+
+.css-1opdb2q-IconButton{display:inline-block;position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:62.4375rem;}.css-1opdb2q-IconButton:hover,.css-1opdb2q-IconButton:focus{background-color:var(--button-outline-hocus);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-143iffx-Box{overflow:hidden;position:absolute;white-space:nowrap;border:none;-webkit-clip:rect(0,0,0,0);clip:rect(0,0,0,0);height:1px;margin:-1px;padding:0;width:1px;}
+
+
+.css-11oi4z4-DropdownMenu{min-width:8rem;}
+
+.css-wj922m-DropdownMenu-DropdownMenu{background-color:var(--background);--background:#fff;--button-bold-base:#2e2e2e;--button-bold-hocus:#000;--button-bold-pressed:#515151;--button-bold-text:#fff;--button-outline-base:transparent;--button-outline-hocus:#fafafa;--button-outline-pressed:#f1f1f1;--button-outline-text:#2e2e2e;--text-danger-base:#d63315;--text-danger-mute:#fb5947;--text-default-base:#2e2e2e;--text-default-dim:#8f8f8f;--text-default-dimmer:#8f8f8f;--text-default-dimmest:#d5d5d5;--text-default-divider:#e3e3e3;--text-default-mute:#737373;--text-success-base:#168252;--text-success-mute:#1ea569;--text-warning-base:#976a0c;--text-warning-mute:#c5821d;border-bottom-color:var(--text-default-divider);border-bottom-style:solid;border-bottom-width:0.0625rem;border-left-color:var(--text-default-divider);border-left-style:solid;border-left-width:0.0625rem;border-right-color:var(--text-default-divider);border-right-style:solid;border-right-width:0.0625rem;border-top-color:var(--text-default-divider);border-top-style:solid;border-top-width:0.0625rem;box-shadow:0 0.125rem 0.5rem 0.125rem rgba(0,0,0,0.15);margin-bottom:0.5rem;margin-top:0.5rem;border-bottom-left-radius:0.25rem;border-bottom-right-radius:0.25rem;border-top-left-radius:0.25rem;border-top-right-radius:0.25rem;max-width:23rem;z-index:1;left:0;position:absolute;min-width:8rem;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-gtjnmw-Container{margin-left:auto;margin-right:auto;max-width:1140px;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;}
+
+
+.css-vwo9-HeroImage{width:100%;margin-top:16px;}
+
+
+.css-4do22h{color:var(--text-default-mute);}
+
+.css-75ht9l-Text{margin-bottom:0.75rem;margin-top:0.75rem;color:var(--text-default-mute);}
+
+Photo created by me Crystal Lynn. My son entering into a magical unknown world.
+
+
+.css-1rurwug-StoryContent{position:relative;}
+
+
+.css-cwzv8o-PostPage{padding-top:32px;}
+
+.css-1rll2nq-Container-PostPage{margin-left:auto;margin-right:auto;max-width:680px;margin-top:0;margin-bottom:0;padding-left:1.0625rem;padding-right:1.0625rem;padding-top:32px;}
+
+
+.css-1907x6p-PostPage{overflow-wrap:anywhere;padding-bottom:16px;}
+
+.css-1gktxy5-Box-PostPage{overflow-wrap:anywhere;padding-bottom:16px;}
+
+
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Let&#x27;s just start this story, or fantasy world essay, or even perspective type of story, by saying right away, I LOVE FANTASY!
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+And all that relates to fantasy, or our very personal, and yet united, fantasy world&#x27;s, live&#x27;s and destinies. Because it from fantasy, that we do actually create and manifest our dreams.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Who doesn&#x27;t love a good fantasy movie, or book, or story? Where we can all get lost in the beauty and magic of life and wonder, fueling our senses and imaginations beyond anything we&#x27;ve ever known. And then, be found reflecting that magic effortlessly, in our outer worlds, however realistically we can. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Fantasy is never really true in our lives, until we make it real. Even if just in a story. A dream where we allow ourselves some relief from all of the everyday obstacles, stresses and over-stimulating logical, intellectual things. If we should so choose. Where impossible odds are possible, bringing a sense of balance, fun and peace no matter where we find ourselves. Where we can get lost in a world that feels so real, so close to our own courageous and gorgeous humanity inside. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Fantasy does come true sometimes. If only in our Hearts. Where I believe, the true human story, heartbeat and soul live in love always. Light and Shadow. Dark and mysterious. Bright and transparent. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+There seems to be no mystery as to why we love fantasy. And yet, it is so shrouded by mystery. The unknown. Our own human dreams and inspirations, coming to life in some way, that only our Hearts can grasp and understand. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+For fantasy has no true logical reason, other than to keep us dreaming. To allow ourselves an outlet to bring the unseen, the impossible, into our own real life physical reality.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+My son (and daughter&#x27;s too) allow me to keep fantasizing. For a future where Magic is truly possible, felt, witnessed and experienced. This photo of my son entering into a magical tree, was created by me, as I was fantasizing about new worlds. New environments he would potentially explore, discover and be able to experience. Where anything is possible. Where he could play all day, curious about animals, nature and wonder. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+What do we see through the eyes of our child like self? What do we imagine as we step into the unknown? I cannot remember myself the feelings I had when I was child. Only somewhat. However, my children do inspire me to remember everyday. They remind me to never give up on my own dreams and fantasies. And to continue sharing them with the world. To continue experiencing them. And also, embracing them, the fantasy and the real world, all at the same time. Which supports me immensely in continuing to dream, create and inspire the future. Our future.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+They see the world already as magical. Amazing. And so unknown. They trust us to create a safe and logical world, full of answers, structure and plenty of freedom to play, create, draw, write, make new friends, eat good food, raise them up to be anything they truly want to be. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+And yet, in that structure, we can tend to get more lost, than in an actually fantasy. We love, absolutely LOVE Harry Potter in my house. As well as every other fantasy, magical adventure there is out there. We enjoy being together as a family, imagining all of the wonderful adventures, and how we ourselves might respond in those circumstances, relationships, or even special, super-human powers. It is an interesting concept to consider how fantasy, does actually create our own, very logical, intellectual world. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Our world views, are all truly rooted in our own human collective fantasy. A fantasy, that if only we could make real, would somehow improve our lives. Our hopes for play and adventure. And our real life human relationships, by bonding us somehow, through our imaginations. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+It is so fun to fantasize. To dream up new worlds. To get to know the parts of ourselves, that we may keep hidden from the actual public view. Magic is nothing new in my own family. And I do like to share and discover the magical wonders of nature with all those that I know, meet and love. Everyday if possible. Which is why I love writing! Writing fantasy stories for myself and others to dream of the impossible. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+To feel a bit of magic in our everyday logical worlds. And however logical it is to write it all out, sometimes, it does feel hopeless. Because we never truly know if we share our fantasy with others, until we do. Writing can be scary for example. Or it can be amazing! Full of colour, texture, depth and new perspectives, that actually stimulate our logical brains into action. It can also provide a deeper insight in our own darkness. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Our minds, as a collective humanity, are so filled with every imaginable thing, idea and perspective, honing in on the fantasy we truly would love to experience is easy! When we have the right, true inspiration of those who have gone before us.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+My fantasies have also changed over the years. From being solely based on my own personal aspirations, to one providing the opportunity for my own three children to experience theirs. As parents, I feel it is only natural to do this. Our children remind us of what is truly important. And as much as they love learning about our logical world, where we all be without a good fantasy story? Or sci-fi adventure? Where would we be if we never dreamt of landing on the moon? Or diving deep into a sea of creatures we never knew existed? 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+First we dream and fantasize. And then, life magically changes for us in some way. Even if we never experience that fantasy actually playing out in our real everyday lives, we get to experience it inside. Inside our own glorious minds, if even for just a moment. And does this help or hinder our own dreams, reasoning or common sense? Or does it actually improve our own everyday lives in ways we could have never imagined? 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Truly, all I can say, is that without fantasy in our lives, we may as well just be all boring, no good people, with nothing better to do, than work for someone who does. Because a really great visionary once told me nothing. She showed me. She showed me through her own active, hands on imagination, how to bring a real life dream or fantasy to life. And how to continue fueling, feeding that vision, through hard work, dedication and commitment to her dream. Her vision. And a whole lot of people benefited. All from her internal vision, dreams and hopes. Brought out for all to witness, observe, feel, become a part of and enjoy. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+My ultimate favorite fantasy, is witnessing my children being able to explore the mysterious worlds of magic and creativity, that truly make life worth living for. Even Walt Disney said the key to dreams coming true, exists within our own imaginations. And what a wonderful, and yet so simple truth. Our fantasies are our imaginations in action. In real, life living action. For all to experience, witness and observe on or in some level of our own awareness. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+I could never compare the best fantasy stories to one another, because each one to me, is priceless. Valuable beyond measure and totally and completely uncompetitive. No reason, no rhyme they say. Well let me tell you, the rhyme is the reason. The nursery rhymes, the music lyrics, the stories that captivate the heart, soul and imagination, all come from within us. From within our own collective humanitarian dream. A dream which we all truly wish to experience in our own personal way.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+I am beyond grateful for those who share our fantasy world with the world! For their ability to be able to express and demonstrate on some level, how we all feel on the inside. How we are all hero&#x27;s in our own soul journey. How we can overcome any obstacle or challenge in our own lives. Simply by being reminded our own true powers. That being courage, bravery, wisdom. A mindset and attitude of anything and everything is possible.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+A courageous appetite for adventure, truth and honesty. Within ourself and those we share the journey of life with. I feel each and every fantasy story we feel drawn towards, empowers us in some way to keep going. To keep dreaming. To keep surviving until we make it. Until we make our own dreams come true.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+If it were not for other fantasy dreamers, writers and just plain good people using their own imaginations, none of us would feel the amazing inspiration of the great human spirit within. Making it all possible out in the real world. Because fantasy comes true everyday for us. In whatever way we prefer to dream, write, create, share, empower. It all comes from within.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Thank you to you, and all of the amazing, great writers, dreamers and speakers of true fantasy and real life dreams coming true. For inspiring us all to write, dream and co-create a beautiful future for our own children. For those who will come after us. For what we leave this world with, is all our children have to continue onward. And if a fantasy can support ones imagination, we can truly do anything. 
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Inspiration is key. My son entering into an unknown world or land, knowing he has all the tools of wisdom, love and creativity within him, (my daughters too) reassures me. Knowing we have a world full of amazing, wonderful, heart based people out there, doing what they love, dreaming up amazing, wonderful dreams to explore and discover, eases my mind, body, heart and soul.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+We are all in this together. Multiple fantasies within one big fantasy we each live outside together, everyday. Making a real life dream come true only requires one thing from what I have learned or have been told... Dream. Dream loud and proud, each and every day. For one thing always leads to another thing. And if one thing catches your heart on fire, that is probably a very big indicator to your own heart&#x27;s passions, desires and dreams. Real life dreams, coming true.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Fantasies are real. Only until we dream them true, can we know how they will stir up our emotions, feelings and desires. And only then, can we continue to keep on watching more fantasies come true, through the actual dream of life playing out right before us.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+Enter the tree of the unknown my son. You never know what lies beyond the portal of infinite dreams and possibilities, until you do. And if you should ever need me, I am always here. Like a little fox by your side. Keeping you clever, and never the wiser. Because cleverness is just for the fox. Wisdom is yours to seek out and discover for yourself. Life is the dream we are meant to discover. May we all have a little fox friend and a portal of dreams around every corner. Just waiting to be discovered, experienced and brought to life in the most magical of ways.
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+
+
+.css-14azzlx-P{font-family:Droid Serif,Georgia,Times New Roman,Times,serif;font-size:1.1875rem;-webkit-letter-spacing:0.01em;-moz-letter-spacing:0.01em;-ms-letter-spacing:0.01em;letter-spacing:0.01em;line-height:1.6;color:#1A1A1A;margin-top:32px;}
+
+
+
+
+
+
+.css-1x3zcuc-StoryContent{pointer-events:none;}
+
+.css-jf23jl-ReadStartMarker-StoryContent{width:1rem;bottom:0;position:absolute;top:0;pointer-events:none;}
+
+
+
+.css-1fovudy-ReadHeightMarker-StoryContent{height:70%;width:1rem;bottom:0;position:absolute;pointer-events:none;}
+
+
+
+
+.css-3optkb-Box{background-color:var(--background);--background:#fff;--button-bold-base:#2e2e2e;--button-bold-hocus:#000;--button-bold-pressed:#515151;--button-bold-text:#fff;--button-outline-base:transparent;--button-outline-hocus:#fafafa;--button-outline-pressed:#f1f1f1;--button-outline-text:#2e2e2e;--text-danger-base:#d63315;--text-danger-mute:#fb5947;--text-default-base:#2e2e2e;--text-default-dim:#8f8f8f;--text-default-dimmer:#8f8f8f;--text-default-dimmest:#d5d5d5;--text-default-divider:#e3e3e3;--text-default-mute:#737373;--text-success-base:#168252;--text-success-mute:#1ea569;--text-warning-base:#976a0c;--text-warning-mute:#c5821d;padding-bottom:2rem;}@media (min-width:48em){.css-3optkb-Box{padding-bottom:0;}}
+
+
+.css-1e9cpla-PostPage{padding-bottom:16px;}
+
+.css-15gcydv-Container-PostPage{margin-left:auto;margin-right:auto;max-width:680px;margin-top:0;margin-bottom:0;padding-left:1.0625rem;padding-right:1.0625rem;padding-bottom:16px;}
+
+
+
+
+.css-gvflue-TagPill{background-color:#E5E5E5;border-radius:2.125rem;color:#737373;display:inline-block;font-size:0.6875rem;font-weight:500;line-height:2.6;margin-right:0.25rem;margin-top:0.5625rem;padding:0 1.0625rem;text-align:center;text-transform:uppercase;-webkit-transition:all 100ms;transition:all 100ms;white-space:nowrap;}.css-gvflue-TagPill:hover,.css-gvflue-TagPill:focus{color:#4D4D4D;}.css-gvflue-TagPill:active{background-color:#D9D9D9;color:#666;}
+
+.css-1tc1r8w-SiteLink-TagPill{color:#1A1A1A;background-color:#E5E5E5;border-radius:2.125rem;color:#737373;display:inline-block;font-size:0.6875rem;font-weight:500;line-height:2.6;margin-right:0.25rem;margin-top:0.5625rem;padding:0 1.0625rem;text-align:center;text-transform:uppercase;-webkit-transition:all 100ms;transition:all 100ms;white-space:nowrap;}.css-1tc1r8w-SiteLink-TagPill:hover,.css-1tc1r8w-SiteLink-TagPill:focus{color:#4D4D4D;}.css-1tc1r8w-SiteLink-TagPill:active{background-color:#D9D9D9;color:#666;}
+
+happiness
+
+
+.css-1ws4j1g-Box{border-bottom-color:var(--text-default-dimmest);border-bottom-style:solid;border-bottom-width:0.0625rem;border-left-color:var(--text-default-dimmest);border-right-color:var(--text-default-dimmest);border-top-color:var(--text-default-dimmest);border-top-style:solid;border-top-width:0.0625rem;padding-bottom:1rem;padding-top:1rem;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-8wyky1-Stack{margin-bottom:2rem;margin-top:2rem;display:grid;gap:2rem;}
+
+
+.css-pd7eq4{gap:1.5rem;}
+
+.css-b7dxcy-Stack{display:grid;gap:1.5rem;}
+
+
+.css-n84qyu-AuthorDetails{display:grid;gap:1.5rem;}
+
+
+.css-6bsxvl{color:var(--text-default-base);font-size:1.25rem;font-weight:500;line-height:1.4;}@media (min-width:48em){.css-6bsxvl{font-size:1.5rem;font-weight:500;line-height:1.3333333333333333;}}
+
+.css-3s7l12-Heading{color:var(--text-default-base);font-size:1.25rem;font-weight:500;line-height:1.4;}@media (min-width:48em){.css-3s7l12-Heading{font-size:1.5rem;font-weight:500;line-height:1.3333333333333333;}}
+
+About the Creator
+
+.css-unt5bg{-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:1rem;}
+
+.css-11rtwtn-Track{-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:1rem;}
+
+
+
+
+.css-lcgn4j-Avatar-Avatar{margin-bottom:-0.125rem;margin-left:-0.125rem;margin-right:-0.125rem;margin-top:-0.125rem;padding-bottom:0.125rem;padding-left:0.125rem;padding-right:0.125rem;padding-top:0.125rem;border-bottom-left-radius:62.4375rem;border-bottom-right-radius:62.4375rem;border-top-left-radius:62.4375rem;border-top-right-radius:62.4375rem;height:3rem;width:3rem;display:inline-block;position:relative;box-sizing:content-box;}
+
+
+
+
+
+
+
+
+
+
+
+.css-1p3ucpc{gap:0.5rem;}
+
+.css-cthzty-Stack{display:grid;gap:0.5rem;}
+
+
+.css-wwope9{color:var(--text-default-base);font-size:1rem;font-weight:500;line-height:1.5;}
+
+.css-e4e4fw-Heading{color:var(--text-default-base);font-size:1rem;font-weight:500;line-height:1.5;}
+
+
+
+
+
+Crystal Lynn Schumacher
+
+
+
+
+
+.css-18iteph{font-size:1rem;line-height:1.5;color:var(--text-default-mute);}
+
+.css-l24e6b-CMSContent{margin-bottom:0.5rem;font-size:1rem;line-height:1.5;color:var(--text-default-mute);}
+
+
+
+.css-1w76g0d:empty + :empty{display:none;}
+
+.css-17m6t1h:empty + :empty{display:none;}
+
+.css-1923z11-Text:empty + :empty{display:none;}
+
+Stories are one way we relate to one another. I love and adore stories, poetry and film. Humanity is deep, and I am a well of words. Infinite Love ❤️ 
+
+
+
+
+
+
+
+.css-1w30xpn{gap:1.5rem;justify-items:left;}
+
+.css-sg87mi-ReaderInsights{display:grid;gap:1.5rem;justify-items:left;}
+
+
+Reader insights
+
+.css-xj0eji-Track{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:1rem;}
+
+
+
+.css-t2cyl1-Icon{height:3rem;width:3rem;display:inline-block;color:var(--text-default-base);}
+
+
+
+
+
+
+
+
+
+
+
+.css-cv7tdt-Text{font-size:1rem;line-height:1.5;color:var(--text-default-base);font-weight:500;}
+
+Be the first to share your insights about this piece.
+
+.css-opw3fk-Text{font-size:1rem;line-height:1.5;color:var(--text-default-mute);}
+
+
+.css-hvxck-TextLink{-webkit-text-decoration:underline;text-decoration:underline;}.css-hvxck-TextLink:hover,.css-hvxck-TextLink:focus{-webkit-text-decoration:none;text-decoration:none;}
+
+.css-14fju60-TextLink{color:var(--text-default-mute);-webkit-text-decoration:underline;text-decoration:underline;}.css-14fju60-TextLink:hover,.css-14fju60-TextLink:focus{-webkit-text-decoration:none;text-decoration:none;}
+
+.css-r20bcf-TextLink-TextLink{border-bottom-left-radius:0.125rem;border-bottom-right-radius:0.125rem;border-top-left-radius:0.125rem;border-top-right-radius:0.125rem;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;color:var(--text-default-mute);-webkit-text-decoration:underline;text-decoration:underline;}.css-r20bcf-TextLink-TextLink:hover,.css-r20bcf-TextLink-TextLink:focus{-webkit-text-decoration:none;text-decoration:none;}
+
+
+
+
+How does it work?
+
+
+
+
+
+
+
+.css-7h3hhw{border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:currentColor;color:var(--button-outline-text);white-space:nowrap;}.css-7h3hhw:hover,.css-7h3hhw:focus{background-color:var(--button-outline-hocus);}
+
+.css-1bkgwuu{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:currentColor;color:var(--button-outline-text);white-space:nowrap;}.css-1bkgwuu:hover,.css-1bkgwuu:focus{background-color:var(--button-outline-hocus);}
+
+.css-1vig9l7-Button{width:100%;position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:currentColor;color:var(--button-outline-text);white-space:nowrap;}@media (min-width:30em){.css-1vig9l7-Button{width:auto;}}.css-1vig9l7-Button:hover,.css-1vig9l7-Button:focus{background-color:var(--button-outline-hocus);}
+
+
+
+Add your insights
+
+
+
+
+
+
+
+
+
+
+.css-1pzbskx-Track{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+
+
+
+Comments 
+
+
+
+.css-44jle1{min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:0.25rem;}
+
+.css-15v6o9f{border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:0.25rem;}.css-15v6o9f:hover,.css-15v6o9f:focus{background-color:var(--button-outline-hocus);}
+
+.css-nex1mx{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:0.25rem;}.css-nex1mx:hover,.css-nex1mx:focus{background-color:var(--button-outline-hocus);}
+
+.css-1n3b0l0-IconButton{position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:2.5rem;width:2.5rem;border-radius:0.25rem;}.css-1n3b0l0-IconButton:hover,.css-1n3b0l0-IconButton:focus{background-color:var(--button-outline-hocus);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-g1hh69-Box{margin-top:-0.5rem;}
+
+
+There are no comments for this story
+
+Be the first to respond and start the conversation.
+
+
+
+
+.css-1qvehrq{border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-bold-base);border-color:transparent;color:var(--button-bold-text);white-space:nowrap;}.css-1qvehrq:hover,.css-1qvehrq:focus{background-color:var(--button-bold-hocus);}
+
+.css-asfvgp{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-bold-base);border-color:transparent;color:var(--button-bold-text);white-space:nowrap;}.css-asfvgp:hover,.css-asfvgp:focus{background-color:var(--button-bold-hocus);}
+
+.css-1u3bqg5-Button{width:100%;position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-bold-base);border-color:transparent;color:var(--button-bold-text);white-space:nowrap;}@media (min-width:30em){.css-1u3bqg5-Button{width:auto;}}.css-1u3bqg5-Button:hover,.css-1u3bqg5-Button:focus{background-color:var(--button-bold-hocus);}
+
+
+
+Sign in to comment
+
+
+
+
+
+.css-kl3hhh-Comments{display:grid;gap:1rem;}
+
+
+
+
+
+
+
+.css-1ejtgop-Box{background-color:var(--background);--background:#fafafa;--button-bold-base:#2e2e2e;--button-bold-hocus:#000;--button-bold-pressed:#515151;--button-bold-text:#fff;--button-outline-base:transparent;--button-outline-hocus:#fafafa;--button-outline-pressed:#f1f1f1;--button-outline-text:#2e2e2e;--text-danger-base:#d63315;--text-danger-mute:#fb5947;--text-default-base:#2e2e2e;--text-default-dim:#8f8f8f;--text-default-dimmer:#8f8f8f;--text-default-dimmest:#d5d5d5;--text-default-divider:#e3e3e3;--text-default-mute:#737373;--text-success-base:#168252;--text-success-mute:#1ea569;--text-warning-base:#976a0c;--text-warning-mute:#c5821d;}
+
+
+.css-jweril{box-sizing:content-box;max-width:76.5rem;}
+
+.css-1glrc3s-PageContainer{margin-left:auto;margin-right:auto;padding-bottom:3rem;padding-left:1rem;padding-right:1rem;padding-top:3rem;box-sizing:content-box;max-width:76.5rem;}@media (min-width:30em){.css-1glrc3s-PageContainer{padding-left:1.5rem;padding-right:1.5rem;}}@media (min-width:48em){.css-1glrc3s-PageContainer{padding-bottom:4rem;padding-top:4rem;}}
+
+
+.css-emb0w6-RelatedPosts{display:grid;gap:1.5rem;}
+
+
+
+.css-glynqp{color:var(--text-default-base);font-size:1.75rem;font-weight:700;line-height:1.4285714285714286;}@media (min-width:48em){.css-glynqp{font-size:2rem;font-weight:700;line-height:1.375;}}
+
+.css-1vw477a-Heading{color:var(--text-default-base);font-size:1.75rem;font-weight:700;line-height:1.4285714285714286;}@media (min-width:48em){.css-1vw477a-Heading{font-size:2rem;font-weight:700;line-height:1.375;}}
+
+Keep reading
+
+.css-17f42u2{font-size:1rem;line-height:1.5;color:var(--text-default-base);}
+
+.css-8anxca-Text{font-size:1rem;line-height:1.5;color:var(--text-default-base);}
+
+More stories from
+ 
+.css-hyejsj-TextLink{color:var(--text-default-base);-webkit-text-decoration:underline;text-decoration:underline;}.css-hyejsj-TextLink:hover,.css-hyejsj-TextLink:focus{-webkit-text-decoration:none;text-decoration:none;}
+
+.css-lfal68-TextLink-TextLink{border-bottom-left-radius:0.125rem;border-bottom-right-radius:0.125rem;border-top-left-radius:0.125rem;border-top-right-radius:0.125rem;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;color:var(--text-default-base);-webkit-text-decoration:underline;text-decoration:underline;}.css-lfal68-TextLink-TextLink:hover,.css-lfal68-TextLink-TextLink:focus{-webkit-text-decoration:none;text-decoration:none;}
+
+
+
+
+Crystal Lynn Schumacher
+
+
+
+ 
+and
+ 
+writers in
+ 
+
+
+
+Motivation
+
+
+
+ 
+and
+ 
+other communities.
+
+
+.css-auc3hn{display:grid;-webkit-column-gap:1.5rem;column-gap:1.5rem;grid-template-columns:repeat(1,minmax(12.5rem,1fr));row-gap:2rem;}@media (min-width:30em){.css-auc3hn{grid-template-columns:repeat(2,minmax(12.5rem,1fr));}}@media (min-width:48em){.css-auc3hn{grid-template-columns:repeat(2,minmax(12.5rem,1fr));}}@media (min-width:64em){.css-auc3hn{grid-template-columns:repeat(4,minmax(12.5rem,1fr));}}
+
+.css-pvmy3-PostList{display:grid;-webkit-column-gap:1.5rem;column-gap:1.5rem;grid-template-columns:repeat(1,minmax(12.5rem,1fr));row-gap:2rem;}@media (min-width:30em){.css-pvmy3-PostList{grid-template-columns:repeat(2,minmax(12.5rem,1fr));}}@media (min-width:48em){.css-pvmy3-PostList{grid-template-columns:repeat(2,minmax(12.5rem,1fr));}}@media (min-width:64em){.css-pvmy3-PostList{grid-template-columns:repeat(4,minmax(12.5rem,1fr));}}
+
+
+.css-j0jv2q-PostCard{grid-template-rows:auto 1fr;}
+
+.css-pjssva-PostCard{display:grid;-webkit-column-gap:0;column-gap:0;grid-template-columns:repeat(12,1fr);row-gap:0;grid-template-rows:auto 1fr;}
+
+.css-1918khl-PostCard-PostCard{display:grid;-webkit-column-gap:0;column-gap:0;grid-template-columns:repeat(12,1fr);row-gap:0;grid-template-rows:auto 1fr;}
+
+
+.css-1pfgtkw-PostCard:hover + [data-hover-target] [data-link-target]{-webkit-text-decoration:underline;text-decoration:underline;}
+
+.css-cnjta-PostCard{grid-column:span 12;}.css-cnjta-PostCard:hover + [data-hover-target] [data-link-target]{-webkit-text-decoration:underline;text-decoration:underline;}
+
+.css-1ssc12y-GridCell-PostCard{grid-column:span 12;}.css-1ssc12y-GridCell-PostCard:hover + [data-hover-target] [data-link-target]{-webkit-text-decoration:underline;text-decoration:underline;}
+
+
+.css-udkwpe-Box{position:relative;}
+
+
+.css-1ovnfcj-PostCard:hover [data-link-target],.css-1ovnfcj-PostCard:focus [data-link-target]{opacity:0.8;}
+
+.css-1lrsvtt-Box-PostCard{background-color:var(--background);--background:#fafafa;--button-bold-base:#2e2e2e;--button-bold-hocus:#000;--button-bold-pressed:#515151;--button-bold-text:#fff;--button-outline-base:transparent;--button-outline-hocus:#fafafa;--button-outline-pressed:#f1f1f1;--button-outline-text:#2e2e2e;--text-danger-base:#d63315;--text-danger-mute:#fb5947;--text-default-base:#2e2e2e;--text-default-dim:#8f8f8f;--text-default-dimmer:#8f8f8f;--text-default-dimmest:#d5d5d5;--text-default-divider:#e3e3e3;--text-default-mute:#737373;--text-success-base:#168252;--text-success-mute:#1ea569;--text-warning-base:#976a0c;--text-warning-mute:#c5821d;display:block;position:relative;height:0;padding-bottom:66.6667%;width:100%;}.css-1lrsvtt-Box-PostCard  *{height:100% !important;position:absolute !important;width:100% !important;}.css-1lrsvtt-Box-PostCard:hover [data-link-target],.css-1lrsvtt-Box-PostCard:focus [data-link-target]{opacity:0.8;}
+
+
+.css-10ng379-PostImage{border-bottom-left-radius:0.5rem;border-bottom-right-radius:0.5rem;border-top-left-radius:0.5rem;border-top-right-radius:0.5rem;display:inline-block;overflow:hidden;position:relative;}
+
+
+
+
+
+
+
+.css-x6wmgi-PostCard{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}
+
+.css-6f6ygd-PostCard{grid-column:span 12;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}
+
+.css-1dctsel-GridCell-PostCard{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;grid-column:span 12;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}
+
+
+.css-28yyt5-PostCard:hover [data-link-target],.css-28yyt5-PostCard:focus [data-link-target]{-webkit-text-decoration:underline;text-decoration:underline;}
+
+.css-185rg65-PostCard{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;gap:0.5rem;}.css-185rg65-PostCard:hover [data-link-target],.css-185rg65-PostCard:focus [data-link-target]{-webkit-text-decoration:underline;text-decoration:underline;}
+
+.css-e12z4o-Flex-PostCard{margin-bottom:1rem;padding-top:1rem;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;gap:0.5rem;}.css-e12z4o-Flex-PostCard:hover [data-link-target],.css-e12z4o-Flex-PostCard:focus [data-link-target]{-webkit-text-decoration:underline;text-decoration:underline;}
+
+
+.css-lqahip{font-size:1.25rem;display:-webkit-box;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:2;line-height:1.4;color:var(--text-default-base);font-weight:500;}@media (min-width:48em){.css-lqahip{font-size:1.5rem;line-height:1.3333333333333333;font-weight:500;}}
+
+.css-554n1f-Text{font-size:1.25rem;display:-webkit-box;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:2;line-height:1.4;color:var(--text-default-base);font-weight:500;}@media (min-width:48em){.css-554n1f-Text{font-size:1.5rem;line-height:1.3333333333333333;font-weight:500;}}
+
+It Was The Merlot!
+
+.css-fi74kh{font-size:1rem;display:-webkit-box;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:3;line-height:1.5;color:var(--text-default-mute);}
+
+.css-1hzg1mo-Text{font-size:1rem;display:-webkit-box;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:3;line-height:1.5;color:var(--text-default-mute);}
+
+She strayed or drifted for just a just a moment in time... and then, all of a sudden, in a split second flash of complete enlightenment of her own heart&#x27;s desires, she ultimately chose to stay.
+
+
+.css-16e5cai{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;gap:1rem;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}
+
+.css-1htaxga-Flex{width:100%;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;gap:1rem;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}
+
+
+.css-19g11zi-Track{width:100%;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:0.75rem;}
+
+
+
+
+
+.css-97210l{color:var(--text-default-dim);}
+
+.css-5570e0-Text{color:var(--text-default-dim);}
+
+
+.css-e1uysh{font-size:1rem;line-height:1.5;color:inherit;}
+
+.css-v2x1s3-Text{font-size:1rem;line-height:1.5;color:inherit;}
+
+CLS
+
+
+
+
+
+
+.css-sr4nnm-Stack{display:grid;}
+
+
+.css-1gb8smj-Text{display:inline-block;overflow:hidden;position:absolute;white-space:nowrap;border:none;-webkit-clip:rect(0,0,0,0);clip:rect(0,0,0,0);height:1px;margin:-1px;padding:0;width:1px;color:var(--text-default-base);}
+
+By
+ 
+.css-1l9eyxq-TextLink{font-size:1rem;line-height:1.5;color:var(--text-default-base);-webkit-text-decoration:none;text-decoration:none;}.css-1l9eyxq-TextLink:hover,.css-1l9eyxq-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+.css-1hyz6h-TextLink-TextLink{border-bottom-left-radius:0.125rem;border-bottom-right-radius:0.125rem;border-top-left-radius:0.125rem;border-top-right-radius:0.125rem;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;font-size:1rem;line-height:1.5;color:var(--text-default-base);-webkit-text-decoration:none;text-decoration:none;}.css-1hyz6h-TextLink-TextLink:hover,.css-1hyz6h-TextLink-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+
+
+
+Crystal Lynn Schumacher
+
+
+
+
+.css-zi41ep{font-size:0.8125rem;line-height:1.5384615384615385;color:var(--text-default-mute);}
+
+.css-1nurs5d-Text{display:inline-block;font-size:0.8125rem;line-height:1.5384615384615385;color:var(--text-default-mute);}
+
+
+4 years ago
+ 
+in
+ 
+.css-18bwli1-TextLink{-webkit-text-decoration:none;text-decoration:none;}.css-18bwli1-TextLink *{display:inline !important;}.css-18bwli1-TextLink:hover,.css-18bwli1-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+.css-6opkqw-TextLink{color:inherit;-webkit-text-decoration:none;text-decoration:none;}.css-6opkqw-TextLink *{display:inline !important;}.css-6opkqw-TextLink:hover,.css-6opkqw-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+.css-1a1aj6p-TextLink-TextLink{border-bottom-left-radius:0.125rem;border-bottom-right-radius:0.125rem;border-top-left-radius:0.125rem;border-top-right-radius:0.125rem;display:inline;color:inherit;-webkit-text-decoration:none;text-decoration:none;}.css-1a1aj6p-TextLink-TextLink *{display:inline !important;}.css-1a1aj6p-TextLink-TextLink:hover,.css-1a1aj6p-TextLink-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+
+
+
+Humans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introducing Vocal Deep Cuts: The Poetry Collection
+
+For someone who is not a big fan or believer in New Year&#x27;s Resolutions, I seem to have started 2025 with a handful already.
+
+
+
+
+
+
+
+
+PS-I
+
+
+
+
+
+
+
+By
+ 
+
+
+
+Paul Stewart - Iconoclast
+
+
+
+
+
+7 days ago
+ 
+in
+ 
+
+
+
+Motivation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dare me. To Emerge!
+
+
+
+
+
+
+
+
+
+AD
+
+
+
+
+
+
+
+By
+ 
+
+
+
+Antoni De&#x27;Leon
+
+
+
+
+
+2 days ago
+ 
+in
+ 
+
+
+
+Motivation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Conversation
+
+
+
+
+
+
+
+
+
+IMW
+
+
+
+
+
+
+
+By
+ 
+
+
+
+Ian M. Williamson
+
+
+
+
+
+6 days ago
+ 
+in
+ 
+
+
+
+Poets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-12xj8zz-PostPage{-webkit-transform:translateY(0%);-ms-transform:translateY(0%);transform:translateY(0%);-webkit-transition:-webkit-transform 0.2s ease-out;-webkit-transition:transform 0.2s ease-out;transition:transform 0.2s ease-out;}
+
+.css-10gx11k-Box-PostPage{z-index:100;bottom:0;left:0;position:fixed;right:0;-webkit-transform:translateY(0%);-ms-transform:translateY(0%);transform:translateY(0%);-webkit-transition:-webkit-transform 0.2s ease-out;-webkit-transition:transform 0.2s ease-out;transition:transform 0.2s ease-out;}
+
+
+
+
+
+.css-16npc2j{font-size:0.875rem;line-height:1.4285714285714286;color:var(--text-default-base);}
+
+.css-1g2ej1g-Text{margin-top:3rem;padding-bottom:3rem;font-size:0.875rem;line-height:1.4285714285714286;color:var(--text-default-base);}
+
+
+
+
+
+
+.css-52ydc{gap:1rem;justify-items:center;}
+
+.css-14gchta-Stack{padding-bottom:3rem;padding-left:1rem;padding-right:1rem;padding-top:2rem;display:grid;gap:1rem;justify-items:center;}
+
+
+.css-3gi5m0{color:var(--text-default-base);font-size:1.75rem;font-weight:700;line-height:1.4285714285714286;}
+
+.css-22v8nn-Heading{overflow:hidden;position:absolute;white-space:nowrap;border:none;-webkit-clip:rect(0,0,0,0);clip:rect(0,0,0,0);height:1px;margin:-1px;padding:0;width:1px;color:var(--text-default-base);font-size:1.75rem;font-weight:700;line-height:1.4285714285714286;}
+
+Find us on social media
+
+.css-2qwvr0{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:3rem;}@media (min-width:30em){.css-2qwvr0{gap:4rem;}}
+
+.css-18z5sdl-Flex{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;gap:3rem;}@media (min-width:30em){.css-18z5sdl-Flex{gap:4rem;}}
+
+
+
+.css-1sr7o3s{opacity:0.7;}.css-1sr7o3s:hover,.css-1sr7o3s:focus{opacity:1;}
+
+.css-c100jc{opacity:0.7;}.css-c100jc:hover,.css-c100jc:focus{color:#1877f2;}.css-c100jc:hover,.css-c100jc:focus{opacity:1;}
+
+.css-r7vc9p{min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-r7vc9p:hover,.css-r7vc9p:focus{color:#1877f2;}.css-r7vc9p:hover,.css-r7vc9p:focus{opacity:1;}
+
+.css-sifoyv{border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-sifoyv:hover,.css-sifoyv:focus{background-color:var(--button-outline-hocus);}.css-sifoyv:hover,.css-sifoyv:focus{color:#1877f2;}.css-sifoyv:hover,.css-sifoyv:focus{opacity:1;}
+
+.css-12neint{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-12neint:hover,.css-12neint:focus{background-color:var(--button-outline-hocus);}.css-12neint:hover,.css-12neint:focus{color:#1877f2;}.css-12neint:hover,.css-12neint:focus{opacity:1;}
+
+.css-1yqhxh7-SocialIconButton{position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-1yqhxh7-SocialIconButton:hover,.css-1yqhxh7-SocialIconButton:focus{background-color:var(--button-outline-hocus);}.css-1yqhxh7-SocialIconButton:hover,.css-1yqhxh7-SocialIconButton:focus{color:#1877f2;}.css-1yqhxh7-SocialIconButton:hover,.css-1yqhxh7-SocialIconButton:focus{opacity:1;}
+
+.css-oiv2lp-Link-SocialIconButton{position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-oiv2lp-Link-SocialIconButton:hover,.css-oiv2lp-Link-SocialIconButton:focus{background-color:var(--button-outline-hocus);}.css-oiv2lp-Link-SocialIconButton:hover,.css-oiv2lp-Link-SocialIconButton:focus{color:#1877f2;}.css-oiv2lp-Link-SocialIconButton:hover,.css-oiv2lp-Link-SocialIconButton:focus{opacity:1;}
+
+
+
+
+.css-1djlirl-Icon{height:2rem;width:2rem;display:inline-block;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-1523sp1{opacity:0.7;}.css-1523sp1:hover,.css-1523sp1:focus{color:#833ab4;}.css-1523sp1:hover,.css-1523sp1:focus{opacity:1;}
+
+.css-tjhe4k{min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-tjhe4k:hover,.css-tjhe4k:focus{color:#833ab4;}.css-tjhe4k:hover,.css-tjhe4k:focus{opacity:1;}
+
+.css-1tjaegc{border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-1tjaegc:hover,.css-1tjaegc:focus{background-color:var(--button-outline-hocus);}.css-1tjaegc:hover,.css-1tjaegc:focus{color:#833ab4;}.css-1tjaegc:hover,.css-1tjaegc:focus{opacity:1;}
+
+.css-1whnc5v{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-1whnc5v:hover,.css-1whnc5v:focus{background-color:var(--button-outline-hocus);}.css-1whnc5v:hover,.css-1whnc5v:focus{color:#833ab4;}.css-1whnc5v:hover,.css-1whnc5v:focus{opacity:1;}
+
+.css-3c5tyk-SocialIconButton{position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-3c5tyk-SocialIconButton:hover,.css-3c5tyk-SocialIconButton:focus{background-color:var(--button-outline-hocus);}.css-3c5tyk-SocialIconButton:hover,.css-3c5tyk-SocialIconButton:focus{color:#833ab4;}.css-3c5tyk-SocialIconButton:hover,.css-3c5tyk-SocialIconButton:focus{opacity:1;}
+
+.css-wzp9x7-Link-SocialIconButton{position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-wzp9x7-Link-SocialIconButton:hover,.css-wzp9x7-Link-SocialIconButton:focus{background-color:var(--button-outline-hocus);}.css-wzp9x7-Link-SocialIconButton:hover,.css-wzp9x7-Link-SocialIconButton:focus{color:#833ab4;}.css-wzp9x7-Link-SocialIconButton:hover,.css-wzp9x7-Link-SocialIconButton:focus{opacity:1;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.css-1x4izo9{opacity:0.7;}.css-1x4izo9:hover,.css-1x4izo9:focus{color:#1da1f2;}.css-1x4izo9:hover,.css-1x4izo9:focus{opacity:1;}
+
+.css-1romy86{min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-1romy86:hover,.css-1romy86:focus{color:#1da1f2;}.css-1romy86:hover,.css-1romy86:focus{opacity:1;}
+
+.css-11cldly{border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-11cldly:hover,.css-11cldly:focus{background-color:var(--button-outline-hocus);}.css-11cldly:hover,.css-11cldly:focus{color:#1da1f2;}.css-11cldly:hover,.css-11cldly:focus{opacity:1;}
+
+.css-rir42k{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-rir42k:hover,.css-rir42k:focus{background-color:var(--button-outline-hocus);}.css-rir42k:hover,.css-rir42k:focus{color:#1da1f2;}.css-rir42k:hover,.css-rir42k:focus{opacity:1;}
+
+.css-whlms5-SocialIconButton{position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-whlms5-SocialIconButton:hover,.css-whlms5-SocialIconButton:focus{background-color:var(--button-outline-hocus);}.css-whlms5-SocialIconButton:hover,.css-whlms5-SocialIconButton:focus{color:#1da1f2;}.css-whlms5-SocialIconButton:hover,.css-whlms5-SocialIconButton:focus{opacity:1;}
+
+.css-kqnprg-Link-SocialIconButton{position:relative;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:0.25rem;border-style:solid;border-width:0.0625rem;font-weight:500;line-height:1;font-size:0.875rem;height:2.5rem;min-width:2.5rem;padding-left:1rem;padding-right:1rem;background-color:var(--button-outline-base);border-color:transparent;color:var(--button-outline-text);white-space:nowrap;min-width:0;padding-left:0;padding-right:0;height:3rem;width:3rem;border-radius:62.4375rem;opacity:0.7;}.css-kqnprg-Link-SocialIconButton:hover,.css-kqnprg-Link-SocialIconButton:focus{background-color:var(--button-outline-hocus);}.css-kqnprg-Link-SocialIconButton:hover,.css-kqnprg-Link-SocialIconButton:focus{color:#1da1f2;}.css-kqnprg-Link-SocialIconButton:hover,.css-kqnprg-Link-SocialIconButton:focus{opacity:1;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Miscellaneous links
+
+.css-1g2vtuv{-webkit-column-gap:1rem;column-gap:1rem;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;row-gap:0.5rem;}
+
+.css-1k57d0i-Flex{-webkit-column-gap:1rem;column-gap:1rem;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;row-gap:0.5rem;}
+
+
+
+.css-c19t8i-TextLink-TextLink{padding-left:0.25rem;padding-right:0.25rem;border-bottom-left-radius:0.125rem;border-bottom-right-radius:0.125rem;border-top-left-radius:0.125rem;border-top-right-radius:0.125rem;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;color:var(--text-default-base);-webkit-text-decoration:none;text-decoration:none;}.css-c19t8i-TextLink-TextLink:hover,.css-c19t8i-TextLink-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+
+
+
+Explore
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+Terms of Use
+
+
+
+
+
+
+.css-90u4zg-Link-TextLink-TextLink{padding-left:0.25rem;padding-right:0.25rem;border-bottom-left-radius:0.125rem;border-bottom-right-radius:0.125rem;border-top-left-radius:0.125rem;border-top-right-radius:0.125rem;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;color:var(--text-default-base);-webkit-text-decoration:none;text-decoration:none;}.css-90u4zg-Link-TextLink-TextLink:hover,.css-90u4zg-Link-TextLink-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+
+
+
+Support
+
+
+
+
+
+
+.css-zu3a0y-Text{text-align:center;color:var(--text-default-mute);}
+
+© 
+2025
+ 
+.css-1n7ca7g-Link-TextLink-TextLink{border-bottom-left-radius:0.125rem;border-bottom-right-radius:0.125rem;border-top-left-radius:0.125rem;border-top-right-radius:0.125rem;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;color:var(--text-default-base);-webkit-text-decoration:none;text-decoration:none;}.css-1n7ca7g-Link-TextLink-TextLink:hover,.css-1n7ca7g-Link-TextLink-TextLink:focus{-webkit-text-decoration:underline;text-decoration:underline;}
+
+
+
+
+Creatd, Inc
+
+
+
+. All Rights Reserved.
+
+
+
+
+
+.css-xg5s2c{box-sizing:border-box;max-height:100%;max-width:100%;overflow:hidden;padding:8px;pointer-events:none;position:fixed;z-index:1000;top:0;right:0;}
+
+
+
+
+
+
+{"props":{"vocalSite":{"__typename":"Site","id":"b1a75ffa-8be0-4230-b3b1-d936cdff1c87","slug":"motivation","name":"Motivation","description":"Motivation is your best foot forward.","metaDescription":"To do better, you must know better. Get the ball rolling with stories of success and cautionary tales from those who’ve been there before. Motivation is your best foot forward.","metaTitle":"Motivation","logo":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1513017673/twlhs5v7ivzcxfduolek.svg"},"favicon":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1513017673/lpctrgdxs3mdfnu66ijh.png"},"logoSocial":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1513017674/rern76kcvwr801ee0ja2.jpg"},"primaryColor":"#15D57E","emailAddress":"info@vocal.media","twitterUsername":"vocal_creators","facebook":"https://www.facebook.com/VocalCreators/","facebookAppId":"493464361012674","instagram":"https://www.instagram.com/vocal_creators/","twitter":"https://twitter.com/Vocal_Creators"},"pageProps":{"post":{"__typename":"Post","id":"7e87c40f-da5a-4d8b-8d6f-f7e352e4e499","author":{"__typename":"User","id":"ad5b7cba-e86c-4be2-8a73-766190760ad3","bioContent":{"__typename":"_ContentType_User_bioContent","document":"{\"object\":\"document\",\"data\":{},\"nodes\":[{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Stories are one way we relate to one another. I love and adore stories, poetry and film. Humanity is deep, and I am a well of words. Infinite Love ❤️ \",\"marks\":[]}]}]}"},"enableComments":true,"enablePaidSubscriptions":false,"hasConnectedStripeAccount":false,"image":{"__typename":"CloudinaryImage_File","id":"https://res.cloudinary.com/jerrick/image/upload/v1617771012/606d3a043c211b001d4df5cd.jpg","src":"https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_108,pg_1,q_60,w_108/606d3a043c211b001d4df5cd.jpg"},"name":"Crystal Lynn Schumacher","slug":"crystal-lynn-schumacher"},"badges":[],"channel":null,"content":{"__typename":"_ContentType_Post_content","document":{"object":"document","data":{},"nodes":[{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Let's just start this story, or fantasy world essay, or even perspective type of story, by saying right away, I LOVE FANTASY!","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"And all that relates to fantasy, or our very personal, and yet united, fantasy world's, live's and destinies. Because it from fantasy, that we do actually create and manifest our dreams.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Who doesn't love a good fantasy movie, or book, or story? Where we can all get lost in the beauty and magic of life and wonder, fueling our senses and imaginations beyond anything we've ever known. And then, be found reflecting that magic effortlessly, in our outer worlds, however realistically we can. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Fantasy is never really true in our lives, until we make it real. Even if just in a story. A dream where we allow ourselves some relief from all of the everyday obstacles, stresses and over-stimulating logical, intellectual things. If we should so choose. Where impossible odds are possible, bringing a sense of balance, fun and peace no matter where we find ourselves. Where we can get lost in a world that feels so real, so close to our own courageous and gorgeous humanity inside. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Fantasy does come true sometimes. If only in our Hearts. Where I believe, the true human story, heartbeat and soul live in love always. Light and Shadow. Dark and mysterious. Bright and transparent. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"There seems to be no mystery as to why we love fantasy. And yet, it is so shrouded by mystery. The unknown. Our own human dreams and inspirations, coming to life in some way, that only our Hearts can grasp and understand. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"For fantasy has no true logical reason, other than to keep us dreaming. To allow ourselves an outlet to bring the unseen, the impossible, into our own real life physical reality.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"My son (and daughter's too) allow me to keep fantasizing. For a future where Magic is truly possible, felt, witnessed and experienced. This photo of my son entering into a magical tree, was created by me, as I was fantasizing about new worlds. New environments he would potentially explore, discover and be able to experience. Where anything is possible. Where he could play all day, curious about animals, nature and wonder. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"What do we see through the eyes of our child like self? What do we imagine as we step into the unknown? I cannot remember myself the feelings I had when I was child. Only somewhat. However, my children do inspire me to remember everyday. They remind me to never give up on my own dreams and fantasies. And to continue sharing them with the world. To continue experiencing them. And also, embracing them, the fantasy and the real world, all at the same time. Which supports me immensely in continuing to dream, create and inspire the future. Our future.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"They see the world already as magical. Amazing. And so unknown. They trust us to create a safe and logical world, full of answers, structure and plenty of freedom to play, create, draw, write, make new friends, eat good food, raise them up to be anything they truly want to be. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"And yet, in that structure, we can tend to get more lost, than in an actually fantasy. We love, absolutely LOVE Harry Potter in my house. As well as every other fantasy, magical adventure there is out there. We enjoy being together as a family, imagining all of the wonderful adventures, and how we ourselves might respond in those circumstances, relationships, or even special, super-human powers. It is an interesting concept to consider how fantasy, does actually create our own, very logical, intellectual world. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Our world views, are all truly rooted in our own human collective fantasy. A fantasy, that if only we could make real, would somehow improve our lives. Our hopes for play and adventure. And our real life human relationships, by bonding us somehow, through our imaginations. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"It is so fun to fantasize. To dream up new worlds. To get to know the parts of ourselves, that we may keep hidden from the actual public view. Magic is nothing new in my own family. And I do like to share and discover the magical wonders of nature with all those that I know, meet and love. Everyday if possible. Which is why I love writing! Writing fantasy stories for myself and others to dream of the impossible. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"To feel a bit of magic in our everyday logical worlds. And however logical it is to write it all out, sometimes, it does feel hopeless. Because we never truly know if we share our fantasy with others, until we do. Writing can be scary for example. Or it can be amazing! Full of colour, texture, depth and new perspectives, that actually stimulate our logical brains into action. It can also provide a deeper insight in our own darkness. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Our minds, as a collective humanity, are so filled with every imaginable thing, idea and perspective, honing in on the fantasy we truly would love to experience is easy! When we have the right, true inspiration of those who have gone before us.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"My fantasies have also changed over the years. From being solely based on my own personal aspirations, to one providing the opportunity for my own three children to experience theirs. As parents, I feel it is only natural to do this. Our children remind us of what is truly important. And as much as they love learning about our logical world, where we all be without a good fantasy story? Or sci-fi adventure? Where would we be if we never dreamt of landing on the moon? Or diving deep into a sea of creatures we never knew existed? ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"First we dream and fantasize. And then, life magically changes for us in some way. Even if we never experience that fantasy actually playing out in our real everyday lives, we get to experience it inside. Inside our own glorious minds, if even for just a moment. And does this help or hinder our own dreams, reasoning or common sense? Or does it actually improve our own everyday lives in ways we could have never imagined? ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Truly, all I can say, is that without fantasy in our lives, we may as well just be all boring, no good people, with nothing better to do, than work for someone who does. Because a really great visionary once told me nothing. She showed me. She showed me through her own active, hands on imagination, how to bring a real life dream or fantasy to life. And how to continue fueling, feeding that vision, through hard work, dedication and commitment to her dream. Her vision. And a whole lot of people benefited. All from her internal vision, dreams and hopes. Brought out for all to witness, observe, feel, become a part of and enjoy. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"My ultimate favorite fantasy, is witnessing my children being able to explore the mysterious worlds of magic and creativity, that truly make life worth living for. Even Walt Disney said the key to dreams coming true, exists within our own imaginations. And what a wonderful, and yet so simple truth. Our fantasies are our imaginations in action. In real, life living action. For all to experience, witness and observe on or in some level of our own awareness. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"I could never compare the best fantasy stories to one another, because each one to me, is priceless. Valuable beyond measure and totally and completely uncompetitive. No reason, no rhyme they say. Well let me tell you, the rhyme is the reason. The nursery rhymes, the music lyrics, the stories that captivate the heart, soul and imagination, all come from within us. From within our own collective humanitarian dream. A dream which we all truly wish to experience in our own personal way.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"I am beyond grateful for those who share our fantasy world with the world! For their ability to be able to express and demonstrate on some level, how we all feel on the inside. How we are all hero's in our own soul journey. How we can overcome any obstacle or challenge in our own lives. Simply by being reminded our own true powers. That being courage, bravery, wisdom. A mindset and attitude of anything and everything is possible.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"A courageous appetite for adventure, truth and honesty. Within ourself and those we share the journey of life with. I feel each and every fantasy story we feel drawn towards, empowers us in some way to keep going. To keep dreaming. To keep surviving until we make it. Until we make our own dreams come true.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"If it were not for other fantasy dreamers, writers and just plain good people using their own imaginations, none of us would feel the amazing inspiration of the great human spirit within. Making it all possible out in the real world. Because fantasy comes true everyday for us. In whatever way we prefer to dream, write, create, share, empower. It all comes from within.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Thank you to you, and all of the amazing, great writers, dreamers and speakers of true fantasy and real life dreams coming true. For inspiring us all to write, dream and co-create a beautiful future for our own children. For those who will come after us. For what we leave this world with, is all our children have to continue onward. And if a fantasy can support ones imagination, we can truly do anything. ","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Inspiration is key. My son entering into an unknown world or land, knowing he has all the tools of wisdom, love and creativity within him, (my daughters too) reassures me. Knowing we have a world full of amazing, wonderful, heart based people out there, doing what they love, dreaming up amazing, wonderful dreams to explore and discover, eases my mind, body, heart and soul.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"We are all in this together. Multiple fantasies within one big fantasy we each live outside together, everyday. Making a real life dream come true only requires one thing from what I have learned or have been told... Dream. Dream loud and proud, each and every day. For one thing always leads to another thing. And if one thing catches your heart on fire, that is probably a very big indicator to your own heart's passions, desires and dreams. Real life dreams, coming true.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Fantasies are real. Only until we dream them true, can we know how they will stir up our emotions, feelings and desires. And only then, can we continue to keep on watching more fantasies come true, through the actual dream of life playing out right before us.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"Enter the tree of the unknown my son. You never know what lies beyond the portal of infinite dreams and possibilities, until you do. And if you should ever need me, I am always here. Like a little fox by your side. Keeping you clever, and never the wiser. Because cleverness is just for the fox. Wisdom is yours to seek out and discover for yourself. Life is the dream we are meant to discover. May we all have a little fox friend and a portal of dreams around every corner. Just waiting to be discovered, experienced and brought to life in the most magical of ways.","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"","marks":[]}]},{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","text":"","marks":[]}]}]},"heroImages":[],"images":[],"oEmbeds":[],"unsplashImages":[],"cloudinaryImages":[]},"contentUpdatedAt":"2021-09-10T20:16:10.073Z","editorPickAt":null,"hasContentWarning":false,"heroImage":{"__typename":"CloudinaryImage_File","id":"https://res.cloudinary.com/jerrick/image/upload/v1631304646/613bbbc5f860b8001d3b25a2.jpg","large":"https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/613bbbc5f860b8001d3b25a2.jpg","socialMedia":"https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/613bbbc5f860b8001d3b25a2.jpg"},"heroImageAltText":null,"heroImageCaption":"Photo created by me Crystal Lynn. My son entering into a magical unknown world.","heroUnsplashImage":null,"heroVideo":null,"isAiGenerated":false,"isCommentingEnabled":true,"isEditorPick":false,"isExclusive":false,"mediaLayout":"outsetCenter","mediaType":"image","name":"Best Fantasy World","ogDescription":null,"ogTitle":null,"ogType":"article","publishedAt":"2021-09-11T20:25:47.317Z","seoDescription":null,"seoKeywords":null,"seoTitle":null,"slug":"best-fantasy-world","sponsor":null,"subtitle":"Out There","summary":"Let's just start this story, or fantasy world essay, or even perspective type of story, by saying right away, I LOVE FANTASY!\n\n","tags":[{"__typename":"Tag","name":"happiness","slug":"happiness"}],"vocalSite":{"__typename":"Site","id":"b1a75ffa-8be0-4230-b3b1-d936cdff1c87","name":"Motivation","slug":"motivation","topic":{"__typename":"Topic","id":"1598bb71-7edf-4df1-9e0e-39f8bfbedb0e","name":"Health + Wellness"}},"wordCount":1875},"relatedPosts":[{"__typename":"Post","id":"fd7d8421-94dd-4882-9584-0221bc3a03c2","slug":"it-was-the-merlot","name":"It Was The Merlot!","summary":"She strayed or drifted for just a just a moment in time... and then, all of a sudden, in a split second flash of complete enlightenment of her own heart's desires, she ultimately chose to stay.  \n\n","publishedAt":"2021-04-11T15:43:33.500Z","badges":[],"sponsor":null,"vocalSite":{"__typename":"Site","name":"Humans","slug":"humans","id":"329dc69d-f329-4d6f-9a7f-d91949964dc1"},"author":{"__typename":"User","id":"ad5b7cba-e86c-4be2-8a73-766190760ad3","name":"Crystal Lynn Schumacher","slug":"crystal-lynn-schumacher","image":{"__typename":"CloudinaryImage_File","id":"https://res.cloudinary.com/jerrick/image/upload/v1617771012/606d3a043c211b001d4df5cd.jpg","src":"https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_108,pg_1,q_60,w_108/606d3a043c211b001d4df5cd.jpg"}},"mediaType":"image","heroVideo":null,"heroImage":{"__typename":"CloudinaryImage_File","id":"https://res.cloudinary.com/jerrick/image/upload/v1618107056/60725ab0858433001d855993.png","large":"https://res.cloudinary.com/jerrick/image/upload/c_fill,d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,h_375,q_auto,w_625/60725ab0858433001d855993.png"},"heroUnsplashImage":null,"isExclusive":false},{"__typename":"Post","id":"55cdb028-024e-40f4-a0c0-143b569e63d0","slug":"introducing-vocal-deep-cuts-the-poetry-collection-di3lm03oy","name":"Introducing Vocal Deep Cuts: The Poetry Collection","summary":"For someone who is not a big fan or believer in New Year's Resolutions, I seem to have started 2025 with a handful already. \n\n","publishedAt":"2025-01-04T20:35:28.582Z","badges":[],"sponsor":null,"vocalSite":{"__typename":"Site","name":"Motivation","slug":"motivation","id":"b1a75ffa-8be0-4230-b3b1-d936cdff1c87"},"author":{"__typename":"User","id":"67c4acf0-f617-4914-be7e-20882c1ff741","name":"Paul Stewart - Iconoclast","slug":"paul-stewart-iconoclast","image":{"__typename":"CloudinaryImage_File","id":"https://res.cloudinary.com/jerrick/image/upload/v1734367244/6760580bc8dd53001d702fab.jpg","src":"https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_108,pg_1,q_60,w_108/6760580bc8dd53001d702fab.jpg"}},"mediaType":"unsplash","heroVideo":null,"heroImage":null,"heroUnsplashImage":{"__typename":"UnsplashImage","id":"e4J5BzYm1gI","publicUrl":"https://images.unsplash.com/photo-1565875833293-f192c7914a63?fit=max\u0026fm=jpg\u0026ixid=M3wzNTY3MHwwfDF8YWxsfHx8fHx8fHx8MTczNjA4ODA0MXw\u0026ixlib=rb-4.0.3\u0026q=75\u0026w=720"},"isExclusive":false},{"__typename":"Post","id":"1f4adcb7-ce7e-41b4-a874-3f762dc7755e","slug":"dare-me-to-emerge","name":"Dare me. To Emerge!","summary":"How can I improve my interactions to achieve better results and enjoy writing for the sheer joy of it!\n\n Many writers are well known here. I am not one of them, once highlighted as a promising 'Emerging Creator', yet do I await to fully arrive emerged. So, it is with gusto and guts that I insert myself into the forefront of this projected idea of 'becoming' in the new dawn of a year of big, huge and very gargantuan expectations.\n\n","publishedAt":"2025-01-09T10:32:31.091Z","badges":[],"sponsor":null,"vocalSite":{"__typename":"Site","name":"Motivation","slug":"motivation","id":"b1a75ffa-8be0-4230-b3b1-d936cdff1c87"},"author":{"__typename":"User","id":"1ebf7c02-629f-4684-99a0-419479589ea5","name":"Antoni De'Leon","slug":"antoni-de-leon","image":{"__typename":"CloudinaryImage_File","id":"https://res.cloudinary.com/jerrick/image/upload/v1729798467/671aa143438981001d1c3cdc.jpg","src":"https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_108,pg_1,q_60,w_108/671aa143438981001d1c3cdc.jpg"}},"mediaType":"image","heroVideo":null,"heroImage":{"__typename":"CloudinaryImage_File","id":"https://res.cloudinary.com/jerrick/image/upload/v1736408697/677f7e7934fa67001dbe82be.jpg","large":"https://res.cloudinary.com/jerrick/image/upload/c_fill,d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,h_375,q_auto,w_625/677f7e7934fa67001dbe82be.jpg"},"heroUnsplashImage":null,"isExclusive":false},{"__typename":"Post","id":"38491265-0dbd-44f5-865c-80ab3f6194d6","slug":"a-conversation-h8138k0w6r","name":"A Conversation","summary":"Do you still love me?\r\n\nWith all of my heart.\r\n\nHow can that be?\r\n\nWe’re not so far apart.\r\n\nBut you left me alone.\r\n\nYou know that’s not fair.\r\n\n","publishedAt":"2025-01-05T11:57:32.987Z","badges":[],"sponsor":null,"vocalSite":{"__typename":"Site","name":"Poets","slug":"poets","id":"9c8db62b-e68a-489b-9065-3b37e30b40af"},"author":{"__typename":"User","id":"58141a9b-1b5c-4924-825a-71423db6e830","name":"Ian M. Williamson","slug":"ian-m-williamson","image":{"__typename":"CloudinaryImage_File","id":"https://res.cloudinary.com/jerrick/image/upload/v1734267688/675ed32781c921001dfa431d.jpg","src":"https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_108,pg_1,q_60,w_108/675ed32781c921001dfa431d.jpg"}},"mediaType":"unsplash","heroVideo":null,"heroImage":null,"heroUnsplashImage":{"__typename":"UnsplashImage","id":"ukDEbYnyDsU","publicUrl":"https://images.unsplash.com/photo-1561570541-aaba21a3ecf0?fit=max\u0026fm=jpg\u0026ixid=M3wzNTY3MHwwfDF8YWxsfHx8fHx8fHx8MTczNjA3NzkxM3w\u0026ixlib=rb-4.0.3\u0026q=75\u0026w=720"},"isExclusive":false}],"query":{"siteSlug":"motivation","postSlug":"best-fantasy-world"}},"apolloState":{"Site:b1a75ffa-8be0-4230-b3b1-d936cdff1c87":{"__typename":"Site","id":"b1a75ffa-8be0-4230-b3b1-d936cdff1c87","slug":"motivation","name":"Motivation","description":"Motivation is your best foot forward.","metaDescription":"To do better, you must know better. Get the ball rolling with stories of success and cautionary tales from those who’ve been there before. Motivation is your best foot forward.","metaTitle":"Motivation","logo":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1513017673/twlhs5v7ivzcxfduolek.svg"},"favicon":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1513017673/lpctrgdxs3mdfnu66ijh.png"},"logoSocial":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1513017674/rern76kcvwr801ee0ja2.jpg"},"primaryColor":"#15D57E","emailAddress":"info@vocal.media","twitterUsername":"vocal_creators","facebook":"https://www.facebook.com/VocalCreators/","facebookAppId":"493464361012674","instagram":"https://www.instagram.com/vocal_creators/","twitter":"https://twitter.com/Vocal_Creators","topic":{"__ref":"Topic:1598bb71-7edf-4df1-9e0e-39f8bfbedb0e"}},"ROOT_QUERY":{"__typename":"Query","allSites({\"first\":1,\"where\":{\"slug\":\"motivation\"}})":[{"__ref":"Site:b1a75ffa-8be0-4230-b3b1-d936cdff1c87"}],"relatedPosts({\"postSlug\":\"best-fantasy-world\"})":[{"__ref":"Post:fd7d8421-94dd-4882-9584-0221bc3a03c2"},{"__ref":"Post:55cdb028-024e-40f4-a0c0-143b569e63d0"},{"__ref":"Post:1f4adcb7-ce7e-41b4-a874-3f762dc7755e"},{"__ref":"Post:38491265-0dbd-44f5-865c-80ab3f6194d6"}],"allContentWarningTags":[],"allPosts({\"first\":1,\"where\":{\"publishStatus\":\"published\",\"slug\":\"best-fantasy-world\",\"vocalSite\":{\"id\":\"b1a75ffa-8be0-4230-b3b1-d936cdff1c87\"}}})":[{"__ref":"Post:7e87c40f-da5a-4d8b-8d6f-f7e352e4e499"}],"Post({\"where\":{\"id\":\"7e87c40f-da5a-4d8b-8d6f-f7e352e4e499\"}})":{"__ref":"Post:7e87c40f-da5a-4d8b-8d6f-f7e352e4e499"},"allComments:{\"where\":{\"post\":{\"id\":\"7e87c40f-da5a-4d8b-8d6f-f7e352e4e499\"}}}":[],"_allCommentsMeta({\"where\":{\"OR\":[{\"AND\":{\"isDeleted\":false}},{\"AND\":{\"isDeleted\":true,\"replies_some\":{\"isDeleted\":false}}}],\"post\":{\"id\":\"7e87c40f-da5a-4d8b-8d6f-f7e352e4e499\"}}})":{"__typename":"_QueryMeta","count":0},"_allCommentsMeta({\"where\":{\"isDeleted\":true,\"post\":{\"id\":\"7e87c40f-da5a-4d8b-8d6f-f7e352e4e499\"},\"replies_some\":{\"isDeleted\":false}}})":{"__typename":"_QueryMeta","count":0},"User({\"where\":{\"id\":\"ad5b7cba-e86c-4be2-8a73-766190760ad3\"}})":{"__ref":"User:ad5b7cba-e86c-4be2-8a73-766190760ad3"},"getPublicSubscriptionInfo({\"id\":\"ad5b7cba-e86c-4be2-8a73-766190760ad3\"})":{"__typename":"PublicSubscriptionInfo","hasPaidSubscription":false},"isAuthorTippable({\"authorId\":\"ad5b7cba-e86c-4be2-8a73-766190760ad3\"})":false,"allBadges({\"where\":{\"post\":{\"id_in\":[\"7e87c40f-da5a-4d8b-8d6f-f7e352e4e499\"]}}})":[],"allChallengeSubmissions({\"where\":{\"challenge\":{\"submissionDeadline_lte\":\"2025-01-11T17:59:00.000Z\"},\"post\":{\"id_in\":[\"7e87c40f-da5a-4d8b-8d6f-f7e352e4e499\"]}}})":[{"__ref":"ChallengeSubmission:01eaface-b7db-4831-9ca5-e7d778e6e789"}],"getInsights({\"postId\":\"7e87c40f-da5a-4d8b-8d6f-f7e352e4e499\"})":[],"allFeatureFlags":[{"__typename":"FeatureFlag","name":"FEATURE_REPORT_POST","isActive":true},{"__typename":"FeatureFlag","name":"FEATURE_READER_INSIGHTS","isActive":true},{"__typename":"FeatureFlag","name":"TRIAL_VOCAL_PLUS_SUBSCRIPTION_YEARLY","isActive":false},{"__typename":"FeatureFlag","name":"FEATURE_COMMENTS","isActive":true},{"__typename":"FeatureFlag","name":"TRIAL_VOCAL_PLUS_SUBSCRIPTION","isActive":false},{"__typename":"FeatureFlag","name":"FEATURE_COMMENTS_V2","isActive":true},{"__typename":"FeatureFlag","name":"FEATURE_VOCAL_PLUS_SUBSCRIBE_BONUS","isActive":false},{"__typename":"FeatureFlag","name":"BULK_TRIAL_SUBSCRIPTION_CREATE_NOV_21","isActive":false},{"__typename":"FeatureFlag","name":"SEARCH_CRITERIA_STRATEGY","isActive":true},{"__typename":"FeatureFlag","name":"FEATURE_ACTIVITY_FEED","isActive":true},{"__typename":"FeatureFlag","name":"SEARCH_UNION_HARD_LIMIT","isActive":true},{"__typename":"FeatureFlag","name":"SEND_PUSH_NOTIFICATIONS","isActive":true},{"__typename":"FeatureFlag","name":"FEATURE_VOCAL_LATEST_STORIES","isActive":true},{"__typename":"FeatureFlag","name":"ALLOW_STRIPE_EXPRESS_ACCOUNT","isActive":false}]},"User:ad5b7cba-e86c-4be2-8a73-766190760ad3":{"__typename":"User","id":"ad5b7cba-e86c-4be2-8a73-766190760ad3","slug":"crystal-lynn-schumacher","name":"Crystal Lynn Schumacher","image":{"__ref":"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1617771012/606d3a043c211b001d4df5cd.jpg"},"bioContent":{"__typename":"_ContentType_User_bioContent","document":"{\"object\":\"document\",\"data\":{},\"nodes\":[{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Stories are one way we relate to one another. I love and adore stories, poetry and film. Humanity is deep, and I am a well of words. Infinite Love ❤️ \",\"marks\":[]}]}]}"},"enableComments":true,"enablePaidSubscriptions":false,"hasConnectedStripeAccount":false,"isVocalPlusMember":false},"Site:329dc69d-f329-4d6f-9a7f-d91949964dc1":{"__typename":"Site","id":"329dc69d-f329-4d6f-9a7f-d91949964dc1","slug":"humans","name":"Humans"},"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1617771012/606d3a043c211b001d4df5cd.jpg":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1617771012/606d3a043c211b001d4df5cd.jpg","publicUrlTransformed({\"transformation\":{\"crop\":\"thumb\",\"height\":\"108\",\"page\":\"1\",\"quality\":\"60\",\"width\":\"108\"}})":"https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_108,pg_1,q_60,w_108/606d3a043c211b001d4df5cd.jpg","id":"https://res.cloudinary.com/jerrick/image/upload/v1617771012/606d3a043c211b001d4df5cd.jpg"},"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1618107056/60725ab0858433001d855993.png":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1618107056/60725ab0858433001d855993.png","publicUrlTransformed({\"transformation\":{\"crop\":\"fill\",\"default_image\":\"642250b563292b35f27461a7.png\",\"fetch_format\":\"jpg\",\"flags\":\"progressive\",\"height\":\"375\",\"quality\":\"auto\",\"width\":\"625\"}})":"https://res.cloudinary.com/jerrick/image/upload/c_fill,d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,h_375,q_auto,w_625/60725ab0858433001d855993.png","id":"https://res.cloudinary.com/jerrick/image/upload/v1618107056/60725ab0858433001d855993.png"},"Post:fd7d8421-94dd-4882-9584-0221bc3a03c2":{"__typename":"Post","id":"fd7d8421-94dd-4882-9584-0221bc3a03c2","author":{"__ref":"User:ad5b7cba-e86c-4be2-8a73-766190760ad3"},"isExclusive":false,"publishedAt":"2021-04-11T15:43:33.500Z","slug":"it-was-the-merlot","vocalSite":{"__ref":"Site:329dc69d-f329-4d6f-9a7f-d91949964dc1"},"name":"It Was The Merlot!","summary":"She strayed or drifted for just a just a moment in time... and then, all of a sudden, in a split second flash of complete enlightenment of her own heart's desires, she ultimately chose to stay.  \n\n","badges({\"orderBy\":\"rank\"})":[],"sponsor":null,"mediaType":"image","heroVideo":null,"heroImage":{"__ref":"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1618107056/60725ab0858433001d855993.png"},"heroUnsplashImage":null},"User:67c4acf0-f617-4914-be7e-20882c1ff741":{"__typename":"User","id":"67c4acf0-f617-4914-be7e-20882c1ff741","slug":"paul-stewart-iconoclast","name":"Paul Stewart - Iconoclast","image":{"__ref":"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1734367244/6760580bc8dd53001d702fab.jpg"}},"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1734367244/6760580bc8dd53001d702fab.jpg":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1734367244/6760580bc8dd53001d702fab.jpg","publicUrlTransformed({\"transformation\":{\"crop\":\"thumb\",\"height\":\"108\",\"page\":\"1\",\"quality\":\"60\",\"width\":\"108\"}})":"https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_108,pg_1,q_60,w_108/6760580bc8dd53001d702fab.jpg","id":"https://res.cloudinary.com/jerrick/image/upload/v1734367244/6760580bc8dd53001d702fab.jpg"},"UnsplashImage:e4J5BzYm1gI":{"__typename":"UnsplashImage","id":"e4J5BzYm1gI","publicUrlTransformed({\"transformation\":{\"w\":\"720\"}})":"https://images.unsplash.com/photo-1565875833293-f192c7914a63?fit=max\u0026fm=jpg\u0026ixid=M3wzNTY3MHwwfDF8YWxsfHx8fHx8fHx8MTczNjA4ODA0MXw\u0026ixlib=rb-4.0.3\u0026q=75\u0026w=720"},"Post:55cdb028-024e-40f4-a0c0-143b569e63d0":{"__typename":"Post","id":"55cdb028-024e-40f4-a0c0-143b569e63d0","author":{"__ref":"User:67c4acf0-f617-4914-be7e-20882c1ff741"},"isExclusive":false,"publishedAt":"2025-01-04T20:35:28.582Z","slug":"introducing-vocal-deep-cuts-the-poetry-collection-di3lm03oy","vocalSite":{"__ref":"Site:b1a75ffa-8be0-4230-b3b1-d936cdff1c87"},"name":"Introducing Vocal Deep Cuts: The Poetry Collection","summary":"For someone who is not a big fan or believer in New Year's Resolutions, I seem to have started 2025 with a handful already. \n\n","badges({\"orderBy\":\"rank\"})":[],"sponsor":null,"mediaType":"unsplash","heroVideo":null,"heroImage":null,"heroUnsplashImage":{"__ref":"UnsplashImage:e4J5BzYm1gI"}},"User:1ebf7c02-629f-4684-99a0-419479589ea5":{"__typename":"User","id":"1ebf7c02-629f-4684-99a0-419479589ea5","slug":"antoni-de-leon","name":"Antoni De'Leon","image":{"__ref":"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1729798467/671aa143438981001d1c3cdc.jpg"}},"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1729798467/671aa143438981001d1c3cdc.jpg":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1729798467/671aa143438981001d1c3cdc.jpg","publicUrlTransformed({\"transformation\":{\"crop\":\"thumb\",\"height\":\"108\",\"page\":\"1\",\"quality\":\"60\",\"width\":\"108\"}})":"https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_108,pg_1,q_60,w_108/671aa143438981001d1c3cdc.jpg","id":"https://res.cloudinary.com/jerrick/image/upload/v1729798467/671aa143438981001d1c3cdc.jpg"},"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1736408697/677f7e7934fa67001dbe82be.jpg":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1736408697/677f7e7934fa67001dbe82be.jpg","publicUrlTransformed({\"transformation\":{\"crop\":\"fill\",\"default_image\":\"642250b563292b35f27461a7.png\",\"fetch_format\":\"jpg\",\"flags\":\"progressive\",\"height\":\"375\",\"quality\":\"auto\",\"width\":\"625\"}})":"https://res.cloudinary.com/jerrick/image/upload/c_fill,d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,h_375,q_auto,w_625/677f7e7934fa67001dbe82be.jpg","id":"https://res.cloudinary.com/jerrick/image/upload/v1736408697/677f7e7934fa67001dbe82be.jpg"},"Post:1f4adcb7-ce7e-41b4-a874-3f762dc7755e":{"__typename":"Post","id":"1f4adcb7-ce7e-41b4-a874-3f762dc7755e","author":{"__ref":"User:1ebf7c02-629f-4684-99a0-419479589ea5"},"isExclusive":false,"publishedAt":"2025-01-09T10:32:31.091Z","slug":"dare-me-to-emerge","vocalSite":{"__ref":"Site:b1a75ffa-8be0-4230-b3b1-d936cdff1c87"},"name":"Dare me. To Emerge!","summary":"How can I improve my interactions to achieve better results and enjoy writing for the sheer joy of it!\n\n Many writers are well known here. I am not one of them, once highlighted as a promising 'Emerging Creator', yet do I await to fully arrive emerged. So, it is with gusto and guts that I insert myself into the forefront of this projected idea of 'becoming' in the new dawn of a year of big, huge and very gargantuan expectations.\n\n","badges({\"orderBy\":\"rank\"})":[],"sponsor":null,"mediaType":"image","heroVideo":null,"heroImage":{"__ref":"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1736408697/677f7e7934fa67001dbe82be.jpg"},"heroUnsplashImage":null},"User:58141a9b-1b5c-4924-825a-71423db6e830":{"__typename":"User","id":"58141a9b-1b5c-4924-825a-71423db6e830","slug":"ian-m-williamson","name":"Ian M. Williamson","image":{"__ref":"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1734267688/675ed32781c921001dfa431d.jpg"}},"Site:9c8db62b-e68a-489b-9065-3b37e30b40af":{"__typename":"Site","id":"9c8db62b-e68a-489b-9065-3b37e30b40af","slug":"poets","name":"Poets"},"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1734267688/675ed32781c921001dfa431d.jpg":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1734267688/675ed32781c921001dfa431d.jpg","publicUrlTransformed({\"transformation\":{\"crop\":\"thumb\",\"height\":\"108\",\"page\":\"1\",\"quality\":\"60\",\"width\":\"108\"}})":"https://res.cloudinary.com/jerrick/image/upload/c_thumb,h_108,pg_1,q_60,w_108/675ed32781c921001dfa431d.jpg","id":"https://res.cloudinary.com/jerrick/image/upload/v1734267688/675ed32781c921001dfa431d.jpg"},"UnsplashImage:ukDEbYnyDsU":{"__typename":"UnsplashImage","id":"ukDEbYnyDsU","publicUrlTransformed({\"transformation\":{\"w\":\"720\"}})":"https://images.unsplash.com/photo-1561570541-aaba21a3ecf0?fit=max\u0026fm=jpg\u0026ixid=M3wzNTY3MHwwfDF8YWxsfHx8fHx8fHx8MTczNjA3NzkxM3w\u0026ixlib=rb-4.0.3\u0026q=75\u0026w=720"},"Post:38491265-0dbd-44f5-865c-80ab3f6194d6":{"__typename":"Post","id":"38491265-0dbd-44f5-865c-80ab3f6194d6","author":{"__ref":"User:58141a9b-1b5c-4924-825a-71423db6e830"},"isExclusive":false,"publishedAt":"2025-01-05T11:57:32.987Z","slug":"a-conversation-h8138k0w6r","vocalSite":{"__ref":"Site:9c8db62b-e68a-489b-9065-3b37e30b40af"},"name":"A Conversation","summary":"Do you still love me?\r\n\nWith all of my heart.\r\n\nHow can that be?\r\n\nWe’re not so far apart.\r\n\nBut you left me alone.\r\n\nYou know that’s not fair.\r\n\n","badges({\"orderBy\":\"rank\"})":[],"sponsor":null,"mediaType":"unsplash","heroVideo":null,"heroImage":null,"heroUnsplashImage":{"__ref":"UnsplashImage:ukDEbYnyDsU"}},"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1631304646/613bbbc5f860b8001d3b25a2.jpg":{"__typename":"CloudinaryImage_File","publicUrl":"https://res.cloudinary.com/jerrick/image/upload/v1631304646/613bbbc5f860b8001d3b25a2.jpg","publicUrlTransformed({\"transformation\":{\"default_image\":\"642250b563292b35f27461a7.png\",\"fetch_format\":\"jpg\",\"flags\":\"progressive\",\"quality\":\"auto\",\"width\":\"1024\"}})":"https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/613bbbc5f860b8001d3b25a2.jpg","publicUrlTransformed({\"transformation\":{\"crop\":\"scale\",\"fetch_format\":\"jpg\",\"quality\":\"auto\"}})":"https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/613bbbc5f860b8001d3b25a2.jpg","id":"https://res.cloudinary.com/jerrick/image/upload/v1631304646/613bbbc5f860b8001d3b25a2.jpg"},"Topic:1598bb71-7edf-4df1-9e0e-39f8bfbedb0e":{"__typename":"Topic","id":"1598bb71-7edf-4df1-9e0e-39f8bfbedb0e","name":"Health + Wellness"},"Post:7e87c40f-da5a-4d8b-8d6f-f7e352e4e499":{"__typename":"Post","id":"7e87c40f-da5a-4d8b-8d6f-f7e352e4e499","author":{"__ref":"User:ad5b7cba-e86c-4be2-8a73-766190760ad3"},"badges({\"orderBy\":\"rank\"})":[],"channel":null,"content":{"__typename":"_ContentType_Post_content","document":"{\"object\":\"document\",\"data\":{},\"nodes\":[{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Let's just start this story, or fantasy world essay, or even perspective type of story, by saying right away, I LOVE FANTASY!\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"And all that relates to fantasy, or our very personal, and yet united, fantasy world's, live's and destinies. Because it from fantasy, that we do actually create and manifest our dreams.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Who doesn't love a good fantasy movie, or book, or story? Where we can all get lost in the beauty and magic of life and wonder, fueling our senses and imaginations beyond anything we've ever known. And then, be found reflecting that magic effortlessly, in our outer worlds, however realistically we can. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Fantasy is never really true in our lives, until we make it real. Even if just in a story. A dream where we allow ourselves some relief from all of the everyday obstacles, stresses and over-stimulating logical, intellectual things. If we should so choose. Where impossible odds are possible, bringing a sense of balance, fun and peace no matter where we find ourselves. Where we can get lost in a world that feels so real, so close to our own courageous and gorgeous humanity inside. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Fantasy does come true sometimes. If only in our Hearts. Where I believe, the true human story, heartbeat and soul live in love always. Light and Shadow. Dark and mysterious. Bright and transparent. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"There seems to be no mystery as to why we love fantasy. And yet, it is so shrouded by mystery. The unknown. Our own human dreams and inspirations, coming to life in some way, that only our Hearts can grasp and understand. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"For fantasy has no true logical reason, other than to keep us dreaming. To allow ourselves an outlet to bring the unseen, the impossible, into our own real life physical reality.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"My son (and daughter's too) allow me to keep fantasizing. For a future where Magic is truly possible, felt, witnessed and experienced. This photo of my son entering into a magical tree, was created by me, as I was fantasizing about new worlds. New environments he would potentially explore, discover and be able to experience. Where anything is possible. Where he could play all day, curious about animals, nature and wonder. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"What do we see through the eyes of our child like self? What do we imagine as we step into the unknown? I cannot remember myself the feelings I had when I was child. Only somewhat. However, my children do inspire me to remember everyday. They remind me to never give up on my own dreams and fantasies. And to continue sharing them with the world. To continue experiencing them. And also, embracing them, the fantasy and the real world, all at the same time. Which supports me immensely in continuing to dream, create and inspire the future. Our future.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"They see the world already as magical. Amazing. And so unknown. They trust us to create a safe and logical world, full of answers, structure and plenty of freedom to play, create, draw, write, make new friends, eat good food, raise them up to be anything they truly want to be. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"And yet, in that structure, we can tend to get more lost, than in an actually fantasy. We love, absolutely LOVE Harry Potter in my house. As well as every other fantasy, magical adventure there is out there. We enjoy being together as a family, imagining all of the wonderful adventures, and how we ourselves might respond in those circumstances, relationships, or even special, super-human powers. It is an interesting concept to consider how fantasy, does actually create our own, very logical, intellectual world. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Our world views, are all truly rooted in our own human collective fantasy. A fantasy, that if only we could make real, would somehow improve our lives. Our hopes for play and adventure. And our real life human relationships, by bonding us somehow, through our imaginations. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"It is so fun to fantasize. To dream up new worlds. To get to know the parts of ourselves, that we may keep hidden from the actual public view. Magic is nothing new in my own family. And I do like to share and discover the magical wonders of nature with all those that I know, meet and love. Everyday if possible. Which is why I love writing! Writing fantasy stories for myself and others to dream of the impossible. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"To feel a bit of magic in our everyday logical worlds. And however logical it is to write it all out, sometimes, it does feel hopeless. Because we never truly know if we share our fantasy with others, until we do. Writing can be scary for example. Or it can be amazing! Full of colour, texture, depth and new perspectives, that actually stimulate our logical brains into action. It can also provide a deeper insight in our own darkness. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Our minds, as a collective humanity, are so filled with every imaginable thing, idea and perspective, honing in on the fantasy we truly would love to experience is easy! When we have the right, true inspiration of those who have gone before us.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"My fantasies have also changed over the years. From being solely based on my own personal aspirations, to one providing the opportunity for my own three children to experience theirs. As parents, I feel it is only natural to do this. Our children remind us of what is truly important. And as much as they love learning about our logical world, where we all be without a good fantasy story? Or sci-fi adventure? Where would we be if we never dreamt of landing on the moon? Or diving deep into a sea of creatures we never knew existed? \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"First we dream and fantasize. And then, life magically changes for us in some way. Even if we never experience that fantasy actually playing out in our real everyday lives, we get to experience it inside. Inside our own glorious minds, if even for just a moment. And does this help or hinder our own dreams, reasoning or common sense? Or does it actually improve our own everyday lives in ways we could have never imagined? \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Truly, all I can say, is that without fantasy in our lives, we may as well just be all boring, no good people, with nothing better to do, than work for someone who does. Because a really great visionary once told me nothing. She showed me. She showed me through her own active, hands on imagination, how to bring a real life dream or fantasy to life. And how to continue fueling, feeding that vision, through hard work, dedication and commitment to her dream. Her vision. And a whole lot of people benefited. All from her internal vision, dreams and hopes. Brought out for all to witness, observe, feel, become a part of and enjoy. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"My ultimate favorite fantasy, is witnessing my children being able to explore the mysterious worlds of magic and creativity, that truly make life worth living for. Even Walt Disney said the key to dreams coming true, exists within our own imaginations. And what a wonderful, and yet so simple truth. Our fantasies are our imaginations in action. In real, life living action. For all to experience, witness and observe on or in some level of our own awareness. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"I could never compare the best fantasy stories to one another, because each one to me, is priceless. Valuable beyond measure and totally and completely uncompetitive. No reason, no rhyme they say. Well let me tell you, the rhyme is the reason. The nursery rhymes, the music lyrics, the stories that captivate the heart, soul and imagination, all come from within us. From within our own collective humanitarian dream. A dream which we all truly wish to experience in our own personal way.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"I am beyond grateful for those who share our fantasy world with the world! For their ability to be able to express and demonstrate on some level, how we all feel on the inside. How we are all hero's in our own soul journey. How we can overcome any obstacle or challenge in our own lives. Simply by being reminded our own true powers. That being courage, bravery, wisdom. A mindset and attitude of anything and everything is possible.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"A courageous appetite for adventure, truth and honesty. Within ourself and those we share the journey of life with. I feel each and every fantasy story we feel drawn towards, empowers us in some way to keep going. To keep dreaming. To keep surviving until we make it. Until we make our own dreams come true.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"If it were not for other fantasy dreamers, writers and just plain good people using their own imaginations, none of us would feel the amazing inspiration of the great human spirit within. Making it all possible out in the real world. Because fantasy comes true everyday for us. In whatever way we prefer to dream, write, create, share, empower. It all comes from within.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Thank you to you, and all of the amazing, great writers, dreamers and speakers of true fantasy and real life dreams coming true. For inspiring us all to write, dream and co-create a beautiful future for our own children. For those who will come after us. For what we leave this world with, is all our children have to continue onward. And if a fantasy can support ones imagination, we can truly do anything. \",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Inspiration is key. My son entering into an unknown world or land, knowing he has all the tools of wisdom, love and creativity within him, (my daughters too) reassures me. Knowing we have a world full of amazing, wonderful, heart based people out there, doing what they love, dreaming up amazing, wonderful dreams to explore and discover, eases my mind, body, heart and soul.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"We are all in this together. Multiple fantasies within one big fantasy we each live outside together, everyday. Making a real life dream come true only requires one thing from what I have learned or have been told... Dream. Dream loud and proud, each and every day. For one thing always leads to another thing. And if one thing catches your heart on fire, that is probably a very big indicator to your own heart's passions, desires and dreams. Real life dreams, coming true.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Fantasies are real. Only until we dream them true, can we know how they will stir up our emotions, feelings and desires. And only then, can we continue to keep on watching more fantasies come true, through the actual dream of life playing out right before us.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"Enter the tree of the unknown my son. You never know what lies beyond the portal of infinite dreams and possibilities, until you do. And if you should ever need me, I am always here. Like a little fox by your side. Keeping you clever, and never the wiser. Because cleverness is just for the fox. Wisdom is yours to seek out and discover for yourself. Life is the dream we are meant to discover. May we all have a little fox friend and a portal of dreams around every corner. Just waiting to be discovered, experienced and brought to life in the most magical of ways.\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"\",\"marks\":[]}]},{\"object\":\"block\",\"type\":\"paragraph\",\"data\":{},\"nodes\":[{\"object\":\"text\",\"text\":\"\",\"marks\":[]}]}]}","cloudinaryImages({\"where\":{\"align\":\"center\"}})":[],"cloudinaryImages({\"where\":{\"align_not\":\"center\"}})":[],"oEmbeds":[],"unsplashImages":[]},"contentUpdatedAt":"2021-09-10T20:16:10.073Z","editorPickAt":null,"hasContentWarning":false,"heroImage":{"__ref":"CloudinaryImage_File:https://res.cloudinary.com/jerrick/image/upload/v1631304646/613bbbc5f860b8001d3b25a2.jpg"},"heroImageAltText":null,"heroImageCaption":"Photo created by me Crystal Lynn. My son entering into a magical unknown world.","heroUnsplashImage":null,"heroVideo":null,"isAiGenerated":false,"isCommentingEnabled":true,"isEditorPick":false,"isExclusive":false,"mediaLayout":"outsetCenter","mediaType":"image","name":"Best Fantasy World","ogDescription":null,"ogTitle":null,"ogType":"article","publishedAt":"2021-09-11T20:25:47.317Z","seoDescription":null,"seoKeywords":null,"seoTitle":null,"slug":"best-fantasy-world","sponsor":null,"subtitle":"Out There","summary":"Let's just start this story, or fantasy world essay, or even perspective type of story, by saying right away, I LOVE FANTASY!\n\n","tags":[{"__typename":"Tag","name":"happiness","slug":"happiness"}],"vocalSite":{"__ref":"Site:b1a75ffa-8be0-4230-b3b1-d936cdff1c87"},"wordCount":1875,"vibe":null},"Challenge:9bd2af58-a102-448c-995a-32f1e24994cd":{"__typename":"Challenge","id":"9bd2af58-a102-448c-995a-32f1e24994cd","status":"showWinners","submissionDeadline":"2021-09-15T03:59:00.000Z"},"ChallengeSubmission:01eaface-b7db-4831-9ca5-e7d778e6e789":{"__typename":"ChallengeSubmission","id":"01eaface-b7db-4831-9ca5-e7d778e6e789","post":{"__ref":"Post:7e87c40f-da5a-4d8b-8d6f-f7e352e4e499"},"challenge":{"__ref":"Challenge:9bd2af58-a102-448c-995a-32f1e24994cd"}}},"apolloClient":null},"page":"/[siteSlug]/[postSlug]","query":{"siteSlug":"motivation","postSlug":"best-fantasy-world"},"buildId":"_tmv6nJluZtTDMstBp4nu","runtimeConfig":{"FAKE_SENTRY":false,"COOKIES_MAXAGE":2592000,"SENTRY_DSN":"https://94b88bee75db454493553498f3c5a71d@sentry.io/1543718","GTM_ID":"GTM-PXN7CM3","PLATFORM_URL":"https://vocal.media","VOCAL_URL":"https://vocal.media","HELP_URL":"https://help.vocal.media","INFO_EMAIL":"info@vocal.media","STRIPE_API_PUBLIC_KEY":"pk_live_ApXWETshEFgx3BbckbIuuY1r","GRAPHQL_URL":"/admin/api","FACEBOOK_SIGN_IN_URL":"/auth/facebook","TWITTER_SIGN_IN_URL":"/auth/twitter","GOOGLE_SIGN_IN_URL":"/auth/google","APPLE_SIGN_IN_URL":"/auth/apple","IFRAMELY_PUBLIC_API_KEY":"57d2ec5998440ab74c7cf485bffd908c","HEAP_ENV_ID":"2787354530","STREAM_APP_ID":"1186130","STREAM_API_KEY":"ds9vjg2rw6kj","STREAM_LOCATION":"us-east"},"isFallback":false,"customServer":true,"gip":true,"appGip":true}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

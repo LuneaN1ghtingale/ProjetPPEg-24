@@ -1,0 +1,1655 @@
+img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+The Fantastic Imagination: An Essay on Fantasy Theory by George MacDonald - A Pilgrim in Narnia
+
+
+
+
+img#wpstats{display:none}
+
+A Pilgrim in Narnia
+a journey through the imaginative worlds of C.S. Lewis, J.R.R. Tolkien, and the Inklings
+
+
+Skip to content
+
+
+
+Home
+
+
+
+About
+
+
+C.S. Lewis and the Love of Words
+
+
+
+
+
+
+
+&larr;
+ The Problem of Good: Thinking about God and Evil with &#8220;The Giver&#8221;
+
+
+Bluebeard the Hipster Serial Groove Killer: A Revolting Rhyme 
+&rarr;
+
+
+
+
+The Fantastic Imagination: An Essay on Fantasy Theory by George MacDonald
+
+Posted on
+ 
+
+August 30, 2017
+
+ 
+by
+ 
+
+Brenton Dickieson
+
+
+
+
+
+
+This essay is a great find, originally an introduction to the collection of 
+The Light Princess and Other Fairy Tales
+. With George MacDonald&#8217;s characteristic wit, it forms a nice partnership with C.S. Lewis&#8217; &#8220;
+On Stories
+&#8221; and J.R.R. Tolkien&#8217;s &#8220;
+On Fairy-stories
+&#8220;&#8211;and indeed may have influenced them. MacDonald considers the way meaning works in fairy tales and fantasy stories, summarizing it with the iconic saying, 
+
+
+
+&#8220;the business of the painter is not to teach zoology.&#8221; 
+
+
+
+And certainly Lewis must have known this quotation when he wrote his &#8220;
+On 3 Ways of Writing for Children
+&#8220;: 
+
+
+
+I do not write for children, but for the childlike, whether of five, or fifty, or seventy-five.
+
+
+
+
+
+
+MacDonald thinks about fantasy-writing theory. Echoing John Donne, he writes, &#8220;and man may, if he pleases, invent a little world of his own, with its own laws.&#8221; Those laws must be consistent or the story falls: 
+
+
+
+Law is the soil in which alone beauty will grow; beauty is the only stuff in which Truth can be clothed; and you may, if you will, call Imagination the tailor that cuts her garments to fit her, and Fancy his journeyman that puts the pieces of them together, or perhaps at most embroiders their button-holes. Obeying law, the maker works like his creator; not obeying law, he is such a fool as heaps a pile of stones and calls it a church.
+
+
+
+I hope you enjoy this great piece that sets the stage for a 20th c. conversation about fantasy literature, even peeks forward to reader response theories or the last generation.
+
+
+
+
+That we have in English no word corresponding to the German 
+Märchen
+, drives us to use the word Fairytale, regardless of the fact that the tale may have nothing to do with any sort of fairy. The old use of the word Fairy, by Spenser at least, might, however, well be adduced, were justification or excuse necessary where need must.
+
+Were I asked, what is a fairytale?
+
+I should reply, Read Undine: that is a fairytale; then read this and that as well, and you will see what is a fairytale. Were I further begged to describe the fairytale, or define what it is, I would make answer, that I should as soon think of describing the abstract human face, or stating what must go to constitute a human being. A fairytale is just a fairytale, as a face is just a face; and of all fairytales I know, I think Undine the most beautiful.
+Many a man, however, who would not attempt to define a man, might venture to say something as to what a man ought to be: even so much I will not in this place venture with regard to the fairytale, for my long past work in that kind might but poorly instance or illustrate my now more matured judgment. I will but say some things helpful to the reading, in right-minded fashion, of such fairytales as I would wish to write, or care to read.
+Some thinkers would feel sorely hampered if at liberty to use no forms but such as existed in nature, or to invent nothing save in accordance with the laws of the world of the senses; but it must not therefore be imagined that they desire escape from the region of law. Nothing lawless can show the least reason why it should exist, or could at best have more than an appearance of life.
+
+The natural world has its laws, and no man must interfere with them in the way of presentment any more than in the way of use; but they themselves may suggest laws of other kinds, and man may, if he pleases, invent a little world of his own, with its own laws; for there is that in him which delights in calling up new forms&#8211;which is the nearest, perhaps, he can come to creation. When such forms are new embodiments of old truths, we call them products of the Imagination; when they are mere inventions, however lovely, I should call them the work of the Fancy: in either case, Law has been diligently at work.
+
+
+
+
+His world once invented, the highest law that comes next into play is, that there shall be harmony between the laws by which the new world has begun to exist; and in the process of his creation, the inventor must hold by those laws. The moment he forgets one of them, he makes the story, by its own postulates, incredible. To be able to live a moment in an imagined world, we must see the laws of its existence obeyed. Those broken, we fall out of it. The imagination in us, whose exercise is essential to the most temporary submission to the imagination of another, immediately, with the disappearance of Law, ceases to act.
+Suppose the gracious creatures of some childlike region of Fairyland talking either cockney or Gascon! Would not the tale, however lovelily begun, sink once to the level of the Burlesque&#8211;of all forms of literature the least worthy? A man&#8217;s inventions may be stupid or clever, but if he does not hold by the laws of them, or if he makes one law jar with another, he contradicts himself as an inventor, he is no artist. He does not rightly consort his instruments, or he tunes them in different keys. The mind of man is the product of live Law; it thinks by law, it dwells in the midst of law, it gathers from law its growth; with law, therefore, can it alone work to any result. Inharmonious, unconsorting ideas will come to a man, but if he try to use one of such, his work will grow dull, and he will drop it from mere lack of interest. Law is the soil in which alone beauty will grow; beauty is the only stuff in which Truth can be clothed; and you may, if you will, call Imagination the tailor that cuts her garments to fit her, and Fancy his journeyman that puts the pieces of them together, or perhaps at most embroiders their button-holes. Obeying law, the maker works like his creator; not obeying law, he is such a fool as heaps a pile of stones and calls it a church.
+
+
+
+In the moral world it is different: there a man may clothe in new forms, and for this employ his imagination freely, but he must invent nothing. He may not, for any purpose, turn its laws upside down. He must not meddle with the relations of live souls. The laws of the spirit of man must hold, alike in this world and in any world he may invent. It were no offence to suppose a world in which everything repelled instead of attracted the things around it; it would be wicked to write a tale representing a man it called good as always doing bad things, or a man it called bad as always doing good things: the notion itself is absolutely lawless. In physical things a man may invent; in moral things he must obey&#8211;and take their laws with him into his invented world as well.
+
+&#8220;You write as if a fairytale were a thing of importance: must it have meaning?&#8221;
+
+It cannot help having some meaning; if it have proportion and harmony it has vitality, and vitality is truth. The beauty may be plainer in it than the truth, but without the truth the beauty could not be, and the fairytale would give no delight. Everyone, however, who feels the story, will read its meaning after his own nature and development: one man will read one meaning in it, another will read another.
+
+&#8220;If so, how am I to assure myself that I am not reading my own meaning into it, but yours out of it?&#8221;
+
+Why should you be so assured? It may be better that you should read your meaning into it. That may be a higher operation of your intellect than the mere reading of mine out of it: your meaning may be superior to mine.
+
+&#8220;Suppose my child ask me what the fairytale means, what am I to say?&#8221;
+
+
+
+
+If you do not know what it means, what is easier than to say so? If you do see a meaning in it, there it is for you to give him. A genuine work of art must mean many things; the truer its art, the more things it will mean. If my drawing, on the other hand, is so far from being a work of art that it needs THIS IS A HORSE written under it, what can it matter that neither you nor your child should know what it means? It is there not so much to convey a meaning as to wake a meaning. If it do not even wake an interest, throw it aside. A meaning may be there, but it is not for you. If, again, you do not know a horse when you see it, the name written under it will not serve you much.
+
+At all events, the business of the painter is not to teach zoology.
+
+But indeed your children are not likely to trouble you about the meaning. They find what they are capable of finding, and more would be too much.
+
+For my part, I do not write for children, but for the childlike, whether of five, or fifty, or seventy-five.
+
+A fairytale is not an 
+allegory
+. There may be allegory in it, but it not an allegory. He must be an artist indeed who can, in any mode, produce a strict allegory that is not a weariness to the spirit. An allegory must be Mastery or Moorditch.
+A fairytale, like a butterfly or a bee, helps itself on all sides, sips every wholesome flower, and spoils not one. The true fairytale is, to my mind, very like the sonata. We all know that a sonata means something; and where there is the faculty of talking with suitable vagueness, and choosing metaphor sufficiently loose, mind may approach mind, in the interpretation of a sonata, with the result of a more or less contenting consciousness of sympathy. But if two or three men sat down to write each what the sonata meant to him, what approximation to definite idea would be the result? Little enough&#8211;and that little more than needful. We should find it had roused related, if not identical, feelings, but probably not one common thought. Has the sonata therefore failed? Had it undertaken to convey, or ought it to be expected to impart anything defined, anything notionally recognisable?
+
+&#8220;But words are not music; words at least are meant and fitted to carry a precise meaning!&#8221;
+
+
+
+
+It is very seldom indeed that they carry the exact meaning of any user of them! And if they can be so used as to convey definite meaning, it does not follow that they ought never to carry anything else. Words are live things that may be variously employed to various ends. They can convey a scientific fact, or throw a shadow of her child&#8217;s dream on the heart of a mother. They are things to put together like the pieces of dissected map, or to arrange like the notes on a stave. Is the music in them to go for nothing? It can hardly help the definiteness of a meaning: is it therefore to be disregarded? They have length, and breadth, and outline: have they nothing to do with depth? Have they only to describe, never to impress? Has nothing any claim to their use but definite? The cause of a child&#8217;s tears may be altogether undefinable: has the mother therefore no antidote for his vague misery? That may be strong in colour which has no evident outline. A fairtytale, a sonata, a gathering storm, a limitless night, seizes you and sweeps you away: do you begin at once to wrestle with it and ask whence its power over you, whither it is carrying you? The law of each is in the mind of its composer; that law makes one man feel this way, another man feel that way. To one the sonata is a world of odour and beauty, to another of soothing only and sweetness. To one, the cloudy rendezvous is a wild dance, with a terror at its heart; to another, a majestic march of heavenly hosts, with Truth in their centre pointing their course, but as yet restraining her voice. The greatest forces lie in the region of the uncomprehended.
+
+I will go farther.&#8211;The best thing you can do for your fellow, next to rousing his conscience, is&#8211;not to give him things to think about, but to wake things up that are in him; or say, to make him think things for himself.
+
+The best Nature does for us is to work in us such moods in which thoughts of high import arise. Does any aspect of Nature wake but one thought? Does she ever suggest only one definite thing? Does she make any two men in the same place at the same moment think the same thing? Is she therefore a failure, because she is not definite? Is it nothing that she rouses the something deeper than the understanding&#8211;the power that underlies thoughts? Does she not set feeling, and so thinking at work? Would it be better that she did this after one fashion and not after many fashions? Nature is mood-engendering, thought-provoking: such ought the sonata, such ought the fairytale to be.
+
+&#8220;But a man may then imagine in your work what he pleases, what you never meant!&#8221;
+
+
+
+
+Not what he pleases, but what he can. If he be not a true man, he will draw evil out of the best; we need not mind how he treats any work of art! If he be a true man, he will imagine true things; what matter whether I meant them or not? They are there none the less that I cannot claim putting them there!
+One difference between God&#8217;s work and man&#8217;s is, that, while God&#8217;s work cannot mean more than he meant, man&#8217;s must mean more than he meant. For in everything that God has made, there is a layer upon layer of ascending significance; also he expresses the same thought in higher and higher kinds of that thought: it is God&#8217;s things, his embodied thoughts, which alone a man has to use, modified and adapted to his own purposes, for the expression of his thoughts; therefore he cannot help his words and figures falling into such combinations in the mind of another as he had himself not foreseen, so many are the thoughts allied to every other thought, so many are the relations involved in every figure, so many the facts hinted in every symbol. A man may well himself discover truth in what he wrote; for he was dealing all the time things that came from thoughts beyond his own.
+
+&#8220;But surely you would explain your idea to one who asked you?&#8221;
+
+I say again, if I cannot draw a horse, I will not write THIS IS A HORSE under what I foolishly meant for one. Any key to a work of imagination would be nearly, if not quite, as absurd. The tale is there not to hide, but to show: if it show nothing at your window, do not open your door to it; leave it out in the cold. To ask me to explain, is to say, &#8220;Roses! Boil them, or we won&#8217;t have them!&#8221; My tales may not be roses but I will not boil them.
+
+So long as I think my dog can bark, I will not sit up to bark for him.
+
+
+
+
+If a writer&#8217;s aim be logical conviction, he must spare no logical pains, not merely to be understood, but to escape being misunderstood; where his object is to move by suggestion, to cause to imagine, then let him assail the soul of his reader as the wind assails an aeolian harp. If there be music in my reader, I would gladly wake it. Let fairytale of mine go for a firefly that now flashes, now is dark, but may flash again. Caught in a hand which does not love its kind, it will turn to an insignificant ugly thing, that can neither flash nor fly.
+The best way with music, I imagine, is not to bring the forces of our intellect to bear upon it, but to be still and let it work on that part of us for whose sake it exists. We spoil countless precious things by intellectual greed. He who will be a man, and will not be a child, must&#8211;he cannot help himself&#8211;become a little man, that is, a dwarf. He will, however need no consolation, for he is sure to think himself a very large creature indeed.
+If any strain of my &#8220;broken music&#8221; make a child&#8217;s eyes flash, or his mother&#8217;s grow for a moment dim, my labour will not have been in vain.
+THE END
+
+
+I believe in open access scholarship. Because of this, since 2011 I have made A Pilgrim in Narnia free with nearly 1,000 posts on faith, fiction, and fantasy. Please consider sharing my work so others can enjoy it.
+
+
+
+
+
+
+
+Click to share on Twitter (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Bluesky (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Facebook (Opens in new window)
+
+
+
+
+
+
+
+Click to share on WhatsApp (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Pinterest (Opens in new window)
+
+
+
+
+
+
+
+Click to share on LinkedIn (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Tumblr (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Reddit (Opens in new window)
+
+
+
+
+
+
+
+Click to print (Opens in new window)
+
+
+
+
+
+
+
+Click to email a link to a friend (Opens in new window)
+
+
+
+
+
+
+
+
+
+
+Like this:
+
+
+
+Like
+
+ 
+Loading...
+
+
+
+
+
+
+
+Related
+
+
+
+&rarr;
+
+
+
+Creative Writing
+, 
+Fictional Worlds
+, 
+On Writing
+, 
+Original Research
+ and tagged 
+allegory
+, 
+books
+, 
+C.S. Lewis
+, 
+faerie
+, 
+fantasy
+, 
+Fictional Universes
+, 
+George MacDonald
+, 
+J.R.R. Tolkien
+, 
+John Donne
+, 
+literature
+, 
+On Fairy-Stories
+, 
+On Stories
+, 
+Reader Response Theory
+, 
+The Light Princess
+. Bookmark the 
+permalink
+
+
+
+
+&larr;
+ The Problem of Good: Thinking about God and Evil with &#8220;The Giver&#8221;
+
+
+Bluebeard the Hipster Serial Groove Killer: A Revolting Rhyme 
+&rarr;
+
+
+
+The Fantastic Imagination: An Essay on Fantasy Theory by George MacDonald
+
+Robert Lambert Jones III
+
+ 
+says:
+
+
+
+
+Nice post. I am currently working my way through Lilith.
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+
+Brenton Dickieson
+
+ 
+says:
+
+
+
+
+Weird book, isn&#8217;t it? I&#8217;ll have to reread it. I still have struggles with how the characters are related to one another.
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+
+Robert Lambert Jones III
+
+ 
+says:
+
+
+
+
+Weird and ahead of its time. I haven;t run across anything horribly confusing, but I might not be far enough in.
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+wanderwolf
+
+ 
+says:
+
+
+
+
+Everyone, however, who feels the story, will read its meaning after his own nature and development: one man will read one meaning in it, another will read another.
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+
+Brenton Dickieson
+
+ 
+says:
+
+
+
+
+Yeah, I thought so too. MacDonald seems to hold here meaning within the text and within the reader&#8211;with no anxiety.
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+Pingback: 
+George MacDonald Quotes on World-Building &#8211; Andrea Lundgren
+
+
+
+joviator
+
+ 
+says:
+
+
+
+
+The part about the roses has me stumped. What is he talking about?
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+
+Brenton Dickieson
+
+ 
+says:
+
+
+
+
+An epidemic of rose boiling in the period? Perhaps simply that boiling roses is about the least sensible thing to do with roses (which are, of course, nonsensical anyway).
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+Aonghus Fallon
+ 
+says:
+
+
+
+
+Re the roses. I&#8217;m guessing it&#8217;s a reference to attar of roses (ie, rose oil)? The roses are basically boiled as part of the distillation process. By extension, it&#8217;s a sort of play on words: distillation and clarification, both being processes by which a fluid is rendered purer. 
+In which case, McDonald&#8217;s argument seems to be that although the end result supposedly captures the thing&#8217;s essence, something gets lost in the mix.
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+
+Brenton Dickieson
+
+ 
+says:
+
+
+
+
+Well, that makes some sense and way outside my expertise. Well done. 
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+Aonghus Fallon
+ 
+says:
+
+
+
+
+Only occurred to me after posting that Attar of Roses is also called &#8216;Rose Essence&#8217; or &#8216;Essence of Roses&#8217;! 
+So I guess McDonald really is making a distinction between the supposed essence of something and the actual thing itself.
+
+Loading...
+
+
+
+
+
+
+
+
+Reply
+
+
+
+Pingback: 
+The Words C.S. Lewis Made Up: Grailologist | A Pilgrim in Narnia
+
+
+Pingback: 
+2017: A Year of Reading | A Pilgrim in Narnia
+
+
+Pingback: 
+A Weekend of Reading to Change Your Literary Life | A Pilgrim in Narnia
+
+
+Pingback: 
+Panel on C.S. Lewis&#8217; &#8220;The Quest of Bleheris&#8221; at the C.S. Lewis and Friends Colloquium | A Pilgrim in Narnia
+
+
+Pingback: 
+The Wade Center Welcomes New Co-Directors Crystal and David Downing (Feature Friday) | A Pilgrim in Narnia
+
+
+Pingback: 
+2018: A Year of Reading: The Nerd Bit | A Pilgrim in Narnia
+
+
+Pingback: 
+Help Me Find the Accusation of Misogyny in Don v. Devil | A Pilgrim in Narnia
+
+
+Pingback: 
+1947 TIME Review of C.S. Lewis&#8217; George MacDonald Anthology | A Pilgrim in Narnia
+
+
+Pingback: 
+Terry Lindvall&#8217;s Heavy Treatment of a Light Topic: A Review of Surprised by Laughter | A Pilgrim in Narnia
+
+
+Pingback: 
+A University of Prince Edward Island-L.M. Montgomery Institute Timeline (Feature Friday) #LMMI @UPEI @LMMI_PEI | A Pilgrim in Narnia
+
+
+Pingback: 
+Call For Papers: C. S. Lewis and Friends Colloquium, Taylor University, June 4-7, 2020 | A Pilgrim in Narnia
+
+
+Pingback: 
+The Grand Miracle: Daily Reflections for the Season of Advent (Friday Feature) | A Pilgrim in Narnia
+
+
+Pingback: 
+More Relevant Than Ever: Why the Wade Center Authors Like Lewis and Tolkien Still Matter (Friday Feature) | A Pilgrim in Narnia
+
+
+Pingback: 
+The C.S. Lewis &amp; Friends Conference: A Final Call and My Paper Proposal | A Pilgrim in Narnia
+
+
+Pingback: 
+C. S. Lewis and Friends Colloquium Postponed, but Student Paper Contest Continues | A Pilgrim in Narnia
+
+
+Pingback: 
+George Macdonald&#8217;s &#8220;The Princess and the Goblin&#8221;: The Animated Movie with a Note by ChrisC | A Pilgrim in Narnia
+
+
+Pingback: 
+The Faithful Imagination, a Review by Allison McBain Hudson | A Pilgrim in Narnia
+
+
+Pingback: 
+&#8220;I Would Rather Die for Evermore Believing,&#8221; with George MacDonald and Frederick Buechner | A Pilgrim in Narnia
+
+
+Pingback: 
+What if you were held accountable for every word you ever said?&#8221; Malcolm Guite on CBC&#8217;s Tapestry with Mary Hynes (Feature Friday) | A Pilgrim in Narnia
+
+
+Pingback: 
+&#8220;Imaginative Hospitality&#8221; A C.S. Lewis &amp; Kindred Spirits Society &#8220;Connected&#8221; Event Hosted by Kirstin Jeffrey Johnson with Diana Glyer, Michael Ward, and Fr. Andrew Cuneo (Mon, Nov 1st, 12noon EST on Zoom) | A Pilgrim in Narnia
+
+
+Pingback: 
+&#8220;Imaginative Hospitality&#8221; A C.S. Lewis &amp; Kindred Spirits Society &#8220;Connected&#8221; Event Hosted by Kirstin Jeffrey Johnson with Diana Glyer, Michael Ward, and Fr. Andrew Cuneo (Full Video) | A Pilgrim in Narnia
+
+
+Pingback: 
+Bunyan and Others and Me: Vicarious Bookshelf Friendship and a Jazz Hands Theory of Reading | A Pilgrim in Narnia
+
+
+Pingback: 
+A Note on C.S. Lewis and the &#8220;Tragic Splendour&#8221; of British Monarchy on Queen Elizabeth&#8217;s Diamond Jubilee | A Pilgrim in Narnia
+
+
+Pingback: 
+A Note on the &#8220;Tragic Splendour&#8221; of British Monarchy at the Passing of Queen Elizabeth II | A Pilgrim in Narnia
+
+
+Pingback: 
+Sharp Novel Minds and Pithy First Lines, with Jane Austen, C.S. Lewis, J.R.R. Tolkien, Dorothy Sayers, Geo. MacDonald, G.K. Chesterton, Ray Bradbury, N.K. Jemisin, Nalo Hopkinson, Margaret Atwood and more! | A Pilgrim in Narnia
+
+
+Pingback: 
+Living in a World with Octobers: An Anne of Green Gables Greeting from Prince Edward Island | A Pilgrim in Narnia
+
+
+Leave a Reply
+
+Cancel reply
+
+
+
+
+
+
+
+Get Pilgrim Posts in Your Inbox
+
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+
+
+
+.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+Connect &#038; Follow!
+
+
+
+
+View Brenton Dickieson&#8217;s profile on Facebook
+
+
+
+
+
+View @BrentonDana&#8217;s profile on Twitter
+
+
+
+
+
+View bdickieson&#8217;s profile on Instagram
+
+
+
+
+
+View brentondickieson&#8217;s profile on LinkedIn
+
+
+
+
+
+
+
+Like us on Facebook
+
+
+
+
+Like us on Facebook
+
+
+Recent Posts
+2024: My Year in Books: The Infographic
+&#8220;The Genius of George MacDonald&#8221; at Yale: I&#8217;m Here! and How You Can Join Now Online
+11/22/63: The Day that C.S. Lewis Died
+C.S. Lewis in Addison&#8217;s Walk and other Literary Pilgrimages with Gabriel Schenk
+Join us for &#8220;Reading Anne of Green Gables as Fantasy&#8221;: November SPACE Short Course
+My Unblurbed Blurb of Charlie Starr&#8217;s The Lion Country
+The Other Side of Screwtape: C.S. Lewis&#8217;s &#8220;Archangel Fragment&#8221;
+Where Do We Find Meaning When We Read? A Spectrum of Discovery in Storytelling
+
+
+Most Popular Posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Archives
+
+January 2025
+
+
+December 2024
+
+
+November 2024
+
+
+October 2024
+
+
+September 2024
+
+
+July 2024
+
+
+June 2024
+
+
+April 2024
+
+
+February 2024
+
+
+January 2024
+
+
+December 2023
+
+
+November 2023
+
+
+October 2023
+
+
+September 2023
+
+
+August 2023
+
+
+July 2023
+
+
+June 2023
+
+
+May 2023
+
+
+March 2023
+
+
+January 2023
+
+
+December 2022
+
+
+November 2022
+
+
+October 2022
+
+
+September 2022
+
+
+August 2022
+
+
+July 2022
+
+
+June 2022
+
+
+May 2022
+
+
+April 2022
+
+
+March 2022
+
+
+February 2022
+
+
+January 2022
+
+
+December 2021
+
+
+November 2021
+
+
+October 2021
+
+
+September 2021
+
+
+August 2021
+
+
+July 2021
+
+
+June 2021
+
+
+May 2021
+
+
+April 2021
+
+
+March 2021
+
+
+February 2021
+
+
+January 2021
+
+
+December 2020
+
+
+November 2020
+
+
+October 2020
+
+
+September 2020
+
+
+August 2020
+
+
+July 2020
+
+
+June 2020
+
+
+May 2020
+
+
+April 2020
+
+
+March 2020
+
+
+February 2020
+
+
+January 2020
+
+
+December 2019
+
+
+November 2019
+
+
+October 2019
+
+
+September 2019
+
+
+August 2019
+
+
+July 2019
+
+
+June 2019
+
+
+May 2019
+
+
+April 2019
+
+
+March 2019
+
+
+February 2019
+
+
+January 2019
+
+
+December 2018
+
+
+November 2018
+
+
+October 2018
+
+
+September 2018
+
+
+August 2018
+
+
+July 2018
+
+
+June 2018
+
+
+May 2018
+
+
+April 2018
+
+
+March 2018
+
+
+February 2018
+
+
+January 2018
+
+
+December 2017
+
+
+November 2017
+
+
+October 2017
+
+
+September 2017
+
+
+August 2017
+
+
+July 2017
+
+
+June 2017
+
+
+May 2017
+
+
+April 2017
+
+
+March 2017
+
+
+February 2017
+
+
+January 2017
+
+
+December 2016
+
+
+November 2016
+
+
+October 2016
+
+
+September 2016
+
+
+August 2016
+
+
+July 2016
+
+
+June 2016
+
+
+May 2016
+
+
+April 2016
+
+
+March 2016
+
+
+February 2016
+
+
+January 2016
+
+
+December 2015
+
+
+November 2015
+
+
+October 2015
+
+
+September 2015
+
+
+August 2015
+
+
+July 2015
+
+
+June 2015
+
+
+May 2015
+
+
+April 2015
+
+
+March 2015
+
+
+February 2015
+
+
+January 2015
+
+
+December 2014
+
+
+November 2014
+
+
+October 2014
+
+
+September 2014
+
+
+August 2014
+
+
+July 2014
+
+
+June 2014
+
+
+May 2014
+
+
+April 2014
+
+
+March 2014
+
+
+February 2014
+
+
+January 2014
+
+
+December 2013
+
+
+November 2013
+
+
+October 2013
+
+
+September 2013
+
+
+August 2013
+
+
+July 2013
+
+
+June 2013
+
+
+May 2013
+
+
+April 2013
+
+
+March 2013
+
+
+February 2013
+
+
+January 2013
+
+
+December 2012
+
+
+November 2012
+
+
+October 2012
+
+
+September 2012
+
+
+August 2012
+
+
+July 2012
+
+
+June 2012
+
+
+May 2012
+
+
+April 2012
+
+
+March 2012
+
+
+February 2012
+
+
+January 2012
+
+
+December 2011
+
+
+November 2011
+
+
+October 2011
+
+
+September 2011
+
+
+August 2011
+
+
+
+Tags
+
+
+
+Anne of Green Gables
+
+
+art
+
+
+books
+
+
+C.S. Lewis
+
+
+Charles Williams
+
+
+children&#039;s literature
+
+
+Collected Letters of C.S. Lewis
+
+
+Death
+
+
+Dorothy L. Sayers
+
+
+fantasy
+
+
+film adaptation
+
+
+George MacDonald
+
+
+Harry Potter
+
+
+Inklings
+
+
+J.K. Rowling
+
+
+J.R.R. Tolkien
+
+
+Joy Davidman
+
+
+L.M. Montgomery
+
+
+letters
+
+
+lion the witch and the wardrobe
+
+
+literature
+
+
+Lord of the Rings
+
+
+Lucy Maud Montgomery
+
+
+Madeleine L&#039;Engle
+
+
+myth
+
+
+Narnia
+
+
+On Writing
+
+
+owen barfield
+
+
+Oxford
+
+
+Peter Jackson
+
+
+Poetry
+
+
+Prince Edward Island
+
+
+Ransom Trilogy
+
+
+Reading
+
+
+research
+
+
+Science Fiction
+
+
+Signum University
+
+
+Stephen King
+
+
+Surprised by Joy
+
+
+Teaching
+
+
+That Hideous Strength
+
+
+The Great Divorce
+
+
+The Hobbit
+
+
+theology
+
+
+Theology of Culture
+
+
+The Screwtape Letters
+
+
+Walter Hooper
+
+
+writing
+
+
+WWI
+
+
+WWII
+
+
+
+Meta
+
+Log in
+
+
+Entries feed
+
+
+Comments feed
+
+
+WordPress.org
+
+
+
+Categories
+
+10 Minute Book Talk
+
+5 Books Series
+
+Blogging the Hugos
+
+Canadian literature
+
+Creative Writing
+
+Feature Friday
+
+Fictional Worlds
+
+Guest Blogs
+
+Inklings and Arthur
+
+L.M. Montgomery
+
+Letters
+
+Lewis Biography
+
+Lewis&#039; Essays
+
+Memorable Quotes
+
+News &amp; Links
+
+On Writing
+
+Original Research
+
+Reflections
+
+Reviews
+
+Studies in Words
+
+The C.S. Lewis Studies Series
+
+The MaudCast
+
+Thoughtful Essays
+
+Throwback Thursdays
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goodreads
+
+
+
+
+
+Blog Stats
+
+
+2,084,182 visitors to A Pilgrim in Narnia
+
+
+
+
+
+A Pilgrim in 140 Charcters
+
+
+Tweets by BrentonDana
+
+
+
+
+Powered by WordPress.com
+
+
+
+
+
+
+Discover more from A Pilgrim in Narnia
+Subscribe now to keep reading and get access to the full archive.
+
+
+
+Continue reading
+
+
+&nbsp;
+
+
+
+
+
+
+Loading Comments...
+
+&nbsp;
+
+Write a Comment...
+
+Email (Required)
+Name (Required)
+Website
+
+
+
+
+
+
+
+
+
+{0}
+\u00d7
+{1}
+
+
+
+
+
+
+
+%d
+
+
+
+

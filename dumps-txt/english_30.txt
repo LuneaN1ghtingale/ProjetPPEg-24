@@ -1,0 +1,1340 @@
+
+
+
+
+
+The Psychology of Sexual Fantasy: Part 1 | HuffPost Life
+
+
+
+
+if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write('
+
+');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face{font-family:'ProximaNova';src:url('/static-assets/cambria/app/fonts/proxima-nova-regular.hash-c33b8e3dadffc0a0ed1a.woff') format('woff');font-weight:400;font-display:fallback;}@font-face{font-family:'ProximaNova';src:url('/static-assets/cambria/app/fonts/proxima-nova-bold.hash-e30ed5526ad8ee101ceb.woff') format('woff');font-weight:700;font-display:fallback;}@font-face{font-family:'ProximaNova';src:url('/static-assets/cambria/app/fonts/proxima-nova-semibold.hash-c9af077d58837d430984.woff') format('woff');font-weight:600;font-display:fallback;}@font-face{font-family:'ProximaNovaCond';src:url('/static-assets/cambria/app/fonts/proxima-nova-condensed-bold.hash-b95035a41fc42dbe2b1b.woff2') format('woff2');font-weight:700;font-display:fallback;}@font-face{font-family:'ProximaNovaCond';src:url('/static-assets/cambria/app/fonts/proxima-nova-condensed-extrabld.hash-24296115c4e52fc5fd15.woff2') format('woff2');font-weight:800;font-display:fallback;}
+
+
+
+
+
+
+
+inside&lt;/em our heads."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inside&lt;/em our heads."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inside&lt;/em our heads."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inside
+
+
+
+
+
+
+!(function(o,_name){o[_name]=o[_name]||function n(){(n.q=n.q||[]).push(arguments)},o[_name].v=o[_name].v||2;!(function(o,t,n,f,e,i){function c(f,e){(f=(function(t,n){try{if(n=(t=o.localStorage).getItem("_aQS02NERGQzhCOUUyMkIwNzExRTU2RTQzRDMtMg"))return JSON.parse(n).lgk||[];if((t.getItem("v4ac1eiZr0")||"").split(",")[4]0)return[[_name+"-engaged","true"]]}catch(f){}})())&&typeof f.forEach===n&&(e=o[t].pubads())&&f.forEach((function(o){o&&o[0]&&e.setTargeting(o[0],o[1]||"")}))}(i=o[t]=o[t]||{}).cmd=i.cmd||[],typeof i.pubads===n?c():typeof i.cmd.unshift===n?i.cmd.unshift(c):i.cmd.push(c)})(window,"googletag","function");})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src="https://playfulriver.com/static/2c75499c/94dabc70e62cc90ae15501f4b1e9",t.parentNode.insertBefore(i,t)})(document,"script");
+
+
+
+{"@context":"http://schema.org","author":{"@context":"http://schema.org","@type":"Person","description":"Based in the Washington DC area, Cari Shane, a former television and radio reporter, is a journalist and 21st Century Media Strategist specializing in Social Media Journalism, Pitch and Press Release Angle Development and Strategic Communications Consulting. As a journalist, she writes on an eclectic array of subjects for a variety of publications including the Huffington Post, Washington Post Magazine & Newspaper, Bethesda Magazine, MYBusiness Magazine, Home & Design and more. As a media strategist, from a journalistic POV Cari creates social media campaigns and PR strategies.\n\nCari is also managing editor of the new, STReetlamp Magazine, the first independent magazine dedicated to the \"short term rental\" (STR) marketplace. As a third party judge writing editorially sound pieces about the STRM, STReetlamp will help wrangle the chaos of STR search sites such as Airbnb, VRBO, FlipKey. As Managing Editor of this new entity, which focuses on a marketplace that, until now, has had no dedicated media forum, Cari works directly with the publisher and founder to create content, hire staff, write and edit articles.\n\nA contributing essayist in the anthology, Knowing Pains: Women on Love, Sex and Work in their 40s. Cari’s contribution to the book, an essay entitled, “Finding Friendship at Forty,” landed her an interview on the Today Show.\n\nIn 2011, with marketing consulting and business partner, Julie Schumacher, Cari founded the /'sas∙s'ē/ agency, a boutique firm that creates a strategic matrix by integrating cutting edge PR, marketing and social media concepts to establish a platform for growth. Cari continues to work with /'sas∙s'ē/ agency in a number of capacities. \nCari began her career in print media (The Poughkeepsie Journal) and radio in Poughkeepsie, NY and worked for many years as an anchor and reporter in Hartford and New Haven, Connecticut. Before her return to print journalism ten years ago, Cari was in front of the camera working as a television reporter and anchor at the NBC affiliate in Hartford (at the time the 24th TV market). Prior to that, she was a features reporter for the ABC affiliate in the Roanoke/Lynchburg, Virginia (67th market), a news writer for Philadelphia’s Fox station (4th market), and a weekend anchor at Lancaster, Pennsylvania’s NBC affiliate (41st market).  \nIn the 90’s, Cari ran a successful media-tour company representing a variety of well-known national clients including Hunts, General Foods, Accutane and TJ Maxx. Cari not only created and generated the media campaigns for her clients, placing their products on national and local news programs, but also acted as spokesperson for several of her national media campaigns.  \n\nCari’s dream as a child was to be like Jane Goodall, sitting in the forest among the chimps, or Margaret Mead, observing the natives in Samoa. As a mother of three, Cari can do neither, so instead she blends into the culture around her and writes about what she sees. Her observations can be found in her published pieces, on-line and in print.\n\nA graduate of Vassar College and a Manhattan native, Cari currently lives in Washington, D.C. where she is raising two rescue puppies as well as \"being there\" for her three grown children (do they ever really grow up?). Finishing her first novel, A Winter’s Spring, Cari is working on her second, You Don’t Have to Jump.","jobTitle":"DC-based journalist, corporate writer, SM/PR strategist & Managing Editor of the new STReetlamp Magazine.","name":"Cari Shane","url":"https://www.huffpost.com/author/carishanedc-385"},"creator":{"@context":"http://schema.org","@type":"Person","description":"Based in the Washington DC area, Cari Shane, a former television and radio reporter, is a journalist and 21st Century Media Strategist specializing in Social Media Journalism, Pitch and Press Release Angle Development and Strategic Communications Consulting. As a journalist, she writes on an eclectic array of subjects for a variety of publications including the Huffington Post, Washington Post Magazine & Newspaper, Bethesda Magazine, MYBusiness Magazine, Home & Design and more. As a media strategist, from a journalistic POV Cari creates social media campaigns and PR strategies.\n\nCari is also managing editor of the new, STReetlamp Magazine, the first independent magazine dedicated to the \"short term rental\" (STR) marketplace. As a third party judge writing editorially sound pieces about the STRM, STReetlamp will help wrangle the chaos of STR search sites such as Airbnb, VRBO, FlipKey. As Managing Editor of this new entity, which focuses on a marketplace that, until now, has had no dedicated media forum, Cari works directly with the publisher and founder to create content, hire staff, write and edit articles.\n\nA contributing essayist in the anthology, Knowing Pains: Women on Love, Sex and Work in their 40s. Cari’s contribution to the book, an essay entitled, “Finding Friendship at Forty,” landed her an interview on the Today Show.\n\nIn 2011, with marketing consulting and business partner, Julie Schumacher, Cari founded the /'sas∙s'ē/ agency, a boutique firm that creates a strategic matrix by integrating cutting edge PR, marketing and social media concepts to establish a platform for growth. Cari continues to work with /'sas∙s'ē/ agency in a number of capacities. \nCari began her career in print media (The Poughkeepsie Journal) and radio in Poughkeepsie, NY and worked for many years as an anchor and reporter in Hartford and New Haven, Connecticut. Before her return to print journalism ten years ago, Cari was in front of the camera working as a television reporter and anchor at the NBC affiliate in Hartford (at the time the 24th TV market). Prior to that, she was a features reporter for the ABC affiliate in the Roanoke/Lynchburg, Virginia (67th market), a news writer for Philadelphia’s Fox station (4th market), and a weekend anchor at Lancaster, Pennsylvania’s NBC affiliate (41st market).  \nIn the 90’s, Cari ran a successful media-tour company representing a variety of well-known national clients including Hunts, General Foods, Accutane and TJ Maxx. Cari not only created and generated the media campaigns for her clients, placing their products on national and local news programs, but also acted as spokesperson for several of her national media campaigns.  \n\nCari’s dream as a child was to be like Jane Goodall, sitting in the forest among the chimps, or Margaret Mead, observing the natives in Samoa. As a mother of three, Cari can do neither, so instead she blends into the culture around her and writes about what she sees. Her observations can be found in her published pieces, on-line and in print.\n\nA graduate of Vassar College and a Manhattan native, Cari currently lives in Washington, D.C. where she is raising two rescue puppies as well as \"being there\" for her three grown children (do they ever really grow up?). Finishing her first novel, A Winter’s Spring, Cari is working on her second, You Don’t Have to Jump.","jobTitle":"DC-based journalist, corporate writer, SM/PR strategist & Managing Editor of the new STReetlamp Magazine.","name":"Cari Shane","url":"https://www.huffpost.com/author/carishanedc-385"},"dateCreated":"2014-05-27T13:45:22Z","dateModified":"2014-07-27T09:59:04Z","datePublished":"2014-05-27T13:45:22Z","description":"Sexual fantasies are a natural byproduct of the human imagination. Yet, they make the majority of us uncomfortable enough that our fantasies about sex and sexual activities remain 
+inside
+ our heads.","headline":"The Psychology of Sexual Fantasy: Part 1","image":{"@type":"ImageObject","url":"https://img.huffingtonpost.com/asset/default-entry.jpg?ops=1778_1000","width":1778,"height":1000},"inLanguage":"en-US","keywords":["healthy-living","pepper-schwartz","books","esther-perel","sex","type: blog"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.huffpost.com/entry/the-psychology-of-sexual-_b_5350569"},"publisher":{"@type":"NewsMediaOrganization","name":"HuffPost","url":"https://www.huffpost.com","logo":{"@type":"ImageObject","url":"/static-assets/cambria/app/images/hp-amp.hash-3bfbf0a15bc4b64d5fbb.gif","width":600,"height":60}},"thumbnailUrl":"https://img.huffingtonpost.com/asset/default-entry.jpg?ops=200_150","url":"https://www.huffpost.com/entry/the-psychology-of-sexual-_b_5350569","@type":"BlogPosting","articleSection":"Wellness","speakable":{"@type":"SpeakableSpecification","cssSelector":[".entry__header .headline",".entry__header .dek",".entry__content-list"]}}
+
+ (function(options) {try {if ( 'Profiler' in window && 'Scheduler' in window && (window.location.search.includes('e2e_test') || Math.random() 
+
+*{max-width:100%}.cli-embed--audio audio{display:block;margin:30px auto;max-width:100%;outline:0 none;width:450px}.cli-embed--looper{height:0;padding-bottom:56.25%;padding-left:0!important;position:relative;width:100%}.cli-embed--looper .cli-embed__embed-wrapper{bottom:0;left:0;position:absolute;right:0;top:0}.cli-embed--looper video{-o-object-fit:cover;object-fit:cover}.cli-embed--looper video.in-page-anchor:target{padding-top:80px}@media (min-width:768px){.cli-embed--looper video.in-page-anchor:target{padding-top:90px}}.cli-embed--looper{height:auto;padding-bottom:0}.cli-embed--looper .cli-embed__embed-wrapper{position:relative}.cli-embed--looper video{display:block;max-width:100%}.disabled-twitter-tweet,.twitter-tweet{min-height:200px}.cli-embed--header-media .cli-embed__embed-wrapper{background-color:#d4d4d4}@media (min-width:1024px){.life .cli-embed--header-media{min-height:90px}.cli-embed--header-media .cli-embed__embed-wrapper{box-shadow:7px 7px 0 0 #fcff0d}}.cli-pullquote{font-family:Montserrat,sans-serif;font-weight:700;margin-bottom:30px;margin-top:30px;padding:40px 30px;position:relative}@media (min-width:1024px){.cli-pullquote{padding-right:80px}}.cli-pullquote:after{background-color:#e7fcff;bottom:0;content:"";display:block;position:absolute;right:0;top:0;width:500%;width:100vw;z-index:-1}.cli-pullquote__quote{color:#171d67;font-size:2rem;line-height:1.31}.cli-pullquote__attribution{color:#f83371;font-size:.8125rem;letter-spacing:.0625rem;line-height:1.5;margin-top:30px;text-transform:uppercase}.cli-image__caption,.cli-image__credit{margin-bottom:10px;margin-top:7px;padding:0 30px}@media (min-width:768px){.cli-image__caption,.cli-image__credit{padding:0}.cli-image--header-media .cli-image__caption,.cli-image--header-media .cli-image__credit{padding:0 30px}}@media (min-width:1024px){.cli-image--header-media .cli-image__caption,.cli-image--header-media .cli-image__credit{padding:0}}.cli-image{font-family:Montserrat,sans-serif;font-weight:300;margin-bottom:30px;margin-top:30px}.cli-image--header-media{align-items:center;display:flex;flex-direction:column}.cli-image--header-media .img-sized{max-width:100%}.standard .cli-image:not(.cli-image--header-media){max-width:none!important}@media (max-width:767px){.cli-image__source-wrapper{padding:0 16px 16px}}.cli-image img{background-color:#d4d4d4}.cli-image__credit{color:#9b9b9b;font-size:.625rem;line-height:1.4;text-transform:uppercase}.cli-image__credit a{color:inherit;text-decoration:inherit}.cli-image__caption{color:#5c5c5c;font-size:.75rem;line-height:1.5}.cli-image__caption p{margin:5px 0}@media (min-width:768px){.cli-image__spacer{height:7px}.cli-image--header-media{padding-left:0;padding-right:0}}@media (min-width:1024px){.cli-image--header-media{display:block;padding-left:0}.cli-image--header-media .cli-image__spacer{height:7px}}@media (min-width:971px) and (max-width:1023px){.cli-image--header-media .img-sized__img,.cli-image--header-media .img-sized__placeholder{margin:0 auto}}.cli-listicle{display:flex;flex-flow:column nowrap}.cli-listicle.listicleCountDown .listicle-header,.cli-listicle.listicleCountUp .listicle-header{border:solid #0d0eca;border-width:0 0 2px;margin-bottom:16px;margin-left:auto;margin-right:auto}.cli-listicle.listicleCountDown .listicle-header .count,.cli-listicle.listicleCountUp .listicle-header .count{color:#0d0eca;display:inline-block;font-family:Montserrat,serif;font-size:1.25rem;font-weight:700;padding:6px 0}.cli-listicle .listicle-item--subhead{margin-bottom:2.125rem}.cli-listicle .listicle-item--subhead .subhead-item{color:#2d3876;font-family:ProximaNova;font-family:Montserrat,sans-serif;font-size:32px;font-weight:700}.cli-listicle .listicle-item{font-family:Montserrat,sans-serif}.cli-listicle .listicle-item-container{margin-bottom:40px}.cli-listicle .listicle-item-container.shadow{padding-bottom:40px;position:relative}.cli-listicle .listicle-item-container.shadow:after{background:#e0e0e0;bottom:0;content:"";height:1px;left:0;position:absolute;transform:translateX(20%);width:70%}.cli-listicle .listicle-item .title-container{color:#000;font-size:1.5rem;font-weight:700;line-height:1.25;margin-bottom:30px;margin-left:auto;margin-right:auto}.cli-listicle .listicle-item .credit-container{color:#9b9b9b;font-size:.625rem;font-weight:400;line-height:1.4;margin:8px auto}.cli-listicle .listicle-item .caption-container{font-family:Georgia,serif;font-size:1.125rem;line-height:1.6875rem;margin-left:auto;margin-right:auto;margin-top:30px}.cli-listicle .listicle-item .caption-container p:not(:last-child){margin-bottom:25px}.cli-listicle .listicle-item .caption-container a{color:#0d0eca;text-decoration:none}.cli-listicle .listicle-item .caption-container a:hover{text-decoration:underline}.cli-listicle .listicle-item .collection-item.image .full{display:block;margin:0 auto;max-width:100%}.cli-listicle .listicle-item .collection-item.tweet twitterwidget{margin-left:auto;margin-right:auto}.cli-listicle .listicle-item .collection-item.tweet .twitter-tweet{margin-left:0!important;margin-right:0!important}.cli-listicle .listicle-item .collection-item.tweet .disabled-twitter-tweet,.cli-listicle .listicle-item .collection-item.tweet .twitter-tweet{min-height:200px}.cli-listicle .listicle-item .collection-item-image-group__images-horizontal{display:flex;justify-content:space-between}.cli-listicle .listicle-item .collection-item-image-group__images-horizontal .collection-item{flex:1 0;margin-right:4px}.cli-listicle .listicle-item .collection-item-image-group__images-horizontal:last-child{margin-right:0}.cli-listicle .listicle-item .collection-item-image-group__images-vertical{display:flex;flex-direction:column}.cli-listicle .listicle-item .collection-item-image-group__images-vertical .collection-item{margin-bottom:4px}.cli-listicle .listicle-item .collection-item-image-group__images-vertical:last-child{margin-bottom:0}.cli-listicle .listicle-item .collection-item-image-group__credit{display:flex}.cli-listicle .listicle-item .collection-item-image-group__credit .credit-separator{color:#999;font-size:.6875rem;margin-right:4px;-ms-grid-row-align:center;align-self:center}.cli-listicle .listicle-item .collection-item-image-group__credit .credit-container{margin:5px 0}@media (max-width:413px){.cli-listicle{max-width:none;padding:0}.cli-listicle .listicle-header-container{margin-left:auto;margin-right:auto;max-width:500px}.cli-listicle .listicle-item-container{padding:0 30px 40px}.cli-listicle .listicle-item-container.wrapped .collection-item.image .img{height:auto}.cli-listicle .listicle-item-container.wrapped .title-container{margin-top:30px}.cli-listicle .listicle-item-container.wrapped .credit-container{padding:0}.cli-listicle .listicle-item .caption-container,.cli-listicle .listicle-item .credit-container,.cli-listicle .listicle-item .title-container{margin-left:auto;margin-right:auto;max-width:500px}}@media (min-width:414px) and (max-width:768px){.cli-listicle{margin:0 auto;max-width:500px;padding:0 30px}}@media (min-width:768px){.cli-listicle{margin:0 auto;max-width:588px}.cli-listicle .listicle-header-container,.cli-listicle .listicle-item .caption-container,.cli-listicle .listicle-item .credit-container,.cli-listicle .listicle-item .title-container{max-width:none;padding-left:0;padding-right:0}}@media (min-width:1024px){.cli-listicle{margin:0;max-width:none;padding-right:0}.cli-listicle.listicleCountDown .listicle-header,.cli-listicle.listicleCountUp .listicle-header{margin-left:0;margin-right:0;padding:0}.cli-listicle .listicle-item-container.wrapped .image-container{float:left;margin-right:32px}.cli-listicle .listicle-item-container.wrapped .collection-item.image{height:auto;max-width:352px}.cli-listicle .listicle-item-container.wrapped .collection-item-image-group{max-width:352px}.cli-listicle .listicle-item .caption-container,.cli-listicle .listicle-item .credit-container,.cli-listicle .listicle-item .title-container{margin-left:0;margin-right:0;padding:0}.cli-listicle .listicle-item .collection-item.image .full{margin:0}}.cli-anthology{margin-bottom:40px;margin-left:auto;margin-right:auto;padding-left:30px;padding-right:30px}.cli-anthology .anthology-item{clear:both;margin-bottom:30px}.cli-anthology .anthology-item:after{clear:both;content:"";display:block}.cli-anthology .anthology-item .badge{border:solid #1213ea;border-width:0 0 2px;color:#1213ea;font-family:Montserrat,sans-serif;font-size:1.5rem;font-weight:700;line-height:2.5rem;margin-bottom:30px}.cli-anthology .anthology-item .badge-text{padding:0 15px}.cli-anthology .anthology-item .item-content-container .item-media{float:left;margin-bottom:30px;margin-right:30px;width:360px}.cli-anthology .anthology-item .item-content-container .item-content{color:#000}.cli-anthology .anthology-item .item-content-container .item-content .title{font-family:Montserrat,sans-serif;font-size:1.25rem;font-weight:700;margin-bottom:10px}.cli-anthology .anthology-item .item-content-container .item-content a.title-link{color:#000;text-decoration:none}.cli-anthology .anthology-item .item-content-container .item-content a.title-link:hover{text-decoration:underline}.cli-anthology .anthology-item .item-content-container .item-content .summary{font-family:Georgia,serif;font-size:1.125rem;font-weight:400;line-height:1.56;margin-bottom:10px}.cli-anthology .anthology-item .item-content-container .item-content .author-list .card__byline__author{display:flex}.cli-anthology .anthology-item .item-content-container .item-content .author-list .card__byline__author a{color:#1213ea;padding-left:5px;text-decoration:none}.cli-anthology .anthology-item .item-content-container .item-content .author-list .card__byline__author a:hover{text-decoration:underline}@media (max-width:767px){.cli-anthology .anthology-item .badge{font-size:1.375rem}.cli-anthology .anthology-item .item-content-container{display:flex;flex-direction:column}.cli-anthology .anthology-item .item-content-container .item-media{display:block;margin-right:0;width:auto}}@media (min-width:1024px){.cli-anthology{margin-left:0;margin-right:0;padding-right:0}.cli-anthology .item-content-container{display:flex;flex-direction:column}.cli-anthology{padding-left:100px}}.cli-related-articles{margin:40px 30px auto}.cli-related-articles--single-article .cli-related-articles__link{flex-direction:row}.cli-related-articles--single-article .cli-related-articles__headline{padding:0 16px}.cli-related-articles--single-article .cli-related-articles__image{width:30%}@media (max-width:767px){.cli-related-articles__title{line-height:18px;margin-bottom:12px;margin-top:24px}}.cli-related-articles__link{align-items:center;border-bottom:1px solid #dbdbdb;border-bottom:1px solid #45c8fc;color:#000;display:flex;font-family:Montserrat,sans-serif;font-size:.9375rem;font-weight:700;line-height:1.25;padding:15px 0;text-decoration:none}.cli-related-articles__link:last-child{border-bottom:0}.cli-related-articles_container{position:relative}.cli-related-articles__headline{flex:1 1}.cli-related-articles__image{display:none}@media (max-width:1023px){.cli-related-articles{margin:0 auto;max-width:500px;padding:0 30px}}@media (min-width:500px){.cli-related-articles__link{font-size:1.0625rem}.cli-related-articles__image{display:block;height:auto;margin-left:34px;width:113px}}body.news .pagination{color:#000;font-family:ProximaNova;font-size:.875rem;list-style:none;margin:60px 0;text-align:center}body.news .pagination a{color:#000;text-decoration:none}body.news .pagination a:not(.pagination__next-link),body.news .pagination a:not(.pagination__previous-link){padding:0 10px}body.news .pagination__item{display:inline-block}body.news .pagination__page-num:hover a{background:#e3edef;padding:10px}body.news .pagination__page-num.current{background:#e3edef;font-weight:700;margin-top:-10px;padding:10px}body.news .pagination__page-num.current a{padding:0}body.news .pagination__previous{padding-right:10px}body.news .pagination__previous:before{content:"
+
+
+
+
+{}
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+Main Menu
+
+
+
+
+
+U.S. Edition
+
+
+
+
+
+
+News
+
+
+
+
+U.S. News
+
+World News
+
+Business
+
+Environment
+
+Health
+
+Social Justice
+
+Crime
+
+
+
+
+Politics
+
+
+
+
+Congress
+
+Extremism
+
+
+
+
+Opinion
+
+
+
+
+
+
+
+Entertainment
+
+
+
+
+Culture &amp; Arts
+
+Media
+
+Celebrity
+
+TV &amp; Film
+
+Books
+
+
+
+
+Life
+
+
+
+
+Style &amp; Beauty
+
+Food &amp; Drink
+
+Parenting
+
+Travel
+
+Wellness
+
+Relationships
+
+Money
+
+Home &amp; Living
+
+Work/Life
+
+Shopping
+
+
+
+
+Voices
+
+
+
+
+Black Voices
+
+Queer Voices
+
+Latino Voices
+
+Indigenous Voices
+
+Asian Voices
+
+Women&#x27;s Voices
+
+
+
+
+HuffPost Personal
+
+
+
+
+
+
+
+NEW: Games
+
+
+
+
+
+
+
+Horoscopes
+
+
+
+
+
+
+
+Video
+
+
+
+
+
+
+
+From Our Partners
+
+
+
+
+Well Traveled
+
+
+
+
+Newsletters
+
+
+
+
+
+
+
+International
+
+
+
+
+U.S.
+
+U.K.
+
+España
+
+France
+
+Ελλάδα (Greece)
+
+Italia
+
+日本 (Japan)
+
+한국 (Korea)
+
+
+
+
+
+Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms
+
+ | 
+
+Privacy Policy
+
+
+Part of HuffPost Wellness. ©2025 BuzzFeed, Inc. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+What's Hot
+
+
+
+
+
+
+
+
+
+ #topnav_margin_btm { margin: 0 !important; } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In
+
+Support Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+POLITICS
+
+ENTERTAINMENT
+
+LIFE
+
+PERSONAL
+
+VOICES
+
+SHOPPING
+
+GAMES
+
+
+U.S. Edition
+Open editions submenu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Blog
+
+healthy living
+
+Pepper Schwartz
+
+books
+
+
+
+The Psychology of Sexual Fantasy: Part 1
+
+
+Sexual fantasies are a natural byproduct of the human imagination. Yet, they make the majority of us uncomfortable enough that our fantasies about sex and sexual activities remainour heads.
+
+
+
+
+
+By 
+
+Cari Shane, Contributor
+
+
+
+
+
+
+
+
+
+
+
+
+
+DC-based journalist, corporate writer, SM/PR strategist &amp; Managing Editor of the new STReetlamp Magazine.
+
+
+
+
+
+
+DC-based journalist, corporate writer, SM/PR strategist &amp; Managing Editor of the new STReetlamp Magazine.
+
+
+
+
+May 27, 2014, 09:45 AM EDT
+
+
+
+
+
+
+
+This post was published on the now-closed HuffPost Contributor platform. Contributors control their own work and posted freely to our site. If you need to flag this entry as abusive, 
+send us an email.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sexual fantasies are a natural byproduct of the human imagination. Yet, they make the majority of us uncomfortable enough that our fantasies about sex and sexual activities remain 
+inside
+ our heads. We are happy to 
+watch
+ the sexual fantasies conjured up by screen writers and 
+read
+ the sexual fantasies designed by authors; but, when it comes to sharing our sexual fantasies, that is, speaking up about and verbalizing what we want from our bedroom encounters with our sexual partners, most of us don't, won't, can't talk about it.
+
+
+
+According to Best Selling authors 
+Chrisanna Northrup
+ and 
+Pepper Schwartz, Ph.D.
+, who along with 
+James Witte, Ph.D.
+, penned 
+
+The Normal Bar: The surprising secrets of happy couples and what they reveal about creating a new normal in your relationship
+
+, 98 percent of adults polled say they have had or continue to have sexual fantasies and, further, that 61 percent of women and 90 percent of men who are currently in a relationship, sexually fantasize about other people they meet. Thus, the authors conclude that, "it's normal for happy couples to fantasize about sexual acts that their morals and/or ethics won't allow in real life. Our fantasies can break taboos that our actions never will."
+
+
+
+The big questions are: How important are sexual fantasies? What do they mean about the state of your relationship? What makes one person more adventurous in the bedroom than another?
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+"Sexual fantasy keeps us alive," says 
+Meghan Laslocky
+, a social historian and author of 
+
+The Little Book of Heartbreak: Love Gone Wrong Through the Ages 
+
+. "Sexual fantasy is a vital part of who we are. It's a vital part of what makes us human, a vital part of the human condition. It's creative and it's what separates us from animals." 
+
+
+
+"Based on the mail I get, I think [sexual fantasy is] a big part of every person's life," says sexual fantasy writer, 
+Shayla Black
+, who has written more than three dozen erotic romances, including her most recent, 
+
+Their Virgin Secretary Masters of Ménage, Book 6
+
+. "What a lot of people do, whether it's because they are busy or because of the way they were raised or because now that they are mothers or fathers they think they should be more 'normal,' they stop 
+talking about
+ and 
+acting out
+ their sexual fantasies. But I think they need to be honest with themselves about what they want." 
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+The subject of "acting out" a sexual fantasy is what grabbed the attention of debut novelist 
+Brian White
+, whose book, 
+
+Cuba After Dark
+
+, is about just how far one partner 
+should go
+ to fulfill the other's sexual fantasy? "My book -- a cautionary tale about what happens when one partner wants to push the boundaries of sexuality and the other does not -- poses the question: how much can we really ask of the person we love?" 
+
+
+
+In order to make a sexual fantasy "come alive," you first need to 
+talk about it
+ with your partner. So, in this two-part piece on 
+The Psychology of Sexual Fantasy
+, we're going to start with the first step, how to 
+talk
+ with your partner about your sexual fantasy. Then, in Part 2, we will discuss the next step, turning a sexual fantasy into reality. 
+
+
+
+Step number one -- talking:
+
+
+
+Honestly is difficult, says NYC sex and relationship expert, 
+Megan Fleming
+. Fear of judgment about our own particular fantasies is what keeps many of us from speaking up. "You may know what gives you pleasure. But, what makes you feel shame or guilt is 'how am I going to bring this into my relationship; will I be judged? Will my partner run the other way?'"
+
+
+
+So, she recommends sharing your fantasy by 
+reading
+ a sexual fantasy novel. Not only can the book be the conversation starter, but it can also be a sexual fantasy litmus test to help you figure out what you may or may not want in the bedroom.
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+"It gives you an opportunity to learn about yourself when you respond to the written word," echoes Black. "Your partner cannot give you want you want if you don't even know what it is. Sometimes I hear from readers of my books, 'I wanted more but I didn't know what I wanted until I started reading and then I realized how much I was responding to just the written word so then I began this communication with my partner. And low and behold we are now both thinking the same thing and either we didn't know about it or weren't talking about it, or it wasn't on our spectrum'." 
+
+
+
+"Men's and women's fantasies actually overlap quite a bit," write the authors of 
+The Normal Bar
+. "If they just shared them with their partners they could improve their sex lives dramatically, to mutual benefit. But as long as people depend on their partners to guess what they want few of these fantasies will ever get realized. Opening up a little can make all the difference." That said, according to Pepper Schwartz, "women are less likely to share because they are more worried about how they will be seen."
+
+
+
+"Speaking up about what turns you on can be enough for some couples," says relationship expert, Megan Fleming. "A conversation with your partner should be a safe space to explore what erotically you have never given voice to."
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+But what if talking about it 
+isn't
+ enough? What if you want to take the next step and 
+act out 
+ your sexual fantasy? 
+
+
+
+We will explore that question in Part 2 of 
+The Psychology of Sexual Fantasy
+. 
+
+
+
+In the meantime, if you want to have a face-to-face discussion about sexual fantasy with Brian White or Shayla Black, you 
+can
+: 
+
+
+
+
+Brian White will be at 
+Book Revue
+, in Huntington, Long Island, New York on June 5 @7pm for a book reading and signing. 
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Shayla Black will be attending 
+Book Bash
+ in Orlando, Florida on June 28.
+
+
+
+Related
+
+
+healthy living
+
+Pepper Schwartz
+
+books
+
+Esther Perel
+
+Sex
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Go to Homepage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suggest a correction
+
+
+
+|
+
+
+Submit a tip
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+From Our Partner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Our Partner
+
+
+
+
+
+
+HuffPost Shopping&apos;s
+Best Finds
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newsletter Sign Up
+
+The Good Life
+
+A completely essential daily guide to achieving the good life.
+
+
+
+
+
+
+
+
+
+Successfully Signed Up!
+
+Realness delivered to your inbox
+
+
+
+
+
+
+
+
+
+
+
+
+By entering your email and clicking Sign Up, you're agreeing to let us send you customized marketing messages about us and our advertising partners. You are also agreeing to our 
+Terms of Service
+ and 
+Privacy Policy
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close 
+
+
+
+
+
+
+
+
+
+
+
+MORE IN Wellness
+
+
+
+
+
+
+
+
+
+
+
+MORE IN LIFE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+POLITICS
+
+ENTERTAINMENT
+
+LIFE
+
+VOICES
+
+HUFFPOST PERSONAL
+
+SHOPPING
+
+NEWSLETTERS
+
+
+
+About Us
+
+Advertise
+
+Contact Us
+
+RSS
+
+FAQ
+
+Careers
+
+User Agreement
+
+Comment Policy
+
+DMCA Policy
+
+HuffPost Press Room
+
+Accessibility Statement
+
+Privacy Policy
+
+Consent Preferences
+
+Privacy Settings
+
+
+
+
+
+
+
+
+Part of HuffPost Wellness. ©2025 BuzzFeed, Inc. All rights reserved.
+
+The Huffington Post
+
+
+
+
+
+{"locale":"en-US","messages":{"ABOUT":"About","ADVERTISEMENT":"Advertisement","AND":"and","BEFORE_YOU_GO":"Before You Go","BLOCKQUOTE":"“{quote}”","BROUGHT_TO_YOU_BY_HUFFPOST_SHOPPING":"Brought To You By Huffpost Shopping","BY":"By","CANCEL":"Cancel","CLICK_TO_SUGGEST_A_CORRECTION":"Click to suggest a correction","CLOSE":"Close","CLOSE_EDITIONS_MENU":"Close editions menu","COLUMNIST":"Columnist","COMMENTS_WEBVIEW_TITLE":"Conversations","CONTENT_REMOVED":"Content Removed","CONTRIBUTOR":"Contributor","CONTRIBUTOR_DISCLAIMER":"This post was published on the now-closed HuffPost Contributor platform. Contributors control their own work and posted freely to our site. If you need to flag this entry as abusive, 
+send us an email.
+","COPYRIGHT":"Part of {comscoreFooterText}. ©{year} BuzzFeed, Inc. All rights reserved.","DOWNLOAD_THE_APP":"DOWNLOAD THE APP","EDITIONS_MENU_LABEL":"{editionName} Edition","FOLLOW_US":"Follow Us","FOLLOW_US_EXCLAMATION":"Follow us!","GO_TO_HOME":"Go to Homepage","GOT_A_TIP":"Submit a tip","GOT_A_TIP_DESCRIPTION":"Do you have info to share with HuffPost reporters? 
+Here’s how.
+","GUEST_WRITER":"Guest Writer","INTERNAL_SERVER_ERROR":"Internal Server Error","KEY_MOMENT":"Key Moment","LATEST_IN":"Latest In","LOAD_MORE_ARTICLES":"Load More Articles","MORE_FROM_HUFFPOST":"MORE FROM HUFFPOST","MORE_FROM_SECTION":"More {sectionName}","MORE_IN":"More In {section}","NEWSLETTER_SIGN_UP":"Newsletter Sign Up","NEWSLETTER_SIGNUP_EMAIL_PLACEHOLDER":"address@email.com","NEWSLETTER_SIGNUP_ENTER_EMAIL":"Enter your email address","NEWSLETTER_SIGNUP_SUBSCRIBE":"SIGN UP","NEWSLETTER_SIGNUP_SUCCESS":"You have been successfully signed up.","NEWSLETTER_SIGNUP_THANKYOU":"Thanks!","NOT_FOUND":"Not Found","OPINION_VIP_GUEST_WRITER":"VIP Guest Writer","PAGE_NOT_FOUND":"Page not found!","PINNED":"Pinned","PRIVACY_POLICY":"Privacy Policy","REDESIGN_PROMO_DESCRIPTION":"At HuffPost, we report with empathy and put people at the heart of every story. 
+Read HuffPost Personal.
+","REDESIGN_PROMO_TITLE":"It's Personal","RELATED":"Related","RELATED TOPICS":"RELATED TOPICS","SEE_GALLERY":"See Gallery","SEE_MORE":"See More","SEE_MORE_BREAKING":"See More","SEE_MORE_IN_SECTION":"See More in {section}","SEND":"Send","SENDING":"Sending...","SHOW_FULL_BIO":"Show Full Bio","SUGGEST_A_CORRECTION":"Suggest a correction","SUGGEST_CORRECTION_FORM_EMAIL_FIELD_LABEL":"Your Email","SUGGEST_CORRECTION_FORM_EMAIL_FIELD_PLACEHOLDER":"pat@example.com","SUGGEST_CORRECTION_FORM_MESSAGE_FIELD_LABEL":"What is the correction? Describe the error here.","SUGGEST_CORRECTION_FORM_MESSAGE_FIELD_PLACEHOLDER":"i.e. a name was wrong in a recent story...","SUGGEST_CORRECTION_FORM_NAME_FIELD_LABEL":"Your Name","SUGGEST_CORRECTION_FORM_NAME_FIELD_PLACEHOLDER":"Pat Smith","SUGGEST_CORRECTION_FORM_SUBMISSION_ERROR_TEXT":"There was an error in processing your submission.  Please close this form and try again","SUGGEST_CORRECTION_FORM_SUBMISSION_ERROR_TITLE":"ERROR!","SUGGEST_CORRECTION_FORM_SUBMISSION_SUCCESS_TEXT":"Your correction has been submitted successfully","SUGGEST_CORRECTION_FORM_SUBMISSION_SUCCESS_TITLE":"SUCCESS!","TAKE_ME_TO_THE_FRONT_PAGE":"TAKE ME TO THE FRONT PAGE","TERMS":"Terms","TEXTAREA_CHARACTERS_REMAINING":"{charsRemaining} {charsRemaining, plural, one {character} other {characters}} remaining","THE_BLOG":"The Blog","THIS_CONTENT_HAS_BEEN_REMOVED":"This content has been removed.","TOP_VIDEOS":"HUFFPOST VIDEO","TRENDING":"Trending","UPDATED":"Updated","VIDEOS_FOR_YOU":"Videos For You","VIEW_COMMENTS":"VIEW COMMENTS","WHATS_HOT":"What's Hot"}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.addEventListener('load', window.modulousQueue.runAll);
+
+
+
+
+

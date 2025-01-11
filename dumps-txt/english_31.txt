@@ -1,0 +1,1097 @@
+img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+
+
+#preloader{display:none;}
+
+The psychology behind Fantasies
+{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.psychologs.com/the-psychology-behind-fantasies/#article","isPartOf":{"@id":"https://www.psychologs.com/the-psychology-behind-fantasies/"},"author":{"@id":"https://www.psychologs.com/#/schema/person/c36dab39e2e8940d9a48bba6fb9bb90f"},"headline":"The psychology behind Fantasies","datePublished":"2024-01-11T14:30:00+00:00","dateModified":"2024-01-11T14:30:01+00:00","mainEntityOfPage":{"@id":"https://www.psychologs.com/the-psychology-behind-fantasies/"},"wordCount":1378,"commentCount":0,"publisher":{"@id":"https://www.psychologs.com/#organization"},"image":{"@id":"https://www.psychologs.com/the-psychology-behind-fantasies/#primaryimage"},"thumbnailUrl":"https://www.psychologs.com/wp-content/uploads/2024/01/The-psychology-behind-Fantasies.jpg","keywords":["Aspirations","conventional therapy","Creative thoughts","Expectations","Fantasies","happiness","Psychologists","Realities","sexual fantasies","Unconscious Mind"],"articleSection":["Social"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.psychologs.com/the-psychology-behind-fantasies/#respond"]}],"copyrightYear":"2024","copyrightHolder":{"@id":"https://www.psychologs.com/#organization"}},{"@type":"WebPage","@id":"https://www.psychologs.com/the-psychology-behind-fantasies/","url":"https://www.psychologs.com/the-psychology-behind-fantasies/","name":"The psychology behind Fantasies","isPartOf":{"@id":"https://www.psychologs.com/#website"},"primaryImageOfPage":{"@id":"https://www.psychologs.com/the-psychology-behind-fantasies/#primaryimage"},"image":{"@id":"https://www.psychologs.com/the-psychology-behind-fantasies/#primaryimage"},"thumbnailUrl":"https://www.psychologs.com/wp-content/uploads/2024/01/The-psychology-behind-Fantasies.jpg","datePublished":"2024-01-11T14:30:00+00:00","dateModified":"2024-01-11T14:30:01+00:00","description":"In-depth research into the psychology behind it fantasies reveals an attractive landscape where imagination, along with varied emotions.","breadcrumb":{"@id":"https://www.psychologs.com/the-psychology-behind-fantasies/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.psychologs.com/the-psychology-behind-fantasies/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.psychologs.com/the-psychology-behind-fantasies/#primaryimage","url":"https://www.psychologs.com/wp-content/uploads/2024/01/The-psychology-behind-Fantasies.jpg","contentUrl":"https://www.psychologs.com/wp-content/uploads/2024/01/The-psychology-behind-Fantasies.jpg","width":1296,"height":700,"caption":"Fantasies"},{"@type":"BreadcrumbList","@id":"https://www.psychologs.com/the-psychology-behind-fantasies/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.psychologs.com/"},{"@type":"ListItem","position":2,"name":"The psychology behind Fantasies"}]},{"@type":"WebSite","@id":"https://www.psychologs.com/#website","url":"https://www.psychologs.com/","name":"Psychologs Magazine | Mental Health Magazine | Psychology Magazine | Self-Help Magazine","description":"India&#039;s first Mental Health Magazine","publisher":{"@id":"https://www.psychologs.com/#organization"},"alternateName":"Mental Health Magazine | Psychology Magazine | Self-Help Magazine","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.psychologs.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.psychologs.com/#organization","name":"Psychologs Magazine","alternateName":"Psychologs","url":"https://www.psychologs.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.psychologs.com/#/schema/logo/image/","url":"https://www.psychologs.com/wp-content/uploads/2023/04/Round-Logo@300x-100-1-scaled.jpg","contentUrl":"https://www.psychologs.com/wp-content/uploads/2023/04/Round-Logo@300x-100-1-scaled.jpg","width":2560,"height":2560,"caption":"Psychologs Magazine"},"image":{"@id":"https://www.psychologs.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/psychologsmagazine","https://x.com/psychologsIndia","https://www.instagram.com/psychologsmagazine"]},{"@type":"Person","@id":"https://www.psychologs.com/#/schema/person/c36dab39e2e8940d9a48bba6fb9bb90f","name":"Psychologs Magazine","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.psychologs.com/#/schema/person/image/74e537bb77d224e04c23acaccfcc968a","url":"https://www.psychologs.com/wp-content/uploads/2023/04/Round-Logo@300x-100-150x150.jpg","contentUrl":"https://www.psychologs.com/wp-content/uploads/2023/04/Round-Logo@300x-100-150x150.jpg","caption":"Psychologs Magazine"},"description":"Psychologs is a magazine that aims to provide insightful and informative articles on various aspects of Mental Health and Psychology. The magazine is designed to appeal to both professionals in the field of psychology as well as the general public who are interested in understanding human behavior and Psychological Issues.","sameAs":["https://www.psychologs.com"],"url":"https://www.psychologs.com/author/psychologs/"}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.woocommerce-product-gallery{ opacity: 1 !important; }
+
+
+
+#amp-mobile-version-switcher{left:0;position:absolute;width:100%;z-index:100}#amp-mobile-version-switchera{background-color:#444;border:0;color:#eaeaea;display:block;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:16px;font-weight:600;padding:15px 0;text-align:center;-webkit-text-decoration:none;text-decoration:none}#amp-mobile-version-switchera:active,#amp-mobile-version-switchera:focus,#amp-mobile-version-switchera:hover{-webkit-text-decoration:underline;text-decoration:underline}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+Cricketer Pratika Rawal credits Psychology Studies for Mental Resilience
+
+
+Passive-Aggressive Behaviour: Identifying, Causes, and How to Deal with it
+
+
+Are Deficits in Intelligence a Problem in Parenting?
+
+
+जीवन की चुनौतियों का सामना कैसे करें: स्टोइक दर्शन की गाइड
+
+
+The Art of Temporal Self-Appraisal
+
+
+
+January 11, 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Categories
+
+Health
+
+
+Pets
+
+
+Awareness
+
+
+Crime
+
+
+Life Style
+
+Entertain
+
+
+Travel
+
+
+Education
+
+
+Motivation
+
+
+Industrial
+
+
+Parenting
+
+
+Poem
+
+
+News
+
+
+Positive
+
+
+Therapy
+
+
+Self Help
+
+
+Technology
+
+
+Hindi
+
+
+Editorial Board
+
+
+Subscribe Magazine
+
+
+Merchandise
+
+Books
+
+
+Magazines
+
+
+Badges
+
+
+Bag
+
+
+Log In
+
+
+
+
+            
+
+
+ 
+0
+
+
+Your cart is empty
+
+
+
+
+
+
+
+
+
+Categories
+1141
+545
+655
+5
+186
+133
+Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+ 
+0
+
+
+Your cart is empty
+
+                                    
+
+
+
+Home
+
+
+Categories
+
+Health
+
+
+Pets
+
+
+Awareness
+
+
+Crime
+
+
+Life Style
+
+Entertain
+
+
+Travel
+
+
+Education
+
+
+Motivation
+
+
+Industrial
+
+
+Parenting
+
+
+Poem
+
+
+News
+
+
+Positive
+
+
+Therapy
+
+
+Self Help
+
+
+Technology
+
+
+Hindi
+
+
+Editorial Board
+
+
+Subscribe Magazine
+
+
+Merchandise
+
+Books
+
+
+Magazines
+
+
+Badges
+
+
+Bag
+
+
+Log In
+
+
+
+            
+×
+
+
+
+
+Social
+
+The psychology behind Fantasies
+by 
+Psychologs Magazine
+
+
+January 11, 2024
+
+
+
+0
+ Comments
+
+
+
+6 minutes read
+ 
+
+
+
+
+
+11801
+ Views
+ 
+
+
+
+ 
+Facebook
+
+
+
+
+ 
+Twitter
+
+
+
+
+ 
+Youtube
+
+
+
+
+ 
+LinkedIn
+
+
+
+
+ 
+Whatsapp
+
+
+
+
+ 
+Print
+
+
+
+
+ 
+Share via Email
+
+
+
+
+The father of psychoanalysis, Sigmund Freud, viewed fantasies as channels for suppressing urges and desires that were frequently covered up by symbolism and metaphor. Being a channel for our most ardent desires is one of the most important functions of fantasies. His student Carl Jung developed this idea further by emphasizing the collective unconscious, which is the source of our internal stories and contains archetypal themes like survival, love, and power. This is supported by current research, which demonstrates that those who fantasize more frequently also typically perform higher on tests of divergent thinking and openness to experience, pointing to a connection between fantasizing and mentally venturing into unknown territory. 
+
+Fantasy as therapy
+
+It is possible to incorporate fantasy into conventional therapy techniques. For instance, a number of modalities, such as acceptance and commitment therapy, employ imagery. For example, a client who enjoys fantasy might use the delusion exercise of visualizing themselves as a dragon rider, breathing back into the fire or the dragon every worry or thought that arises. Even though it was brief, this experience might give someone a method to practice releasing thoughts that had previously held them captive.
+
+
+
+
+
+Also Read: 
+The psychology behind Necrophilia
+
+
+
+Tools of the fantasy genre are hardly new to therapy; examples include using tabletop role-playing games to foster social connections and telling metaphor-rich stories with families to symbolize overcoming obstacles. It is also possible to incorporate fantasy themes into experiences that are employed in conventional therapy. As an example, discussions regarding self-care are frequent in therapy settings and frequently touch on cognitive behavioral issues. The client may be encouraged by the therapist to consider the various facets of self-care.
+
+Creativity Through Metaphors:
+
+These tactics provide a setting where change is accessible, enabling people and families to imagine changes that might be initially hard to imagine. A person can experience an almost magical sense of empowerment through the use of metaphors and changed narratives. It sparks the kind of innovative thinking that&#8217;s frequently required to overcome challenging situations. When someone connects with something, such as a story or game, the sparkle in their eyes can transform into a different mental state.
+
+
+A simple and entertaining experiment for this could include various shades of sand, bubbles, and a &#8220;potion&#8221; element. Each ingredient can then be given a meaning by the client; for example, purple sand could stand for &#8220;rest,&#8221; while red would symbolize spending time with friends. The resulting &#8216;potion&#8217; can function as a practical reminder of self-care in addition to a visual research of what needs to be required.
+
+
+Also Read: 
+Narcissistic Personality Disorder (NPD)
+
+
+
+The Psychology behind Fantasies
+
+Fantasies are known to be vivid mental constructions beyond the bounds of reality that have long beguiled psychologists and captivated storytellers. In-depth research into the psychology behind it fantasies reveals a attractive landscape where imagination, along with varied emotions, motivation, and even mental health, tends to play a significant role. They dance at the edges of consciousness, whispering of unfulfilled desires and playing out alternate realities.
+
+
+
+
+Fantasies are not just wishing or fulfillment, machines, they also serve a multitude of other functions. 
+
+Cognition response:
+
+
+Fantasies also act as a means of escape for people that help in enabling them to mentally disengage with reality or from their surroundings. Individuals also rely on fantasies to escape into a more exciting or desirable mental world so that they can deal with stress, boredom, or dissatisfaction.
+Fantasies are tend to be creative expression of imagination and 
+creativity
+. The imagination also conjure up unusual and fresh scenarios, do offer a platform for artistic expression and the investigation of new and fresh concepts.
+
+Exploring identity:
+ Imagining ourselves in various different roles and situations that help us to understand our values, fears, and aspirations, also helping us shape and evolve a sense of self.
+
+
+Emotion response
+
+
+
+Regulating emotions:
+ When one suffers with stress or trauma, our minds escape into comforting or empowering fantasies, a coping mechanism studied in post-traumatic stress disorder (PTSD) patients.
+
+Reducing stress: 
+Imagining pleasant and upbeat things that can help people feel less stressed. A momentary escape from the difficulties of daily life need be obtained by mentally traveling to pleasant or consoling situations.
+
+Emotional Release: 
+Fantasy also, serve as a secure environment that help people in letting go of their feelings. People also experience different emotions, such as happiness, excitement, or even fear, through different fantasy scenarios, but they don’t have to deal with the negative impact of these emotions in real life.
+
+
+Also Read: 
+Exploring the Motivations Behind a Stalker’s Behavior
+
+
+Sexual Fantasies
+
+
+
+Exploring Desires:
+ It’s a very basic and common aspect of human sexuality is the exploration of sexual fantasies. They provide a safe mental environment where people freely explore and refer to their choices, preferences, fantasies, and desires.
+
+Improving Sexual Experience: 
+By indulging into a psychological element, fantasies also improve the overall sexual experience. One can rely on fantasies to increase their level of arousal and satisfaction by imagining various scenarios or role-playing in their head.
+
+Creativity: 
+Fantasies act as fertile ground for new ideas, where the constraints of reality loosen and imagination takes flight, driving artistic expression and scientific breakthroughs.
+
+Motivation:
+ Vivid imagery of achieving goals can fuel our drive and perseverance, acting as a mental rehearsal for 
+success
+.
+
+
+Media, Cultural and Social Influence
+
+
+
+Impact of Media: 
+Media have a great impact on fantasies. The choosing themes and content of people&#8217;s fantasies are likely to be influenced by their exposure they gain from variety of entertainment mediums. Expectations from society and cultural standards also have an impact on the type of imaginations.
+
+Social recognition and their Relationships:
+ A person&#8217;s social interactions and their relationships, also have a larger impact on individuals fantasies. In addition to this, individuals idealized portrayals of relationships or situation , that also represent some unfulfilled needs, desires, or experiences from actual interactions.
+
+
+Do fantasies cause harm and, how it typically realized?
+
+Delusions and schizophrenia are two mental health illnesses that can cause risky behaviour, paranoia, and the false belief that fantasies are real. When one has unexpected and seemingly extreme fantasies, especially sexual fantasies, one frequently asks oneself whether these types of fantasies are &#8220;normal.&#8221; Most &#8220;unusual&#8221; fantasies are actually fairly common, while the ones that aren&#8217;t unusual are probably harmless. However, some fantasies are somewhat unique.
+
+Also Read: 
+Why Do People Want To Live In Their Dreams?
+
+
+When does a &#8220;normal&#8221; fantasy start to act out of control?
+
+The amount of time and effort required to fulfill a fantasy can be so great that it seriously interferes with everyday activities or produces severe mental distress, depending on whether it is genuine or indicating of a pathology. Obsessive-compulsive disorder may also manifest as recurring thoughts or fantasies.
+
+What causes one’s fantasies about sex?
+
+Usually, the purpose of sexual fantasies is to increase arousal. They may serve various purposes in a person&#8217;s sexual life, though. They can help someone feel more confident, help them plan for future opportunities for sex, or provide an escape for people who don&#8217;t find fulfilling in-person sex experiences, according to research.
+
+It&#8217;s important to remember that imaginations are quite personal; what fascinates one person in a particular scenario or event may not fascinate another. Society usually views imaginations as a normal and healthy aspect of the human psyche, provided that they do not result in suffering or negative impacts on oneself or others. The diversity and complexities of the psychology underpinning fantasies reflect the richness of human cognition alongside imagination.
+
+
+References+
+
+
+Blackmore, S. J., &amp; Purdie, N. (1996). Imagery and hypnosis: an introduction to the psychophysiology of imagination. John Wiley &amp; Sons.
+Cowan, N. (2012). Creative science: Thinking laterally in the arts and sciences. Routledge.
+McGuire, W. J., &amp; McGuire, C. V. (1991). Theoretical perspectives on autobiographical memory. In Memory and personality (pp. 1-43). Springer, Boston, MA.
+Silvia, P. J., &amp; Beaty, R. E. (2012). The role of divergent thinking in framing scientific discoveries. Creativity Research Journal, 24(4), 380-385.
+Wilson, J. P., &amp; Lindy, J. D. (2005). Use of mental imagery in emotion regulation. American Journal of Psychotherapy, 59(4), 425-441.
+https://www.psychologytoday.com/us/blog/beyond-mental-health/202312/like-magic-the-use-of-fantasy-and-geek-culture-in-therapy
+https://www.psychologytoday.com/us/basics/fantasies
+https://www.psychologytoday.com/us/blog/all-about-sex/201508/why-do-women-have-rape-fantasies
+https://link.springer.com/chapter/10.1007/978-1-4684-3731-7_20
+
+
+
+
+
+
+
+Tags:
+
+Aspirations
+
+conventional therapy
+
+Creative thoughts
+
+Expectations
+
+Fantasies
+
+happiness
+
+Psychologists
+
+Realities
+
+sexual fantasies
+
+Unconscious Mind
+
+Share This Post:
+
+
+ 
+Facebook
+
+
+
+
+ 
+Twitter
+
+
+
+
+ 
+Youtube
+
+
+
+
+ 
+LinkedIn
+
+
+
+
+ 
+Whatsapp
+
+
+
+
+ 
+Print
+
+
+
+
+ 
+Share via Email
+
+
+
+Previous Post
+
+
+Eco-Anxiety: The Psychological Strain of Climate Change
+
+
+
+
+
+
+Next Post
+
+
+
+
+The Psychology Behind Association
+
+Leave feedback about this 
+
+Cancel Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rating
+
+5
+
+4
+
+3
+
+2
+
+1
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Awareness
+, 
+Social
+
+
+Indigenous Performance Arts in India: A Glorious Past
+
+
+
+December 29, 2024
+
+Social
+
+
+Transformational listening: Did the pandemic help us return
+
+
+
+December 23, 2024
+
+Awareness
+, 
+Social
+
+
+The Psychology Behind Watching Squid Game 
+
+
+
+November 29, 2024
+
+Awareness
+, 
+Social
+
+
+Individual vs. Group Brainstorming: Which One Yields Better
+
+
+
+November 25, 2024
+
+Awareness
+, 
+Social
+
+
+Why Halloween May Be Scarier for People with
+
+
+
+October 29, 2024
+
+
+
+
+
+
+STAY CONNECTED
+
+
+
+
+
+
+
+
+
+Facebook
+
+246,000
+
+Fans
+                
+
+
+
+Twitter
+
+13,100
+
+Followers
+                
+
+
+
+Instagram
+
+125,000
+
+Followers
+                
+
+
+
+Youtube
+
+15,100
+
+Subscriber
+
+
+
+POPULAR NEWS
+
+
+
+
+
+
+
+Travel
+
+Hodophile: A Person who Loves to Travel
+
+
+
+August 6, 2023
+
+
+Life Style
+
+10 Signs of Intelligent People, According to Psychology
+
+
+
+December 26, 2023
+
+
+Life Style
+
+The Psychology of Discipline
+
+
+
+October 7, 2023
+
+
+About Author
+
+
+
+
+
+
+
+
+Mental Health
+
+
+Be aware, Be Informed and Take action.
+
+Subscribe
+
+
+
+HOT CATEGORIES
+
+
+
+
+
+1141
+545
+655
+5
+186
+133
+
+
+
+
+Subscription 01
+
+
+
+
+
+Subscribe To Our
+Newsletter
+No spam, notifications only about new products, updates.
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Now
+
+form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit { min-width:100%; }form.fluent_form_2 .wpf_has_custom_css.ff-btn-submit:hover { min-width:100%; } 
+
+
+
+
+
+
+
+
+        
+
+
+
+TAGS
+
+
+
+
+
+
+
+#psychology
+anxiety
+depression
+emotions
+happiness
+Mental Health
+mental illness
+mindfulness
+motivation
+psychology
+Relationship
+relationships
+social media
+stress
+success
+
+
+
+
+
+
+
+
+Psychologs is a popular magazine that covers a wide range of topics related to mental health, parenting, Education and human behavior, written by experts in the field.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other Links
+
+
+Submit Article
+ 
+Internships
+
+Terms &amp; Conditions 
+ 
+Privacy Policy 
+ 
+Refund Policy 
+ 
+Shipping Policy 
+ 
+Instructions for writing Article 
+ 
+Contact Us 
+
+
+
+
+
+
+Categories
+
+
+Recent Posts
+
+
+News
+
+Cricketer Pratika Rawal credits Psychology Studies for Mental Resilience
+
+
+
+January 11, 2025
+
+
+Awareness
+
+Passive-Aggressive Behaviour: Identifying, Causes, and How to Deal with it
+
+
+
+January 11, 2025
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{{ data.variation.variation_description }}}
+{{{ data.variation.price_html }}}
+{{{ data.variation.availability_html }}}
+Sorry, this product is unavailable. Please choose a different combination.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18;h=63&d12;k=63&d6;d&=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c
+b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;dc;c++)for(b=f[a.charAt(c)],g=(g
+b[a][c]&&e==g){d=new Date;d=-b[a][c]-Math.round(d.getTime()/1E3);if(0
+{(g.offsetWidth||g.offsetHeight||g.getClientRects().length)&&u.push(g)});1
+{var v=b64d(r.dataset.group);option_group_items=v.split(",");option_group_items.forEach(function(C,E){-1==k&&C.trim()==g&&(k=t,timed_groups.includes(v)&&b.classList.add("ai-timed-rotation"))})})}))}else if(b.hasAttribute("data-shares"))for(f=JSON.parse(atob(b.dataset.shares)),a=Math.round(100*Math.random()),c=0;c
+f[c]||!(a
+e.length&&(f%=e.length),a=parseInt(b.dataset.counter),a
+=e.length&&(k-=e.length)):k=e.length):(k=Math.floor(Math.random()*e.length),a.getMilliseconds()%2&&(k=e.length-k-1));if(b.classList.contains("ai-rotation-scheduling"))for(k=-1,f=0;f
+=l[0]&&c
+k||k=e.length)){a=e[k];var z="",w=b.classList.contains("ai-timed-rotation");e.forEach((g,p)={g.hasAttribute("data-time")&&(w=!0)});if(a.hasAttribute("data-time")){f=atob(a.dataset.time);if(0==f&&1
+=e.length&&(c=0);m=e[c];if(!m.hasAttribute("data-time")){k=c;a=e[k];f=0;break}m=atob(m.dataset.time)}while(0==m&&c!=k);0!=f&&(k=c,a=e[k],f=atob(a.dataset.time))}if(0
+=0&&(c=c.substring(0,j)+"([\\w._\\+]+)"+c.substring(j+5)),b[e]=new RegExp(c,"i");k.props[a]=b}d(k.oss),d(k.phones),d(k.tablets),d(k.uas),d(k.utils),k.oss0={WindowsPhoneOS:k.oss.WindowsPhoneOS,WindowsMobileOS:k.oss.WindowsMobileOS}}(),g.findMatch=function(a,b){for(var c in a)if(i.call(a,c)&&a[c].test(b))return c;return null},g.findMatches=function(a,b){var c=[];for(var d in a)i.call(a,d)&&a[d].test(b)&&c.push(d);return c},g.getVersionStr=function(a,b){var c,d,e,f,h=g.mobileDetectRules.props;if(i.call(h,a))for(c=h[a],e=c.length,d=0;d
+1&&(a=b[0]+".",b.shift(),a+=b.join("")),Number(a)},g.isMobileFallback=function(a){return g.detectMobileBrowsers.fullPattern.test(a)||g.detectMobileBrowsers.shortPattern.test(a.substr(0,4))},g.isTabletFallback=function(a){return g.detectMobileBrowsers.tabletPattern.test(a)},g.prepareDetectionCache=function(a,c,d){if(a.mobile===b){var e,h,i;return(h=g.findMatch(g.mobileDetectRules.tablets,c))?(a.mobile=a.tablet=h,void(a.phone=null)):(e=g.findMatch(g.mobileDetectRules.phones,c))?(a.mobile=a.phone=e,void(a.tablet=null)):void(g.isMobileFallback(c)?(i=f.isPhoneSized(d),i===b?(a.mobile=g.FALLBACK_MOBILE,a.tablet=a.phone=null):i?(a.mobile=a.phone=g.FALLBACK_PHONE,a.tablet=null):(a.mobile=a.tablet=g.FALLBACK_TABLET,a.phone=null)):g.isTabletFallback(c)?(a.mobile=a.tablet=g.FALLBACK_TABLET,a.phone=null):a.mobile=a.tablet=a.phone=null)}},g.mobileGrade=function(a){var b=null!==a.mobile();return a.os("iOS")&&a.version("iPad")=4.3||a.os("iOS")&&a.version("iPhone")=3.1||a.os("iOS")&&a.version("iPod")=3.1||a.version("Android")2.1&&a.is("Webkit")||a.version("Windows Phone OS")=7||a.is("BlackBerry")&&a.version("BlackBerry")=6||a.match("Playbook.*Tablet")||a.version("webOS")=1.4&&a.match("Palm|Pre|Pixi")||a.match("hp.*TouchPad")||a.is("Firefox")&&a.version("Firefox")=12||a.is("Chrome")&&a.is("AndroidOS")&&a.version("Android")=4||a.is("Skyfire")&&a.version("Skyfire")=4.1&&a.is("AndroidOS")&&a.version("Android")=2.3||a.is("Opera")&&a.version("Opera Mobi")11&&a.is("AndroidOS")||a.is("MeeGoOS")||a.is("Tizen")||a.is("Dolfin")&&a.version("Bada")=2||(a.is("UC Browser")||a.is("Dolfin"))&&a.version("Android")=2.3||a.match("Kindle Fire")||a.is("Kindle")&&a.version("Kindle")=3||a.is("AndroidOS")&&a.is("NookTablet")||a.version("Chrome")=11&&!b||a.version("Safari")=5&&!b||a.version("Firefox")=4&&!b||a.version("MSIE")=7&&!b||a.version("Opera")=10&&!b?"A":a.os("iOS")&&a.version("iPad")
+=5&&a.version("BlackBerry")
+=5&&a.version("Opera Mini")
+=2.3||a.is("iOS"))||a.match("NokiaN8|NokiaC7|N97.*Series60|Symbian/3")||a.version("Opera Mobi")=11&&a.is("SymbianOS")?"B":(a.version("BlackBerry")
+D&&(D+=864E5));scheduling_start_date_ok=D=P;scheduling_end_date_ok=0==K||D

@@ -1,0 +1,1586 @@
+ 
+ 
+    
+ 
+    
+ 
+
+ 
+ 
+Postmodernism in Fantasy: An Essay by Brandon Sanderson | Whatever
+
+
+.wf-active #header .site-title{font-family:"Abril Fatface",sans-serif;font-weight:400;font-style:normal}.wf-active #header .site-title a{font-weight:400;font-style:normal}.wf-active body{font-family:"Libre Baskerville",serif}.wf-active blockquote{font-family:"Libre Baskerville",serif}.wf-active #header .site-description{font-family:"Libre Baskerville",serif}.wf-active #navigation{font-family:"Libre Baskerville",serif}.wf-active .post-date{font-family:"Libre Baskerville",serif}.wf-active .pagination{font-family:"Libre Baskerville",serif}.wf-active .widget_recent_comments table{font-family:"Libre Baskerville",serif}.wf-active #s{font-family:"Libre Baskerville",serif}.wf-active .sidebar #searchsubmit{font-family:"Libre Baskerville",serif}.wf-active .footer{font-family:"Libre Baskerville",serif}.wf-active #comments #respond input#submit, .wf-active #nextLink a, .wf-active #prevLink a, .wf-active #searchsubmit, .wf-active #submit, .wf-active .btn, .wf-active .more-link, .wf-active .reply a, .wf-active a.button, .wf-active form input[type='submit']{font-family:"Libre Baskerville",serif}.wf-active #author, .wf-active #email, .wf-active #url{font-family:"Libre Baskerville",serif}.wf-active #comment{font-family:"Libre Baskerville",serif}.wf-active #cancel-comment-reply-link{font-family:"Libre Baskerville",serif}.wf-active table{font-family:"Libre Baskerville",serif}.wf-active #infinite-footer .container{font-family:"Libre Baskerville",serif}.wf-active #infinite-footer .container{font-family:"Libre Baskerville",serif}.wf-active h1{font-family:"Abril Fatface",sans-serif;font-weight:400;font-style:normal}.wf-active h2{font-family:"Abril Fatface",sans-serif;font-weight:400;font-style:normal}.wf-active h3{font-family:"Abril Fatface",sans-serif;font-weight:400;font-style:normal}.wf-active h4{font-family:"Abril Fatface",sans-serif;font-weight:400;font-style:normal}.wf-active h5{font-family:"Abril Fatface",sans-serif;font-weight:400;font-style:normal}.wf-active h6{font-family:"Abril Fatface",sans-serif;font-weight:400;font-style:normal}.wf-active .headline{font-style:normal;font-weight:400}.wf-active .headline-small{font-style:normal;font-weight:400}.wf-active .headline-archive{font-style:normal;font-weight:400}.wf-active .headline-slide{font-style:normal;font-weight:400}.wf-active .title{font-family:"Abril Fatface",sans-serif;font-weight:400;font-style:normal}.wf-active .headline a, .wf-active .headline-small a{font-weight:400;font-style:normal}.wf-active #comments-title{font-style:normal;font-weight:400}
+img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+
+
+
+
+img#wpstats{display:none}
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+
+
+
+Whatever
+
+
+LOOK OUT YOU ROCK AND ROLLERS
+Menu
+
+
+Home
+
+
+
+About
+
+A Brief Biography of John Scalzi
+
+
+Availability for Interviews, Appearances, Writing Work and Optioning Existing Work
+
+
+Books and Other Projects by John Scalzi
+
+
+Contact Information
+
+
+Guidelines for Publicity, Blurbing, Unpublished Work, Story Ideas, Social Media Boosting, Guest Blogging, Charitable Solicitations, Autographing, Educational Use and School Assignments
+
+
+Scheduled Appearances
+
+
+Site Disclaimer, Comment and Privacy Policy
+
+
+The Canonical Bacon Page
+
+
+The Scalzi Creative Sampler
+
+
+Scalzi Enterprises · The Scalzi Family Foundation
+
+
+
+Postmodernism in Fantasy: An Essay by Brandon Sanderson
+
+September 12, 2010
+Kate Baker
+
+ &nbsp;
+
+Today is my last day as site manager here at the Whatever.  
+As I prepare to hand the blog back to John, I thought I&#8217;d give you a surprise for making me feel so welcome. At first, I was going to tape bacon to my kids, but I figured someone would call CPS on me. Instead I&#8217;m happy to present 
+Brandon Sanderson
+ as a last-minute guest blogger! He has written a terrific and engaging essay concerning postmodernism in fantasy. Which is 
+super fantastic
+ as I&#8217;m taking multiple literature courses this fall. Thanks, Mr. Sanderson!
+Brandon Sanderson is the author of 
+Elantris
+,  the Mistborn trilogy, the Alcatraz series of novels and 
+Warbreaker
+. He was personally chosen to complete the Wheel of Time series originally penned by Robert Jordan, with the latest installment due in November. If his packed panels and readings at Dragon*Con were any indication, he is an author well on his way to rock star status. If you haven&#8217;t jumped in and bought some of these books, you are truly missing out on wonderful reads. So without further ado, I&#8217;ll let him talk about his new novel, 
+The Way of Kings
+.
+You&#8217;re welcome.
+
+POSTMODERNISM IN FANTASY
+
+
+
+The Way of Kings
+
+ is out. I&#8217;ve been thinking a lot about the novel, what it has meant to me over the years, and why I decided to write it as I did. I&#8217;ve had a 
+lot
+ of trouble deciding how to pitch this novel to people. It&#8217;s a trouble I&#8217;ve never had before. I&#8217;m going to explain why this one doesn&#8217;t work as easily. But I&#8217;m going to start with a story.
+
+There&#8217;s a particular music video I saw quite often when working the graveyard shift at the local hotel. I worked that job primarily because it allowed me to write at work (I wrote some eight or so novels while sitting at that front desk, including both 
+Elantris
+ and the original draft of 
+The Way of Kings
+). However, part of my job there was the do the night audit of the cash drawer and occupancy, that sort of thing. As I worked, VH1/MTV would often become my radio for an hour or so, playing on the little television hidden behind the front desk.
+The video was by Jewel, and was for the song &#8220;
+Intuition
+.&#8221; We&#8217;ll pretend, for the sake of defending my masculinity, that I paid special attention for the literary nature of the video, and not because I have a fondness for Jewel&#8217;s music. And there 
+was
+ something very curious about this video. In it, Jewel transitions back and forth between washed-out &#8220;normal world&#8221; shots of her walking on a street or interacting with people, and color-saturated &#8220;music video&#8221;-style shots of her engaging in product promotion while wearing revealing clothing.
+The tone of the video is a little heavy-handed in its message. Among other things, it is meant to parody rock star/music video culture. It shows Jewel in oversexualized situations, having sold herself out in an over-the-top way. It points a critical finger at sexual exploitation of the female form in advertising, and juxtaposes Jewel in a normal, everyday walk with a surreal, Hollywood version of herself promoting various products.
+Now, what is absolutely fascinating to me about this video is how perfectly it launches into an discussion of the literary concept of deconstructionism. You see, Jewel is able to come off looking self-aware—even down-to-earth—in this video, because of the focus she puts on how ridiculous and silly modern advertising is. The entire video is a condemnation of selling out, and a condemnation of using sexual exploitation in advertising.
+And yet, while making this condemnation, Jewel gets to reap the benefits of the very things she is denouncing. In the video, her &#8220;Hollywood self&#8221; wears a tight corset, gets soaked in water, and prances in a shimmering, low-cut gown while wind blows her hair in an alluring fashion. She points a critical finger at these things through hyperbole, and therefore gains the moral high ground—but the video depends on these very images to be successful. They&#8217;re going to draw every eye in the room, gaining her publicity in the same way the video implies is problematic.
+Deconstructionism is a cornerstone of postmodern literary criticism. Now, as I&#8217;m always careful to note, I&#8217;m not an expert in these concepts. A great deal of what I present here is an oversimplification, both of Jewel&#8217;s video and of postmodernism itself. But for the purposes of this essay, we don&#8217;t have time for pages of literary theory. The title itself is already pretentious enough. So, I&#8217;ll present to you the best explanation of deconstructionism I was given when working on my master&#8217;s degree: &#8220;It&#8217;s when you point out that a story is relyin&#8217; on the same thing it&#8217;s denyin&#8217;.&#8221;
+That will work for now.
+
+THIS APPLIES TO FANTASY
+
+Before postmodern literature can start appearing in a genre (and therefore, before deconstructionists can start pointing out the irony inherent in that postmodern literature) you need to have a body of work with dominant themes and concepts. You need an audience familiar enough with those themes to recognize when they are being molded, changed, and built upon.
+Fantasy (and the epic in particular) hit a postmodern stage with remarkable speed. Tolkien was so remarkably dominant, so genre-changing, that reactions to him began immediately. And, since so much of the audience was familiar with his tropes (to the point that they quickly became expected parts of the genre), it was easy to build upon his work and change it. You could also argue that the Campbellian monomyth (awareness of which was injected into the veins of pop culture by George Lucas) was so strong in sf/f that we were well prepared for our postmodern era to hit. Indeed, by the late &#8217;70s, the first major postmodern Tolkienesque fantasy epic had already begun. (In the form of the Chronicles of Thomas Covenant, the Unbeliever.)
+During my early years writing, I mixed a lot with other aspiring fantasy novelists. A great number of us had grown up reading the Tolkien- reaction books. Brooks, Eddings, Williams, Jordan. You might call us of the rising generation Tolkien&#8217;s grandchildren. (Some of you may have heard me call him, affectionately, &#8220;Grandpa Tolkien&#8221; when I talk about him, which is an affectation I think I got from a David Eddings interview I once read.) A lot of my generation of writers, then, were ready for the next stage of fantasy epics. The &#8220;new wave,&#8221; so to speak.
+During those years, I read and heard a lot of talk about &#8220;taking the next step&#8221; in fantasy. Or, &#8220;making the genre our own.&#8221; It seems that everyone I talked to had their own spin on how they were going to revolutionize the genre with their brilliant twist on the fantasy epic. Unfortunately, a lot of us were a little unambitious in our twists. (&#8220;My elves are short, rather than tall!&#8221; or &#8220;I&#8217;m going to make orcs a noble warrior culture, not just a group of evil, thoughtless monsters!&#8221;) Our hearts were good; our methods were problematic. I remember growing dissatisfied with this (specifically with my own writing, which was going through some of the same not-so-original originality problems), though I couldn&#8217;t ever define quite why.
+I think I have a better read on it now. It has to do with a particular explanation one writer gave when talking about his story. It went something like this: &#8220;Well, it starts out like every other &#8216;farmboy saves the world&#8217; fantasy novel. You know, the plucky sidekick rogue, the gang of unlikely woodsmen who go on a quest to find the magic sword. But it&#8217;s not going to 
+end
+ like that. I&#8217;m going to twist it about, make it my own! At the three-quarter mark, the book becomes something else entirely, and I&#8217;ll play off all those expectations! The reader will realize it&#8217;s 
+not
+ just another Tolkienesque fantasy. It&#8217;s something new and original.&#8221;
+There&#8217;s a problem in there. Can you spot it?
+Here&#8217;s the way I see it. That book is going to disappoint almost everyone. The crowd who is searching for something more innovative will pick up the book, read the beginning, and grow bored because of how familiar the book seems. They&#8217;ll never get to the part where you&#8217;re new and original because of how strongly the book is relying upon the thing it is (supposedly) denying. And yet, the people who pick up your book and like it for its resonant, classical feel have a strong probability of growing upset with the novel when it breaks so solidly out of its mold at the end. In a way, that breaks the promise of the first three-quarters of the book.
+In short, you&#8217;re either going to bore people with the bulk of the book or you&#8217;re going to make them hate your ending.
+That&#8217;s a tough pill to swallow. I could be completely wrong about it; I frequently am. After all, I&#8217;ve often said that good writing defies expectations. (Or, more accurately, breaks your expectations while fulfilling them in ways you didn&#8217;t know you wanted. You have to replace what they thought they wanted with something so much more awesome that they are surprised and thrilled at the same time.) But I think that the above scenario exposes one of the big problems with postmodern literature. Just as Jewel&#8217;s music video is likely to turn off—because of the sexual imagery—people who might have agreed with its message, the above story seems likely to turn away the very people who would have appreciated it most.
+
+
+
+
+MY OWN WRITING
+
+I ran into this problem full-on when I first conceived the idea for Mistborn. For those who haven&#8217;t read the series, one of the main premises is this: A young man followed the hero&#8217;s cycle from a fantasy novel, but failed at the end. The thing that made me want to write it, originally, was the thought, &#8220;What if Rand lost the Last Battle? What if Frodo had failed to destroy the ring? What if the Dark Lord won?&#8221;
+A very intriguing thought. And yet, I realized early on that if I wrote the book as I was planning, I would fail. That story undermines itself. Perhaps there is someone out there who can write it in a way that engages the reader without betraying them at the end, but that person was not me. By the point I started that book, I was in the camp of those who (despite having a great love for the fantasy epics of the past) wanted to explore where fantasy could go, not where it had already been. I wasn&#8217;t interested in writing a standard hero&#8217;s journey. Jordan had done that already, and had done it well.
+And so, I set Mistborn a thousand years after the hero&#8217;s failure. I made my original concept into the backstory. People have asked (a surprisingly large number of them) when I&#8217;ll write the prequel story, the story of Rashek and Alendi. My answer is to smile, shake my head, and say, &#8220;I don&#8217;t think it&#8217;s likely.&#8221; To explain why would require a lecture divided into three lengthy parts, and you know how boring that kind of thing can be.
+Now, some of you may be thinking the obvious thought: &#8220;But Brandon, Mistborn 
+is
+ a postmodern fantasy epic.&#8221;
+Indeed it is. I was intrigued by the concept of writing a postmodern fantasy, and that&#8217;s what Mistborn is. In each book, I consciously took aspects of the fantasy epic and twisted them about. My story above wasn&#8217;t to discourage that type of writing; it was to explain one major way that it could go bad, if you&#8217;re not careful.
+I tried to walk a line in
+ 
+Mistborn. Enough archetype that I could resonate with the themes from fantasy that I wanted to play with, but enough originality to keep the readers from expecting a standard ending. It&#8217;s the type of balance that I can never walk perfectly because there is just too much variety to be had in the world. Some people are going to read the books and feel betrayed because of the things I pull; others are going to find that they&#8217;re not original enough for their taste.
+The success of the books was in hitting the right balance for the right people; those like myself who love the old epics, and like some resonance with them—but who also want something new in their storytelling. That careful blend of the familiar and the strange, mixed up and served to people who have tastes like my own. That&#8217;s basically one of the only measures we authors can use. (And note, I&#8217;m not the only one—by a long shot—doing postmodern fantasy. Look to Jacqueline Carey&#8217;s series The Sundering for another example of someone doing the right blend, I feel, in a postmodern fantasy epic.)
+
+THE WAY OF KINGS
+
+The Mistborn books were successful. Many readers liked the idea of a world where the Dark Lord won, where prophecy and the hero were not what we expected them to be.
+Because of how well it worked, however, I fell into something of a trap. When it came time to rewrite 
+The Way of Kings
+, I floundered. I knew the story I wanted to tell, but I felt I needed to insert a major twist on the fantasy genre, along the lines of what I&#8217;d done in Mistborn. What would be my twist? What would be the postmodern aspect of this book? It literally kept me up nights. (Not hard to do, since I&#8217;m an insomniac, but still.)
+Over time, I wrestled with this because a larger piece of me resisted doing the postmodern thing in Mistborn again. That piece of me began to ask some difficult questions. Did I want to be known as &#8220;The guy who writes postmodern fantasies&#8221;? There would be worse monikers to have. However, one of the major purposes of deconstructionism, is to point out the problem with self-referential material. There was a gimmick to the Mistborn books. It was a very useful one, since it allowed me to pitch the book in one sentence. &#8220;The hero failed; this is a thousand years later.&#8221;
+There are a lot of very good postmodern stories out there, and I love the Mistborn books. But my heart wasn&#8217;t in doing that again. In order to write Mistborn the way I did, I also had to rely on the archetypes. My characters, for example, were very archetypal: The street urchin. The clever rogue who robs to do good. The idealistic young nobleman who wants to change the world. My plots were very archetypal as well: a heist story for the first book, a siege narrative for the second. I believe that a good book can use archetypes in new ways without being clichéd. (
+The Name of the Wind
+ is an excellent example.)
+In fact, it&#8217;s probably impossible not to reflect archetypes in storytelling. I&#8217;m sure they&#8217;re there in 
+The Way of Kings
+. But I found in working on it that I didn&#8217;t want to intentionally build a story where I relied upon reader expectations. Instead, I wanted to look for themes and character concepts that I haven&#8217;t approached before, and that I haven&#8217;t seen approached as often in the genre.
+There&#8217;s a distinction to be found. It&#8217;s much like the difference in humor between parody and satire. (As I define them.) In the first, you are funny only if your audience understands what you are parodying. In the second, you are funny because you are innately funny. Early Pratchett is parody. Mid and late Pratchett is satire. (Not to mention brilliant.)
+And this is why, in the end, I decided that I would 
+not
+ write 
+The Way of Kings
+ as a postmodern epic. (Not intentionally, at least.) Mistborn felt, in part, like a reflection. There were many original parts, but at its core it was a study of the genre, and—to succeed at its fullest—it needed an audience who understood the tropes I was twisting about. Instead of making its own lasting impression and improvement on the genre, it rested upon the work done by others.
+In short, I feel that using that same process again would make it a crutch to me. There is nothing at all wrong with what Mistborn did. I&#8217;m very proud of it, and I think it took some important steps. But it&#8217;s not what I want to be known for, not solely. I don&#8217;t just want to reflect and study; I want to create. I want to write something that says, &#8220;Here is my addition, my tiny step forward, in the genre that I love.&#8221;
+To couch it in the terms of the Jewel video that started the essay, instead of creating a piece of art that screams, &#8220;Hey, look at those other pieces of art and hear my take on them,&#8221; I wanted to create something that says, &#8220;Look at this piece of art. This is what I think art should be in this genre now.&#8221; Part of me thinks that a video that was beautiful for its own sake, that didn&#8217;t rely upon the follies of others, would do more toward undermining those follies than would a video that pointed them all out.
+And so, I tossed aside my desire to confine 
+The Way of Kings
+ into a single, pithy sentence explaining the slant I was taking on the fantasy genre. I just wrote it as what it was.
+&#8212;
+Brandon Sanderson&#8217;s 
+website
+ and 
+blog
+.
+
+The Way of Kings
+ can be found at 
+Barnes&amp;Noble
+|
+Borders
+|
+Amazon
+|
+Indiebound
+|
+Powell&#8217;s
+.
+
+
+Share:
+
+
+
+
+
+
+
+Click to share on Bluesky (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Threads (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Mastodon (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Facebook (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Reddit (Opens in new window)
+
+
+
+
+
+
+
+Click to share on LinkedIn (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Pinterest (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Tumblr (Opens in new window)
+
+
+
+
+
+
+
+Click to share on WhatsApp (Opens in new window)
+
+
+
+
+
+
+
+Click to share on Pocket (Opens in new window)
+
+
+
+
+
+
+
+Click to email a link to a friend (Opens in new window)
+
+
+
+
+
+
+
+
+
+
+Like this:
+
+
+
+Like
+
+ 
+Loading...
+
+
+
+
+
+
+
+ Category: 
+Uncategorized
+&larr; 
+True Confessions of a Reading Addict, or, Geographically Inspired Reading, Anyone?
+
+
+My Life In Women&#8217;s Roller Derby
+ &rarr;
+
+
+ben
+
+ 
+
+September 12, 2010, 11:35 am
+
+
+
+Fantastic post! I&#8217;m in the middle of Way of Kings as we speak, so this interests me greatly.
+Regarding the mistborn. I think there&#8217;s a distinction between a concept used to hook the reader, and what actually carries the book through to the end. A friend of mine piqued my interest in mistborn by selling me on &#8220;A hero journeyed out to stop teh evil. He failed!&#8221;, and that&#8217;s why I bought the book. The reason I liked the book, however, was because it was an interesting story for a fantasy novel, a caper! The reason it was enjoyable, for me at least, was the &#8220;Swords and Sorcery Ocean&#8217;s Eleven&#8221; (Ocean&#8217;s Elven?) slant to it. This was new to me, and was why I loved the book, but had a harder time getting into the later books, possibly because the postmodern concept wasn&#8217;t enough to hold me.
+The Way of Kings, OTOH, is rich, solid fantasy through and through. I haven&#8217;t been this excited about new fantasy since I orignally read A Game of Thrones. The reason TWOK, like AGOT, is so good, in my opinion, is that all the fantasy trappings are present, but it does not rely on them to tell a good story. The draw, as with all the best books, are in the characters, the politics, and the second order effects of the fantasy trappings. It&#8217;s a BIG BOOK, but I have yet to read much of what I would consider to be filler. Great work!
+
+
+
+
+Jason
+
+ 
+
+September 12, 2010, 1:24 pm
+
+
+
+Eeek! I&#8217;m afraid this book may be too smart and complex for me.
+
+
+
+
+
+K.W. Ramsey
+
+
+ 
+
+September 12, 2010, 1:40 pm
+
+
+
+@Jason 
+Don&#8217;t be afraid. The only way we grow is by stretching and straining.
+I&#8217;m thinking I&#8217;m going to have to add this book to the long list of things I need to read. Sigh, that list keeps getting longer and longer. Maybe if I give up sleeping and eating&#8230;.
+
+
+
+
+
+Yewtree
+
+
+ 
+
+September 12, 2010, 2:10 pm
+
+
+
+I am so glad that more people are stepping outside the bog-standard &#8220;farmboy turns out to be wizard and saves the kingdom&#8221; plot.
+
+
+
+
+
+DeAnna
+
+
+ 
+
+September 12, 2010, 2:15 pm
+
+
+
+Excellent post.
+
+
+
+
+Tal
+
+ 
+
+September 12, 2010, 3:03 pm
+
+
+
+Postmodernism is a fad. It&#8217;s how hipsters pretend that they&#8217;re different from every other generation of hipster that has come before them.
+I wish more storytellers would just think about the story they want to tell, and do it. The more you navel gaze about it&#8211;trying to make sure you&#8217;re being different enough, or trying to avoid criticisms of being cliche or derivative&#8211;the more the end result becomes a pretentious waste of space. 
+We&#8217;ve come to a point at which the real twist for a new story is that there is no twist. We&#8217;ve gotten to a point at which happy endings and real adventure are delightful because they&#8217;re so rare. We&#8217;ve gotten to a point at which tragedy, dour anti-heroes and unsatisfying endings are so automatically considered True Art that no-one&#8217;s bothering to create something else anymore. 
+Upending convention, in other words, is becoming the convention of the moment, and that&#8217;s unutterably dull. Storytellers&#8217; egos&#8211;the desire to be considered something better and more rare than the next guy&#8211;are getting in the way of truly entertaining and satisfying stories. 
+I&#8217;m not saying we should all go back to formulaic Disneyesque churn. Just that we need to stop thinking about how we, as creators, are percieved by our audiences and critics, and more about telling an enjoyable story. If your name is bigger than the title, you&#8217;re a pretentious ass, and you need to stop writing.
+
+
+
+
+
+Tonya Lariviere
+
+
+ 
+
+September 12, 2010, 3:42 pm
+
+
+
+Thank you for this.  Finally after so many years of trying to figure out what Deconstructionism is and how to explain it, you gave me “It’s when you point out that a story is relyin’ on the same thing it’s denyin’.” Oh, that&#8217;s good&#8230;
+
+
+
+
+J-Whitt
+
+ 
+
+September 12, 2010, 4:06 pm
+
+
+
+@Tal- &#8220;*snip* we need to stop thinking about how we, as creators, are percieved by our audiences and critics, and more about telling an enjoyable story. *snip*&#8221;
+If writers stop thinking about how they are perceived by their audiences and critics then no matter how enjoyable their stories are they won&#8217;t be enjoyed by a large enough audience for them to continue writing. Audiences and critics are necessary (and so are how they perceive an artist) for artists to do what it is that they do.
+Personally, I loved all 3 Mistborn books. They are what made Brandon my favorite author. Now whenever I see a new book from him I&#8217;m gonna buy it ASAP.
+
+
+
+
+Kenn
+
+ 
+
+September 12, 2010, 4:07 pm
+
+
+
+That bit about feeding us something beyond our expectations: Warbreaker totally did that for me.  I&#8217;m sure this is said all the time but I really enjoyed that book and really enjoy nearly everything I read from Brandon.
+
+
+
+
+
+Masks of Eris
+
+
+ 
+
+September 12, 2010, 4:07 pm
+
+
+
+
+To explain why would require a lecture divided into three lengthy parts, and you know how boring that kind of thing can be.
+
+Ooh. I giggled for a minute at that. (&#8220;What? Do I know&#8230; oh, Sanderson, you magnificent bastard! I see what you did there!&#8221;)
+
+
+
+
+MarkH
+
+ 
+
+September 12, 2010, 4:18 pm
+
+
+
+Brandon, what I got out of your essay is that, if you had not written it at all, I would have got just as much out of it.
+Unless you&#8217;re a Lit major or a navel-gazer, &#8220;Postmodernism&#8221; is a meaningless, worthless piece of nomenclature. Just write something good, and 99% of your audience won&#8217;t care what sort of characterization ought to be attached to it; they&#8217;ll simply enjoy reading it, be glad that you did, and then read the next thing you write too.
+
+
+
+
+Peter Ahlstrom
+
+ 
+
+September 12, 2010, 4:23 pm
+
+
+
+Tal, you apparently didn&#8217;t finish reading the essay, since Brandon&#8217;s ultimate conclusion was NOT to write the book as a postmodern fantasy. ;)
+As for the size of an author&#8217;s name, cover design decisions are largely up to the publisher. A writer doesn&#8217;t sit down and write a book envisioning how big his or her name will be on the front.
+
+
+
+
+old aggie
+
+ 
+
+September 12, 2010, 4:25 pm
+
+
+
+@ Tal: totally agree.
+Post-modern / post-schmodern. Who cares?
+I loved the Mistborn trilogy because it is a great story, with interesting characters.
+The Alcatraz series is just wonderful &#8211; kids who hate reading can&#8217;t get enough of these. (Disappointed to see that Vol. 4 has been pushed back to December!)
+To me, most of the characters in Warbreaker were a little flat, but after Mistborn, I was due for a let-down.
+I&#8217;m about 1/3 of the way through TWOK now, and my jury is still out on whether it&#8217;ll be worth reading 10 long volumes. I just don&#8217;t have time to make charts of kingdoms/epochs/magics at this point in my life &#8211; certainly no time to memorize fictional stuff. Maybe if someone helps me out (at the 17th Shard, perhaps?) &#8230;
+By the time I got to book 4 of the WoT series, I simply hated all the characters and wanted them all to die &#8211; or, better, to grow up. I relied on the online summaries to prepare me for TGS and the other 2 Brandon is writing.
+We know Brandon is a smart guy, but more important to fans is that he writes quality stories about people we can relate to and care about.
+Thanks Kate for having 2 of my favorite authors as guests during this hiatus!
+
+
+
+
+
+whatsername
+
+
+ 
+
+September 12, 2010, 4:30 pm
+
+
+
+Can&#8217;t wait to have time to read this!
+
+
+
+
+Tal
+
+ 
+
+September 12, 2010, 4:41 pm
+
+
+
+@J-Whitt : If you want to make a living as a writer, of course there&#8217;s some level of keeping audience in mind that&#8217;s necessary. But if you go beyond &#8220;will enough people read this so I can get paid?&#8221; into &#8220;will people consider me a True Arteest for writing this?&#8221; you&#8217;ve become a douche, and have no business foisting your self-important crap on the public. 
+@Peter : I was agreeing with Brandon&#8217;s conclusion, not taking him to task. 
+Also, the name-size thing was a metaphor. I think you may be surprised at the number of writers who, whether they admit it or not, really don&#8217;t care about the stories they write so long as they get attention for writing them, and thus will do any number of ridiculous stunts to get said attention.
+
+
+
+
+
+Tara Maya
+
+
+ 
+
+September 12, 2010, 4:54 pm
+
+
+
+I wouldn&#8217;t have thought to call this deconstructionist, which I associate more with an assault on storytelling at a far more basic level &#8212; messing around with chapter devisions, logic, clarity, even grammar. Like Beloved. The story is wonderful, but who can understand what the story is? The novel is so deconstructed, it&#8217;s a pain to read. And during the 70s there were sff novels like that too, which simply chucked sense out the window. 
+But this method of postmodern writing &#8212; more revisionist than deconstructive, imho &#8212; appeals to me much more. Respect the tropes, but play with them. And ultimately, seek to create new ones.
+
+
+
+
+Tyson Perna
+
+ 
+
+September 12, 2010, 5:12 pm
+
+
+
+Tal, I completely agree when you say &#8220;We’ve come to a point at which the real twist for a new story is that there is no twist.&#8221;  In fact, I was thinking about this recently when reading Joe Abercrombie&#8217;s review of the movie Inception over on Joe&#8217;s website.  He spent the whole movie waiting for the twist and was disappointed when there was none.  I enjoyed the movie for what it was and the story it was telling.  I admire Chris Nolan for making a movie that didn&#8217;t rely on a gimmick to succeed.
+Brandon, I love the essay but I don&#8217;t agree that you have to be familiar with fantasy tropes to appreciate Mistborn.  Anyone who likes a good story could pick it up and enjoy it.  Maybe they&#8217;d miss a few things, but you can say that about any reader and any book.
+
+
+
+
+
+Jonathan Vos Post
+
+
+ 
+
+September 12, 2010, 5:36 pm
+
+
+
+Great essay!  You fully deserve the Jewel Chair of Postmodern Critical Fantasy at Hogwarts College of The Invisible University. Or is that &#8220;Jeweled Throne&#8221;?
+In my humble opinion, Postmodern Fantasy pre-dates Modern Fantasy.
+Example: Miguel de Saavedra Cervantes (1547-1616): &#8220;Don Quixote of La Mancha&#8221; was published in two volumes, 1605 and 1615.  My mother  learned to read Spanish primarily to read this great masterpiece of world  literature.  An elderly country gentleman of La Mancha reads so many chivalric romances  that he becomes insane, believes them to be true, and goes forth into the  world as a knight-errant to right wrongs and defend the oppressed.  Today one might read this as a warning to obsessed science fiction fans to, in  the words of a famous William Shatner skit on Saturday Night Live &#8220;Get a  Life!&#8221;
+I had written somewhere between 500,000 and 1,000,000 words in a genre which I suddenly realized had never been named, but had been major for centuries.
+Since this is not my soapox, I limit myself here to the TOC and opening.
+HARD SCIENCE FANTASY:
+TABLE OF CONTENTS
+0.0 PREFACE
+Creatures unimaginable on planets yet to be discovered shall be amazed to learn that human civilization performed this major art for over
+0.1 ABSTRACT
+This critical essay represents nondestructive quantum observation of a genre of Speculative Fiction which is, like a neutrino passing through a light year of solid steel, able to penetrate barriers between genres thought to be impermeable.  Let me clarify the “nondestructive quantum” phrase.
+As Professor John Sidles writes: “Quantum microscopy is an emerging technology for achieving comprehensive atomic-resolution imaging of complex molecular structures.  Each cell in the human body contains about a hundred times as many atoms as there are stars in our Milky Way Galaxy. Quantum microscopy has the potential ability to observe all of these atoms, individually, in the same sensu stricto that a telescope resolves the Milky Way into individual stars.
+Quantum system engineering is system design under quantum constraints.
+Such a technology would function as a true quantum molecular microscope, allowing researchers to observe atomic-scale structure and environments in living organisms, nanoscale electronic devices, and advanced materials as readily as present-day optical microscopes
+So, by the kind of extended metaphor inherent in the current essay, I am attempting to construct a critical theory which achieves:
+Late 20th Century and early 21st Century literary analysis falsely imagined – falsely from the viewpoint of the revolutionary paradigm that took most of the 21st Century to become dominant – that the extremes of imaginative literature were Hard Science Fiction on the
+In fact, this false dichotomy is obliterated by recognition that both of the alleged extremes descended from a common ancestor (just as Homo sapiens sapiens and Homo neanderthalis diverged over hundreds of thousands of years from a mutual ancestor, back when multiple species of people roamed the Earth), and that ancestor includes works of literature which are canonical, not just in any genre, but in the
+In Thomas Kuhn’s classic analysis of revolutionary science, he explains that anomalies in displaced conceptions of the cosmos often become central, definitional parts of the new conception, and that the
+Examples:
+I am not claiming to have invented this genre.  Nor do I claim to be its most accomplished practitioner.  Nor is this a manifesto for a new
+
+
+
+
+WizarDru
+
+ 
+
+September 12, 2010, 6:05 pm
+
+
+
+Aparently, Brandon, you&#8217;ve read Tad Williams&#8217; &#8220;Memory, Sorrow and Thorn&#8221;&#8230;because I was pretty much FILLED WITH RAGE at the ending of that book.  Of course, much of that had to do with silly elements like the prophecy of one character turning out to be his great destiny was to OPEN A DOOR.
+I enjoy fantasy that goes outside the tropes&#8230;but if it&#8217;s too obviously trying to go the post-modernism route and deconstructing the genre just for the sake of doing it without actually being entertaining, then I have no interest.
+
+
+
+
+
+Michael Cummings
+
+
+ 
+
+September 12, 2010, 6:05 pm
+
+
+
+After Prof. Vos Posts&#8217; comment, all that I can think to say on the subject is
+
+
+
+
+
+Jonathan Vos Post
+
+
+ 
+
+September 12, 2010, 6:27 pm
+
+
+
+Michael Cummings taken a step further.  Not only thinking in books, but characters in books talking to each other about things they&#8217;ve read in books, and discussing whether that applies in their own situation.
+As in this scene from Galaxy Quest:
+Cervantes wrote postmodern fiction when, in the 2nd volume, he has a character named Cervantes encounter someone who claims to be Cervantes and to have created Don Quixote. They argue about it.
+In the 3 novel manuscripts which I am close to finishing, I have characters argue about concerns such as whether their putative intelligence amplification is more like &#8220;Flowers for Algernon&#8221;, Hoyle&#8217;s &#8220;The Black Cloud&#8221;, or Vinge&#8217;s &#8220;vastening.&#8221;
+In my short fiction &#8220;Alice in Hungerland&#8221; I have the protagonist, trapped and starving in an alternate world, solve her predicament by recalling what Alice said about mirror milk on &#8220;Through the Looking Glass&#8221;, which passage was probably written by Dodgson based on his reading a paper by Louis Pasteur from working with a compound called tartaric acid—a chemical found in the sediments of fermenting wine.
+
+http://www.chemistryexplained.com/Ny-Pi/Pasteur-Louis.html
+.
+Pasteur, as well as other scientists of his time, used the rotation of plane-polarized light as one means for studying crystals. Polarized light can be thought of as occupying a single plane in space. If such light is passed through a solution with dissolved tartaric acid, the angle of the plane of light is rotated. Many organic acids display this feature. What made Pastuer&#8217;s work with tartaric acid and polarized light so important was his careful observation of crystals.
+In addition to tartaric acid another compound named paratartaric acid was found in wine sediments. Chemical analysis showed this compound to have the same composition as tartaric acid, so most scientists assumed the two compounds were identical. Strangely enough, however, paratartaric acid did not rotate plane-polarized light. Pasteur would not accept the idea that such an experimental result could be an accident or unimportant. He guessed that even though the two compounds had the same chemical composition, they must somehow have different structures—and he set out to find evidence to prove his hypothesis. 
+My point being that, since science and literatures are conversations between practioners, it is reasonable (if postmodernist) to let the readers and the characters participate in the conversation.
+
+
+
+
+
+Erin Hoffman
+
+
+ 
+
+September 12, 2010, 9:58 pm
+
+
+
+Extremely interesting read. Thank you to Kate for picking it up and to Brandon for writing it. Much resonates with me greatly, especially &#8216;Tolkien&#8217;s grandchildren&#8217; &#8212; and to some extent I do think we are in a new wave generation of postmodern fantasy. A Song of Ice and Fire seems to fit the bill so far, and I&#8217;m intrigued by the way Mistborn was written in premise. Though I did immediately think that I would have loved it if Tolkien had lived to write Isildur&#8217;s story &#8212; so I think that dark backstory, once the foreground is established, needn&#8217;t necessarily be forbidden territory.
+I would wax further, but am fighting inclinations to talk about my book (fantasy out next June from Pyr) in inappropriate places! So I will just say that there&#8217;s much food for thought here and all greatly appreciated.
+
+
+
+
+Bill
+
+ 
+
+September 13, 2010, 5:34 am
+
+
+
+I finished Way of Kings last week, and was struck by how different Sanderson&#8217;s characters are from his earlier work. The people in Mistborn / Elantris / Alcatraz certainly aren&#8217;t perfect, but they&#8217;re all good, decent people on the inside.
+Every &#8216;good&#8217; character in Way of Kings has evil inside of him or her, and the &#8216;evil&#8217; character show more nobility than the good team. In that way, it did remind me of Jacqueline Carey&#8217;s the Sundering series. You have people who hold to strict codes of ethics doing horribly wrong things, and superficially good characters capable of / having dark thoughts about, doing terrible things.
+
+
+
+
+Bill
+
+ 
+
+September 13, 2010, 7:54 am
+
+
+
+@johnathon: Techincally, when you write about the writing of a book (or expose the writing of a book), that&#8217;s metafiction, not postmodern writing. Though absurdism is an annoying component of postmodernism, the major hallmarks are moral relativism and rejection of norms. Which is why I&#8217;m surprised Brandon describes his writing that way &#8211; he seems like a guy with a strong ethical sense.
+
+
+
+
+Aet
+
+ 
+
+September 13, 2010, 12:14 pm
+
+
+
+First of all, that definition of deconstructionism should be cast in stone in the classrooms of a thousand literary scholars.  
+&#8220;Every ‘good’ character in Way of Kings has evil inside of him or her, and the ‘evil’ character show more nobility than the good team.&#8221;
+The concept of Power Corrupting not only those who are selfish, but also those who are selfless, is a brilliantly provocative statement.  I also liked the concept of Good being something that can be determined by philosophy and reflection (and even then, it can be dicey).  I wish more fantasy novels were this smart.
+
+
+
+
+Bill
+
+ 
+
+September 13, 2010, 3:49 pm
+
+
+
+Wait, which good character has ugly side to him(her)self?
+Dalinar, Kaladin, Shallan?
+
+
+
+
+
+Steve
+
+
+ 
+
+September 13, 2010, 5:39 pm
+
+
+
+Bill-
+
+
+
+
+aphrael
+
+ 
+
+September 13, 2010, 6:36 pm
+
+
+
+Even Dalinar &#8211; it&#8217;s only hinted at, except for one scene where he&#8217;s talking to $SPOILER, but he has darkness in his past, and by the end of the book it&#8217;s quite clear that avoiding it is a big part of what motivates him.
+
+
+
+
+
+Jamie
+
+
+ 
+
+September 13, 2010, 9:26 pm
+
+
+
+Maybe someday.
+@Tal: postmodernism is the dominant logic of today&#8217;s Western culture, and its emergence has demanded response from every field of the humanities. Entire disciplines predicate themselves on postmodern thought.
+Fantasy may be gearing up for post-modern fantasy, but it&#8217;s not quite there. Deconstructive may be an essential postmodern activity (can&#8217;t say for sure if it is or not), but that&#8217;s just evidence of an anti-Structuralist sentiment.
+Compare &#8220;The New York Trilogy,&#8221; the first third of which (&#8220;The City of Glass&#8221;) has Paul Auster writing a mystery about a mystery writer (Quinn) who is mistaken for Paul Auster, tries to solve the mystery, meets Paul Auster (who might not be the Paul Auster he had been mistaken for), writes about the mystery, then vanishes before Paul Auster finds his writing.
+Postmodern fantasy, not to write a manifesto, will really arrive when fantasy stories ask themselves what fantasy stories are, why they are, and why they should bother. Why &#8220;fantasy stories&#8221; instead of &#8220;story stories&#8221; or &#8220;fantasy fantasies?&#8221;
+
+
+
+
+old aggie
+
+ 
+
+September 13, 2010, 10:24 pm
+
+
+
+Sorry, @ Jamie:
+&#8220;postmodernism is the dominant logic of today’s Western culture&#8221;
+No, philosophies and cultures don&#8217;t have logic &#8211; people do.
+As for &#8220;dominant,&#8221; the majority of people couldn&#8217;t care less about ivory-tower musings in these days of 2.0/3.0 decentralized expertise.
+&#8220;fantasy stories ask themselves&#8221;? &#8211; ummm, isn&#8217;t there a human in there somewhere? Stories don&#8217;t tell themselves&#8230;
+It&#8217;s like I used to ask my profs back in grad school: If words have no intrinsic meaning, why should I pay *you* to teach *me*? &#8211; same would apply for spending $$ on books, I suppose.
+
+
+
+
+
+Chris, King of Elfland's 2nd Cousin
+
+
+ 
+
+September 14, 2010, 3:46 pm
+
+
+
+An interesting and thought-provoking post, along with further thought-provoking commentary from everyone! 
+So much of contemporary fiction &#8211; in or out of  genre &#8211; is postmodern meta-fiction that I often wonder if plain ol&#8217; fashioned &#8220;fiction&#8221; still has currency in our literary culture. That&#8217;s not to say that it&#8217;s not written, nor that it doesn&#8217;t sell: good fiction continues to do both. But for the last thirty some odd years, I think the critics haven&#8217;t been giving &#8220;non-postmodern&#8221; fiction love. It&#8217;s only natural that the same respect for deconstructionism eventually wanders into the genre aisles.
+Looking at the New Weird or steampunk, or even some of what was written in the &#8217;80&#8217;s and &#8217;90&#8217;s, I&#8217;d say &#8220;deconstructive&#8221; fantasy has been around for a long time. But deconstructive texts are written in response to other texts (speaking generally, not specifically). 
+Would anyone say that Gregory Maguire&#8217;s books like Wicked or Mirror, Mirror are not &#8220;postmodern&#8221; ? They play with the reader&#8217;s expectations, play with the reader&#8217;s preconceived notions.
+Postmodern theory likes to lay claim to that kind of play, but I&#8217;d argue that *every* decent work of literature does that to some degree &#8211;  including those written long before Derrida defined &#8220;deconstructionism&#8221;. 
+If a story doesn&#8217;t play with the reader&#8217;s expectations, what would be new or worthwhile about it? So do terms like &#8220;postmodernism&#8221; and &#8220;deconstructivist&#8221; have any meaning in fantasy? 
+I think they&#8217;re only helpful if they help authors think about their works. I know that I like to think about such concepts when writing. It lends a framework that I can use to think about innovation. Other authors can be innovative without the framework, but my mind just works too analytically. So the framework of postmodernism is helpful as one of many tools in the toolkit. 
+I doubt most readers worry about whether they&#8217;re reading a work of post-modernism or not: readers are just looking for good stories. Only those readers who want to take a story apart &#8211; who want to look under the hood and figure out what made a story tick &#8211; are going to think about deconstructivism (even if they don&#8217;t know the term or have the theoretical background). But I suspect that those readers are only a subset of the overall audience. That&#8217;s not a bad thing, either. 
+Ultimately the goal is always to write a good story. In my view, any good story (however it&#8217;s labeled) should challenge the reader&#8217;s expectations and preconceived notions because otherwise what&#8217;s the point?
+
+
+
+
+Heather Tomlinson
+
+ 
+
+September 14, 2010, 7:38 pm
+
+
+
+Thank you so much for this post. It comprehensively explains what was bothering me about a book I read recently. Totally relyin&#8217; on what it was denyin&#8217;.
+
+
+
+
+Guess
+
+ 
+
+September 15, 2010, 7:25 am
+
+
+
+Very good essay. I did not study literature in college. I have heard some references to post-modernism. Mainly in art when I see a painting and can&#8217;t figure out what it is. 
+You explained this very well to a lay audience. I really do wish BYU would put Brandon&#8217;s fantasy class on the web.
+
+
+
+
+Henry Dark
+
+ 
+
+September 15, 2010, 10:53 am
+
+
+
+@old aggie
+Interesting question.
+Did your professors respond that, contrary to your suggestion, if words had inherent meaning, you wouldn&#8217;t need to pay them? You would know that red is red, bread is bread, is is is, and a cigar is just a cigar.
+The entire experience of human knowledge would be: person acquires literacy, person reads dictionary, person becomes cognizant of each one true Platonic form to which each one word signifies, and We Would Speak In Capitals All The Time.
+Instead, red is red, bread is what&#8217;s in your wallet, a cigar is a smoke, etc.
+Similarly, spending money on a book which contains only Inherent Words would be an unnecessary thing. Lexical ambiguity is the currency with which fiction purchases our mind.
+But I&#8217;m sure you knew this already, considering your advanced degree. Otherwise, you wouldn&#8217;t have written the metonym &#8220;ivory-tower,&#8221; as buildings made from elephant tusks are not prone to musings :D
+
+
+
+
+Bill
+
+ 
+
+September 15, 2010, 11:37 am
+
+
+
+(I&#8217;m the Bill of #23 and #24, not the other. =)
+@Chris &#8211; I was a Literature minor and a Communications minor at UC San Diego (and a computer science major, natch). The term deconstruction is used in a lot of different contexts, and with a lot of different meanings. I think it&#8217;s fair to even say the term &#8216;deconstruction&#8217; is incoherent&#8230; perhaps intentionally so by the absurdists that adopted it.
+As always, XKCD always seems to get it right:
+http://xkcd.com/451/
+
+There&#8217;s a lot of terms like that, that seem very technical until you realize that every field has a completely different understanding of what it means. Postmodern is another one (think about what a &#8216;postmodern film&#8217; is vs. Sanderson&#8217;s definition above). Hegemony. Etc.
+
+
+
+
+buck bundy
+
+ 
+
+September 17, 2010, 9:40 pm
+
+
+
+&#8220;me like books. big books good. um. thinking in books good too!!&#8221;
+Good essay, but the above comment pretty much summarises my views on the topic perfectly.
+The key to successful writing IMO is immersion.  The more immersive the stories, characters, worlds, magic systems (etc) the more enjoyable a book is.  I don&#8217;t study literature, I rarely read books more than once (Malazan the primary exception), I use it purely for escapism and enjoyment.  
+Anything that immediately snaps me out of my state of immersion whilst engrossed in a novel pisses me off.  Whether it be a nonsensical twist for the sake of bucking genre convention; ridiculous deus ex machina (ie WTF moments); clumsy &#8220;captain obvious&#8221; writing making plot outcomes predictable before they happen; inconsistent characters across series (ie Mat in TGS); information overload; or even deliberately long periods of overly descriptive self indulgent drivel where nothing happens (ie Crossroad of Twilight).
+Whilst I find it moderately interesting the discussion of post-modernism and its application to the fantasy genre, in the end all I care about as a book buyer is &#8220;can this book make me feel part of its world&#8221;.
+
+
+
+
+Walker Perkins
+
+ 
+
+September 18, 2010, 11:33 pm
+
+
+
+A solid post, Brandon.  I won&#8217;t pretend to have kept up with contemporary fantasy authors, but I have been a lover of the genre for decades.  While postmodernist fantasies maybe becoming cliche&#8217; in print, the sort of fantasy that penetrates the broader culture in the form of movies, TV shows, or the latest fad &#8220;fantasy&#8221; book series is invariably the same old predictable monomyth, and I&#8217;m very very tired of it.  As much as I enjoyed Harry Potter, I saw Dumbledore&#8217;s death coming by book three in the series.  
+After a long dry stretch the monotony of the popular monomyth has driven me back to writing.  As simple as it seems, the story that I most want to see written&#8211;one that I&#8217;m trying to write&#8211;is the story of a &#8220;False Dragon&#8221; character.  A person that started the Hero&#8217;s Journey only to discover that he&#8217;s not the hero of legend, and through this revelation is forced to become the hero&#8217;s antagonist.  His final thoughts as the hero triumphs over him (it was bound to happen after all) is that he still wants to be the hero.
+
+
+
+
+J. Paulista
+
+ 
+
+October 3, 2010, 6:56 am
+
+
+
+Walter,
+Isn&#8217;t that Darth Vader you&#8217;re talking about at the end there?  
+J.
+
+
+
+
+MyopicMuppet
+
+ 
+
+February 10, 2011, 11:08 am
+
+
+
+If only this had been thought about and applied when they wrote the script for the star wars prequels. I did like the concept of the Thomas covenant fantasy world being symbolic of the the protagonists real world physical and psychological struggles, however I have never been a fan of such a direct fantasy world &#8211; real world cross over.
+On a side note it seems that post modern ideas in fantasy have started to move over to computer games, especially since the late 90&#8217;s. Torment is one of the best ideas examples that comes to mind.
+Tolkien who most people will agree was the father of the genre was based on the structure of mythology which in many ways is what the fantasy genre is about. The thing about mythology being that the hero represents certain heroic ideals that a society aspires too think Cú Chulainn, Hercules and Jesus. 
+The difference between say the Lord of the Rings and the Wheel of time being, I guess, a change in time period setting, from Dark age Saxon England mono cultural (despite the elves) to  &#8220;17th century quasi reversed gender (or at least women being shown to be empowered) setting&#8221; as well as the zeitgeist of when the novels were written, the Lord of the Rings during the wounds of World Wars 1 and 2 and the Wheel of time early 90&#8217;s to present.   
+For a &#8216;modern&#8217; reader, in the sense of whatever happens to be the present, it seems that its more about social palatability of the text than issues with the story arc. Post modernism in fantasy seems to me to be about playing on the knowledge and expectations of the reader for a familiar style whereas an epoch shift is more of a change in how the story is told based on changes in the social expectations of the readers. So a more adult graphic, gritty and morally ambiguous setting becomes possible because of the stage we are at now. This in itself opens up the possibilities for changing what the motives of the &#8216;hero&#8217; themselves are, which in turn allows for the possibility of who the hero is being based on whose perspective it is that you are approaching it from.
+
+
+
+
+
+Screen capture
+
+
+ 
+
+November 22, 2011, 8:08 am
+
+
+
+I really enjoyed Mistborn books! They are so interesting and engrossing!
+
+
+
+
+
+
+
+WHATEVER
+
+
+Taunting the tauntable since 1998
+
+About the site
+
+
+
+Whatever Days
+
+
+September 2010
+S
+M
+T
+W
+T
+F
+S
+&nbsp;
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+4
+
+
+5
+
+
+
+6
+
+
+
+7
+
+
+
+8
+
+
+
+9
+
+
+
+10
+
+
+
+11
+
+
+12
+
+
+
+13
+
+
+
+14
+
+
+
+15
+
+
+
+16
+
+
+
+17
+
+
+
+18
+
+
+19
+
+
+
+20
+
+
+
+21
+
+
+
+22
+
+
+
+23
+
+
+
+24
+
+
+
+25
+
+
+26
+
+
+
+27
+
+
+
+28
+
+
+
+29
+
+
+
+30
+
+&nbsp;
+
+
+&laquo; Aug
+
+&nbsp;
+
+Oct &raquo;
+
+
+
+
+
+Whatarchives
+Whatarchives
+Select Month
+ January 2025 
+ December 2024 
+ November 2024 
+ October 2024 
+ September 2024 
+ August 2024 
+ July 2024 
+ June 2024 
+ May 2024 
+ April 2024 
+ March 2024 
+ February 2024 
+ January 2024 
+ December 2023 
+ November 2023 
+ October 2023 
+ September 2023 
+ August 2023 
+ July 2023 
+ June 2023 
+ May 2023 
+ April 2023 
+ March 2023 
+ February 2023 
+ January 2023 
+ December 2022 
+ November 2022 
+ October 2022 
+ September 2022 
+ August 2022 
+ July 2022 
+ June 2022 
+ May 2022 
+ April 2022 
+ March 2022 
+ February 2022 
+ January 2022 
+ December 2021 
+ November 2021 
+ October 2021 
+ September 2021 
+ August 2021 
+ July 2021 
+ June 2021 
+ May 2021 
+ April 2021 
+ March 2021 
+ February 2021 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ December 2011 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ December 2004 
+ November 2004 
+ October 2004 
+ September 2004 
+ August 2004 
+ July 2004 
+ June 2004 
+ May 2004 
+ April 2004 
+ March 2004 
+ February 2004 
+ January 2004 
+ December 2003 
+ November 2003 
+ October 2003 
+ September 2003 
+ August 2003 
+ July 2003 
+ June 2003 
+ May 2003 
+ April 2003 
+ March 2003 
+ February 2003 
+ January 2003 
+ December 2002 
+ November 2002 
+ October 2002 
+ September 2002 
+ August 2002 
+ June 2002 
+ April 2002 
+ March 2002 
+
+
+
+Search
+
+
+
+Search
+
+
+
+
+
+The Big Idea
+
+
+
+
+What's the Big Idea?
+ Authors explaining the the big ideas behind their latest works, in their own words. 
+See the latest Big Ideas!
+
+Authors/Editors/Publicists: for information on how to participate, click 
+here.
+
+
+
+Translate Whatever
+
+
+
+
+
+Administrivia
+
+About
+
+A Brief Biography of John Scalzi
+
+
+Availability for Interviews, Appearances, Writing Work and Optioning Existing Work
+
+
+Books and Other Projects by John Scalzi
+
+
+Contact Information
+
+
+Guidelines for Publicity, Blurbing, Unpublished Work, Story Ideas, Social Media Boosting, Guest Blogging, Charitable Solicitations, Autographing, Educational Use and School Assignments
+
+
+Scheduled Appearances
+
+
+Site Disclaimer, Comment and Privacy Policy
+
+
+The Canonical Bacon Page
+
+
+The Scalzi Creative Sampler
+
+
+Scalzi Enterprises · The Scalzi Family Foundation
+
+
+
+Whatever Everyone Else is Saying
+Attending Salar&#8217;s January Wine Dinner
+Attending Salar&#8217;s January Wine Dinner
+Attending Salar&#8217;s January Wine Dinner
+Attending Salar&#8217;s January Wine Dinner
+The Big Idea: Kristina W. Kelly
+Attending Salar&#8217;s January Wine Dinner
+The Big Idea: Kristina W. Kelly
+On the Depressing Doings of Trillion Dollar Companies, January 2025 Edition
+Some Thoughts On &#8220;The Fire Inside&#8221;
+The Big Idea: Kristina W. Kelly
+Some Thoughts On &#8220;The Fire Inside&#8221;
+On the Depressing Doings of Trillion Dollar Companies, January 2025 Edition
+Some Thoughts On &#8220;The Fire Inside&#8221;
+David Huss
+ on 
+Some Thoughts On &#8220;The Fire Inside&#8221;
+Some Thoughts On &#8220;The Fire Inside&#8221;
+Whatever Just Happened
+Attending Salar&#8217;s January Wine Dinner
+The Big Idea: Kristina W. Kelly
+Some Thoughts On &#8220;The Fire Inside&#8221;
+On the Depressing Doings of Trillion Dollar Companies, January 2025 Edition
+A Musical Odyssey, No, Literally
+What I Have Eligible for Award Consideration This Year, 2025 Edition
+Let&#8217;s Do It For Real Now
+Today&#8217;s Expensive Cat
+Some Announcements about Scalzi Enterprises and Whatever
+The Return of the Prodigal Phone
+
+
+
+
+
+ 
+The Name of My Next Band
+
+
+
+
+Electric Santa and the Luminous 8
+
+
+
+Potato Shame
+
+
+
+Drinkable Mayo
+
+
+
+The Great Eggnog Riot
+
+
+
+Flibbertigiblet
+
+
+
+Bill And/Or Ted
+
+
+
+Space Condiments
+
+
+
+Baby Fish Mouth
+
+
+
+Fanta Cake
+
+
+
+Unisex Toilet
+
+
+
+
+
+Random Whatever
+
+
+Click this link
+
+ -- and you'll be taken to a random Whatever entry in the archive. Which one will you get? Got me!
+
+
+Subscribe to Whatever
+
+
+
+
+
+
+
+
+
+Powered by WordPress.com
+.
+Theme: Profile by 
+Organic Themes
+.
+
+
+
+
+
+
+
+
+
+
+
+%d
+
+
+
+

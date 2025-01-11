@@ -1,0 +1,888 @@
+
+
+if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}
+
+(()={class RocketLazyLoadScripts{constructor(){this.v="1.2.6",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this.t.bind(this),this.touchStartHandler=this.i.bind(this),this.touchMoveHandler=this.o.bind(this),this.touchEndHandler=this.h.bind(this),this.clickHandler=this.u.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this.l(this),window.addEventListener("pageshow",(t={this.persisted=t.persisted,this.everythingLoaded&&this.m()})),this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",(t={this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))})),document.addEventListener("DOMContentLoaded",(()={this.k()})),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}p(t){document.hidden?t.t():(this.triggerEvents.forEach((e=window.addEventListener(e,t.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler))}_(){this.triggerEvents.forEach((t=window.removeEventListener(t,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}i(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this.L(t.target,!0),this.S(t.target,"onclick","rocket-onclick"),this.C())}o(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.M()}h(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}u(t){t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this.M()}O(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((t={t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))}))}l(t){EventTarget.prototype.addEventListenerWPRocketBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(e,i,o){"click"!==e||t.windowLoaded||i===t.clickHandler||t.interceptedClickListeners.push({target:this,func:i,options:o}),(this||window).addEventListenerWPRocketBase(e,i,o)}}L(t,e){this.interceptedClickListeners.forEach((i={i.target===t&&(e?t.removeEventListener("click",i.func,i.options):t.addEventListener("click",i.func,i.options))})),t.parentNode!==document.documentElement&&this.L(t.parentNode,e)}D(){return new Promise((t={this.P?this.M=t:t()}))}C(){this.P=!0}M(){this.P=!1}S(t,e,i){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(i,event.target.getAttribute(e)),event.target.removeAttribute(e))}t(){this._(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this.R.bind(this)):this.R()}k(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach((e={let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}})),t=[...new Map(t.map((t=[JSON.stringify(t),t]))).values()],this.T(t,"preconnect")}async R(){this.lastBreath=Date.now(),this.j(this),this.F(this),this.I(),this.W(),this.q(),await this.A(this.delayedScripts.normal),await this.A(this.delayedScripts.defer),await this.A(this.delayedScripts.async);try{await this.U(),await this.H(this),await this.J()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.D().then((()={this.O()})),this.N()}W(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t={t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)}))}async B(t){if(await this.G(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise((e={let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.indexOf("Firefox/")0||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach((t={let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))})),t.text&&(i.text=t.text),i.hasAttribute("src")?(i.addEventListener("load",o),i.addEventListener("error",(function(){i.setAttribute("data-rocket-status","failed-network"),e()})),setTimeout((()={i.isConnected||e()}),1)):(i.text=t.text,o()),t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o),t.addEventListener("error",(i={this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: data-uri blocked by CSP - fallback"),t.removeAttribute("src"),this.B(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())})),s?(t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}}));t.setAttribute("data-rocket-status","skipped")}async A(t){const e=t.shift();return e&&e.isConnected?(await this.B(e),this.A(t)):Promise.resolve()}q(){this.T([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}T(t,e){var i=document.createDocumentFragment();t.forEach((t={const o=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(o&&!o.startsWith("data:")){const s=document.createElement("link");s.href=o,s.rel=e,"preconnect"!==e&&(s.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(s.crossOrigin=!0),t.crossOrigin&&(s.crossOrigin=t.crossOrigin),t.integrity&&(s.integrity=t.integrity),i.appendChild(s),this.trash.push(s)}})),document.head.appendChild(i)}j(t){let e={};function i(i,o){return e[o].eventsToRewrite.indexOf(i)=0&&!t.everythingLoaded?"rocket-"+i:i}function o(t,o){!function(t){e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(o)}function s(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=o||function(){},set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}o(document,"DOMContentLoaded"),o(window,"DOMContentLoaded"),o(window,"load"),o(window,"pageshow"),o(document,"readystatechange"),s(document,"onreadystatechange"),s(window,"onload"),s(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}F(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map((t="load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t)).join(" ")}function o(o){function s(t){const e=o.fn[t];o.fn[t]=o.fn.init.prototype[t]=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t={const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e}))),e.apply(this,arguments),this}}o&&o.fn&&!t.allJQueries.includes(o)&&(o.fn.ready=o.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(o):document.addEventListener("rocket-DOMContentLoaded",(()=e.bind(document)(o))),o([])},s("on"),s("one"),t.allJQueries.push(o)),e=o}o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=e,set(t){o(t)}})}async H(t){const e=document.querySelector("script[data-webpack]");e&&(await async function(){return new Promise((t={e.addEventListener("load",t),e.addEventListener("error",t)}))}(),await t.K(),await t.H(t))}async U(){this.domReadyFired=!0;try{document.readyState="interactive"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.G(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async J(){try{document.readyState="complete"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),window.dispatchEvent(new Event("rocket-load")),await this.G(),window.rocketonload&&window.rocketonload(),await this.G(),this.allJQueries.forEach((t=t(window).trigger("rocket-jquery-load"))),await this.G();const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.G(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}m(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}I(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+e);const o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async G(){Date.now()-this.lastBreath45&&(await this.K(),this.lastBreath=Date.now())}async K(){return document.hidden?new Promise((t=setTimeout(t))):new Promise((t=requestAnimationFrame(t)))}N(){this.trash.forEach((t=t.remove()))}static run(){const t=new RocketLazyLoadScripts;t.p(t)}}RocketLazyLoadScripts.run()})();
+
+!function(){"use strict";function e(e){const t=e.match(/((?=([a-z0-9._!#$%+^&*()[\]
+img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+ .widget","skip":0,"classNames":[],"position":"afterend","every":1,"enabled":true},"stickyOverlapSelector":"","adSizes":[[160,600],[336,280],[320,50],[300,600],[250,250],[1,1],[320,100],[300,1050],[300,50],[300,420],[300,250]],"priority":299,"autosize":true},{"sequence":9,"targeting":[{"value":["Sidebar"],"key":"location"},{"value":true,"key":"sticky"}],"devices":["desktop"],"name":"Sidebar_9","sticky":true,"location":"Sidebar","dynamic":{"pageSelector":"","spacing":0,"max":1,"lazyMax":null,"enable":true,"lazy":false,"elementSelector":".inside-right-sidebar","skip":0,"classNames":[],"position":"beforeend","every":1,"enabled":true},"stickyOverlapSelector":".site-footer","adSizes":[[160,600],[336,280],[320,50],[300,600],[250,250],[1,1],[320,100],[300,1050],[300,50],[300,420],[300,250]],"priority":291,"autosize":true},{"sequence":null,"targeting":[{"value":["Content"],"key":"location"}],"devices":["desktop"],"name":"Content","sticky":false,"location":"Content","dynamic":{"pageSelector":"body.single","spacing":0.85,"max":3,"lazyMax":96,"enable":true,"lazy":true,"elementSelector":".entry-content  *:not(h2):not(h3)","skip":5,"classNames":[],"position":"afterend","every":1,"enabled":true},"stickyOverlapSelector":"","adSizes":[[728,90],[336,280],[320,50],[468,60],[970,90],[250,250],[1,1],[320,100],[970,250],[1,2],[300,50],[300,300],[552,334],[728,250],[300,250]],"priority":199,"autosize":true},{"sequence":null,"targeting":[{"value":["Content"],"key":"location"}],"devices":["tablet","phone"],"name":"Content","sticky":false,"location":"Content","dynamic":{"pageSelector":"body.single","spacing":0.85,"max":3,"lazyMax":96,"enable":true,"lazy":true,"elementSelector":".entry-content  *:not(h2):not(h3)","skip":4,"classNames":[],"position":"afterend","every":1,"enabled":true},"stickyOverlapSelector":"","adSizes":[[728,90],[336,280],[320,50],[468,60],[970,90],[250,250],[1,1],[320,100],[970,250],[1,2],[300,50],[300,300],[552,334],[728,250],[300,250]],"priority":199,"autosize":true},{"sequence":null,"targeting":[{"value":["Below Post"],"key":"location"}],"devices":["desktop","tablet","phone"],"name":"Below_Post","sticky":false,"location":"Below Post","dynamic":{"pageSelector":"body.single","spacing":0,"max":0,"lazyMax":1,"enable":true,"lazy":true,"elementSelector":".crp_related ","skip":0,"classNames":[],"position":"afterend","every":1,"enabled":true},"stickyOverlapSelector":"","adSizes":[[728,90],[336,280],[320,50],[468,60],[250,250],[1,1],[320,100],[300,250],[970,250],[728,250]],"priority":99,"autosize":true},{"sequence":null,"targeting":[{"value":["Footer"],"key":"location"},{"value":true,"key":"sticky"}],"devices":["desktop","phone","tablet"],"name":"Footer","sticky":true,"location":"Footer","dynamic":{"pageSelector":"","spacing":0,"max":1,"lazyMax":null,"enable":true,"lazy":false,"elementSelector":"body","skip":0,"classNames":[],"position":"beforeend","every":1,"enabled":true},"stickyOverlapSelector":"","adSizes":[[320,50],[320,100],[728,90],[970,90],[468,60],[1,1],[300,50]],"priority":-1,"autosize":true}],"adDensityLayout":{"mobile":{"adDensity":0.28,"onePerViewport":false},"pageOverrides":[],"desktop":{"adDensity":0.25,"onePerViewport":false}},"adDensityEnabled":true,"siteExperiments":[],"adTypes":{"sponsorTileDesktop":true,"interscrollerDesktop":true,"nativeDesktopContent":true,"outstreamDesktop":true,"nativeBelowPostDesktop":true,"miniscroller":true,"animatedFooter":true,"largeFormatsMobile":true,"nativeMobileContent":true,"inRecipeRecommendationMobile":true,"nativeMobileRecipe":true,"expandableFooter":true,"nativeDesktopSidebar":true,"sponsorTileMobile":true,"expandableCatalogAdsMobile":true,"interscroller":true,"nativeDesktopRecipe":true,"outstreamMobile":true,"nativeHeaderDesktop":true,"nativeHeaderMobile":true,"nativeBelowPostMobile":true,"expandableCatalogAdsDesktop":true,"largeFormatsDesktop":true,"inRecipeRecommendationDesktop":true},"adOptions":{"theTradeDesk":true,"rtbhouse":true,"undertone":true,"sidebarConfig":{"dynamicStickySidebar":{"minHeight":1800,"enabled":true,"blockedSelectors":[]}},"footerCloseButton":false,"teads":true,"pmp":true,"thirtyThreeAcross":true,"sharethrough":true,"optimizeVideoPlayersForEarnings":true,"removeVideoTitleWrapper":true,"pubMatic":true,"infiniteScroll":false,"yahoossp":true,"improvedigital":true,"spa":false,"stickyContainerConfig":{"recipeDesktop":{"minHeight":null,"enabled":false},"blockedSelectors":[],"stickyHeaderSelectors":[],"content":{"minHeight":null,"enabled":false},"recipeMobile":{"minHeight":null,"enabled":false}},"sonobi":true,"yieldmo":true,"footerSelector":"","amazonUAM":true,"gamMCMEnabled":true,"gamMCMChildNetworkCode":"22562119448","rubicon":true,"conversant":true,"openx":true,"customCreativeEnabled":true,"secColor":"#000000","unruly":true,"mediaGrid":true,"bRealTime":true,"gumgum":true,"comscoreFooter":true,"desktopInterstitial":true,"footerCloseButtonDesktop":false,"ozone":false,"isAutoOptimized":true,"adform":true,"comscoreTAL":true,"targetaff":false,"bgColor":"#FFFFFF","advancePlaylistOptions":{"playlistPlayer":{"enabled":true},"relatedPlayer":{"enabled":true,"applyToFirst":true}},"amazonASR":false,"kargo":true,"liveRampATS":true,"footerCloseButtonMobile":false,"interstitialBlockedPageSelectors":"","allowSmallerAdSizes":true,"comscore":null,"wakeLock":{"desktopEnabled":true,"mobileValue":15,"mobileEnabled":true,"desktopValue":30},"mobileInterstitial":true,"tripleLift":true,"sensitiveCategories":["alc","ast","cbd","conl","cosm","dat","drg","gamc","gamv","pol","rel","sst","ssr","srh","ske","tob","wtl"],"liveRamp":true,"adthriveEmailIdentity":true,"criteo":true,"nativo":false,"infiniteScrollOptions":{"selector":"","heightThreshold":0},"dynamicContentSlotLazyLoading":true,"clsOptimizedAds":true,"aidem":false,"verticals":["Entertainment"],"inImage":false,"usCMP":{"enabled":false,"regions":[]},"advancePlaylist":true,"flipp":true,"delayLoading":true,"inImageZone":null,"appNexus":true,"rise":true,"liveRampId":"","infiniteScrollRefresh":false,"indexExchange":true},"featureRollouts":{"erp":{"featureRolloutId":19,"data":null,"enabled":false}},"videoPlayers":{"contextual":{"autoplayCollapsibleEnabled":false,"overrideEmbedLocation":false,"defaultPlayerType":"static"},"videoEmbed":"wordpress","footerSelector":"","contentSpecificPlaylists":[],"players":[{"playlistId":"tkprhAPP","pageSelector":"","devices":["mobile","desktop"],"description":"","skip":0,"title":"Stationary related player - desktop and mobile","type":"stationaryRelated","enabled":true,"formattedType":"Stationary Related","elementSelector":"","id":4082472,"position":"","saveVideoCloseState":false,"shuffle":false,"adPlayerTitle":"Stationary related player - desktop and mobile","playerId":"VA9bQCmI"},{"playlistId":"tkprhAPP","pageSelector":"body.single","devices":["desktop"],"description":"","skip":2,"title":" ","type":"stickyPlaylist","enabled":true,"formattedType":"Sticky Playlist","elementSelector":".entry-content  *:not(h2):not(h3)","id":4082474,"position":"afterend","saveVideoCloseState":false,"shuffle":false,"adPlayerTitle":"MY LATEST VIDEOS","mobileHeaderSelector":null,"playerId":"VA9bQCmI"},{"playlistId":"tkprhAPP","pageSelector":"body.single","devices":["mobile"],"mobileLocation":"top-center","description":"","skip":2,"title":"","type":"stickyPlaylist","enabled":true,"formattedType":"Sticky Playlist","elementSelector":".entry-content  *:not(h2):not(h3)","id":4082473,"position":"afterend","saveVideoCloseState":false,"shuffle":false,"adPlayerTitle":"MY LATEST VIDEOS","mobileHeaderSelector":null,"playerId":"VA9bQCmI"}],"partners":{"theTradeDesk":true,"yahoossp":true,"criteo":true,"unruly":true,"mediaGrid":true,"improvedigital":true,"undertone":true,"gumgum":true,"aidem":false,"yieldmo":true,"adform":true,"pmp":true,"amazonUAM":true,"kargo":true,"thirtyThreeAcross":true,"stickyOutstream":{"desktop":{"enabled":true},"blockedPageSelectors":"","mobileLocation":"bottom-left","allowOnHomepage":true,"mobile":{"enabled":true},"saveVideoCloseState":false,"mobileHeaderSelector":null,"allowForPageWithStickyPlayer":{"enabled":true}},"sharethrough":true,"rubicon":true,"appNexus":true,"rise":true,"tripleLift":true,"openx":true,"pubMatic":true,"indexExchange":true}}};
+
+
+
+Psychological Fantasy: Book Genre Explained - Ultimate Guide
+
+
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rtbookreviews.com/#organization","name":"RT Book Reviews","url":"https://rtbookreviews.com","logo":{"@type":"ImageObject","@id":"https://rtbookreviews.com/#logo","url":"https://rtbookreviews.com/wp-content/uploads/2022/11/Untitled-design-1.png","contentUrl":"https://rtbookreviews.com/wp-content/uploads/2022/11/Untitled-design-1.png","caption":"RT Book Reviews","inLanguage":"en-US","width":"112","height":"112"}},{"@type":"WebSite","@id":"https://rtbookreviews.com/#website","url":"https://rtbookreviews.com","name":"RT Book Reviews","publisher":{"@id":"https://rtbookreviews.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://rtbookreviews.com/wp-content/uploads/2023/10/Psychological-Fantasy-Book-Genre-Explained.png","url":"https://rtbookreviews.com/wp-content/uploads/2023/10/Psychological-Fantasy-Book-Genre-Explained.png","width":"1024","height":"768","caption":"Psychological Fantasy: Book Genre Explained","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://rtbookreviews.com/psychological-fantasy-book-genre-explained/#webpage","url":"https://rtbookreviews.com/psychological-fantasy-book-genre-explained/","name":"Psychological Fantasy: Book Genre Explained - Ultimate Guide","datePublished":"2023-10-16T11:03:59-05:00","dateModified":"2023-10-16T11:04:00-05:00","isPartOf":{"@id":"https://rtbookreviews.com/#website"},"primaryImageOfPage":{"@id":"https://rtbookreviews.com/wp-content/uploads/2023/10/Psychological-Fantasy-Book-Genre-Explained.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://rtbookreviews.com/author/kathryntaylor/","name":"Kathryn Taylor","description":"Explore the world of Freya Cook - author of captivating and heartwarming novels. Visit RT Book Reviews for book reviews, and author interviews Kathryn Taylor","url":"https://rtbookreviews.com/author/kathryntaylor/","image":{"@type":"ImageObject","@id":"https://rtbookreviews.com/wp-content/uploads/2023/02/RT-Book-Reviews-Kathryn-Taylor-150x150.jpg","url":"https://rtbookreviews.com/wp-content/uploads/2023/02/RT-Book-Reviews-Kathryn-Taylor-150x150.jpg","caption":"Kathryn Taylor","inLanguage":"en-US"},"sameAs":["https://rtbookreviews.com","https://www.facebook.com/RTBookReviews","https://twitter.com/RT_Magazine","https://www.youtube.com/user/rtbookreviews","https://www.pinterest.com/rtbookreviews","https://www.instagram.com/rtbookreviews","https://www.flickr.com/photos/rtbookreviews","https://en.wikipedia.org/wiki/Romantic_Times"],"worksFor":{"@id":"https://rtbookreviews.com/#organization"}},{"headline":"Psychological Fantasy: Book Genre Explained - Ultimate Guide","description":"Through the Mind&#039;s Kaleidoscope: Psychological Fantasy&#039;s Mind-Blowing Realms - Where Wonder Is the Only Constant. Where the Unseen Rules the Realm.","datePublished":"2023-10-16T11:03:59-05:00","dateModified":"2023-10-16T11:04:00-05:00","image":{"@id":"https://rtbookreviews.com/wp-content/uploads/2023/10/Psychological-Fantasy-Book-Genre-Explained.png"},"author":{"@id":"https://rtbookreviews.com/author/kathryntaylor/","name":"Kathryn Taylor"},"@type":"BlogPosting","name":"Psychological Fantasy: Book Genre Explained - Ultimate Guide","articleSection":"Book Genres","@id":"https://rtbookreviews.com/psychological-fantasy-book-genre-explained/#schema-3117309","isPartOf":{"@id":"https://rtbookreviews.com/psychological-fantasy-book-genre-explained/#webpage"},"publisher":{"@id":"https://rtbookreviews.com/#organization"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rtbookreviews.com/psychological-fantasy-book-genre-explained/#webpage"}},{"@type":"VideoObject","name":"New Fantasy Books That Are Worth the Read!","description":"7 newer fantasy releases that I think are great pick ups! Check out the Cozy Club Podcast: https://cozyclubpodcast.com/Check out my IG: https://www.instagram...","uploadDate":"2023-06-11T09:00:01-07:00","thumbnailUrl":"https://rtbookreviews.com/wp-content/uploads/2023/10/Psychological-Fantasy-Book-Genre-Explained.png","embedUrl":"https://www.youtube.com/embed/3NGt7-ZBAJ8","duration":"PT18M11S","width":"1280","height":"720","isFamilyFriendly":"1","@id":"https://rtbookreviews.com/psychological-fantasy-book-genre-explained/#schema-3117310","isPartOf":{"@id":"https://rtbookreviews.com/psychological-fantasy-book-genre-explained/#webpage"},"publisher":{"@id":"https://rtbookreviews.com/#organization"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rtbookreviews.com/psychological-fantasy-book-genre-explained/#webpage"}}]}
+
+.aawp .aawp-tb__row--highlight{background-color:#256aaf;}.aawp .aawp-tb__row--highlight{color:#256aaf;}.aawp .aawp-tb__row--highlight a{color:#256aaf;}
+
+
+
+
+:root{--tcb-color-0:rgb(66, 157, 220);--tcb-color-0-h:204;--tcb-color-0-s:68%;--tcb-color-0-l:56%;--tcb-color-0-a:1;--tcb-color-1:rgb(36, 117, 175);--tcb-color-1-h:205;--tcb-color-1-s:65%;--tcb-color-1-l:41%;--tcb-color-1-a:1;--tcb-background-author-image:url(https://rtbookreviews.com/wp-content/uploads/2023/02/RT-Book-Reviews-Kathryn-Taylor-300x300.jpg);--tcb-background-user-image:url();--tcb-background-featured-image-thumbnail:url(https://rtbookreviews.com/wp-content/uploads/2023/10/Psychological-Fantasy-Book-Genre-Explained.png);}
+
+
+
+© 2023 RT Book Reviews
+
+
+            
+
+
+var cls_disable_ads=function(e){"use strict";var t,i,o,r,a,n,s,l,d,u,c,p,h,_,S,g,y,m,v,f;function O(){return O=Object.assign||function(e){for(var t=1;t
+
+.perfmatters-lazy[data-src]{display:none !important;}
+
+
+.perfmatters-lazy-youtube{position:relative;width:100%;max-width:100%;height:0;padding-bottom:56.23%;overflow:hidden}.perfmatters-lazy-youtube img{position:absolute;top:0;right:0;bottom:0;left:0;display:block;width:100%;max-width:100%;height:auto;margin:auto;border:none;cursor:pointer;transition:.5s all;-webkit-transition:.5s all;-moz-transition:.5s all}.perfmatters-lazy-youtube img:hover{-webkit-filter:brightness(75%)}.perfmatters-lazy-youtube .play{position:absolute;top:50%;left:50%;right:auto;width:68px;height:48px;margin-left:-34px;margin-top:-24px;background:url(https://rtbookreviews.com/wp-content/plugins/perfmatters/img/youtube.svg) no-repeat;background-position:center;background-size:cover;pointer-events:none;filter:grayscale(1)}.perfmatters-lazy-youtube:hover .play{filter:grayscale(0)}.perfmatters-lazy-youtube iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:99}.wp-has-aspect-ratio .wp-block-embed__wrapper{position:relative;}.wp-has-aspect-ratio .perfmatters-lazy-youtube{position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;padding-bottom:0}body .perfmatters-lazy-css-bg:not([data-ll-status=entered]),body .perfmatters-lazy-css-bg:not([data-ll-status=entered]) *,body .perfmatters-lazy-css-bg:not([data-ll-status=entered])::before,body .perfmatters-lazy-css-bg:not([data-ll-status=entered])::after,body .perfmatters-lazy-css-bg:not([data-ll-status=entered]) *::before,body .perfmatters-lazy-css-bg:not([data-ll-status=entered]) *::after{background-image:none!important;will-change:transform;transition:opacity 0.025s ease-in,transform 0.025s ease-in!important;}
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+Menu
+
+
+
+Authors Like
+
+
+
+
+
+
+
+
+Adventure
+
+
+Children
+
+
+Cross-Genre
+
+
+Fantasy
+
+
+Historical Fiction
+
+
+Horror
+
+
+Mystery
+
+
+Romance
+
+
+Science Fiction
+
+
+Thriller
+
+
+Young Adult
+
+
+Books Like
+
+
+
+
+
+
+
+
+Adventure
+
+
+Children
+
+
+Cross-Genre
+
+
+Dystopian
+
+
+Fantasy
+
+
+Historical Fiction
+
+
+Horror
+
+
+Mystery
+
+
+Romance
+
+
+Science Fiction
+
+
+Thriller
+
+
+Young Adult
+
+
+Best Books
+
+
+
+
+
+
+
+
+Adventure
+
+
+Children
+
+
+Crime-Fiction
+
+
+Cross-Genre
+
+
+Fantasy
+
+
+Food
+
+
+Historical Fiction
+
+
+Horror
+
+
+Mystery
+
+
+Non-Fiction
+
+
+Romance
+
+
+Science Fiction
+
+
+Thriller
+
+
+Young Adult
+
+
+Books In Order
+
+
+
+
+
+
+
+
+Adventure
+
+
+Children
+
+
+Cross-Genre
+
+
+Dystopian
+
+
+Fantasy
+
+
+Historical Fiction
+
+
+Mystery
+
+
+Romance
+
+
+Science Fiction
+
+
+Thriller
+
+
+Young Adult
+
+
+More
+
+
+
+
+
+
+
+
+Audiobooks
+
+
+Book Genres
+
+
+Trivia
+
+
+Book Reviews
+
+
+About
+
+
+
+
+
+
+
+
+About Us
+
+
+Meet The Team
+
+
+Contact Us
+
+
+Join Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Psychological Fantasy: Book Genre Explained &#8211; Ultimate Guide
+
+October 16, 2023
+
+ 
+by 
+
+
+Kathryn Taylor
+
+
+
+Psychological Fantasy is a unique sub-genre of fantasy literature that combines elements of psychological fiction with traditional fantasy tropes. This genre often explores the inner workings of the human mind, delving into the psyche of characters and using fantastical elements to represent or explore psychological themes.
+
+
+    
+Table of Contents
+                    
+Show
+            
+
+    
+1.
+Origins and Development of Psychological Fantasy
+
+    
+1.1.
+Key Authors and Works
+
+
+
+    
+2.
+Characteristics of Psychological Fantasy
+
+    
+2.1.
+Themes and Motifs
+
+
+
+    
+3.
+Impact and Influence of Psychological Fantasy
+
+    
+3.1.
+Adaptations and Cross-Media Influence
+
+
+
+    
+4.
+Reading and Understanding Psychological Fantasy
+
+    
+4.1.
+Recommended Reading
+
+
+
+    
+5.
+Conclusion
+
+
+
+
+
+
+
+
+
+While many fantasy books focus on epic battles, magical systems, and world-building, psychological fantasy places a greater emphasis on the internal struggles of characters. It often uses fantasy elements as metaphors for mental states, psychological conditions, or philosophical concepts. This genre is characterized by its depth and complexity, offering readers a rich, thought-provoking experience.
+
+
+Origins and Development of Psychological Fantasy
+
+
+The origins of psychological fantasy can be traced back to the works of early 20th-century authors who began to experiment with blending elements of fantasy and psychology. These authors used fantasy as a tool to explore the human mind, creating stories that delved into the subconscious and examined the nature of reality.
+Over time, this genre has evolved and expanded, incorporating elements from other genres such as science fiction, horror, and magical realism. Today, psychological fantasy is a diverse and dynamic genre, with authors continually pushing the boundaries of what is possible in terms of narrative structure, character development, and thematic exploration.
+
+
+Key Authors and Works
+
+
+
+
+
+
+
+
+
+
+
+Several authors have made significant contributions to the development of psychological fantasy. Notable figures include 
+Franz Kafka
+, whose works often blur the line between reality and fantasy, and 
+Neil Gaiman
+, whose novel ‘
+American Gods
+‘ is a prime example of psychological fantasy.
+Other key authors include 
+Philip K. Dick
+, whose works often explore themes of identity and reality, and 
+Haruki Murakami
+, whose novels frequently incorporate elements of magical realism and surrealism. These authors have helped to shape the genre, each bringing their unique perspective and style to the exploration of psychological themes within a fantasy context.
+
+
+Characteristics of Psychological Fantasy
+
+
+Psychological fantasy is characterized by its focus on the inner workings of the mind. This genre often features complex, well-developed characters who undergo significant psychological development over the course of the story. The narrative may be driven by the character’s internal struggles, with external events often serving as catalysts for internal change.
+Another key characteristic of psychological fantasy is its use of fantasy elements to explore psychological themes. This can take many forms, from the use of magical realism to represent mental states, to the use of fantastical creatures or settings to symbolize psychological concepts. The genre often blurs the line between reality and fantasy, challenging readers to question their perceptions and assumptions.
+
+
+Themes and Motifs
+
+
+Common themes in psychological fantasy include identity, perception, reality, and the nature of the mind. These themes are often explored through the use of motifs such as dreams, mirrors, shadows, and masks. The genre also frequently explores themes of mental illness, trauma, and the subconscious.
+The genre often uses these themes and motifs to challenge readers’ perceptions and provoke thought. For example, a story may use a fantastical setting to represent a character’s mental state, or a magical creature to symbolize a psychological concept. This use of symbolism and metaphor adds depth and complexity to the narrative, making psychological fantasy a rich and rewarding genre for readers.
+
+
+Impact and Influence of Psychological Fantasy
+
+
+The impact of psychological fantasy can be seen in its influence on other genres and on popular culture more broadly. The genre’s focus on the human mind and its use of fantasy elements to explore psychological themes have inspired authors in other genres, from science fiction to horror, to incorporate similar elements into their own work.
+Psychological fantasy has also had a significant impact on popular culture, with many films, TV shows, and video games drawing on elements of the genre. For example, the popular TV show ‘
+Westworld
+‘ incorporates elements of psychological fantasy, using a fantastical setting to explore themes of identity and consciousness.
+
+
+Adaptations and Cross-Media Influence
+
+
+
+
+
+
+
+
+
+
+
+Many works of psychological fantasy have been adapted for other media, including film, television, and video games. These adaptations often bring the genre’s complex themes and characters to a wider audience, while also offering new interpretations and perspectives on the original works.
+For example, Philip K. Dick’s novel ‘
+Do Androids Dream of Electric Sheep?
+‘ was adapted into the film ‘
+Blade Runner
+‘, which has become a classic of science fiction cinema. Similarly, Neil Gaiman’s ‘
+American Gods
+‘ has been adapted into a successful TV series, bringing the novel’s exploration of mythology and identity to a new medium and audience.
+
+
+Reading and Understanding Psychological Fantasy
+
+
+Reading psychological fantasy can be a rewarding but challenging experience. The genre’s complex themes and narrative structures require careful reading and interpretation. However, the depth and richness of these works make them well worth the effort.
+When reading psychological fantasy, it’s important to pay attention to symbolism and metaphor. These are key tools that authors use to explore psychological themes. It can also be helpful to have some understanding of psychology, as this can provide additional insight into the themes and characters.
+
+
+Recommended Reading
+
+
+
+
+
+
+
+
+
+
+
+For those new to psychological fantasy, there are several works that serve as excellent introductions to the genre. These include Neil Gaiman’s ‘
+American Gods
+‘, Philip K. Dick’s ‘
+Do Androids Dream of Electric Sheep?
+‘, and Haruki Murakami’s ‘
+Kafka on the Shore
+‘.
+For those looking for more challenging reads, Franz Kafka’s ‘
+The Metamorphosis
+‘ and Ursula K. Le Guin’s ‘
+The Lathe of Heaven
+‘ are highly recommended. These works offer a deeper exploration of psychological themes, and their complex narrative structures provide a rewarding challenge for readers.
+
+
+Conclusion
+
+
+Psychological fantasy is a unique and fascinating genre that offers a rich and rewarding reading experience. Its focus on the human mind and its use of fantasy elements to explore psychological themes make it a genre that is both thought-provoking and entertaining.
+Whether you’re a seasoned fantasy reader looking for something new, or a psychology enthusiast interested in exploring the genre, psychological fantasy offers a wealth of intriguing stories and characters to discover. So why not dive in and explore the depths of the human mind through the lens of fantasy?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Author
+
+ 
+
+Recent Posts
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+Kathryn Taylor
+
+
+
+Writer &amp; Book Lover
+ at 
+
+RT Book Reviews
+
+
+
+Kathryn Taylor was born and raised in the Midwest and has been a book lover and writer since childhood. As a queer teenager, she found solace in writing, and has written professionally ever since graduating from college. She loves a variety of fiction book genres, including romance books, thrillers, YA, sci-fi, and adventure. She's also a fan of the Oxford comma. 
+
+Kathryn has received numerous awards for her writing and now writes exclusively for RT Book Reviews. She is a passionate activist in the LGBTQ+ community, speaking at conferences and leading queer writing workshops. When not reading and writing, Kathryn enjoys visiting local libraries and bookstores across the country, exploring new cities, and spending time with her family.
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Latest posts by Kathryn Taylor 
+(
+see all
+)
+
+
+
+Alternate Reality: Book Genre Explained – Ultimate Guide
+
+ - November 6, 2023
+Supernatural Suspense: Book Genre Explained – Ultimate Guide
+
+ - November 6, 2023
+Post-Apocalyptic Romance: Book Genre Explained
+
+ - November 6, 2023
+
+
+
+ 
+
+ 
+
+
+Related Posts:
+
+
+
+
+
+
+
+
+
+
+High Fantasy: Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+Fantasy Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+Western: Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+Political Fantasy: Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+Horror Comedy: Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+Historical Fantasy: Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+Dark Fantasy: Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+Grimdark Fantasy: Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+Hard Science Fiction: Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+Romantic Fantasy: Book Genre Explained - Easy Guide
+
+
+
+
+
+
+
+
+
+
+
+Epic Poetry: Book Genre Explained - Easy Guide
+
+
+
+
+
+
+
+
+
+
+
+Psychological Drama: Book Genre Explained - Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+
+
+Categories 
+
+Book Genres
+
+
+
+
+
+
+
+
+Women&#8217;s Thriller: Book Genre Explained &#8211; Ultimate Guide
+
+
+
+
+
+
+
+
+
+
+Postmodern Literature: Book Genre Explained &#8211; Ultimate Guide
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+Recent Posts
+
+
+The 11 Best Books About Cats You Should Read
+
+
+The 9 Best Books on Building Confidence
+
+
+Discover the 10 Best Books on the Brain
+
+
+The 10 Best Books on Self-Discipline to Help You Reach Your Goals
+
+
+Discovering Your Purpose: The 6 Best Books to Help You Find It
+
+
+The 13 Best Books About Positivity to Read Right Now
+
+
+
+
+
+
+
+Terms and Conditions
+
+
+Privacy Policy
+
+
+Affiliate Disclaimer
+
+
+Cookies Policy
+
+
+&copy; 2025 RT Book Reviews
+ &bull; Built with 
+GeneratePress
+!function(){"use strict";function e(){return e=Object.assign||function(e){for(var t=1;t
+{const t={};return function(...i){const n=JSON.stringify(i);if(t[n])return t[n];const s=e.apply(this,i);return t[n]=s,s}};const C=new class{info(e,t,...i){this.call(console.info,e,t,...i)}warn(e,t,...i){this.call(console.warn,e,t,...i)}error(e,t,...i){this.call(console.error,e,t,...i),this.sendErrorLogToCommandQueue(e,t,...i)}event(e,t,...i){var n;"debug"===(null==(n=window.adthriveCLS)?void 0:n.bucket)&&this.info(e,t)}sendErrorLogToCommandQueue(e,t,...i){window.adthrive=window.adthrive||{},window.adthrive.cmd=window.adthrive.cmd||[],window.adthrive.cmd.push((()={void 0!==window.adthrive.logError&&"function"==typeof window.adthrive.logError&&window.adthrive.logError(e,t,i)}))}call(e,t,i,...n){const s=[`%c${t}::${i} `],o=["color: #999; font-weight: bold;"];n.length0&&"string"==typeof n[0]&&s.push(n.shift()),o.push(...n);try{Function.prototype.apply.call(e,console,[s.join(""),...o])}catch(e){return void console.error(e)}}},O=(e,t)=null==e||e!=e?t:e,w=e={const t=e.offsetHeight,i=e.offsetWidth,n=e.getBoundingClientRect(),s=document.body,o=document.documentElement,r=window.pageYOffset||o.scrollTop||s.scrollTop,a=window.pageXOffset||o.scrollLeft||s.scrollLeft,l=o.clientTop||s.clientTop||0,c=o.clientLeft||s.clientLeft||0,d=Math.round(n.top+r-l),u=Math.round(n.left+a-c);return{top:d,left:u,bottom:d+t,right:u+i,width:i,height:t}},x=e={let t={};const i=((e=window.location.search)={const t=0===e.indexOf("?")?1:0;return e.slice(t).split("&").reduce(((e,t)={const[i,n]=t.split("=");return e.set(i,n),e}),new Map)})().get(e);if(i)try{const n=decodeURIComponent(i).replace(/\+/g,"");t=JSON.parse(n),C.event("ExperimentOverridesUtil","getExperimentOverrides",e,t)}catch(e){}return t},A=b(((e=navigator.userAgent)=/Windows NT|Macintosh/i.test(e))),E=b((()={const e=navigator.userAgent,t=/Tablet|iPad|Playbook|Nook|webOS|Kindle|Android (?!.*Mobile).*Safari|CrOS/i.test(e);return/Mobi|iP(hone|od)|Opera Mini/i.test(e)&&!t})),P=(e,t,i=document)={const n=((e=document)={const t=e.querySelectorAll("article");if(0===t.length)return null;const i=Array.from(t).reduce(((e,t)=t.offsetHeighte.offsetHeight?t:e));return i&&i.offsetHeight1.5*window.innerHeight?i:null})(i),s=n?[n]:[],o=[];e.forEach((e={const n=Array.from(i.querySelectorAll(e.elementSelector)).slice(0,e.skip);var r;(r=e.elementSelector,r.includes(",")?r.split(","):[r]).forEach((r={const a=i.querySelectorAll(r);for(let i=0;i
+e.isEqualNode(r))))continue;const l=r&&r.parentElement;l&&l!==document.body?s.push(l):s.push(r),-1===n.indexOf(r)&&o.push({dynamicAd:e,element:r})}}))}));const r=((e=document)=(e===document?document.body:e).getBoundingClientRect().top)(i),a=o.sort(((e,t)=e.element.getBoundingClientRect().top-r-(t.element.getBoundingClientRect().top-r)));return[s,a]};class k{}const D=["mcmpfreqrec"];const R=new class extends k{init(e){this._gdpr="true"===e.gdpr,this._shouldQueue=this._gdpr}clearQueue(e){e&&(this._shouldQueue=!1,this._sessionStorageHandlerQueue.forEach((e={this.setSessionStorage(e.key,e.value)})),this._localStorageHandlerQueue.forEach((e={if("adthrive_abgroup"===e.key){const t=Object.keys(e.value)[0],i=e.value[t],n=e.value[`${t}_weight`];this.getOrSetABGroupLocalStorageValue(t,i,n,{value:24,unit:"hours"})}else e.expiry?"internal"===e.type?this.setExpirableInternalLocalStorage(e.key,e.value,{expiry:e.expiry,resetOnRead:e.resetOnRead}):this.setExpirableExternalLocalStorage(e.key,e.value,{expiry:e.expiry,resetOnRead:e.resetOnRead}):"internal"===e.type?this.setInternalLocalStorage(e.key,e.value):this.setExternalLocalStorage(e.key,e.value)})),this._cookieHandlerQueue.forEach((e={"internal"===e.type?this.setInternalCookie(e.key,e.value):this.setExternalCookie(e.key,e.value)}))),this._sessionStorageHandlerQueue=[],this._localStorageHandlerQueue=[],this._cookieHandlerQueue=[]}readInternalCookie(e){return this._verifyInternalKey(e),this._readCookie(e)}readExternalCookie(e){return this._readCookie(e)}readInternalLocalStorage(e){return this._verifyInternalKey(e),this._readFromLocalStorage(e)}readExternalLocalStorage(e){return this._readFromLocalStorage(e)}readSessionStorage(e){const t=window.sessionStorage.getItem(e);if(!t)return null;try{return JSON.parse(t)}catch(e){return t}}deleteCookie(e){document.cookie=`${e}=; SameSite=None; Secure; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/`}deleteLocalStorage(e){window.localStorage.removeItem(e)}deleteSessionStorage(e){window.sessionStorage.removeItem(e)}setInternalCookie(e,t,i){this._verifyInternalKey(e),this._setCookieValue("internal",e,t,i)}setExternalCookie(e,t,i){this._setCookieValue("external",e,t,i)}setInternalLocalStorage(e,t){if(this._verifyInternalKey(e),this._gdpr&&this._shouldQueue){const i={key:e,value:t,type:"internal"};this._localStorageHandlerQueue.push(i)}else{const i="string"==typeof t?t:JSON.stringify(t);window.localStorage.setItem(e,i)}}setExternalLocalStorage(e,t){if(this._gdpr&&this._shouldQueue){const i={key:e,value:t,type:"external"};this._localStorageHandlerQueue.push(i)}else{const i="string"==typeof t?t:JSON.stringify(t);window.localStorage.setItem(e,i)}}setExpirableInternalLocalStorage(e,t,i){this._verifyInternalKey(e);try{var n;const o=null!=(n=null==i?void 0:i.expiry)?n:{value:400,unit:"days"};var s;const r=null!=(s=null==i?void 0:i.resetOnRead)&&s;if(this._gdpr&&this._shouldQueue){const i={key:e,value:t,type:"internal",expires:this._getExpiryDate(o),expiry:o,resetOnRead:r};this._localStorageHandlerQueue.push(i)}else{const i={value:t,type:"internal",expires:this._getExpiryDate(o),expiry:o,resetOnRead:r};window.localStorage.setItem(e,JSON.stringify(i))}}catch(e){console.error(e)}}setExpirableExternalLocalStorage(e,t,i){try{var n;const o=null!=(n=null==i?void 0:i.expiry)?n:{value:400,unit:"days"};var s;const r=null!=(s=null==i?void 0:i.resetOnRead)&&s;if(this._gdpr&&this._shouldQueue){const i={key:e,value:JSON.stringify(t),type:"external",expires:this._getExpiryDate(o),expiry:o,resetOnRead:r};this._localStorageHandlerQueue.push(i)}else{const i={value:t,type:"external",expires:this._getExpiryDate(o),expiry:o,resetOnRead:r};window.localStorage.setItem(e,JSON.stringify(i))}}catch(e){console.error(e)}}setSessionStorage(e,t){if(this._gdpr&&this._shouldQueue){const i={key:e,value:t};this._sessionStorageHandlerQueue.push(i)}else{const i="string"==typeof t?t:JSON.stringify(t);window.sessionStorage.setItem(e,i)}}getOrSetABGroupLocalStorageValue(t,i,n,s,o=!0){const r="adthrive_abgroup",a=this.readInternalLocalStorage(r);if(null!==a){const e=a[t];var l;const i=null!=(l=a[`${t}_weight`])?l:null;if(this._isValidABGroupLocalStorageValue(e))return[e,i]}const c=e({},a,{[t]:i,[`${t}_weight`]:n});return s?this.setExpirableInternalLocalStorage(r,c,{expiry:s,resetOnRead:o}):this.setInternalLocalStorage(r,c),[i,n]}_isValidABGroupLocalStorageValue(e){return null!=e&&!("number"==typeof e&&isNaN(e))}_getExpiryDate({value:e,unit:t}){const i=new Date;return"milliseconds"===t?i.setTime(i.getTime()+e):"seconds"==t?i.setTime(i.getTime()+1e3*e):"minutes"===t?i.setTime(i.getTime()+60*e*1e3):"hours"===t?i.setTime(i.getTime()+60*e*60*1e3):"days"===t?i.setTime(i.getTime()+24*e*60*60*1e3):"months"===t&&i.setTime(i.getTime()+30*e*24*60*60*1e3),i.toUTCString()}_resetExpiry(e){return e.expires=this._getExpiryDate(e.expiry),e}_readCookie(e){const t=document.cookie.split("; ").find((t=t.split("=")[0]===e));if(!t)return null;const i=t.split("=")[1];if(i)try{return JSON.parse(decodeURIComponent(i))}catch(e){return decodeURIComponent(i)}return null}_readFromLocalStorage(e){const t=window.localStorage.getItem(e);if(!t)return null;try{const n=JSON.parse(t),s=n.expires&&(new Date).getTime()new Date(n.expires).getTime();if("adthrive_abgroup"===e&&n.created)return window.localStorage.removeItem(e),null;if(n.resetOnRead&&n.expires&&!s){const t=this._resetExpiry(n);var i;return window.localStorage.setItem(e,JSON.stringify(n)),null!=(i=t.value)?i:t}if(s)return window.localStorage.removeItem(e),null;if(!n.hasOwnProperty("value"))return n;try{return JSON.parse(n.value)}catch(e){return n.value}}catch(e){return t}}_setCookieValue(e,t,i,n){try{if(this._gdpr&&this._shouldQueue){const n={key:t,value:i,type:e};this._cookieHandlerQueue.push(n)}else{var s;const e=this._getExpiryDate(null!=(s=null==n?void 0:n.expiry)?s:{value:400,unit:"days"});var o;const a=null!=(o=null==n?void 0:n.sameSite)?o:"None";var r;const l=null==(r=null==n?void 0:n.secure)||r,c="object"==typeof i?JSON.stringify(i):i;document.cookie=`${t}=${c}; SameSite=${a}; ${l?"Secure;":""} expires=${e}; path=/`}}catch(e){}}_verifyInternalKey(e){const t=e.startsWith("adthrive_"),i=e.startsWith("adt_");if(!t&&!i&&!D.includes(e))throw new Error('When reading an internal cookie, the key must start with "adthrive_" or "adt_" or be part of the allowed legacy keys.')}constructor(...e){super(...e),this.name="BrowserStorage",this.disable=!1,this.gdprPurposes=[1],this._sessionStorageHandlerQueue=[],this._localStorageHandlerQueue=[],this._cookieHandlerQueue=[],this._shouldQueue=!1}},I=(e,t,i)={switch(t){case c.AdDensity:return((e,t)={const i=e.adDensityEnabled,n=e.adDensityLayout.pageOverrides.find((e=!!document.querySelector(e.pageSelector)&&(e[t].onePerViewport||"number"==typeof e[t].adDensity)));return!i||!n})(e,i);case c.StickyOutstream:return(e={var t,i,n;const s=null==(n=e.videoPlayers)||null==(i=n.partners)||null==(t=i.stickyOutstream)?void 0:t.blockedPageSelectors;return!s||!document.querySelector(s)})(e);case c.Interstitial:return(e={const t=e.adOptions.interstitialBlockedPageSelectors;return!t||!document.querySelector(t)})(e);default:return!0}},M=t={try{return{valid:!0,elements:document.querySelectorAll(t)}}catch(t){return e({valid:!1},t)}},L=e=""===e?{valid:!0}:M(e),T=(e,t)={if(!e)return!1;const i=!!e.enabled,n=null==e.dateStart||Date.now()=e.dateStart,s=null==e.dateEnd||Date.now()
+{const t=e.reduce(((e,t)=t.weight?t.weight+e:e),0);return e.length0&&e.every((e={const t=e.value,i=e.weight;return!(null==t||"number"==typeof t&&isNaN(t)||!i)}))&&100===t})(e.variants);return c||C.error("SiteTest","validateSiteExperiment","experiment presented invalid choices for key:",e.key,e.variants),i&&n&&s&&o&&l&&c},V=["siteId","siteName","adOptions","breakpoints","adUnits"];window.adthrive.windowPerformance=window.adthrive.windowPerformance||new class{resetTimeOrigin(){this._timeOrigin=window.performance.now()}now(){try{return Math.round(window.performance.now()-this._timeOrigin)}catch(e){return 0}}constructor(){this._timeOrigin=0}};const N=window.adthrive.windowPerformance,j=N.now.bind(N);class H{}class G extends H{get(){if(this._probability
+1)throw new Error(`Invalid probability: ${this._probability}`);return Math.random()
+{this.isRolloutEnabled(e)&&void 0!==t.featureRolloutId&&this._enabledFeatureRolloutIds.push(t.featureRolloutId)}))}constructor(e){super(),this._featureRollouts=e,this._setEnabledFeatureRolloutIds()}}class B{get enabled(){return!!this._clsGlobalData&&!!this._clsGlobalData.siteAds&&((e,t=V)={if(!e)return!1;for(let i=0;i
+/iP(hone|od|ad)/i.test(e))()&&e.isRolloutEnabled("iOS-Resolution")}getTargetDensity(e){return this.shouldHalveIOSDensity()?e/2:e}get removeVideoTitleWrapper(){return this._clsGlobalData.siteAds.adOptions.removeVideoTitleWrapper}constructor(){this._clsGlobalData=window.adthriveCLS}}class U{static getScrollTop(){return(window.pageYOffset||document.documentElement.scrollTop)-(document.documentElement.clientTop||0)}static getScrollBottom(){return this.getScrollTop()+(document.documentElement.clientHeight||0)}static shufflePlaylist(e){let t,i,n=e.length;for(;0!==n;)i=Math.floor(Math.random()*e.length),n-=1,t=e[n],e[n]=e[i],e[i]=t;return e}static isMobileLandscape(){return window.matchMedia("(orientation: landscape) and (max-height: 480px)").matches}static playerViewable(e){const t=e.getBoundingClientRect();return this.isMobileLandscape()?window.innerHeightt.top+t.height/2&&t.top+t.height/20:window.innerHeightt.top+t.height/2}static createQueryString(e){return Object.keys(e).map((t=`${t}=${e[t]}`)).join("&")}static createEncodedQueryString(e){return Object.keys(e).map((t=`${t}=${encodeURIComponent(e[t])}`)).join("&")}static setMobileLocation(e){return"top-left"===(e=e||"bottom-right")?e="adthrive-collapse-top-left":"top-right"===e?e="adthrive-collapse-top-right":"bottom-left"===e?e="adthrive-collapse-bottom-left":"bottom-right"===e?e="adthrive-collapse-bottom-right":"top-center"===e&&(e=E()?"adthrive-collapse-top-center":"adthrive-collapse-bottom-right"),e}static addMaxResolutionQueryParam(e){const t=`max_resolution=${E()?"320":"1280"}`,[i,n]=String(e).split("?");return`${i}?${n?n+`&${t}`:t}`}}class W{constructor(e){this._clsOptions=e,this.removeVideoTitleWrapper=O(this._clsOptions.siteAds.adOptions.removeVideoTitleWrapper,!1);const t=this._clsOptions.siteAds.videoPlayers;this.footerSelector=O(t&&t.footerSelector,""),this.players=O(t&&t.players.map((e=(e.mobileLocation=U.setMobileLocation(e.mobileLocation),e))),[]),this.relatedSettings=t&&t.contextual}}class q{constructor(e){this.mobileStickyPlayerOnPage=!1,this.playlistPlayerAdded=!1,this.relatedPlayerAdded=!1,this.footerSelector="",this.removeVideoTitleWrapper=!1,this.videoAdOptions=new W(e),this.players=this.videoAdOptions.players,this.relatedSettings=this.videoAdOptions.relatedSettings,this.removeVideoTitleWrapper=this.videoAdOptions.removeVideoTitleWrapper,this.footerSelector=this.videoAdOptions.footerSelector}}class Q{setExperimentKey(e=!1){this._clsOptions.setExperiment(this.abgroup,this.result,e)}constructor(){this._clsOptions=new B,this.shouldUseCoreExperimentsConfig=!1}}class K extends Q{get result(){return this._result}run(){return new G(.1).get()}constructor(){super(),this._result=!1,this._choices=[{choice:!0},{choice:!1}],this.key="RemoveLargeSize",this.abgroup="smhd100",this._result=this.run(),this.setExperimentKey()}}function J(e,t,i,n){var s,o=arguments.length,r=o
+=0;a--)(s=e[a])&&(r=(o
+3?s(t,i,r):s(t,i))||r);return o3&&r&&Object.defineProperty(t,i,r),r}function Y(e,t){if("object"==typeof Reflect&&"function"==typeof Reflect.metadata)return Reflect.metadata(e,t)}"function"==typeof SuppressedError&&SuppressedError;const X=(e,t,i,n,s,o)={const r=Math.round(o-s),a=[],l=[];a.push("(",i.map((()="%o")).join(", "),")"),l.push(...i),void 0!==n&&(a.push(" = %o"),l.push(n)),a.push(` %c(${r}ms)`),l.push("color: #999;")},Z=(e,t,i)={const n=void 0!==i.get?i.get:i.value;return function(...i){try{const s=j(),o=n.apply(this,i);if(o instanceof Promise)return o.then((e={const t=j();return X(0,0,i,e,s,t),Promise.resolve(e)})).catch((i={throw i.logged||(C.error(e,t,i),i.logged=!0),i}));{const e=j();return X(0,0,i,o,s,e),o}}catch(i){throw i.logged||(C.error(e,t,i),i.logged=!0),i}}},ee=(t,i=!1)=n={const s=Object.getOwnPropertyNames(n.prototype).filter((e=i||0!==e.indexOf("_"))).map((e=[e,Object.getOwnPropertyDescriptor(n.prototype,e)]));for(const[i,o]of s)void 0!==o&&"function"==typeof o.value?n.prototype[i]=Z(t,i,o):void 0!==o&&void 0!==o.get&&"function"==typeof o.get&&Object.defineProperty(n.prototype,i,e({},o,{get:Z(t,i,o)}))};class te extends Q{get result(){return this._result}run(){return new G(this.weight).get()}constructor(e){super(),this._result=!1,this.key="ParallaxAdsExperiment",this.abgroup="parallax",this._choices=[{choice:!0},{choice:!1}],this.weight=.5;!!E()&&e.largeFormatsMobile&&(this._result=this.run(),this.setExperimentKey())}}te=J([ee("ParallaxAdsExperiment"),Y("design:type",Function),Y("design:paramtypes",["undefined"==typeof AdTypes?Object:AdTypes])],te);class ie extends Q{get result(){return this._result}run(){return new G(1).get()}constructor(){super(),this._result=!1,this._choices=[{choice:!0},{choice:!1}],this.key="mrsf",this.abgroup="mrsf",E()&&(this._result=this.run(),this.setExperimentKey())}}const ne=[[728,90],[300,250],[300,600],[320,50],[970,250],[160,600],[300,1050],[336,280],[970,90],[300,50],[320,100],[468,60],[250,250],[120,240],[1,1],[300,300],[552,334],[300,420],[728,250],[320,300],[300,390]],se=[[300,600],[160,600]],oe=new Map([[d.Footer,1],[d.Header,2],[d.Sidebar,3],[d.Content,4],[d.Recipe,5],["Sidebar_sticky",6],["Below Post",7]]),re=(e,t)={const{location:i,sticky:n}=e;if(i===d.Recipe&&t){const{recipeMobile:e,recipeDesktop:i}=t;if(E()&&(null==e?void 0:e.enabled))return!0;if(!E()&&(null==i?void 0:i.enabled))return!0}return i===d.Footer||n},ae=(e,t)={const i=t.adUnits,n=(e=!!e.adTypes&&new te(e.adTypes).result)(t),s=new K,o=new ie;return i.filter((e=void 0!==e.dynamic&&e.dynamic.enabled)).map((i={const r=i.location.replace(/\s+/g,"_"),a="Sidebar"===r?0:2;return{auctionPriority:oe.get(r)||8,location:r,sequence:O(i.sequence,1),sizes:(l=i.adSizes,ne.filter((([e,t])=l.some((([i,n])=e===i&&t===n))))).filter((t=((e,[t,i],n,s,o)={const{location:r,sequence:a}=e;if(r===d.Footer)return!("phone"===n&&320===t&&100===i);if(r===d.Header)return!(i100&&s.result);if(r===d.Recipe)return!(o.result&&"phone"===n&&(300===t&&390===i||320===t&&300===i));if(r===d.Sidebar){const t=e.adSizes.some((([,e])=e
+300;return!(!n||t)||9===a||(a&&a
+"special"===e.key)).reduce(((e,t)=e.concat(...t.value)),[]),lazy:O(i.dynamic.lazy,!1),lazyMax:O(i.dynamic.lazyMax,a),lazyMaxDefaulted:0!==i.dynamic.lazyMax&&!i.dynamic.lazyMax,name:i.name};var l}))},le=(e,t)={const i=(e={let t=e.clientWidth;if(getComputedStyle){const i=getComputedStyle(e,null);t-=parseFloat(i.paddingLeft||"0")+parseFloat(i.paddingRight||"0")}return t})(t),n=e.sticky&&e.location===d.Sidebar;return e.sizes.filter((t={const s=!e.autosize||(t[0]
+`adthrive-${e.location.replace("_","-").toLowerCase()}`,ue=e=`${de(e)}-${e.sequence}`;function he(e,t){void 0===t&&(t={});var i=t.insertAt;if(e&&"undefined"!=typeof document){var n=document.head||document.getElementsByTagName("head")[0],s=document.createElement("style");s.type="text/css","top"===i&&n.firstChild?n.insertBefore(s,n.firstChild):n.appendChild(s),s.styleSheet?s.styleSheet.cssText=e:s.appendChild(document.createTextNode(e))}}const pe=e=e.some((e=null!==document.querySelector(e)));class me extends Q{get result(){return this._result}run(){return new G(1).get()}constructor(){super(),this._result=!1,this._choices=[{choice:!0},{choice:!1}],this.key="RemoveRecipeCap",this.abgroup="rrc",this._result=this.run(),this.setExperimentKey()}}class _e extends H{static fromArray(e,t){return new _e(e.map((([e,t])=({choice:e,weight:t}))),t)}addChoice(e,t){this._choices.push({choice:e,weight:t})}get(){const e=(t=0,i=100,Math.random()*(i-t)+t);var t,i;let n=0;for(const{choice:t,weight:i}of this._choices)if(n+=i,n=e)return t;return this._default}get totalWeight(){return this._choices.reduce(((e,{weight:t})=e+t),0)}constructor(e=[],t){super(),this._choices=e,this._default=t}}const ge=()=(e,t,i)={const n=i.value;n&&(i.value=function(...e){const t=(e={if(null===e)return null;const t=e.map((({choice:e})=e));return(e={let t=5381,i=e.length;for(;i;)t=33*t^e.charCodeAt(--i);return t0})(JSON.stringify(t)).toString(16)})(this._choices),i=this._expConfigABGroup?this._expConfigABGroup:this.abgroup,s=i?i.toLowerCase():this.key?this.key.toLowerCase():"",o=t?`${s}_${t}`:s,r=this.localStoragePrefix?`${this.localStoragePrefix}-${o}`:o,a=R.readInternalLocalStorage("adthrive_branch");!1===(a&&a.enabled)&&R.deleteLocalStorage(r);const l=(()=n.apply(this,e))(),c=(d=this._choices,u=l,null!=(p=null==(h=d.find((({choice:e})=e===u)))?void 0:h.weight)?p:null);var d,u,h,p;const[m,_]=R.getOrSetABGroupLocalStorageValue(r,l,c,{value:24,unit:"hours"});return this._stickyResult=m,this._stickyWeight=_,m})};class ye{get enabled(){return void 0!==this.experimentConfig}_isValidResult(e,t=()=!0){return t()&&(e=null!=e&&!("number"==typeof e&&isNaN(e)))(e)}}class fe extends ye{_isValidResult(e){return super._isValidResult(e,(()=this._resultValidator(e)||"control"===e))}run(){if(!this.enabled)return C.error("CLSWeightedChoiceSiteExperiment","run","() = %o","No experiment config found. Defaulting to control."),"control";if(!this._mappedChoices||0===this._mappedChoices.length)return C.error("CLSWeightedChoiceSiteExperiment","run","() = %o","No experiment variants found. Defaulting to control."),"control";const e=new _e(this._mappedChoices).get();return this._isValidResult(e)?e:(C.error("CLSWeightedChoiceSiteExperiment","run","() = %o","Invalid result from experiment choices. Defaulting to control."),"control")}constructor(...e){super(...e),this._resultValidator=()=!0}}class ve{getSiteExperimentByKey(e){const t=this.siteExperiments.filter((t=t.key.toLowerCase()===e.toLowerCase()))[0],i=x("at_site_features"),n=(s=(null==t?void 0:t.variants[1])?null==t?void 0:t.variants[1].value:null==t?void 0:t.variants[0].value,o=i[e],typeof s==typeof o);var s,o;return t&&i[e]&&n&&(t.variants=[{displayName:"test",value:i[e],weight:100,id:0}]),t}constructor(e){var t,i;this.siteExperiments=[],this._clsOptions=e,this._device=E()?"mobile":"desktop",this.siteExperiments=null!=(i=null==(t=this._clsOptions.siteAds.siteExperiments)?void 0:t.filter((e={const t=e.key,i=T(e,this._device),n=I(this._clsOptions.siteAds,t,this._device);return i&&n})))?i:[]}}class Se extends fe{get result(){return this._result}run(){if(!this.enabled)return C.error("CLSAdLayoutSiteExperiment","run","() = %o","No experiment config found. Defaulting to empty class name."),"";const e=new _e(this._mappedChoices).get();return this._isValidResult(e)?e:(C.error("CLSAdLayoutSiteExperiment","run","() = %o","Invalid result from experiment choices. Defaulting to empty class name."),"")}_mapChoices(){return this._choices.map((({weight:e,value:t})=({weight:e,choice:t})))}constructor(e){super(),this._choices=[],this._mappedChoices=[],this._result="",this._resultValidator=e="string"==typeof e,this.key=c.AdLayout,this.abgroup=c.AdLayout,this._clsSiteExperiments=new ve(e),this.experimentConfig=this._clsSiteExperiments.getSiteExperimentByKey(this.key),this.enabled&&this.experimentConfig&&(this._choices=this.experimentConfig.variants,this._mappedChoices=this._mapChoices(),this._result=this.run(),e.setWeightedChoiceExperiment(this.abgroup,this._result,!0))}}J([ge(),Y("design:type",Function),Y("design:paramtypes",[]),Y("design:returntype",void 0)],Se.prototype,"run",null);class be extends fe{get result(){return this._result}run(){if(!this.enabled)return C.error("CLSTargetAdDensitySiteExperiment","run","() = %o","No experiment config found. Defaulting to control."),"control";const e=new _e(this._mappedChoices).get();return this._isValidResult(e)?e:(C.error("CLSTargetAdDensitySiteExperiment","run","() = %o","Invalid result from experiment choices. Defaulting to control."),"control")}_mapChoices(){return this._choices.map((({weight:e,value:t})=({weight:e,choice:"number"==typeof t?(t||0)/100:"control"})))}constructor(e){super(),this._choices=[],this._mappedChoices=[],this._result="control",this._resultValidator=e="number"==typeof e,this.key=c.AdDensity,this.abgroup=c.AdDensity,this._clsSiteExperiments=new ve(e),this.experimentConfig=this._clsSiteExperiments.getSiteExperimentByKey(this.key),this.enabled&&this.experimentConfig&&(this._choices=this.experimentConfig.variants,this._mappedChoices=this._mapChoices(),this._result=this.run(),e.setWeightedChoiceExperiment(this.abgroup,this._result,!0))}}J([ge(),Y("design:type",Function),Y("design:paramtypes",[]),Y("design:returntype",void 0)],be.prototype,"run",null);class Ce extends Q{get result(){return this._result}run(){return new G(this.weight).get()}constructor(){super(),this._result=!1,this.abgroup="scae",this.key="StickyContainerAds",this._choices=[{choice:!0},{choice:!1}],this.weight=.99,this._result=this.run(),this.setExperimentKey()}}Ce=J([ee("StickyContainerAdsExperiment"),Y("design:type",Function),Y("design:paramtypes",[])],Ce);class Oe extends Q{get result(){return this._result}run(){return new G(this.weight).get()}constructor(){super(),this._result=!1,this.abgroup="scre",this.key="StickyContainerRecipe",this._choices=[{choice:!0},{choice:!1}],this.weight=.99,this._result=this.run(),this.setExperimentKey()}}Oe=J([ee("StickyContainerRecipeExperiment"),Y("design:type",Function),Y("design:paramtypes",[])],Oe);const we="250px";class xe{start(){try{var e,t;(e={const t=document.body,i=`adthrive-device-${e}`;if(!t.classList.contains(i))try{t.classList.add(i)}catch(e){C.error("BodyDeviceClassComponent","init",{message:e.message});const t="classList"in document.createElement("_");C.error("BodyDeviceClassComponent","init.support",{support:t})}})(this._device);const s=new Se(this._clsOptions);if(s.enabled){const e=s.result,t=e.startsWith(".")?e.substring(1):e;if((e=/^[-_a-zA-Z]+[-_a-zA-Z0-9]*$/.test(e))(t))try{document.body.classList.add(t)}catch(e){C.error("ClsDynamicAdsInjector","start",`Uncaught CSS Class error: ${e}`)}else C.error("ClsDynamicAdsInjector","start",`Invalid class name: ${t}`)}const o=ae(this._device,this._clsOptions.siteAds).filter((e=this._locationEnabled(e))).filter((e={return t=e,i=this._device,t.devices.includes(i);var t,i})).filter((e={return 0===(t=e).pageSelector.length||null!==document.querySelector(t.pageSelector);var t})),r=this.inject(o);var i,n;if(null==(t=this._clsOptions.siteAds.adOptions.stickyContainerConfig)||null==(e=t.content)?void 0:e.enabled)if(this._stickyContainerAdsExperiment.result&&!pe(this._clsOptions.siteAds.adOptions.stickyContainerConfig.blockedSelectors||[]))he(`\n  .adthrive-device-phone .adthrive-sticky-content {\n    height: 450px !important;\n    margin-bottom: 100px !important;\n  }\n  .adthrive-content.adthrive-sticky {\n    position: -webkit-sticky;\n    position: sticky !important;\n    top: 42px !important;\n    margin-top: 42px !important;\n  }\n  .adthrive-content.adthrive-sticky:after {\n    content: "— Advertisement. Scroll down to continue. —";\n    font-size: 10pt;\n    margin-top: 5px;\n    margin-bottom: 5px;\n    display:block;\n    color: #888;\n  }\n  .adthrive-sticky-container {\n    position: relative;\n    display: flex;\n    flex-direction: column;\n    justify-content: flex-start;\n    align-items: center;\n    min-height:${(null==(n=this._clsOptions.siteAds.adOptions.stickyContainerConfig)||null==(i=n.content)?void 0:i.minHeight)||400}px !important;\n    margin: 10px 0 10px 0;\n    background-color: #FAFAFA;\n    padding-bottom:0px;\n  }\n  `);r.forEach((e=this._clsOptions.setInjectedSlots(e)))}catch(e){C.error("ClsDynamicAdsInjector","start",e)}}inject(e,t=document){this._densityDevice="desktop"===this._device?u.Desktop:u.Mobile,this._overrideDefaultAdDensitySettingsWithSiteExperiment();const i=this._clsOptions.siteAds,n=O(i.adDensityEnabled,!0),s=i.adDensityLayout&&n,o=e.filter((e=s?e.location!==d.Content:e)),r=e.filter((e=s?e.location===d.Content:null));return[...o.length?this._injectNonDensitySlots(o,t):[],...r.length?this._injectDensitySlots(r,t):[]]}_injectNonDensitySlots(e,t=document){var i;const n=[],s=[];if(this._stickyContainerRecipeExperiment.result&&e.some((e=e.location===d.Recipe&&e.sticky))&&!pe((null==(i=this._clsOptions.siteAds.adOptions.stickyContainerConfig)?void 0:i.blockedSelectors)||[])){var o,r;const e=this._clsOptions.siteAds.adOptions.stickyContainerConfig;(e={he(`\n  .adthrive-recipe.adthrive-sticky {\n    position: -webkit-sticky;\n    position: sticky !important;\n    top: 42px !important;\n    margin-top: 42px !important;\n  }\n  .adthrive-recipe-sticky-container {\n    position: relative;\n    display: flex;\n    flex-direction: column;\n    justify-content: flex-start;\n    align-items: center;\n    min-height:${e||400}px !important;\n    margin: 10px 0 10px 0;\n    background-color: #FAFAFA;\n    padding-bottom:0px;\n  }\n  `)})("phone"===this._device?null==e||null==(o=e.recipeMobile)?void 0:o.minHeight:null==e||null==(r=e.recipeDesktop)?void 0:r.minHeight)}for(const i of e)this._insertNonDensityAds(i,n,s,t);return s.forEach((({location:e,element:t})={t.style.minHeight=this.locationToMinHeight[e]})),n}_injectDensitySlots(e,t=document){try{this._calculateMainContentHeightAndAllElements(e,t)}catch(e){return[]}const{onePerViewport:i,targetAll:n,targetDensityUnits:s,combinedMax:o,numberOfUnits:r}=this._getDensitySettings(e,t);return this._absoluteMinimumSpacingByDevice=i?window.innerHeight:this._absoluteMinimumSpacingByDevice,r?(this._adInjectionMap.filterUsed(),this._findElementsForAds(r,i,n,o,s,t),this._insertAds()):[]}_overrideDefaultAdDensitySettingsWithSiteExperiment(){var e;if(null==(e=this._clsTargetAdDensitySiteExperiment)?void 0:e.enabled){const e=this._clsTargetAdDensitySiteExperiment.result;"number"==typeof e&&(this._clsOptions.siteAds.adDensityEnabled=!0,this._clsOptions.siteAds.adDensityLayout[this._densityDevice].adDensity=e)}}_getDensitySettings(e,t=document){const i=this._clsOptions.siteAds.adDensityLayout,n=this._determineOverrides(i.pageOverrides),s=n.length?n[0]:i[this._densityDevice],o=this._clsOptions.getTargetDensity(s.adDensity),r=s.onePerViewport,a=this._shouldTargetAllEligible(o),l=this._getTargetDensityUnits(o,a),c=this._getCombinedMax(e,t),d=Math.min(this._totalAvailableElements.length,l,...c0?[c]:[]);return this._pubLog={onePerViewport:r,targetDensity:o,targetDensityUnits:l,combinedMax:c},{onePerViewport:r,targetAll:a,targetDensityUnits:l,combinedMax:c,numberOfUnits:d}}_determineOverrides(e){return e.filter((e={const t=L(e.pageSelector);return""===e.pageSelector||t.elements&&t.elements.length})).map((e=e[this._densityDevice]))}_shouldTargetAllEligible(e){return e===this._densityMax}_getTargetDensityUnits(e,t){return t?this._totalAvailableElements.length:Math.floor(e*this._mainContentHeight/(1-e)/this._minDivHeight)-this._recipeCount}_getCombinedMax(e,t=document){return O(e.filter((e={let i;try{i=t.querySelector(e.elementSelector)}catch(e){}return i})).map((e=Number(e.max)+Number(e.lazyMaxDefaulted?0:e.lazyMax))).sort(((e,t)=t-e))[0],0)}_elementLargerThanMainContent(e){return e.offsetHeight=this._mainContentHeight&&this._totalAvailableElements.length1}_elementDisplayNone(e){const t=window.getComputedStyle(e,null).display;return t&&"none"===t||"none"===e.style.display}_isBelowMaxes(e,t){return this._adInjectionMap.map.length
+{for(const{dynamicAd:t,element:r}of this._totalAvailableElements)if(this._logDensityInfo(r,t.elementSelector,e),!(!i&&this._elementLargerThanMainContent(r)||this._elementDisplayNone(r))){if(!this._isBelowMaxes(n,s))break;this._checkElementSpacing({dynamicAd:t,element:r,insertEvery:e,targetAll:i,target:o})}!this._usedAbsoluteMinimum&&this._smallerIncrementAttempts
+0&&(s=window.innerHeight*e.spacing,o=s);const a=this._repeatDynamicAds(e),l=this.getElements(e.elementSelector,n);e.skip;for(let c=e.skip;c
+a.length);c+=e.every){let u=l[c];if(s0){const{bottom:e}=w(u);if(e
+e.name===p))&&(r+=1);const m=this.getDynamicElementId(h),_=de(e),g=ue(e),y=[e.location===d.Sidebar&&e.sticky&&e.sequence&&e.sequence
+{const o=Number(i.sequence)+s,r=i.max,a=i.lazy&&or;i.sequence=o,i.lazy=a;const l=this._addContentAd(t,i,n);l&&(i.used=!0,e.push(l))})),e}_getInsertEvery(e,t,i){let n=this._absoluteMinimumSpacingByDevice;return this._moreAvailableElementsThanUnitsToInject(i,e)?(this._usedAbsoluteMinimum=!1,n=this._useWiderSpacing(i,e)):(this._usedAbsoluteMinimum=!0,n=this._useSmallestSpacing(t)),t&&window.innerHeightn?window.innerHeight:n}_useWiderSpacing(e,t){return this._mainContentHeight/Math.min(e,t)}_useSmallestSpacing(e){return e&&window.innerHeightthis._absoluteMinimumSpacingByDevice?window.innerHeight:this._absoluteMinimumSpacingByDevice}_moreAvailableElementsThanUnitsToInject(e,t){return this._totalAvailableElements.lengthe||this._totalAvailableElements.lengtht}_logDensityInfo(e,t,i){const{onePerViewport:n,targetDensity:s,targetDensityUnits:o,combinedMax:r}=this._pubLog;this._totalAvailableElements.length}_checkElementSpacing({dynamicAd:t,element:i,insertEvery:n,targetAll:s,target:o=document}){(this._isFirstAdInjected()||this._hasProperSpacing(i,t,s,n))&&this._markSpotForContentAd(i,e({},t),o)}_isFirstAdInjected(){return!this._adInjectionMap.map.length}_markSpotForContentAd(e,t,i=document){const n="beforebegin"===t.position||"afterbegin"===t.position;this._adInjectionMap.add(e,this._getElementCoords(e,n),t,i),this._adInjectionMap.sort()}_hasProperSpacing(e,t,i,n){const s="beforebegin"===t.position||"afterbegin"===t.position,o="beforeend"===t.position||"afterbegin"===t.position,r=i||this._isElementFarEnoughFromOtherAdElements(e,n,s),a=o||this._isElementNotInRow(e,s),l=-1===e.id.indexOf(`AdThrive_${d.Below_Post}`);return r&&a&&l}_isElementFarEnoughFromOtherAdElements(e,t,i){const n=this._getElementCoords(e,i);let s=!1;for(let e=0;e
+i&&(!o||n+t
+{const[n,s]=P(e,t,i);if(0===n.length)throw Error("No Main Content Elements Found");return[Array.from(n).reduce(((e,t)=t.offsetHeighte.offsetHeight?t:e))||document.body,s]})(e,this._adInjectionMap,t);this._mainContentDiv=i,this._totalAvailableElements=n,this._mainContentHeight=((e,t="div #comments, section .comments")={const i=e.querySelector(t);return i?e.offsetHeight-i.offsetHeight:e.offsetHeight})(this._mainContentDiv)}_getElementCoords(e,t=!1){const i=e.getBoundingClientRect();return(t?i.top:i.bottom)+window.scrollY}_addContentAd(e,t,i=document){var n,s;let o=null;const r=de(t),a=ue(t),l=(null==(s=this._clsOptions.siteAds.adOptions.stickyContainerConfig)||null==(n=s.content)?void 0:n.enabled)&&this._stickyContainerAdsExperiment.result?"adthrive-sticky-container":"",c=this.addAd(e,this.getDynamicElementId(t),t.position,[l,r,a,...t.classNames]);if(c){const e=le(t,c);if(e.length){c.style.minHeight=this.locationToMinHeight[t.location];o={clsDynamicAd:t,dynamicAd:t,element:c,sizes:e,name:`${t.location}_${t.sequence}`,infinite:i!==document}}}return o}getDynamicElementId(e){return`AdThrive_${e.location}_${e.sequence}_${this._device}`}getElements(e,t=document){return t.querySelectorAll(e)}addAd(e,t,i,n=[]){if(!document.getElementById(t)){const s=`
+
+`;e.insertAdjacentHTML(i,s)}return document.getElementById(t)}_repeatDynamicAds(t){const i=[],n=this._removeRecipeCapExperiment.result&&t.location===d.Recipe?99:this.locationMaxLazySequence.get(t.location),s=t.lazy?O(n,0):0,o=t.max,r=t.lazyMax,a=0===s&&t.lazy?o+r:Math.min(Math.max(s-t.sequence+1,0),o+r),l=Math.max(o,a);for(let n=0;n
+=o;i.push(e({},t,{sequence:s,lazy:r}))}}return i}_locationEnabled(e){const t=this._clsOptions.enabledLocations.includes(e.location),i=this._clsOptions.disableAds&&this._clsOptions.disableAds.all||document.body.classList.contains("adthrive-disable-all"),n=!document.body.classList.contains("adthrive-disable-content")&&!this._clsOptions.disableAds.reasons.has("content_plugin");return t&&!i&&n}constructor(e,t){this._clsOptions=e,this._adInjectionMap=t,this._recipeCount=0,this._mainContentHeight=0,this._mainContentDiv=null,this._totalAvailableElements=[],this._minDivHeight=250,this._densityDevice=u.Desktop,this._pubLog={onePerViewport:!1,targetDensity:0,targetDensityUnits:0,combinedMax:0},this._densityMax=.99,this._smallerIncrementAttempts=0,this._absoluteMinimumSpacingByDevice=250,this._usedAbsoluteMinimum=!1,this._infPageEndOffset=0,this.locationMaxLazySequence=new Map([[d.Recipe,5]]),this.locationToMinHeight={Below_Post:we,Content:we,Recipe:we,Sidebar:we};const{tablet:i,desktop:n}=this._clsOptions.siteAds.breakpoints;this._device=((e,t)={const i=window.innerWidth;return i=t?"desktop":i=e?"tablet":"phone"})(i,n),this._config=new ce(e),this._clsOptions.enabledLocations=this._config.enabledLocations,this._clsTargetAdDensitySiteExperiment=this._clsOptions.siteAds.siteExperiments?new be(this._clsOptions):null,this._stickyContainerAdsExperiment=new Ce,this._stickyContainerRecipeExperiment=new Oe,this._removeRecipeCapExperiment=new me}}function Ae(e,t){if(null==e)return{};var i,n,s={},o=Object.keys(e);for(n=0;n
+=0||(s[i]=e[i]);return s}class Ee{get enabled(){return!0}}class Pe extends Ee{setPotentialPlayersMap(){const e=this._videoConfig.players||[],t=this._filterPlayerMap(),i=e.filter((e="stationaryRelated"===e.type&&e.enabled));return t.stationaryRelated=i,this._potentialPlayerMap=t,this._potentialPlayerMap}_filterPlayerMap(){const e=this._videoConfig.players,t={stickyRelated:[],stickyPlaylist:[],stationaryRelated:[]};return e&&e.length?e.filter((e={var t;return null==(t=e.devices)?void 0:t.includes(this._device)})).reduce(((e,t)=(e[t.type]||(C.event(this._component,"constructor","Unknown Video Player Type detected",t.type),e[t.type]=[]),t.enabled&&e[t.type].push(t),e)),t):t}_checkPlayerSelectorOnPage(e){const t=this._potentialPlayerMap[e].map((e=({player:e,playerElement:this._getPlacementElement(e)})));return t.length?t[0]:{player:null,playerElement:null}}_getOverrideElement(e,t,i){if(e&&t){const n=document.createElement("div");t.insertAdjacentElement(e.position,n),i=n}else{const{player:e,playerElement:t}=this._checkPlayerSelectorOnPage("stickyPlaylist");if(e&&t){const n=document.createElement("div");t.insertAdjacentElement(e.position,n),i=n}}return i}_shouldOverrideElement(e){const t=e.getAttribute("override-embed");return"true"===t||"false"===t?"true"===t:!!this._videoConfig.relatedSettings&&this._videoConfig.relatedSettings.overrideEmbedLocation}_checkPageSelector(e,t,i=[]){if(e&&t&&0===i.length){return!("/"===window.location.pathname)&&C.event("VideoUtils","getPlacementElement",new Error(`PSNF: ${e} does not exist on the page`)),!1}return!0}_getElementSelector(e,t,i){return t&&t.lengthi?t[i]:(C.event("VideoUtils","getPlacementElement",new Error(`ESNF: ${e} does not exist on the page`)),null)}_getPlacementElement(e){const{pageSelector:t,elementSelector:i,skip:n}=e,s=L(t),{valid:o,elements:r}=s,a=Ae(s,["valid","elements"]),l=M(i),{valid:c,elements:d}=l,u=Ae(l,["valid","elements"]);if(""!==t&&!o)return C.error("VideoUtils","getPlacementElement",new Error(`${t} is not a valid selector`),a),null;if(!c)return C.error("VideoUtils","getPlacementElement",new Error(`${i} is not a valid selector`),u),null;if(!this._checkPageSelector(t,o,r))return null;return this._getElementSelector(i,d,n)||null}_getEmbeddedPlayerType(e){let t=e.getAttribute("data-player-type");return t&&"default"!==t||(t=this._videoConfig.relatedSettings?this._videoConfig.relatedSettings.defaultPlayerType:"static"),this._stickyRelatedOnPage&&(t="static"),t}_getMediaId(e){const t=e.getAttribute("data-video-id");return!!t&&(this._relatedMediaIds.push(t),t)}_createRelatedPlayer(e,t,i,n){"collapse"===t?this._createCollapsePlayer(e,i):"static"===t&&this._createStaticPlayer(e,i,n)}_createCollapsePlayer(t,i){const{player:n,playerElement:s}=this._checkPlayerSelectorOnPage("stickyRelated"),o=n||this._potentialPlayerMap.stationaryRelated[0];if(o&&o.playerId){this._shouldOverrideElement(i)&&(i=this._getOverrideElement(n,s,i)),i=document.querySelector(`#cls-video-container-${t}  div`)||i,this._createStickyRelatedPlayer(e({},o,{mediaId:t}),i)}else C.error(this._component,"_createCollapsePlayer","No video player found")}_createStaticPlayer(t,i,n){if(this._potentialPlayerMap.stationaryRelated.length&&this._potentialPlayerMap.stationaryRelated[0].playerId){const s=this._potentialPlayerMap.stationaryRelated[0];this._createStationaryRelatedPlayer(e({},s,{mediaOrPlaylistId:t}),i,n)}else C.error(this._component,"_createStaticPlayer","No video player found")}_shouldRunAutoplayPlayers(){return!(!this._isVideoAllowedOnPage()||!this._potentialPlayerMap.stickyRelated.length&&!this._potentialPlayerMap.stickyPlaylist.length)}_determineAutoplayPlayers(){const e=this._component,t="VideoManagerComponent"===e,i=this._context;if(this._stickyRelatedOnPage)return void C.event(e,"stickyRelatedOnPage",t&&{device:i&&i.device,isDesktop:this._device}||{});const{player:n,playerElement:s}=this._checkPlayerSelectorOnPage("stickyPlaylist");n&&n.playerId&&n.playlistId&&s?this._createPlaylistPlayer(n,s):Math.random()
+{C.event(e,"noStickyPlaylist",t&&{vendor:"none",device:i&&i.device,isDesktop:this._device}||{})}),1e3)}_initializeRelatedPlayers(e){const t=new Map;for(let i=0;i
+
+(function () {var clsElements = document.querySelectorAll("script[id^='cls-']"); window.adthriveCLS && clsElements && clsElements.length === 0 ? window.adthriveCLS.injectedFromPlugin = false : ""; })();
+
+!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var tcb_current_post_lists=JSON.parse('[]'); var tcb_post_lists=tcb_post_lists?[...tcb_post_lists,...tcb_current_post_lists]:tcb_current_post_lists;
+
+.lwptoc .lwptoc_i{background-color:#fcfcfc;border:1px solid #d9d9d9;}.lwptoc_header{color:#429ddc;}.lwptoc .lwptoc_i A{color:#429ddc;}.lwptoc .lwptoc_i A:hover,.lwptoc .lwptoc_i A:focus,.lwptoc .lwptoc_i A:active{color:#1e8cdb;border-color:#1e8cdb;}.lwptoc .lwptoc_i A:visited{color:#429ddc;}
+
+
+var rocket_beacon_data = {"ajax_url":"https:\/\/rtbookreviews.com\/wp-admin\/admin-ajax.php","nonce":"4c9a12b585","url":"https:\/\/rtbookreviews.com\/psychological-fantasy-book-genre-explained","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800}
+
+
+

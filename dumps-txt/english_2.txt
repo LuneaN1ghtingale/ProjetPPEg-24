@@ -1,0 +1,685 @@
+ 
+ 
+    
+ 
+    
+ 
+
+SFE: Fantasy
+
+
+
+Home
+
+
+About us
+
+
+Random
+
+
+Contact
+
+
+Donate
+
+
+
+
+
+
+
+
+
+All entries
+
+
+Themes
+
+
+People
+
+
+Media
+
+
+Culture
+
+
+News
+
+Search all entries
+Checklist titles
+
+Art
+Author
+Award
+Character
+Comics
+Community
+Critic
+Editor
+Fan
+Film
+Game
+House Name
+International
+Music
+People (media)
+Prelim
+Publication
+Publisher
+Radio
+Theatre
+Theme
+TV
+
+ 
+Search SFE
+ 
+Search EoF
+
+&nbsp; 
+Omit cross-reference entries
+
+Entry updated 3 July 2023. Tagged: Theme.
+
+
+
+
+
+
+There is no 
+Definition of SF
+ that excludes fantasy, other than prescriptive definitions so narrow that, were they applied, this encyclopedia would be reduced to ten per cent of its present length. We are talking about problems of definition raised by not a minority but a majority of all genre writings. Among the 
+Genre-SF
+ writers at least some of whose work would be excluded are Terry 
+Bisson
+, Ray 
+Bradbury
+, Orson Scott 
+Card
+, John 
+Crowley
+, Avram 
+Davidson
+, Samuel R 
+Delany
+, Thomas M 
+Disch
+, Harlan 
+Ellison
+, Philip Jos&eacute; 
+Farmer
+, Ursula K 
+Le Guin
+, Fritz 
+Leiber
+, Michael 
+Moorcock
+, Andre 
+Norton
+, Tim 
+Powers
+, Keith 
+Roberts
+, Geoff 
+Ryman
+, Lucius 
+Shepard
+, Dan 
+Simmons
+, Jack 
+Vance
+, John 
+Varley
+, Gene 
+Wolfe
+ and Roger 
+Zelazny
+ &ndash; many of the ablest and most popular writers in the sf field. Most or all of these writers (and several hundred more names could easily be added) have written occasional works that would be accepted by almost all readers as fantasy, but that is not the point; rather it is that any definition of sf that insists upon limiting true sf to scientific or "cognitive" modes of thought, and extrapolation from known realities, would exclude 
+the whole body of their work
+. It is not that Delany or Le Guin are unscientific; indeed, they are not. But the science is not the whole story; their work is deeply imbued with fantasy motifs, fantastic modes of thought, narrative connections deriving from the logic of myth, metaphors from magical or religious belief, narrative resonances evoking a backward corridor of time long preceding the ages of science and technology. Certainly most of us can and do accept nearly all the above as true sf writers, but that is because most of us are not wedded to prescriptive definitions of sf. In the real world, we recognize that both sf and fantasy, if genres at all, are impure genres. They are not homogeneous. Their fruit may be sf but the roots are fantasy, and the flowers and leaves, perhaps, something else again.
+It is, of course, quite simple to erect a theoretical system that distinguishes the genres, though in practice it is not especially helpful, for the reasons given above. The usual way is to regard fantasy as a subset of fiction, a circle within a circle. (The bit between inner and outer circles is mimetic fiction, which cleaves to known reality. Mimetic or "realistic" fiction is itself fairly recent; the distinctions being made here could not have been made before the eighteenth century.) Within the inner circle of fantasy &ndash; the fiction of the presently unreal &ndash; is a smaller circle still, a subset of a subset, and this is sf. It shares with fantasy the idea of a 
+Novum
+: some new element, something that distinguishes the fiction from reality as presently constituted. A novum could be a 
+Vampire
+ or a colonized planet. The sub-subset that is sf insists that the novum be explicable in terms that adhere to conventionally formulated natural law; the remainder, fantasy, has no such requirement.
+To cut the definition to an irreducible minimum: mimetic fiction is real, fantasy is unreal (but see 
+Fabulation
+); sf is unreal but natural, as opposed to the remainder of fantasy, which is unreal and supernatural. (Or, simpler still, sf could happen, fantasy couldn't.)
+Several things follow from this sort of argument. The first is that all sf is fantasy, but not all fantasy is sf. The second is that, because natural law is something we come to understand only gradually, over centuries, and which we continue to rewrite, the sf of one period regularly becomes the fantasy of the next. What we regard as natural or possible depends upon the consensus reality of a given culture; but the idea of consensus reality itself is an ideal, not an absolute: in practice there are as many realities as there are human consciousnesses. A reader who believes in astrology will allow certain fictions to be sf that an astronomer would exclude. Although the point is seldom made, it could be said that the particular consensus reality to which sf aspires is that of the scientific community.
+In this encyclopedia we do not use the word "fantasy" in the sense suggested in the previous three paragraphs: that is, as a supergenre which includes sf. This is because we have practical problems to contend with: the hardest part in determining which authors should and should not be given entries in this encyclopedia was deciding which fantasy authors were sufficiently sf-like to be included (see 
+Introduction to the Second Book Edition
+ 
+for further discussion
+, and see also 
+The
+ 
+Encyclopedia of Fantasy
+). To make any sort of distinction at all, we had to regard "fantasy" as the contents of the middle circle excluding the sf circle, in which the novum is supernatural; in other words, "fantasy", as we use the word throughout this book, is fiction about the impossible. Even then, the distinction is quite extraordinarily difficult; again and again the sf fruit has roots of fantasy; even 
+Hard SF
+ regularly uses fantastic or 
+Imaginary Science
+.
+Although academics, especially those specializing in genre studies, have written many volumes attempting to make the sort of distinction we speak of, the sf community has been decidedly pragmatic and has generally ducked the issue. To take two major 
+Awards
+, the 
+Hugo
+ and the 
+Nebula
+, and one less known, the 
+Philip K Dick Award
+, it was for a long time not generally realized that there is nothing in their constitutions to prevent them being given to works of fantasy rather than sf; indeed, they often are. Hugo-winners include Fritz Leiber's "Ill Met in Lankhmar" (April 1970 
+F&amp;SF
+) and Robert 
+Bloch
+'s "That Hell-Bound Train" (September 1958 
+F&amp;SF
+); Nebula-winners include Pat 
+Murphy
+'s 
+The Falling Woman
+ (
+1986
+) and Ursula K Le Guin's 
+Tehanu: The Last Book of Earthsea
+ (
+1990
+); Philip K Dick award-winners include Tim Powers' 
+The Anubis Gates
+ (
+1983
+) and Patricia Geary's 
+Strange Toys
+ (
+1987
+). There are many more such.
+Or take the genre magazines, and consider how many have titles deliberately including both genres: 
+Fantastic Science Fiction Stories
+ (see 
+Fantastic
+), 
+The
+ 
+Magazine of Fantasy and Science Fiction
+, 
+Science Fantasy
+, and a number of others. Or consider that the genre newspaper 
+Locus
+, along with the annual bibliographies it publishes, gives full coverage to sf, fantasy and horror and makes no clear distinction between them. Consider that the most recent academic journal about sf deliberately titles itself to include fantasy also: 
+Journal of the Fantastic in the Arts
+. (We do not wish to start any hares about whatever differences may be discernible between Fantasy and the Fantastic.) Or consider the Italian word for sf, "fantascienza", which combines the two genres in the word itself; the Russian word is "fantastika" (see 
+Fantastika
+). Indeed, consider that the general thrust of the European (though not UK) literary tradition is to regard fantasy and sf as two aspects of the same phenomenon; it is notable that several European authors of such entries in this encyclopedia as 
+Romania
+ are more inclusive about what constitutes sf than this encyclopedia is as a whole. (European theoretical critics, however, can be very 
+ex
+clusive in their definitions; Tzvetan 
+Todorov
+ muddied the waters in 
+Introduction &agrave; la litt&eacute;rature fantastique
+ [
+1970
+; trans as 
+The Fantastic: A Structural Approach to a Literary Genre
+ 
+1973
+], which sees the fantastic, not very helpfully, as occupying the area where the reader hesitates between imputing a rational or a supernatural explanation to the events described, which would exclude most fantasy from "the fantastic"; and another celebrated European critic, Darko 
+Suvin
+, has claimed that the commercial linking of sf and fantasy, whether in marketing or in critical terms, is "a rampantly pathological phenomenon". Suvin is the best known of those critics who have offered the kind of prescriptive definition of sf noted above.)
+In the face of this widespread conspiracy to ignore generic boundaries wherever possible (a conspiracy to which most bookshops belong) it may seem quixotic to attempt distinctions at all. Yet we feel that a book calling itself 
+The Encyclopedia of Science Fiction
+ must make at least some attempt to prevent "sf proper" from being wholly swamped by the necessarily much larger number of entries (especially author entries) that a wholly inclusive policy about fantasy would entail.
+The task is not impossible, though necessarily subjective. The most important thing perhaps &ndash; difficult to pin down because it involves style as well as content &ndash; is to regard fantasy as sf-like when it adopts a cognitive approach to its subject matter, even if that subject matter is 
+Magic
+. Although both are given entries in this book, most people would agree that Ursula K Le Guin's 
+Earthsea
+ books are more science-fictional in tone &ndash; even though set in worlds where magic works and where dragons exist &ndash; than, say, H P 
+Lovecraft
+'s stories of the 
+Cthulhu Mythos
+, though the latter are in fact explicable in sf terms where the former are not; that is, Lovecraft's Elder Gods, spawned in space or in other worlds, can be seen as enormously powerful 
+Alien
+ invaders. In practice, though, Lovecraft's readers seldom give his work an sf reading of this sort, because his tone is fundamentally and unmistakably 
+Gothic
+ and anti-rational: Le Guin is an explainer, Lovecraft prefers the weird, the sinister and the inexplicable. In other words, supernatural fantasy approaches the condition of science fiction when its narrative voice implies a post-scientific consciousness. Conversely, sf (like, for example, much of that by Andre Norton or, in a different way, by Ray Bradbury) approaches the condition of fantasy when its narrative voice implies a mystical or even anti-scientific consciousness.
+Authors who use fantasy elements in sf regularly rationalize their fundamentally 
+Gothic
+ motifs, Anne 
+McCaffrey
+'s dragons being an excellent example: many further examples are given in the entries on 
+Gods and Demons
+, 
+Golem
+, 
+Magic
+, 
+Monsters
+, 
+Mythology
+ and 
+Supernatural Creatures
+, these all being areas where sf and fantasy commonly collide. Conversely, when writers of 
+Hard SF
+ like Robert A 
+Heinlein
+, Poul 
+Anderson
+ and Larry 
+Niven
+ write fantasy, as they often have done, it is amusing to note how the old habits persist; they regard the marvellous and the magical with a rationalist scrutiny, treating 
+Magic
+ (which see) rather as Le Guin does, as if it were a science. The distinction between magic and science is not wholly clear at the best of times; Arthur C 
+Clarke
+ has commented that "any sufficiently advanced technology is indistinguishable from magic" (see 
+Laws
+). Larry 
+Niven
+'s and David 
+Gerrold
+'s 
+The Flying Sorcerers
+ (
+1971
+) is constructed around this precept.
+A story which 
+Parodying
+ the transmutation of fantasy into sf by use of scientific jargon is Isaac 
+Asimov
+'s "P&acirc;t&eacute; de Foie Gras" (September 1956 
+Astounding
+), an sf version of "The Goose that Laid the Golden Eggs". When the rationalization of fantasy elements is merely cursory (substituting, say, an 
+Alternate World
+ reached through a Dimensional Gate for something resembling what Alice found down the rabbit burrow) we would be inclined to call the result fantasy still, though others would call it sf. This kind of fiction perhaps began with Edgar Rice 
+Burroughs
+'s 
+Barsoom
+ books in the early decades of the twentieth century, in which an unexplained superscience tends to stand in for magic. A convenient term for these stories is 
+Science Fantasy
+, and they are discussed under that rubric; many "science fantasy" stories are also 
+Planetary Romances
+ (which see), and some &ndash; those invoking separate worlds governed by sf and fantasy paradigms &ndash; are classed as 
+Science and Sorcery
+.
+One reason why so much fantasy rather resembles sf is its use of many science-fictional motifs (though it has to be said that the 
+range
+ of motifs is much narrower than that found in sf proper, since not much fantasy contains anything other than occult technology; there are few 
+Robots
+ and 
+Cyborgs
+ and 
+Spaceships
+). Theme entries in this book representing the most notable sf and borderline-sf motifs of this sort are 
+Alternate Worlds
+, 
+Atlantis
+, 
+Dimensions
+, 
+ESP
+, 
+Fantastic Voyages
+, 
+Immortality
+, 
+Psi Powers
+, 
+Reincarnation
+, 
+Suspended Animation
+ and 
+Time Travel
+. All of these are commonplace in fantasy, most of them commonplace in sf also. Indeed, sf set in worlds where psi powers work can often be read as it if were fantasy; such, towards the sf end of the spectrum, are Marion Zimmer 
+Bradley
+'s 
+Darkover
+ novels and, towards the fantasy end, Christopher 
+Stasheff
+'s 
+The Warlock in Spite of Himself
+ (
+1969
+) and its sequels. A sophisticated variant is 
+The Deep
+ (
+1975
+) by John 
+Crowley
+, which adroitly plays upon the generic expectations of the reader in such a way that what appears to be 
+Heroic Fantasy
+ comes to seem, retrospectively, pure sf.
+Fantasy itself is not homogeneous; various terms are used, often not very precisely, to characterize its various kinds. An interesting distinction, made by Marshall B 
+Tymn
+, Kenneth J Zahorski and Robert H Boyer in the introduction to 
+Fantasy Literature: A Core Collection and Reference Guide
+ (
+1979
+), is between high fantasy, set in a fully realized secondary world, and low fantasy, which features supernatural intrusions into our own world. Most 
+Horror
+ fiction takes the latter form; most 
+Sword and Sorcery
+ (or 
+Heroic Fantasy
+) takes the former. Although this encyclopedia contains many examples of both high and low fantasy, it is probably high fantasy (in this definition) that is the closest to sf: high fantasy and sf typically create imaginary worlds (alternate to our own). Thus Frank 
+Herbert
+'s 
+Dune
+ (fixup 
+1965
+) and J R R 
+Tolkien
+'s 
+The Lord of the Rings
+ (3 vols 
+1954-1955
+), though the one is sf and the other high fantasy, have in the imaginative intensity of their detailed world-creation a great deal in common (but see 
+Planetary Romance
+ for an argument that the two styles of fiction differ essentially in that one is set on a planet, the other in a landscape). The kind of fantasy which creates such detailed, self-consistent alternate worlds, whatever we call it, is certainly the kind most written by sf writers "on vacation". Such is Poul Anderson's 
+Three Hearts and Three Lions
+ (September-October 1953 
+F&amp;SF
+; exp 
+1961
+) and Jack Vance's 
+The Dying Earth
+ (coll 
+1950
+). Such worlds were never peculiar to sf writers, however. Further back, many of the works of Lord 
+Dunsany
+ are effectively set in a coherent 
+Alternate World
+, as are those of E R 
+Eddison
+ and James Branch 
+Cabell
+, all three being quite unconnected to genre sf when they wrote, though all three have since had repercussions in sf that go beyond the merely stylistic. An even more notable work of fantasy is the 
+Gormenghast
+ sequence (
+1946-1959
+) by Mervyn 
+Peake
+; this may not be set in a fully fledged alternate world, but it does contain all the conceptual creativity that another writer might have lavished on an entire planet focused upon one emblematic building and its occupants.
+In its marketing, sword-and-sorcery fiction was for some time sold very much as if it were a form of sf &ndash; perhaps in part because many of the same writers have been involved in both genres, like L Sprague 
+de Camp
+, C L 
+Moore
+, Henry 
+Kuttner
+, Leigh 
+Brackett
+, Jack Vance and Fritz Leiber; the term "sword and sorcery" is said to have been coined by Leiber. The archetypal sword-and-sorcery writer at the pulp end of the spectrum was Robert E 
+Howard
+ in his 
+Conan
+ series of the 1930s, mostly in 
+Weird Tales
+ (1932-1936); while not sf, these stories were set in a coherent and quite carefully imagined world (presented as an enormously archaic version of our own). Sword and sorcery (the term is often used in a derogatory manner, which partly explains its gradual displacement by the term 
+Heroic Fantasy
+) is generally a form of high fantasy.
+The overlap of supernatural-horror fiction with sf is rather smaller than the overlap of high fantasy with sf, though still very substantial indeed; this area of overlap is discussed under the rubrics 
+Gothic SF
+ and 
+Horror in SF
+.
+In children's fiction (see 
+Children's SF
+) the interweaving of sf with fantasy motifs is intrinsic and can seldom be untwined, as is especially obvious in UK and Australian work, such as that of Alan 
+Garner
+, Diana Wynne 
+Jones
+, Victor 
+Kelleher
+, William 
+Mayne
+ and Robert 
+Westall
+.
+So far we have stressed the ways in which sf and fantasy get mixed up together. In fact the position of the genre analyst is by no means hopeless, for distinctions between high fantasy (or even fantasy generally) and sf are quite real, however elusive, and they extend very much further than fantasy-equals-impossible versus sf-equals-possible. Such distinctions always work better, of course, at the ends of the spectrum rather than at its centre, where apparent opposites become merged (or balanced) together. At the extreme fantasy end of the spectrum the imaginary worlds tend, strongly, to be conceptually static; history is cyclical; the narrative form is almost always the quest for an emblematic object or person; the characters are emblematic too, most commonly of a dualistic (even Manichean) system where good confronts evil; most fundamentally of all, the protagonists are trapped in pattern. They live in a determinist world, they fulfil destiny, they move through the steps of an ancient dance. At the extreme sf end of the spectrum the stories are set in kinetic venues that register the existence of change, history is evolutionary and free will operates in a possibly arbitrary universe whose patterns, if they exist at all, may be only those imposed upon it (or, according to some quantum theorists, created in it) by its human observers. If there is truth in this argument, then it follows that the important distinction between fantasy and sf is more philosophical than technological, a matter of 
+Metaphysics
+.
+There is one final group of fantasists, the fabulators (see 
+Fabulation
+), who create fantastic changes (often quite minor) in everyday reality, often ironically or for purposes of 
+Satire
+, rather than for the creation of frissons of horror or romantic adventure. Such a work is Franz 
+Kafka
+'s 
+Die Verwandlung
+ (
+1915
+ chap; trans as 
+The Metamorphosis
+ 
+1937
+), in which a man is turned into a beetle. Many such works stem from traditions of fable and 
+Absurdist
+ literature, sometimes taking the form of 
+Magic Realism
+. John 
+Barth
+, Angela 
+Carter
+, Richard 
+Condon
+ and Thomas 
+Pynchon
+ are only four of the several hundred such writers who receive entries in this encyclopedia, including some whose associations with genre sf have been rather closer, like Barry N 
+Malzberg
+, Kurt 
+Vonnegut
+ Jr, and Robert 
+Shea
+ and Robert Anton 
+Wilson
+, whose 
+Illuminatus
+ trilogy (
+1975
+) puts a range of fantasy and sf devices to absurdist ends in a black comedy proposing 
+Paranoia
+ as the most fully appropriate response to modern life.
+In the 1970s fantasy (and its variant labels like Epic Fantasy, Heroic Fantasy and so forth) became an important area of book marketing. Some alarmist observers believed that the density of fantasy publication was such that sf as a viable, separate marketing category was doomed. In fact, sf has proved able to weather the storm, but fantasy publishing continues strongly into the 1990s, only slightly abated, especially in the area of trilogies and series whose points of reference (sometimes approaching plagiarism) continue in the main to be Robert E Howard and, especially, J R R Tolkien. One effect of fantasy's publishing success (and to a lesser degree that of horror) may have been to make genre-crossing, which was always common, even more popular. K W 
+Jeter
+ and George R R 
+Martin
+ move from sf to horror; Terry 
+Pratchett
+, Michael Scott 
+Rohan
+, Robert P 
+Holdstock
+ and others from sf to fantasy; Stephen 
+King
+, contrariwise, moves sometimes from horror to sf; James P 
+Blaylock
+ contrives, dizzyingly, to occupy all such worlds simultaneously, as do John Crowley and arguably Gene Wolfe; fantasy writers like John M 
+Ford
+ or Barbara 
+Hambly
+ or David A 
+Gemmell
+ invent sf-like worlds; supposedly hard-sf writer Orson Scott 
+Card
+ is repeatedly drawn to 
+Pastoral
+ fantasy; William 
+Gibson
+, Elizabeth 
+Hand
+, even Greg 
+Bear
+, insert versions of 
+Gods and Demons
+ into 
+Cyberpunk
+ worlds; R A 
+MacAvoy
+, Patricia 
+McKillip
+ and Sheri S 
+Tepper
+ turn from high fantasy to sf; Brian M 
+Stableford
+ turns to 
+Scientific Romances
+ about 
+Vampires
+ and 
+Werewolves
+. In the face of this insouciance on the part of the makers of sf and fantasy, the wise critic will eschew rigid prescription. Beyond the very various distinctions already suggested, no consistent demarcation-line between sf and fantasy should be extractable from a reading of this encyclopedia. Certainly none was intended. [PN]
+
+further reading
+
+Diana Waggoner. 
+
+The Hills of Faraway: A Guide to Fantasy
+
+ (New York: Atheneum, 
+1978
+) [nonfiction/bibliography: hb/]
+
+links
+
+
+
+The Encyclopedia of Fantasy
+
+
+
+Picture Gallery
+
+
+previous versions of this entry
+
+
+
+Internet Archive
+
+
+
+
+
+
+
+Recently visited entries
+
+
+
+ISSN 3049-7612
+
+
+
+
+
+
+
+Home/Welcome page
+
+
+
+
+
+
+
+SFE
+ Special Features
+
+
+
+
+&nbsp; Latest entries; 
+latest updates
+
+
+&nbsp; Recent deaths
+
+&nbsp; Anniversaries; also 
+Timeline
+
+
+&nbsp; 
+SFE
+ Picture Gallery; 
+What&rsquo;s New
+
+
+&nbsp; Affiliate settings
+
+&nbsp; Show a random 
+SFE
+ entry
+                
+
+&nbsp; Bar charts, awards and more
+
+&nbsp; Incoming links, who wrote it, etc
+
+Search help
+ | 
+RSS feed
+ 
+ | 
+
+Encyclopedia of Fantasy
+
+  
+
+
+
+
+
+Connect with 
+SFE
+ 
+
+
+
+Donate towards 
+SFE
+ expenses
+
+
+Send email feedback to the 
+SFE
+ editors
+
+
+John Clute on Twitter [X]
+
+Follow @john_clute
+
+
+
+SFE
+ on Twitter [X]
+
+Follow @sfencyclopedia
+
+
+
+SFE
+ on Facebook
+
+
+John Clute on Facebook
+
+
+
+SFE
+ on BlueSky
+
+
+
+SFE
+ on Mastodon
+
+
+x
+More information here
+. 
+Accept Cookies
+Site and 
+SFE
+ content &copy; 2011-2025 John Clute &amp; David Langford
+

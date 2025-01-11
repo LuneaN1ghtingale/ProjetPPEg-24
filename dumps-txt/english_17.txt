@@ -1,0 +1,830 @@
+Spiegeloog - Head in the Clouds: a look at Daydreaming, Fantasizing and Dreaming
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.spiegeloog.amsterdam/#organization","name":"Spiegeloog","url":"https://www.spiegeloog.amsterdam/","sameAs":["https://www.facebook.com/SpiegeloogFMG/","https://www.instagram.com/spiegeloogfmg/"],"logo":{"@type":"ImageObject","@id":"https://www.spiegeloog.amsterdam/#logo","inLanguage":"en-US","url":"https://www.spiegeloog.amsterdam/wp-content/uploads/2019/01/Logo-e1567599300445.jpg","width":500,"height":365,"caption":"Spiegeloog"},"image":{"@id":"https://www.spiegeloog.amsterdam/#logo"}},{"@type":"WebSite","@id":"https://www.spiegeloog.amsterdam/#website","url":"https://www.spiegeloog.amsterdam/","name":"Spiegeloog","description":"Magazine for the Psychology Department","publisher":{"@id":"https://www.spiegeloog.amsterdam/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.spiegeloog.amsterdam/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.spiegeloog.amsterdam/head-in-the-clouds-a-look-at-daydreaming-fantasizing-and-dreaming/#primaryimage","inLanguage":"en-US","url":"https://www.spiegeloog.amsterdam/wp-content/uploads/2024/11/Screenshot-2024-11-06-071137.png","width":823,"height":873},{"@type":"WebPage","@id":"https://www.spiegeloog.amsterdam/head-in-the-clouds-a-look-at-daydreaming-fantasizing-and-dreaming/#webpage","url":"https://www.spiegeloog.amsterdam/head-in-the-clouds-a-look-at-daydreaming-fantasizing-and-dreaming/","name":"Spiegeloog - Head in the Clouds: a look at Daydreaming, Fantasizing and Dreaming","isPartOf":{"@id":"https://www.spiegeloog.amsterdam/#website"},"primaryImageOfPage":{"@id":"https://www.spiegeloog.amsterdam/head-in-the-clouds-a-look-at-daydreaming-fantasizing-and-dreaming/#primaryimage"},"datePublished":"2024-11-06T08:00:00+00:00","dateModified":"2024-11-06T06:28:17+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.spiegeloog.amsterdam/head-in-the-clouds-a-look-at-daydreaming-fantasizing-and-dreaming/"]}]},{"@type":"Article","@id":"https://www.spiegeloog.amsterdam/head-in-the-clouds-a-look-at-daydreaming-fantasizing-and-dreaming/#article","isPartOf":{"@id":"https://www.spiegeloog.amsterdam/head-in-the-clouds-a-look-at-daydreaming-fantasizing-and-dreaming/#webpage"},"author":{"@id":"https://www.spiegeloog.amsterdam/#/schema/person/82df7f4903f8dc0518e994cd71c87006"},"headline":"Head in the Clouds: a look at Daydreaming, Fantasizing and Dreaming","datePublished":"2024-11-06T08:00:00+00:00","dateModified":"2024-11-06T06:28:17+00:00","mainEntityOfPage":{"@id":"https://www.spiegeloog.amsterdam/head-in-the-clouds-a-look-at-daydreaming-fantasizing-and-dreaming/#webpage"},"publisher":{"@id":"https://www.spiegeloog.amsterdam/#organization"},"image":{"@id":"https://www.spiegeloog.amsterdam/head-in-the-clouds-a-look-at-daydreaming-fantasizing-and-dreaming/#primaryimage"},"articleSection":"Science,Spiegeloog 435: Fantasy","inLanguage":"en-US"},{"@type":"Person","@id":"https://www.spiegeloog.amsterdam/#/schema/person/82df7f4903f8dc0518e994cd71c87006","name":"Hanna Niedl","image":{"@type":"ImageObject","@id":"https://www.spiegeloog.amsterdam/#personlogo","inLanguage":"en-US","url":"https://www.spiegeloog.amsterdam/wp-content/uploads/2022/08/Anoniem-web-96x96.png","caption":"Hanna Niedl"},"description":"Hanna Niedl (2004) is a first-year psychology student, particularly interested in clinical psychology and brain & cognition. Besides psychology, she likes to surround herself with art and good food, so you'll most likely find her watching a movie and cooking."}]}
+
+
+
+
+
+
+
+
+
+
+
+ var root = document.getElementsByTagName( "html" )[0]; root.setAttribute( "class", "js" ); 
+
+.vc_custom_1730873771703{margin-bottom: 15px !important;}.vc_custom_1730873780681{margin-bottom: 15px !important;}.vc_custom_1730874162086{margin-top: 50px !important;}.vc_custom_1551895622866{border-top-width: 4px !important;border-right-width: 4px !important;border-bottom-width: 4px !important;border-left-width: 4px !important;}.vc_custom_1551895622866{border-top-width: 4px !important;border-right-width: 4px !important;border-bottom-width: 4px !important;border-left-width: 4px !important;}
+
+
+ .wpb_animate_when_almost_visible { opacity: 1; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+facebook
+
+
+ 
+
+
+
+
+instagram
+
+
+ 
+
+
+
+
+
+
+
+
+
+search
+
+ 
+Menu
+
+ 
+ 
+
+ 
+ 
+
+
+
+Science
+
+
+
+
+Society
+
+
+
+
+Culture
+
+
+
+
+People
+
+
+
+
+News &amp; opinion
+
+
+
+
+Columns
+
+
+
+
+Issues
+
+
+
+
+About
+
+
+
+
+
+
+
+search
+
+
+ 
+
+
+
+
+
+
+Press enter to begin your search
+
+
+
+
+
+
+Close Search
+
+
+
+
+
+Science
+
+Spiegeloog 435: Fantasy
+Head in the Clouds: a look at Daydreaming, Fantasizing and Dreaming
+
+
+By
+ 
+Hanna Niedl
+
+
+
+November 6, 2024
+
+
+No Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As we lay on the grass, we look up to the sky. Although we see clouds, we imagine the wonderful castles they could be. Throughout our day, we think of how much better life would be if we had the means for a castle like that. At night, we find ourselves living out our life in it. Daydreaming, fantasizing, and dreaming are closely related imaginary processes, and they are referred to interchangeably from time to time, but how do they differ? Where does one start and the other end?
+
+
+
+
+
+
+
+
+
+Each of these mental phenomena engages the mind differently. A straightforward comparison helps understand their nuances: daydreaming is a more common and unstructured activity, fantasy tends to be more deliberate and vivid, and dreams remain largely mysterious to us.
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+Photo by 
+Daniar Ainun
+
+
+Photo by 
+Daniar Ainun
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+Daydreaming
+We find ourselves lost in thought every day, even if we do not notice it immediately. Daydreaming is a fundamental part of human cognition; we prefer to daydream before falling asleep as a segue into sleeping, the actors and landscapes often taken from real life, with the visual sense being the most stimulated during these episodes (Bigelsen et al., 2016).
+When daydreaming, the brain activates a specific set of regions referred to as the default network. This network, activated when we are at rest or disengaged from tasks, significantly enables our minds to wander. While the default network is engaged, working memory is disengaged, allowing us to plan or think more creatively​ (Van Der Stigchel, 2020).
+Escaping into daydreaming is harmless and enjoyable, often making it easy to lose ourselves in our imagined world. Maladaptive daydreaming disorder represents an extreme form of this mental activity, where individuals are drawn into elaborate and detailed fantasies that significantly interfere with their vocational or social obligations. Unlike typical daydreams that serve as brief mental breaks, maladaptive daydreams can dominate a person&#8217;s mental landscape, luring them into their imagined world rather than facing their real life. These vivid fantasies often revolve around themes of power, control, rescue, or escape (Somer, 2002). Maladaptive daydreaming has been found to coexist with disorders like ADHD, OCD, and dissociative conditions. Moreover, it has been hypothesized to be a coping mechanism born from aversive childhood experiences (Bigelsen et al., 2016).
+However, in moderation, daydreaming can have a positive impact on our daily lives. Instead of just being an escape, daydreaming often brings practical, emotional, and cognitive benefits that improve various aspects of personal and professional life. As our minds wander, we unconsciously plan for future activities and events, and mentally prepare ourselves for what&#8217;s to come. Daydreaming is not only enjoyable but also socially acceptable; it&#8217;s something we don&#8217;t usually feel embarrassed about (Singer et al., 2010). Moreover, letting your mind wander may have underappreciated benefits; it can boost creativity and aid in problem-solving (Baer et al., 2021). Additionally, daydreaming may improve overall well-being and social and romantic life: individuals have reported that when daydreaming more about partners and friends, they feel more love, happiness, and connection (Poerio et al., 2015). Ultimately, daydreaming helps us enhance our creativity, emotional well-being and social bonds, so, being a tool for us to navigate both inner and outer worlds smoothly.
+
+
+
+ 
+
+ 
+
+
+ 
+&#8220;Daydreaming helps us enhance our creativity, emotional well-being and social bonds, so, being a tool for us to navigate both inner and outer worlds smoothly.&#8221; 
+
+
+
+
+
+ 
+
+ 
+
+Fantasizing
+Fantasizing, unlike daydreaming, is a more deliberate act of imagining scenarios or events that are highly unlikely to happen and more detached from reality. These fantasies can become very elaborate and structured, and tend to contain unrealistic or forbidden plotlines, such as fantasies involving unattainable desires, often of a romantic or sexual nature (APA Dictionary of Psychology/Fantasy, 2018). Similar to daydreaming, fantasizing seems to engage the brain&#8217;s default network, suggesting a shared neurological substrate for both processes​ (Agnati et al., 2013).
+While fantasies allow individuals to explore their imagined scenarios voluntarily, fantasies carry the risk of letting us slip into maladaptive or harmful patterns. Like daydreaming, fantasizing can become a form of escapism, enabling people to construct idealized worlds and versions of themselves when their reality feels unfulfilling. While this might offer temporary relief or satisfaction, it becomes concerning when the line between imagination and reality starts to blur. This can lead to dangerous distortions of reality, where individuals begin to believe that they are inherently superior to others or destined for extraordinary achievements. This is especially problematic concerning sexual fantasies, where individuals may develop unrealistic expectations about intimacy, consent and the dynamic of relationships, ultimately leading to dissatisfaction with real partners or even harmful actions.
+A study by Tan et al. (2019) highlights a link between frequent fantasizing and the development of severe delusions. The study found that individuals prone to fantasizing were more likely to develop significant delusions compared to healthy control subjects. These findings show the potential risks of unchecked fantasizing, as it can foster unrealistic expectations and distort an individual&#8217;s grasp on reality, leading to more serious psychological consequences. However, escaping into our made-up worlds can also be beautiful and valuable, with advantages that are not to be underappreciated. Fantasies are our safe spaces where we can live life how we want to; we can be the person we want to be – with limitless possibilities. This gives us space to play in our minds and contemplate change in a way we could not otherwise. Fantasizing can help our self-esteem, boost our ego, and be a promising tool for bettering relationships. Studies have, for instance, shown how sexual fantasies about one&#8217;s partner can enhance the relationship by furthering appeal towards the partner (Birnbaum et al., 2018). So, while fantasizing offers a safe mental space to explore desires and interests, it seems essential for us to maintain a healthy balance, to avoid distortions of relationships, expectations and reality as a whole.
+
+
+
+ 
+
+ 
+
+
+ 
+&#8220;Fantasies are our safe spaces where we can live life how we want to; we can be the person we want to be – with limitless possibilities. &#8221; 
+
+
+
+Dreaming
+Dreaming remains one of the most enigmatic cognitive processes in science until today. There is no single, universally accepted definition of a dream, which underscores the phenomenon&#8217;s complexity. Despite that, we know that dreaming occurs primarily during the REM (Rapid Eye Movement) stage of sleep. A dream can be considered both an unconscious electrophysiological state and a mental experience that can be recalled during conscious states and even impact waking life​ (Pagel et al., 2001). Historically, dreams have been described as mental activity occurring during sleep, a concept dating back to Aristotle. Despite major advancements in research since Aristotle, this remains the primary way people define dreams.
+Dreams arise without deliberate effort, unlike daydreaming or fantasizing, which are voluntary and conscious acts. Dreaming is a healthy and natural part of our lives; however, in some cases, dreams can become harmful, mainly when they manifest as frequent or distressing nightmares. This is seen in conditions like dream anxiety disorder or nightmare disorder, which are characterized by intense, recurring nightmares that disrupt sleep and, subsequently, daily functioning. Intense nightmares and the awakenings caused by them can easily lead to heightened anxiety. Dream anxiety disorder has been linked to borderline personality disorder, particularly in individuals who experienced traumatic events during childhood (Semiz et al., 2008). In addition to BPD, dream anxiety seems to be comorbid with major depressive disorder, especially in cases featuring melancholic symptoms (Bilici et al., 2002).
+Brain activity in areas such as the dorsal medial prefrontal cortex, hippocampus, and amygdala has linked dreaming to emotional regulation and memory processing​ (Cipolli et al., 2016). Recent studies suggest that hippocampal neurons show increased activity during dreams, indicating a role in memory consolidation, where new memories are transferred to long-term storage (Ólafsdóttir et al., 2018). It may also help stabilize the emotional content of memories, with studies showing that people who report dreaming regulate emotional memories more effectively (Ashbach, 2024). Even though dreaming has yet to be fully understood, it constitutes a crucial process of our mind that continues working even when we are at rest.
+Daydreaming, fantasizing, and dreaming open windows into our minds, offering us escapes, reflections, and creative outlets. Daydreaming gives us mental breaks and room to plan, while fantasizing lets us explore desires beyond reality. While dreams remain mysterious, we know of their function to process emotions and memories. However, as always, balance is key &#8211; when indulging too much in our imagination, it can pull us away from reality and distort our perception. As long as we embrace these processes without losing touch with what is real, we should enjoy the beautiful things our imagination offers.  &lt;&lt;
+
+ 
+
+ 
+
+References
+
+Agnati, L. F., Guidolin, D., Battistin, L., Pagnoni, G., &amp; Fuxe, K. (2013). The Neurobiology of Imagination: possible role of Interaction-Dominant Dynamics and Default Mode Network. Frontiers in Psychology, 4. 
+https://doi.org/10.3389/fpsyg.2013.00296
+
+
+
+Ashbach, H. (2024, May 13). Dreaming is linked to improved memory consolidation and emotion regulation. UCI News. Retrieved September 26, 2024, from https://news.uci.edu/2024/05/13/dreaming-is-linked-to-improved-memory-consolidation-and-emotion-regulation/
+
+
+APA Dictionary of Psychology/Fantasy. (2018, April 19). American Psychological Association 04/19/2018. Retrieved September 25, 2024, from 
+https://dictionary.apa.org/fantasy
+
+
+
+Baer, M., Dane, E., &amp; Madrid, H. P. (2021). Zoning out or breaking through? Linking daydreaming to creativity in the workplace. Academy of Management Journal, 64(5), 1553–1577. https://doi.org/10.5465/amj.2017.1283
+
+
+Bilici, M., Yazıcı, K., Özer, Ö. A., Kavakçı, Ö., Karadeniz Technical University, Medical School, Department of Psychiatry, Mersin University, Medical School, Department of Psychiatry, &amp; Yüzüncü Yıl University, Medical School, Department of Psychiatry. (2002). Dream Anxiety Level in Patients with Major Depression. In Sleep and Hypnosis (Vol. 4, Issue 1, pp. 15–21). 
+https://sleepandhypnosis.org/wp-content/uploads/2024/07/4a3f775c2ef647659caf14fe79ad227a.pdf
+
+
+
+Birnbaum, G. E., Kanat-Maymon, Y., Mizrahi, M., Recanati, M., &amp; Orr, R. (2018). What fantasies can do to your relationship: The effects of sexual fantasies on couple interactions. Personality and Social Psychology Bulletin, 45(3), 461–476. https://doi.org/10.1177/0146167218789611
+
+
+Bigelsen, J., Lehrfeld, J. M., Jopp, D. S., &amp; Somer, E. (2016). Maladaptive daydreaming: Evidence for an under-researched mental health disorder. Consciousness and Cognition, 42, 254–266. https://doi.org/10.1016/j.concog.2016.03.017
+
+
+Cipolli, C., Ferrara, M., De Gennaro, L., &amp; Plazzi, G. (2016). Beyond the neuropsychology of dreaming: Insights into the neural basis of dreaming with new techniques of sleep recording and analysis. Sleep Medicine Reviews, 35, 8–20. https://doi.org/10.1016/j.smrv.2016.07.005
+
+
+Pagel, J. F., Blagrove, M., Levin, R., States, B., Stickgold, B., &amp; White, S. (2001). Definitions of dream: A paradigm for comparing field descriptive specific studies of dream. Dreaming, 11(4), 195–202. 
+https://doi.org/10.1023/a:1012240307661
+
+
+
+Poerio, G. L., Totterdell, P., Emerson, L., &amp; Miles, E. (2015). Love is the triumph of the imagination: Daydreams about significant others are associated with increased happiness, love and connection. Consciousness and Cognition, 33, 135–144. https://doi.org/10.1016/j.concog.2014.12.011
+
+
+Semiz, U. B., Basoglu, C., Ebrinc, S., &amp; Cetin, M. (2008). Nightmare disorder, dream anxiety, and subjective sleep quality in patients with borderline personality disorder. Psychiatry and Clinical Neurosciences, 62(1), 48–55. https://doi.org/10.1111/j.1440-1819.2007.01789.x
+
+
+Singer, J. L., McCraven, V. G., &amp; Institute of Psychological Research, Teachers College, Columbia University. (2010). Some characteristics of adult daydreaming. The Journal of Psychology, 151–164. 
+https://doi.org/10.1080/00223980.1961.9916467
+
+
+
+Somer, E. (2002). Maladaptive Daydreaming: A qualitative inquiry. Journal of Contemporary Psychotherapy, 32(2/3), 197–212. 
+https://doi.org/10.1023/a:1020597026919
+
+
+
+Tan, E. J., Fletcher, K., &amp; Rossell, S. L. (2019). Exploring the relationship between fantasy proneness and delusional beliefs in psychosis and non-clinical individuals. Psychiatry Research, 272, 80–85. https://doi.org/10.1016/j.psychres.2018.12.081
+
+
+Van Der Stigchel, S. (2020). Concentration: Staying Focused in Times of Distraction. MIT Press.
+
+
+Ólafsdóttir, H. F., Bush, D., &amp; Barry, C. (2018). The role of hippocampal replay in memory and planning. Current Biology, 28(1), R37–R50. https://doi.org/10.1016/j.cub.2017.10.073
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+Daydreaming
+We find ourselves lost in thought every day, even if we do not notice it immediately. Daydreaming is a fundamental part of human cognition; we prefer to daydream before falling asleep as a segue into sleeping, the actors and landscapes often taken from real life, with the visual sense being the most stimulated during these episodes (Bigelsen et al., 2016).
+When daydreaming, the brain activates a specific set of regions referred to as the default network. This network, activated when we are at rest or disengaged from tasks, significantly enables our minds to wander. While the default network is engaged, working memory is disengaged, allowing us to plan or think more creatively​ (Van Der Stigchel, 2020).
+Escaping into daydreaming is harmless and enjoyable, often making it easy to lose ourselves in our imagined world. Maladaptive daydreaming disorder represents an extreme form of this mental activity, where individuals are drawn into elaborate and detailed fantasies that significantly interfere with their vocational or social obligations. Unlike typical daydreams that serve as brief mental breaks, maladaptive daydreams can dominate a person&#8217;s mental landscape, luring them into their imagined world rather than facing their real life. These vivid fantasies often revolve around themes of power, control, rescue, or escape (Somer, 2002). Maladaptive daydreaming has been found to coexist with disorders like ADHD, OCD, and dissociative conditions. Moreover, it has been hypothesized to be a coping mechanism born from aversive childhood experiences (Bigelsen et al., 2016).
+However, in moderation, daydreaming can have a positive impact on our daily lives. Instead of just being an escape, daydreaming often brings practical, emotional, and cognitive benefits that improve various aspects of personal and professional life. As our minds wander, we unconsciously plan for future activities and events, and mentally prepare ourselves for what&#8217;s to come. Daydreaming is not only enjoyable but also socially acceptable; it&#8217;s something we don&#8217;t usually feel embarrassed about (Singer et al., 2010). Moreover, letting your mind wander may have underappreciated benefits; it can boost creativity and aid in problem-solving (Baer et al., 2021). Additionally, daydreaming may improve overall well-being and social and romantic life: individuals have reported that when daydreaming more about partners and friends, they feel more love, happiness, and connection (Poerio et al., 2015). Ultimately, daydreaming helps us enhance our creativity, emotional well-being and social bonds, so, being a tool for us to navigate both inner and outer worlds smoothly.
+
+
+
+ 
+
+ 
+
+
+ 
+&#8220;Daydreaming helps us enhance our creativity, emotional well-being and social bonds, so, being a tool for us to navigate both inner and outer worlds smoothly.&#8221; 
+
+
+
+
+
+ 
+
+ 
+
+Fantasizing
+Fantasizing, unlike daydreaming, is a more deliberate act of imagining scenarios or events that are highly unlikely to happen and more detached from reality. These fantasies can become very elaborate and structured, and tend to contain unrealistic or forbidden plotlines, such as fantasies involving unattainable desires, often of a romantic or sexual nature (APA Dictionary of Psychology/Fantasy, 2018). Similar to daydreaming, fantasizing seems to engage the brain&#8217;s default network, suggesting a shared neurological substrate for both processes​ (Agnati et al., 2013).
+While fantasies allow individuals to explore their imagined scenarios voluntarily, fantasies carry the risk of letting us slip into maladaptive or harmful patterns. Like daydreaming, fantasizing can become a form of escapism, enabling people to construct idealized worlds and versions of themselves when their reality feels unfulfilling. While this might offer temporary relief or satisfaction, it becomes concerning when the line between imagination and reality starts to blur. This can lead to dangerous distortions of reality, where individuals begin to believe that they are inherently superior to others or destined for extraordinary achievements. This is especially problematic concerning sexual fantasies, where individuals may develop unrealistic expectations about intimacy, consent and the dynamic of relationships, ultimately leading to dissatisfaction with real partners or even harmful actions.
+A study by Tan et al. (2019) highlights a link between frequent fantasizing and the development of severe delusions. The study found that individuals prone to fantasizing were more likely to develop significant delusions compared to healthy control subjects. These findings show the potential risks of unchecked fantasizing, as it can foster unrealistic expectations and distort an individual&#8217;s grasp on reality, leading to more serious psychological consequences. However, escaping into our made-up worlds can also be beautiful and valuable, with advantages that are not to be underappreciated. Fantasies are our safe spaces where we can live life how we want to; we can be the person we want to be – with limitless possibilities. This gives us space to play in our minds and contemplate change in a way we could not otherwise. Fantasizing can help our self-esteem, boost our ego, and be a promising tool for bettering relationships. Studies have, for instance, shown how sexual fantasies about one&#8217;s partner can enhance the relationship by furthering appeal towards the partner (Birnbaum et al., 2018). So, while fantasizing offers a safe mental space to explore desires and interests, it seems essential for us to maintain a healthy balance, to avoid distortions of relationships, expectations and reality as a whole.
+
+
+
+ 
+
+ 
+
+
+ 
+&#8220;Fantasies are our safe spaces where we can live life how we want to; we can be the person we want to be – with limitless possibilities. &#8221; 
+
+
+Dreaming
+Dreaming remains one of the most enigmatic cognitive processes in science until today. There is no single, universally accepted definition of a dream, which underscores the phenomenon&#8217;s complexity. Despite that, we know that dreaming occurs primarily during the REM (Rapid Eye Movement) stage of sleep. A dream can be considered both an unconscious electrophysiological state and a mental experience that can be recalled during conscious states and even impact waking life​ (Pagel et al., 2001). Historically, dreams have been described as mental activity occurring during sleep, a concept dating back to Aristotle. Despite major advancements in research since Aristotle, this remains the primary way people define dreams.
+Dreams arise without deliberate effort, unlike daydreaming or fantasizing, which are voluntary and conscious acts. Dreaming is a healthy and natural part of our lives; however, in some cases, dreams can become harmful, mainly when they manifest as frequent or distressing nightmares. This is seen in conditions like dream anxiety disorder or nightmare disorder, which are characterized by intense, recurring nightmares that disrupt sleep and, subsequently, daily functioning. Intense nightmares and the awakenings caused by them can easily lead to heightened anxiety. Dream anxiety disorder has been linked to borderline personality disorder, particularly in individuals who experienced traumatic events during childhood (Semiz et al., 2008). In addition to BPD, dream anxiety seems to be comorbid with major depressive disorder, especially in cases featuring melancholic symptoms (Bilici et al., 2002).
+Brain activity in areas such as the dorsal medial prefrontal cortex, hippocampus, and amygdala has linked dreaming to emotional regulation and memory processing​ (Cipolli et al., 2016). Recent studies suggest that hippocampal neurons show increased activity during dreams, indicating a role in memory consolidation, where new memories are transferred to long-term storage (Ólafsdóttir et al., 2018). It may also help stabilize the emotional content of memories, with studies showing that people who report dreaming regulate emotional memories more effectively (Ashbach, 2024). Even though dreaming has yet to be fully understood, it constitutes a crucial process of our mind that continues working even when we are at rest.
+Daydreaming, fantasizing, and dreaming open windows into our minds, offering us escapes, reflections, and creative outlets. Daydreaming gives us mental breaks and room to plan, while fantasizing lets us explore desires beyond reality. While dreams remain mysterious, we know of their function to process emotions and memories. However, as always, balance is key &#8211; when indulging too much in our imagination, it can pull us away from reality and distort our perception. As long as we embrace these processes without losing touch with what is real, we should enjoy the beautiful things our imagination offers.  &lt;&lt;
+
+
+
+ 
+
+ 
+
+References
+
+Agnati, L. F., Guidolin, D., Battistin, L., Pagnoni, G., &amp; Fuxe, K. (2013). The Neurobiology of Imagination: possible role of Interaction-Dominant Dynamics and Default Mode Network. Frontiers in Psychology, 4. 
+https://doi.org/10.3389/fpsyg.2013.00296
+
+
+
+Ashbach, H. (2024, May 13). Dreaming is linked to improved memory consolidation and emotion regulation. UCI News. Retrieved September 26, 2024, from https://news.uci.edu/2024/05/13/dreaming-is-linked-to-improved-memory-consolidation-and-emotion-regulation/
+
+
+APA Dictionary of Psychology/Fantasy. (2018, April 19). American Psychological Association 04/19/2018. Retrieved September 25, 2024, from 
+https://dictionary.apa.org/fantasy
+
+
+
+Baer, M., Dane, E., &amp; Madrid, H. P. (2021). Zoning out or breaking through? Linking daydreaming to creativity in the workplace. Academy of Management Journal, 64(5), 1553–1577. https://doi.org/10.5465/amj.2017.1283
+
+
+Bilici, M., Yazıcı, K., Özer, Ö. A., Kavakçı, Ö., Karadeniz Technical University, Medical School, Department of Psychiatry, Mersin University, Medical School, Department of Psychiatry, &amp; Yüzüncü Yıl University, Medical School, Department of Psychiatry. (2002). Dream Anxiety Level in Patients with Major Depression. In Sleep and Hypnosis (Vol. 4, Issue 1, pp. 15–21). 
+https://sleepandhypnosis.org/wp-content/uploads/2024/07/4a3f775c2ef647659caf14fe79ad227a.pdf
+
+
+
+Birnbaum, G. E., Kanat-Maymon, Y., Mizrahi, M., Recanati, M., &amp; Orr, R. (2018). What fantasies can do to your relationship: The effects of sexual fantasies on couple interactions. Personality and Social Psychology Bulletin, 45(3), 461–476. https://doi.org/10.1177/0146167218789611
+
+
+Bigelsen, J., Lehrfeld, J. M., Jopp, D. S., &amp; Somer, E. (2016). Maladaptive daydreaming: Evidence for an under-researched mental health disorder. Consciousness and Cognition, 42, 254–266. https://doi.org/10.1016/j.concog.2016.03.017
+
+
+Cipolli, C., Ferrara, M., De Gennaro, L., &amp; Plazzi, G. (2016). Beyond the neuropsychology of dreaming: Insights into the neural basis of dreaming with new techniques of sleep recording and analysis. Sleep Medicine Reviews, 35, 8–20. https://doi.org/10.1016/j.smrv.2016.07.005
+
+
+Pagel, J. F., Blagrove, M., Levin, R., States, B., Stickgold, B., &amp; White, S. (2001). Definitions of dream: A paradigm for comparing field descriptive specific studies of dream. Dreaming, 11(4), 195–202. 
+https://doi.org/10.1023/a:1012240307661
+
+
+
+Poerio, G. L., Totterdell, P., Emerson, L., &amp; Miles, E. (2015). Love is the triumph of the imagination: Daydreams about significant others are associated with increased happiness, love and connection. Consciousness and Cognition, 33, 135–144. https://doi.org/10.1016/j.concog.2014.12.011
+
+
+Semiz, U. B., Basoglu, C., Ebrinc, S., &amp; Cetin, M. (2008). Nightmare disorder, dream anxiety, and subjective sleep quality in patients with borderline personality disorder. Psychiatry and Clinical Neurosciences, 62(1), 48–55. https://doi.org/10.1111/j.1440-1819.2007.01789.x
+
+
+Singer, J. L., McCraven, V. G., &amp; Institute of Psychological Research, Teachers College, Columbia University. (2010). Some characteristics of adult daydreaming. The Journal of Psychology, 151–164. 
+https://doi.org/10.1080/00223980.1961.9916467
+
+
+
+Somer, E. (2002). Maladaptive Daydreaming: A qualitative inquiry. Journal of Contemporary Psychotherapy, 32(2/3), 197–212. 
+https://doi.org/10.1023/a:1020597026919
+
+
+
+Tan, E. J., Fletcher, K., &amp; Rossell, S. L. (2019). Exploring the relationship between fantasy proneness and delusional beliefs in psychosis and non-clinical individuals. Psychiatry Research, 272, 80–85. https://doi.org/10.1016/j.psychres.2018.12.081
+
+
+Van Der Stigchel, S. (2020). Concentration: Staying Focused in Times of Distraction. MIT Press.
+
+
+Ólafsdóttir, H. F., Bush, D., &amp; Barry, C. (2018). The role of hippocampal replay in memory and planning. Current Biology, 28(1), R37–R50. https://doi.org/10.1016/j.cub.2017.10.073
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+hidden
+
+
+
+
+
+
+Science
+
+Spiegeloog 436: Risk
+
+Beyond Black &amp; White: The Risk of Thinking in Binaries
+"
+
+Beyond Black &amp; White: The Risk of Thinking in Binaries
+
+
+
+
+ 
+Ritwika Nair
+
+January 1, 2025
+
+
+
+
+
+
+
+Science
+
+Spiegeloog 436: Risk
+
+Why risk is so appealing to us: The neuroscience of gambling
+"
+
+Why risk is so appealing to us: The neuroscience of gambling
+
+
+
+
+ 
+Mykolas Undzenas
+
+December 25, 2024
+
+
+
+
+
+
+
+Science
+
+Spiegeloog 436: Risk
+
+The Future of AI in Education
+"
+
+The Future of AI in Education
+
+
+
+
+ 
+Viktor Fiskum
+
+December 18, 2024
+
+
+
+
+
+Author
+
+ Hanna Niedl
+Hanna Niedl (2004) is a first-year psychology student, particularly interested in clinical psychology and brain & cognition. Besides psychology, she likes to surround herself with art and good food, so you'll most likely find her watching a movie and cooking.
+More posts by Hanna Niedl 
+
+
+
+Comments are closed.
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Share
+ 
+
+ 
+
+ 
+Tweet
+ 
+
+ 
+
+ 
+Share
+ 
+
+ 
+
+ 
+Pin
+ 
+
+
+
+
+
+
+twitter
+
+
+
+
+
+
+
+facebook
+
+
+
+
+
+
+
+instagram
+
+
+
+
+      
+
+
+Spiegeloog is the magazine for the Psychology Department, University of Amsterdam
+
+
+
+
+
+Close Menu
+
+
+Science
+
+
+Society
+
+
+Culture
+
+
+People
+
+
+News &amp; opinion
+
+
+Columns
+
+
+Issues
+
+
+About
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. 
+Cookie settings
+
+ACCEPT
+
+
+
+
+Privacy & Cookies Policy
+
+
+
+
+
+
+
+Close
+Privacy Overview
+                
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+            
+Necessary
+Always Enabled
+                         
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+Non-necessary
+
+                        
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+
+
+ window.wpbCustomElement = 1; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

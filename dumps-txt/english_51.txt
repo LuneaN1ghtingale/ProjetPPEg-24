@@ -1,0 +1,386 @@
+Contemplative Fantasy - STEVEN DOWDLE
+
+
+
+
+
+
+ _W = _W || {}; _W.securePrefix='stevendowdle.weebly.com'; 
+
+
+_W.configDomain = "www.weebly.com";
+
+_W.relinquish && _W.relinquish()
+
+
+ _W.themePlugins = [];
+
+ _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; 
+
+
+\n\t
+\n\t\t{{{title_html}}}\n\t
+\n\t{{#has_children}}{{ navigation\/flyout\/list}}{{\/has_children}}\n
+\n","navigation\/flyout\/list":"
+\n\t
+\n\t\t{{#children}}{{ navigation\/flyout\/item}}{{\/children}}\n\t
+\n
+\n","navigation\/flyout\/item":"
+\n\t
+\n\t\t
+\n\t\t\t{{{title_html}}}\n\t\t
+{{#has_children}}
+&gt;
+{{\/has_children}}\n\t
+\n\t{{#has_children}}{{ navigation\/flyout\/list}}{{\/has_children}}\n
+
+
+STEVEN DOWDLE
+
+
+
+&gt;
+
+&gt;
+
+&gt;
+
+&gt;
+
+&gt;
+
+
+
+
+Personal Essays
+
+
+
+Contemplative Fantasy
+&nbsp;
+
+ 
+ 
+ 
+ 
+This was one of the first images to pop up on Gimages when I searched "fantasy". I think it fits pretty well.
+ 
+
+  
+&#8203;Having recently picked up Dungeons and Dragons (Fifth Edition, for those who care to know), I've been thinking more on the idea of fantasy in general, and the type of fantasy that I read, specifically. I've reflected on this topic before, but this time, I wanted to put an interesting spin on it that I got from Jo Walton during her keynote speech whilst the Guest of Honor at 
+Life
+, 
+The Universe
+, and 
+Everything
+ 2018.
+&nbsp;
+First, though, a quick anecdote that I thought was interesting and really kind of cool: At the back of the Fifth Edition of the D&amp;D Player's Handbook, there's an "Inspirational Reading" section. One page, written in a cramped font, contains a lengthy bibliography of fantasy books that were either inspired by D&amp;D (such as the R.A. Salvatore stories about Drizzet, the Drow), or inspirational fantasy novels and series. Because it's the Fifth Edition, there's a lot of contemporary stuff, including Robert Jordan, Brandon Sanderson, and George R. R. Martin. The really cool thing, though, was that there was also works by N.K. Jemisin and Saladin Ahmed, both of whom are writers of color. While there are plenty more worthwhile POC who write in the fantasy genre--and the list, of course, could easily be expanded--it's worth noting that they're highly regarded writers in their own rights, and that I wanted to celebrate their inclusion. &nbsp;
+&nbsp;
+Okay, so here's the thing that Jo Walton said whilst giving a lengthy "Recommended Reading"* list: "Science fiction literature is about the future. Fantasy literature is about the human."
+&nbsp;
+That really got me thinking, in part because I've so long (and, in my worser days, still) believed that fantasy as a genre is fundamentally and inexplicably (or maybe it is explicable, I'm not sure) 
+non
+literature. That is, that it can't be considered 
+great
+ literature, or 
+real
+ literature. I know I've talked about this before, so I won't belabor this idea.
+&nbsp;
+Having Walton, however, formulate this idea so profoundly and captivatingly was a bit of a shock to me. 
+How is fantasy,
+ I found myself wondering, 
+possibly the literature about being human? There are so many, well,
+ fantastical 
+things and creatures. Much like science-fiction, of course, but in some ways even more. How can dragons and orcs be in a literature that explore what it's like to be human?
+
+&nbsp;
+As I think about it, I maybe can kind of see what she's talking about. If we take the fantasy novel 
+par excellence
+ of 
+The Lord of the Rings
+, despite the fact that it's the fountain of almost every modern fantasy--either because the author is responding 
+to
+ it or 
+against 
+it--there are plenty of things about 
+LotR
+ that makes it a tricky book. Some of it is the maybe not-so-subtle racism (elves are pure and white and amazing and orcs are vile and black and disgusting). Maybe it's the lack of any gray character (except Gandalf! Oh! The puns!) save, perhaps, Gollum, or the idea that there's an easy-to-identify good against the easy-to-identify evil. Whatever it is, there isn't as much nuance to the world or the character as, say, 
+A Song of Ice and Fire.
+
+&nbsp;
+And maybe that's the whole thing: The world is drawn in starker lines so that the human elements can stand out in sharper relief. Tolkien's intentions aside, maybe that elf-versus-orc comparison above is a useful tool for us to look at our own preconceived notions about race, racism, and the ways in which we treat those who come from a similar fountainhead but now look different from us. In other words, maybe the words of fantasy are specifically concerned with the Other. If that's the case, then, yes, fantasy is very much about the human.
+&nbsp;
+That being said, Jo Walton had another critique against fantasy novels: They're too action heavy. Though this is a sloppy categorization, you can break most sci-fi into two camps: 
+Star Wars
+ or 
+Star Trek
+. Both deal with the ideas of humans in space and their different problems, but the former is about the heroic story and the action of the characters. Space wizards and dark lords and princesses in distress, along with all of the other trappings that make so many people excited about the franchise. The latter is about the future (Walton's definition, which puts strain on this comparison, but, hey&hellip;I said it was sloppy) where humans have evolved past interpersonal conflict. One of the hardest parts about writing for 
+Star Trek
+ is that Gene Roddenberry insisted that, by the time the 24th century (or whatever it was) arrived, humans wouldn't be fighting any more. So finding conflict to fuel a story turned toward things like discussing the humanity of Data or resisting a larger, existential threat such as the Borg. Both franchises have their fans, and some dabble in both (my brother is a pretty big fan of both series, though he'd probably err on the side of 
+Wars
+ if he had to choose). Yet I think that there's room enough in the science-fiction realm to deal with high action and high concept, wars and treks.
+&nbsp;
+Fantasy, though? It's not so clear cut. Obviously, 
+The Lord of the Rings
+ is the flagship of the genre, but what contrasts it? Some might say 
+A Song of Ice and Fire
+, but that's incomplete. Not only that, but Martin's magnum opus is more in line of the action (or, as Walton calls it, "adventure") sensibility, more of the war than the trek. What is the fantasy equivalent of 
+Star Trek?
+ I thought maybe 
+The Kingkiller Chronicles
+ by Patrick Rothfuss, but that is also incomplete, so it's hard to render judgment. Additionally, there are a lot of moments of adventure, including a (slight spoiler) time when Kvothe accidentally gets a dragon high on drugs, which then burns down a city and he has to stop the poor creature before anyone else gets hurt.
+&nbsp;
+Because of Jo Walton's prodigious reading habits*, if 
+she
+ can't think of an introspective, non-adventurous fantasy novel, then I'd be willing to bet that there isn't one. And if there's one, there may be two, but I don't know if there would be one that could stand up high enough to create a dichotomy the way the 
+Stars
+ franchises do.
+&nbsp;
+What would a contemplative, non-action (that is, non-adventurous) fantasy look like? Would we want to be in that world? If magic is simply a stand in for technology, and the wizards are the medieval equivalent of an IT guy, then is there a story that people would want to read? Would I want to write it?
+&nbsp;
+I think of all the effort that I put into writing 
+Writ in Blood
+. 
+I worried
+ that there wasn't enough action in it. Maybe part of the reason that I ended up breaking the later drafts of that book was because I 
+was
+ more focused on forcing action into a story that was political and personal and complicated. Maybe, if I ever revisit that book, I should strip out any sense of questing and adventure in order to allow the humanity of my fantastical characters a chance to shine.
+&nbsp;
+At any rate, my current novel starts with a big fight and goes up from there, so&hellip;if I'm going to explore this idea, it's not going to be in my next book. Or the next.
+&nbsp;
+But maybe the one after that will be a contemplative fantasy.
+&nbsp;
+Maybe.
+&nbsp;
+&nbsp;
+---
+* Jo Walton has a chronic pain in her body that prohibits her from moving around a lot. Sometimes, her entire day is bed-ridden. As a result, she has ample time to read, and so spends that time reading absolutely everything. I mean, in some ways, I envy her. I would prefer to be mobile, but&hellip;well, there are worse ways to spend one's life. So when I say that she has a recommended reading list, it isn't something culled off of a Goodreads list or cribbed from an Amazonian algorithm: She only recommends what she's read, and she's read, basically, libraries.&nbsp;
+
+
+
+
+
+
+
+
+
+
+ 
+Comments are closed.
+
+Author
+Would you like to support my writings? Feel free to buy me a coffee (which I don't drink, but I do drink hot chocolate) 
+at my Ko-Fi 
+page. Thanks!
+
+This section includes daily essays, which branch throughout all of my interests. Theological ideas followed by pop cultural next to political commentary and even more, this is where I write about whatever may be on my mind.
+Archives
+July 2022
+December 2021
+August 2021
+June 2021
+May 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+Categories
+All
+Adulthood
+Afterlife
+Agent
+Anime
+Art
+ArtStories
+Assassin's Creed
+Batman
+Behind The Scenes
+Bloodborne
+Books
+Cancer
+Capitalism
+Captain America
+Childhood
+Christmas
+Church
+Classics
+College
+Comedy Of Errors
+Comics
+Consumerism
+Coronavirus
+Costumes
+COVID
+Creative Writing
+Critical Theory
+Dante
+Dark Souls
+Dave Matthews Band
+DC
+D&D
+Death
+Deconstruction
+Depression
+DeviantStories
+Dinosaurs
+Dragons
+Editing
+Education
+England
+Evolution
+Family
+Fandoms
+Fantasy
+Fashion
+Feminism
+Fiction
+Final Fantasy
+FromSoftware
+Games
+Gender Equality
+Goals
+God
+Guitar
+Harry Potter
+History
+Hobbies
+Holidays
+Horror
+Humor
+Insomnia
+It
+Kids
+Learning
+Les Miserables
+LGBTQ
+Love
+Magic The Gathering
+Marriage
+Marvel
+Metal Gear Solid
+Metallica
+Milton
+Mission
+Monsters
+Mormonism
+Movies
+Music
+Music Video
+My Life
+NaNoWriMo
+Parenting
+Philosophy
+Poetry
+Politics
+Prayer
+Publishing
+Quarantine
+Quidditch
+Race
+Racism
+Reading
+Recommendation
+Religion
+Rereadingshakespeare
+Resident Evil
+Sch
+School
+Science
+Scouts
+Shake
+Shakespeare
+Sick
+Social Media
+Socratic
+Spider Man
+Spider-Man
+Suicide
+Summer
+Superheroes
+Superman
+Teaching
+Technology
+Timed Write
+Toys
+Travel
+TV
+Video Games
+Violence
+War
+Winterim
+Wonder Woman
+Words
+Writing
+
+Create your own unique website with customizable templates.
+Get Started
+
+wuestenigel
+, 
+wuestenigel
+, 
+rawpixel.com
+, 
+www.ilkkajukarainen.fi
+
+
+
+
+
+
+
+&gt;
+
+&gt;
+
+&gt;
+
+&gt;
+
+&gt;
+
+
+
+
+

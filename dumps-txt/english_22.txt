@@ -1,0 +1,787 @@
+img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+Fantasy is Psychology. - Wonderland Press
+{"@context":"https://schema.org","@graph":[{"@type":["BookStore","Organization"],"@id":"https://wonderlandpress.com/#organization","name":"Wonderland Press","url":"https://wonderlandpress.com","logo":{"@type":"ImageObject","@id":"https://wonderlandpress.com/#logo","url":"http://wonderlandpress.com/wp-content/uploads/2020/10/WP_QualityAmusements-1.gif","contentUrl":"http://wonderlandpress.com/wp-content/uploads/2020/10/WP_QualityAmusements-1.gif","caption":"Wonderland Press","inLanguage":"en-US","width":"400","height":"400"},"openingHours":["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"],"image":{"@id":"https://wonderlandpress.com/#logo"}},{"@type":"WebSite","@id":"https://wonderlandpress.com/#website","url":"https://wonderlandpress.com","name":"Wonderland Press","publisher":{"@id":"https://wonderlandpress.com/#organization"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://wonderlandpress.com/fantasy-is-psychology/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://wonderlandpress.com","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://wonderlandpress.com/category/uncategorized/","name":"Uncategorized"}},{"@type":"ListItem","position":"3","item":{"@id":"https://wonderlandpress.com/fantasy-is-psychology/","name":"Fantasy is Psychology."}}]},{"@type":"WebPage","@id":"https://wonderlandpress.com/fantasy-is-psychology/#webpage","url":"https://wonderlandpress.com/fantasy-is-psychology/","name":"Fantasy is Psychology. - Wonderland Press","datePublished":"2011-03-07T07:19:59-07:00","dateModified":"2011-03-07T07:19:59-07:00","isPartOf":{"@id":"https://wonderlandpress.com/#website"},"inLanguage":"en-US","breadcrumb":{"@id":"https://wonderlandpress.com/fantasy-is-psychology/#breadcrumb"}},{"@type":"Person","@id":"https://wonderlandpress.com/author/dknippling/","name":"De","url":"https://wonderlandpress.com/author/dknippling/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/f28566d9928b0c7501b1f9a231a0f2ac?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/f28566d9928b0c7501b1f9a231a0f2ac?s=96&amp;d=mm&amp;r=g","caption":"De","inLanguage":"en-US"},"worksFor":{"@id":"https://wonderlandpress.com/#organization"}},{"@type":"BlogPosting","headline":"Fantasy is Psychology. - Wonderland Press","datePublished":"2011-03-07T07:19:59-07:00","dateModified":"2011-03-07T07:19:59-07:00","articleSection":"Uncategorized","author":{"@id":"https://wonderlandpress.com/author/dknippling/","name":"De"},"publisher":{"@id":"https://wonderlandpress.com/#organization"},"description":"I have theories. \u00a0Some people, they don&#039;t have theories; they just write. \u00a0But I have theories.","name":"Fantasy is Psychology. - Wonderland Press","@id":"https://wonderlandpress.com/fantasy-is-psychology/#richSnippet","isPartOf":{"@id":"https://wonderlandpress.com/fantasy-is-psychology/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://wonderlandpress.com/fantasy-is-psychology/#webpage"}}]}
+
+
+
+
+
+
+
+
+
+
+
+.woocommerce-product-gallery{ opacity: 1 !important; }
+
+
+.lazyload[data-src]{display:none !important;}
+
+
+.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+Search
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+
+
+Shop
+
+
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+Checkout
+
+
+
+
+
+
+
+
+
+Newsletter
+
+
+Newsletter
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+
+
+Shop
+
+
+
+
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+Checkout
+
+
+
+
+
+
+
+
+
+Newsletter
+
+
+Newsletter
+
+
+Fantasy is Psychology.
+
+1 Comment
+
+Uncategorized
+
+ / By 
+
+I have theories.  Some people, they don&#8217;t have theories; they just write.  But I have theories.
+To me, fantasy is psychology.
+When you decide what a story is about (the theme, if you will), you gather information by reading the story, getting a synopsis of the story, or listening to someone else&#8217;s analysis of the story.  You don&#8217;t just look at the facts, you look at the patterns.
+For example and among other things, 
+Buffy the Vampire Slayer
+ is about growing up.
+It&#8217;s not as simple as that.  But then again, it is.  Is 
+is
+ about growing up.  It&#8217;s also about other things.  But 
+Buffy
+ wouldn&#8217;t have been nearly as satisfying if it were about the monster of the week, all the time, with no further meaning to it.
+If we didn&#8217;t need meaning in our stories, then watching people get kicked in the crotch would suffice for our daily entertainment.
+Meaning = psychology, because meaning comes out of our souls, and for all that psychology can seem cold and soulless, it&#8217;s the study of souls.  Can a soul be studied?  Yes; if it can be measured, it can be studied.  Measuring, despite all panic to the contrary, doesn&#8217;t suck out your soul any more than taking a picture of it does, which is to say &#8211; perhaps it does, psychologically speaking.
+So, fantasy.
+Fantasy comes out of myths and legends.
+Myths and legends are what we had, before we had psychology (although studying the soul hasn&#8217;t stopped our craving to create more of them; see 
+Buffy
+).
+With a pantheon of gods, what you have is a collection of personality types that you can use to explain people&#8217;s behavior and determine what type of people &#8211; what values &#8211; are most desireable. Zeus is a cheating son of a bitch, but that&#8217;s okay; he&#8217;s in charge and keeps things running (no Ragnarok for that guy). Ameratsu is vain and hysterical, but without her, nobody eats. Woden is has no ethics whatsoever other than doing whatever it takes to eke things out a little longer, despite being doomed.
+Batman keeps everyone safe by doing things &#8220;for their own good&#8221; and plotting against everyone. Willow never believes in herself and therefore craves, always, a bigger skill set. Vizzini is the smartest man in the world, but cannot anticipate another person&#8217;s acknowledgement that he really is the smartest man in the world, and using it against him.
+And so on.
+Our heroes, our villains &#8211; they are how we tell each other what&#8217;s acceptable and what&#8217;s not.
+So, fantasy.
+When you&#8217;re dealing with fantasy, you&#8217;re dealing with myth and legend.  Sometimes you&#8217;re dealing directly with gods, but you&#8217;re almost always dealing with people who  are larger than life.
+You&#8217;re also dealing with &#8220;normal&#8221; people who go from the realm of the mundane into the realm of the immortal, either because of literal immortality, or because of deeds that will never be forgotten, in that world.  That is, heroes and villains.
+So, when you&#8217;re writing anything with magic in it, take a look at the gods inside of what you&#8217;re doing.  Or, as Jung would have it, look at your archetypes.
+Being a myth or a legend means you&#8217;re just a little bit off in the head, a little bit tilted off the normal axis; otherwise, nobody would remember you.  Crazy.  There are no perfectly sane heroes.  There are a few everymen who try to be larger than life only when they&#8217;re out in public, but they have a few cogs loose, too.  They have to run as fast as they can to stay in one place (that is, to stay &#8220;normal&#8221;).
+The hero has flaws, not just weaknesses (the only one who doesn&#8217;t is Superman, except in the hands of some writers who use him as a symbol of unthinking obedience).
+A hero&#8217;s nemesis isn&#8217;t the opposite of the hero, but a mirror image &#8211; most things about a good villain are the same as the hero.  There are only a few differences.  Otherwise, it&#8217;s not a nemesis.  Lex Luthor, although not an alien, is strong, smart, attractive, admired by most people, and has a great deal of power (if he were weak, stupid, ugly, hated, and powerless, why bother?).  However, 
+he thinks he knows better
+.  He makes his own decisions about how the world should work; he knows that if he were in charge, the world would be a better place.  A lot of Superman&#8217;s villains are entities who think they know better.  Superman tends to put what other people want first.
+And Joker just wants people to be happy.  Really.  Batman has this rule about not killing people, but otherwise, they both deeply, truly believe that the ends justify the means.
+When you see a Scooby gang, you&#8217;re looking at a collection of traits that are valuable.  The smart one.  The brave one.   The strong one.  The fool or scoundrel who makes everything hold together.  Every Scooby gang has a touch of pantheon.
+So please, please &#8211; don&#8217;t write fantasies with villains who have no good traits, no heroes with bad ones, no friends that never fight, no brothers who never come to blows, no lovers who never sneak around behind each other&#8217;s backs and say, &#8220;I didn&#8217;t cheat on you; I was tricked!&#8221;  It&#8217;s not just that you&#8217;re not writing rounded, interesting characters.  You&#8217;re writing 
+boring
+ gods.
+Neither fantasy nor psychology forgives that.
+
+
+Post navigation
+
+
+
+&larr;
+ Previous Post
+
+
+
+Next Post 
+&rarr;
+
+
+
+
+
+
+
+
+
+
+
+
+
+jjdebenedictis
+
+ 
+
+
+
+
+
+March 8, 2011 at 8:17 am
+
+
+
+ 
+What a great post! There&#8217;s some great insights here&#8211;as well as the amusement factor of recognizing the Scooby gang as a pantheon!
+
+Reply
+
+ 
+
+
+
+Leave a Comment 
+
+Cancel Reply
+
+
+
+
+
+Your email address will not be published.
+ 
+Required fields are marked 
+*
+
+
+
+
+
+
+
+
+Type here..
+
+
+
+
+
+
+
+
+Name*
+
+
+
+Email*
+
+
+
+
+Website
+
+
+
+
+
+ 
+Save my name, email, and website in this browser for the next time I comment.
+
+
+ 
+
+
+
+
+
+&#916;
+
+
+
+
+document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
+
+
+
+
+
+
+
+Search for:
+Search
+
+
+
+
+
+
+Archives
+Archives
+Select Month
+ January 2025 
+ December 2024 
+ May 2024 
+ April 2024 
+ March 2024 
+ February 2024 
+ January 2024 
+ November 2023 
+ October 2023 
+ September 2023 
+ August 2023 
+ July 2023 
+ June 2023 
+ May 2023 
+ April 2023 
+ March 2023 
+ February 2023 
+ January 2023 
+ December 2022 
+ November 2022 
+ October 2022 
+ September 2022 
+ July 2022 
+ June 2022 
+ May 2022 
+ April 2022 
+ January 2022 
+ December 2021 
+ November 2021 
+ October 2021 
+ September 2021 
+ August 2021 
+ July 2021 
+ June 2021 
+ March 2021 
+ February 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ April 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ December 2011 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ December 2004 
+ November 2004 
+ October 2004 
+ September 2004 
+ August 2004 
+ July 2004 
+ June 2004 
+ May 2004 
+ April 2004 
+ March 2004 
+ February 2004 
+ January 2004 
+ December 2003 
+ November 2003 
+ October 2003 
+ September 2003 
+ August 2003 
+ July 2003 
+ June 2003 
+ May 2003 
+ April 2003 
+ March 2003 
+ February 2003 
+ January 2003 
+ December 2002 
+ November 2002 
+ October 2002 
+ September 2002 
+ August 2002 
+ July 2002 
+ June 2002 
+ May 2002 
+ April 2002 
+ March 2002 
+
+
+Categories
+
+
+Categories
+
+Select Category
+For Readers
+&nbsp;&nbsp;&nbsp;Adventures du Jour!
+&nbsp;&nbsp;&nbsp;Book Releases
+&nbsp;&nbsp;&nbsp;Book Reviews &amp; Interviews
+&nbsp;&nbsp;&nbsp;Curiosities
+&nbsp;&nbsp;&nbsp;Foodie
+&nbsp;&nbsp;&nbsp;Free Blog Fiction
+&nbsp;&nbsp;&nbsp;Memoir Posts 2015
+&nbsp;&nbsp;&nbsp;October 2017 Flash Fiction &#8211; Horror
+&nbsp;&nbsp;&nbsp;October 2018 Flash Fiction &#8211; Tales of the Normal
+&nbsp;&nbsp;&nbsp;October 2019 Flash Fiction &#8211; Crime du Jour
+&nbsp;&nbsp;&nbsp;October 2023 Fiction Project &#8211; The Witch House
+&nbsp;&nbsp;&nbsp;Readings
+For Writers
+&nbsp;&nbsp;&nbsp;Analyzing atmosphere
+&nbsp;&nbsp;&nbsp;April 2020 Enrichment Activities
+&nbsp;&nbsp;&nbsp;How much is your fiction worth?
+&nbsp;&nbsp;&nbsp;How to fail and keep on writing
+&nbsp;&nbsp;&nbsp;How to study fiction
+&nbsp;&nbsp;&nbsp;Pacing
+&nbsp;&nbsp;&nbsp;Simple plots
+Uncategorized
+
+
+
+Meta
+
+
+Log in
+
+
+Entries feed
+
+
+Comments feed
+
+
+WordPress.org
+
+
+Recent Posts
+
+Recipe: Okonomiyaki
+Updated Release: Crime du Jour
+Mixed Media Journaling Project
+New Release: A Dark and Cozy Night
+On Genocide: Looking for Nuance on the Israeli-Palestinian Conflict
+
+
+
+Blogroll
+
+Curtis Craddock &#8211; Author
+
+
+Kristine Kathryn Rusch &#8211; Author
+
+
+Michael W. Lucas &#8211; Author
+
+
+Spiral Publishing &#8211; Authors Jason A. Adams and Kari Kilgore
+
+
+Typosphere &#8211; Author Ron Collins
+
+
+
+ 
+
+
+
+
+
+
+Blog
+
+
+About
+
+
+Stories
+
+
+Free Ebook
+
+
+Privacy Policy
+
+
+
+
+
+Copyright © 2025 Wonderland Press Powered by Wonderland Press
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ Email 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scroll to Top
+
+
+
+
+
+
+
+
+
+\n                                
+\n                            
+
+
+
+
+
+
+

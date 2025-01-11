@@ -1,0 +1,1016 @@
+GoodTherapy | It Scares Me How Much I Turn to Fantasy to ...
+
+
+
+
+
+
+
+
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.goodtherapy.org/blog/dear-gt/it-scares-me-how-much-i-turn-to-fantasy-to-escape-help/","url":"https://www.goodtherapy.org/blog/dear-gt/it-scares-me-how-much-i-turn-to-fantasy-to-escape-help/","name":"It Scares Me How Much I Turn to Fantasy to Escape. Help! - GoodTherapy.org Therapy Blog","isPartOf":{"@id":"https://www.goodtherapy.org/blog/#website"},"datePublished":"2013-07-05T18:00:00+00:00","dateModified":"2016-05-20T14:13:54+00:00","author":{"@id":"https://www.goodtherapy.org/blog/#/schema/person/3c61e53798bac2c0a28258a3f2a0c5a9"},"breadcrumb":{"@id":"https://www.goodtherapy.org/blog/dear-gt/it-scares-me-how-much-i-turn-to-fantasy-to-escape-help/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.goodtherapy.org/blog/dear-gt/it-scares-me-how-much-i-turn-to-fantasy-to-escape-help/"]}]},{"@type":"BreadcrumbList","@id":"https://www.goodtherapy.org/blog/dear-gt/it-scares-me-how-much-i-turn-to-fantasy-to-escape-help/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.goodtherapy.org/blog/"},{"@type":"ListItem","position":2,"name":"It Scares Me How Much I Turn to Fantasy to Escape. Help!"}]},{"@type":"WebSite","@id":"https://www.goodtherapy.org/blog/#website","url":"https://www.goodtherapy.org/blog/","name":"GoodTherapy.org Therapy Blog","description":"Exploring Healthy Psychotherapy","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.goodtherapy.org/blog/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.goodtherapy.org/blog/#/schema/person/3c61e53798bac2c0a28258a3f2a0c5a9","name":"Sarah Noel","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.goodtherapy.org/blog/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/9825fe5ef4607aba260af385c11400dc?s=96&d=wp_user_avatar&r=g","contentUrl":"https://secure.gravatar.com/avatar/9825fe5ef4607aba260af385c11400dc?s=96&d=wp_user_avatar&r=g","caption":"Sarah Noel"},"description":"Sarah Noel, MS, LMHC is a licensed psychotherapist living and working in Brooklyn, New York. She specializes in working with people who are struggling through depression, anxiety, trauma, and major life transitions. She approaches her work from a person-centered perspective, always acknowledging the people she works with as experts on themselves. She is honored and humbled on a daily basis to be able to partner with people at such critical points in their unique journeys.","url":"https://www.goodtherapy.org/blog/author/sarahnoel/"}]}
+
+
+
+
+
+        
+
+
+
+
+
+    
+[data-wpr-lazyrender] {content-visibility: auto;}
+
+
+
+
+
+.pac-container{ margin-top: -110px;}
+
+Sign up and Get Listed
+
+
+Login
+
+
+Good
+Therapy
+®
+
+
+
+
+Get Help
+
+
+Learn
+
+
+Professionals
+
+
+
+Blog
+
+
+
+About
+
+
+
+Worksheets
+
+
+
+
+News
+
+
+ 
+
+
+
+
+
+
+
+Login
+
+
+Sign up and Get Listed
+
+
+Get Help&nbsp;
+
+
+
+
+Learn&nbsp;
+
+
+
+
+For Professionals&nbsp;
+
+
+
+
+
+Blog
+
+
+
+About&nbsp;
+
+
+
+
+Worksheets/Resources
+
+
+Newsletter
+
+Find a Therapist
+Find Telehealth
+Find a Facility
+Find an Event
+Find a Supervisor
+                    
+Select a State
+Alabama
+
+Alaska
+
+Arizona
+
+Arkansas
+
+California
+
+Colorado
+
+Connecticut
+
+Delaware
+
+District of Columbia
+
+Florida
+
+Georgia
+
+Hawaii
+
+Idaho
+
+Illinois
+
+Indiana
+
+Iowa
+
+Kansas
+
+Kentucky
+
+Louisiana
+
+Maine
+
+Maryland
+
+Massachusetts
+
+Michigan
+
+Minnesota
+
+Mississippi
+
+Missouri
+
+Montana
+
+Nebraska
+
+Nevada
+
+New Hampshire
+
+New Jersey
+
+New Mexico
+
+New York
+
+North Carolina
+
+North Dakota
+
+Ohio
+
+Oklahoma
+
+Oregon
+
+Pennsylvania
+
+Rhode Island
+
+South Carolina
+
+South Dakota
+
+Tennessee
+
+Texas
+
+Utah
+
+Vermont
+
+Virginia
+
+Washington
+
+West Virginia
+
+Wisconsin
+
+Wyoming
+                        
+
+
+
+
+
+
+
+
+
+Be found at the exact moment they are searching. 
+Sign up and Get Listed
+
+
+
+
+Find a Therapist
+
+
+Find a Treatment Center
+
+
+Find a Marriage Counselor
+
+
+Find a Child Counselor
+
+
+Find a Support Group
+
+
+Find a Psychologist
+
+
+If You Are in Crisis
+
+Common Issues
+
+Depression
+
+
+Abuse
+
+
+Infidelity
+
+
+Self-Esteem
+
+
+Sex Addiction
+
+
+Relationships
+
+
+Child and Adolescent Issues
+
+
+Eating Disorders
+
+
+Grief
+
+
+Anxiety
+
+
+PTSD
+
+
+See More
+
+
+
+
+
+How to Find the Right Therapist
+
+
+Explore Therapy
+
+
+Issues Treated
+
+
+Modes of Therapy
+
+
+Types of Therapy
+
+
+Famous Psychologists
+
+
+Psychotropic Medication
+
+
+What Is Therapy?
+
+
+How to Help a Loved One
+
+
+How Much Does Therapy Cost?
+
+
+How to Become a Therapist
+
+
+Signs of Healthy Therapy
+
+
+Warning Signs in Therapy
+
+Blog
+
+The GoodTherapy Blog
+
+
+PsychPedia A-Z
+
+
+Subscribe
+
+
+
+
+Marketing Your Therapy Website
+
+
+Private Practice Checklist
+
+
+Private Practice Business Plan
+
+
+Practice Management Software for Therapists
+
+
+Rules and Ethics of Online Therapy for Therapists
+
+
+CE Courses for Therapists
+
+
+HIPAA Basics for Therapists
+
+
+How to Send Appointment Reminders that Work
+
+
+More Professional Resources
+
+
+
+
+List Your Practice
+
+
+List a Treatment Center
+
+
+Earn CE Credit Hours
+
+
+Student Membership
+
+
+Online Continuing Education
+
+
+Marketing Webinars
+
+
+GoodTherapy's Vision
+
+
+About Us
+
+
+How GoodTherapy Works
+
+
+Partner or Advertise
+
+
+Contact Us
+
+ 
+
+Home
+
+
+GoodTherapy Blog
+
+ 
+&gt;
+ 
+It Scares Me How Much I Turn to Fantasy to Escape. Help!
+
+It Scares Me How Much I Turn to Fantasy to Escape. Help!
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+Dear GoodTherapy.org,
+
+Dear Dreamer,
+
+I&#8217;m so impressed with you! First of all, in spite of your fear of being judged, you have taken the very courageous step of writing in with your question. Second, it sounds like the daydreaming and fantasizing have served as a very adaptive behavior—you have been able to get some relief from the depression and low self-esteem by escaping into your imagination. Unfortunately, it seems like this coping strategy has taken on a life its own and become somewhat of an impediment to your ability to function in your daily life.
+In some ways, what you are describing isn&#8217;t completely dissimilar to how substance-abuse issues can develop—someone is in discomfort, seeks relief in alcohol or drugs in order to escape the discomfort, and ultimately comes to depend on the substance to an extent that it interferes with life. That said, one critical difference between what you are describing and substance abuse is that there is quite likely some real value in what you are using to escape. Most successful people begin their journey toward success by imagining it—they dream about their success and then they begin creating goals (and working toward them) that will move them toward their dream. I suspect that the life you have created in your imagination is closer to the life you desire than your actual, current life is. If my suspicion is accurate, then it makes sense to do what you can to start moving toward the life you have imagined for yourself.
+Given your struggles with depression and self-esteem, you might be thinking: easier said than done! This is certainly true, but it does not mean that it is impossible to live a life closer to the one you imagine; it simply means that you need to get treatment to address the depression and self-esteem. Right now, these issues might be all that is keeping you from working on making your fantasy life a reality.
+This brings me to your fear of disclosing your fantasy world to a therapist. First, there is no shame in the fantasy life that you have created; in fact, I believe it will ultimately serve as a road map to move you to the life you have been dreaming about. However, if you are still feeling anxious about sharing this world with a therapist, know that you don&#8217;t have to in a first, second or even third session. In fact, I would say if disclosing it is so anxiety provoking that it is preventing you from seeking treatment, do not disclose it until you are confident that you have a trusting, therapeutic relationship with a therapist. Sometimes when people disclose too much before a really strong working alliance is established, they feel exposed and vulnerable to an intolerable degree and they leave therapy prematurely.
+You can avoid this by finding a therapist who you believe could be a good fit for you and setting up an initial session. You might even set up an initial session with a couple of different therapists and see who you feel most comfortable with. Once you believe you have a good match, work on building a strong therapeutic relationship and when you feel ready, open up about your fantasy life. As the depression and self-esteem issues begin to be addressed and you open up about your fantasies, you just might find that these very fantasies will become your road map and your therapist will serve as a supportive guide as you follow the map to your dreams.
+All my best,
+
+
+
+
+                                    
+Sarah Noel
+                                    
+
+
+
+
+Please fill out all required fields to submit your message.
+
+
+Invalid Email Address.
+
+
+Please confirm that you are human.
+Leave a Comment
+
+SETH
+July 6th, 2013 at 4:34 AM
+
+All of us are given to living with some sort of fantasy in our lives.
+Reply
+
+
+
+Breeanna
+July 7th, 2013 at 4:43 AM
+
+But if you are able to visualize that there could be something better, then there could be.
+Reply
+
+
+
+Mason
+July 8th, 2013 at 3:58 AM
+
+I would like to know why living a fantasy is always or usually seen as being something bad. This is something that gives you a chance to escape a little from the day to drudgery that can be life. Why is that such a bad thing? This is something that feels pretty healthy to me. I am not iving a lie, just need a little down time to get away from it all and this provides me with that kind of outlet. So in some ways I definitely think that there could be worse ways to handle times like this.. I guess if it is getting in the way of other areas of your life then this might be a time to address those concerns. But if it isn&#8217;t doing any harm, then that&#8217;s that. It doesnth&#8217; urt anyone.
+Reply
+
+
+
+John C
+December 19th, 2016 at 7:21 AM
+
+I also believe its a good thing to ease of the stresses of real life if it helps, but I think the problem comes when you prefer to live in your fantasy world than reality.
+Reply
+
+
+
+Rachel
+July 9th, 2013 at 8:52 AM
+
+Sounds like symptoms of schizoid personality disorder, or maybe maladaptive daydreaming?
+Reply
+
+
+
+Mandy
+April 9th, 2014 at 6:37 AM
+
+Dear Dreamer,
+You are definitely not alone. I find it easy to get lost in my daydreams and prefer it to real life on many occasions. A friend of mine told me to talk about the things that scare me or make me sad out loud. I find when I do that, the things that I am afraid of do not seem so dark. I get to hear what I feel, and say why i feel that way and start to realize for myself that things aren&#8217;t as daunting. I hope you find peace, happiness and the the life you want.
+Reply
+
+
+
+Swallow
+August 23rd, 2014 at 8:54 AM
+
+This is a very humble opinion, but I find that d&amp;d and other pnp games can have a very therapeutic effect. It takes a good company of people with the same mindset and this is difficult, but taking on the role of a persona in the confines of a game with other people is easier to manage and can have a self analyzing effect. At least this happened to me. Of course you have to be careful not to be sucked in the game (very easy to happen), but I still think that the trade off is worth it as the game can help isolate the fantasy and your friends and co players can support you
+Reply
+
+
+
+Charles
+June 29th, 2015 at 3:43 PM
+
+I am depressed and anxious. I often go to bed and try to imagine a different situation. It almost always involves myself committing violence against a lot of people whom I see as enemies or threats. The fantasy is completely impossible, as I am very old, I have a terminal illness and do not have enough education of the right kind to carry it out.(although the Internet has lots of instructions.) Also I am closely watched. The fact that my fantasies are impossible just makes things worse. Maybe the accumulation of stupid and pain-causing decisions on my part over the years is just too much. I cannot set things right. I constantly replay events in the past that may have hurt people terribly. The memories just attack me.
+Reply
+
+
+
+anon
+December 14th, 2015 at 5:35 AM
+
+Dreamer, I&#8217;m very similar, except I don&#8217;t think that I am any different from who I am in real life in my daydreams, it&#8217;s more that my circumstances are different. I do find that I can literally stay inside on my own, not eating very much, not washing, not really sleeping for days just living in my fantasy world, though, so I totally get why you&#8217;re worried.
+I find real life intolerable compared with my daydreams, but I have always done what the expert here says of looking into those daydreams and thinking: How can I make that reality? I believe I can do anything I set my mind to, it&#8217;s just going to be bloody hard work. In the meantime, I have recently decided that I need to find a way to enjoy the present too. If you are just waiting to be happy when your dreams come true, you will actually make it harder to achieve those dreams (so much at stake!!), it&#8217;s difficult to enjoy the journey and to feel your successes, and frankly you&#8217;re wasting time. Best to always try to enjoy the moment. She says. Not enjoying the moment ;-) Easier said than done but you&#8217;ve just got to work on it. Don&#8217;t stop dreaming, though. I know it&#8217;s disruptive but those dreams tell you what you need.
+Reply
+
+
+
+marziarm
+February 16th, 2016 at 7:57 AM
+
+thanks. this article is sol helpful. cause i have also the same probleme. drive myself into fantasies or things that i want to do in my life. i hope it will not be a great mental problem for me. i will able to keep control of my mind.
+Reply
+
+
+
+Celia
+March 7th, 2016 at 1:05 AM
+
+Sandplay therapy may be an excellent therapy to consider in this scenario, as it is a mostly non-verbal therapy. Especially for those who find it difficult to talk.
+Reply
+
+
+
+miki
+July 17th, 2016 at 8:28 PM
+
+I have always lived in a fantasy world. That s what kepr me going. I couls not imagine how horrible life qould have been wirhout it. I feel lucky to have this escape, but embarrassed too. My them changed atdifferent ages. The most persistent theme was me becomming famous as a singer or actress. or even dancer. And having everyone in awe. I wish I knew why I do this, because it disturbs me although it s like my best friend when I need that rush of excitement. Thanks for sharing
+Reply
+
+
+
+CJ
+September 16th, 2016 at 8:36 AM
+
+I have been escaping into fantasy from young childhood. I almost always use it to get to sleep. Now, in middle age, I find myself utilizing this escapism mechanism more during the day. Sometimes as I operate through the day I engage in fantasy and am inattentive to others. I think a great part of the reason for it is disappointment and depression over falling short of my potential; therefore, I reach and go beyond my abilities in my &#8220;fantasy land.&#8221; It has become a worsening problem and I am consciously trying to fight it.
+Reply
+
+
+
+Rebecca
+September 6th, 2018 at 7:03 AM
+
+I have for a few years now been escaping through reading and things like that. What has happened to me a few times is that I have become obsessed with a story I read or a film I watched. I cannot stop repeating scenes and sentences in my head from a film or a book. I have to rewatch or reread the book or film and everytime I do the obsession comes back, I can&#8217;t think straight or about anything else. I don&#8217;t know what this is. Please help me understand
+Reply
+
+
+
+The GoodTherapy.org Team
+September 6th, 2018 at 7:46 AM
+
+Hi Rebecca,
+If you would like to consult with a mental health professional, please feel free to return to our homepage, 
+http://www.goodtherapy.org/
+, and enter your zip code into the search field to find therapists in your area. 
+Once you enter your information, you&#8217;ll be directed to a list of therapists and counselors who meet your criteria. From this list you can click to view our members&#8217; full profiles and contact the therapists themselves for more information. You are also welcome to call us for assistance finding a therapist. We are in the office Monday through Friday from 8:00 a.m. to 4:00 p.m. Pacific Time; our phone number is 888-563-2112 ext. 1.
+Kind regards,
+The GoodTherapy.org Team
+Reply
+
+
+
+Carlos
+May 5th, 2020 at 9:06 PM
+
+I&#8217;m with you on that&#8230;I actually went from a shy to confident, and then not so confident person, with low self esteem as I entered my 40s, and felt the girls weren&#8217;t looking at me anymore. Though I was told for many years, by everyone, even kids&#8230;that I looked like Brendan Fraser in The Mummy or George Of The Jungle. All my life I felt I had talent as an artist. I was always told by everyone that I had talent and I thought that this talent would be my key to success in the future, since I was good at nothing else. Drawing and painting relaxed me, and kept me busy.. I was always able to look at something and paint it really well, but not out of my head.  Art which was something fun and I loved doing, suddenly became a contest. and my worst enemy. For example, when Instagram came out, with the stupid &#8220;Like System&#8221; crap, EVERYTHING began to revolve around likes&#8230;and when I&#8217;d see little likes on my art, like 140 likes then dropping to 20 or 40 likes, while others, who&#8217;s art was mediocre, or at my same level, getting like 600 or 1000+ likes&#8230;. my self esteem dropped like no tomorrow.  So in other words little likes meant your art sucked or it wasn&#8217;t interesting. Whereas, 1000+ likes meant your art was awesome and you were the man (ridiculous). Now Instagram, is in no way the reason I am depressed. as I been feeling this way on and off for years, way before Instagram ever existed (I&#8217;m 49 years old). But it did help bringing my self esteem lower than it already was. The &#8220;like system&#8221; should be removed completely, as it really sucks and can probably harm the self esteems of young teenagers trying to fit in, and be appreciated. Other things that bring me down are the fact that my parents are getting older, and it scares the crap out of me. I remember telling my Mother when I was five, in 1976, that if she ever died, I would kill myself. And of course, she freaked out and told me not to say things like that. Though as horrible as it may sound. I believe that I may just keep that promise someday, when they are both not here anymore. My life has been sucking for very  long time, you know, finding the one, and not having kids like I wanted in my early 20s. And not being where I should be at this age, financially, and career wise.  Single, with no children.  And unemployed for a few years.  I&#8217;ve NEVER loved myself even as a kid. So you see, I always try to get away into a fantasy world, where everything goes right for me, and everyone admires me, and everything I do. But that my friend, is only a fantasy. And in reality, I am nothing. My parents are the only people who keep me sane. Though I do have a younger Brother (5 years younger), Sister (one year younger) a Niece and Nephew who I love dearly. But they all live their own lives happily, which is the way it should be.
+Reply
+
+
+
+anon
+May 12th, 2020 at 11:33 PM
+
+I have been daydreaming since a very young age. I had a very volatile family and used to get hit a lot by my mother. There was a lot of pressure at school and very young, i realised i was gay. I used to fantasize and plot stories in my head to the minutest detail. I am in college now and i havent done it years until Covid-19 hit us and now that i sometime on my hands, i have started day dreaming for hours again. I have an important submission coming up next month and im using it to escape the stress and my fear of failing at it. This thread makes me feel less alone because like CJ wrote, i fantasize everyday to get to sleep.
+Reply
+
+
+
+del
+October 30th, 2020 at 12:08 AM
+
+I never knew this was a problem? As a kid i was always daydreaming, reading fantasy books. Just sitting silently not talking and thinking for hours. And I have to think of a dream or story to be able to sleep, and continue that story for years. If that doesnt help ill just go on social media and look at fantasy arts. I didn&#8217;t realize this wasn&#8217;t normal.
+Reply
+
+
+
+Audrey
+March 3rd, 2021 at 12:19 PM
+
+Hi, well I&#8217;m in my early teens and daydreaming has always been apart of me. its even part of my daily routine. I have to fantasize atleast twice a day. Well, i didn&#8217;t know it was a bad thing until know. I fantasize about the absurdiest things. From Harry Porter to anime, manga,peter pan. I even imagine myself as cartoon. And i can&#8217;t be it. I am probably suffering from depression, i dunno. And therapy doesn&#8217;t work where i am. Help me!
+Reply
+
+
+
+Anonymous
+August 27th, 2021 at 5:17 AM
+
+It isn&#8217;t as severe yet, but I am a dreamer too. Dreaming about scenarios, making characters in my head was all a part of it. But I have been doing this since I was little, it wasn&#8217;t really a big deal. It did have a positive influence on me  if anything. I used to make my own stories before going to bed, I still do. In fact I used to look forward to going to bed just so I could continue the previous day&#8217;s story. Was all fun and games until it seeped into my day life too. Mild day dreaming was there but now I seem to not be able to focus anything on too long without imagining something or the other. It isn&#8217;t other characters anymore. It&#8217;s me in my head being everything I am not, but everything I want to be. Its hindering me from studying. I used to study well, comparatively at least. I was supposed to prepare for my medical enterance exam which was an year and a half back. I used to prepare for it alongside my grade exams but at some point I stopped it. I finished my grade exams. The entrance exam was a few months later but since the epidemic happened, everything was online. I started slacking off, used to watch series,read novels instead of studying. It wasn&#8217;t that surprising cause eh teenagers, distractions and everything. The entrance exam happened and it hit me how bad I did and how unprepared I was. So made a big decision and took a gap year to prepare solely for it. And well, here I am, with the exam in two weeks, completely unprepared. I don&#8217;t know what I did, this entire year. Feels like it was last year a few weeks back. I can&#8217;t even recall what I did. I had one job, to study and nothing else. Amazing parents, supportive friends and everything I could have ever asked for. But I did not study. Focusing became too hard. I even questioned if I really want to pursue medicine at some point. I am still not sure honestly. I wanted to do medicine so very bad before everything changed somehow. The entrance exam is super competitive here and its difficulty is quite high. So I feel like I am pretending to be sad (in front of no one else but myself) to give myself an excuse, out of self pity to escape from reality. The exam is hard, I need to work hard and use some brain where as dreaming is easyyyy. So I feel like I am somehow making myself think that I am in this weird mental phase now so that it somehow ends up justifying me not studying for the exam despite the second chance I was given? Does that even make sense? The exam is a pretty big deal and my parents are expecting a lot from me, they are even excited. I know I will be disappointing them big time and I will also regret not studying now. Have had regular breakdowns thinking about all of this but it doesn&#8217;t last long. I tell myself its okay, there are many other things I can do and feel a little better and i dumbly go back to doing uyseless stuff to make myself feel more better hence wasting more time. But I do feel better soon after, not even feeling as guilty as i felt just hours back. So I kind of feel like all the breakdown I had in my room alone was an act f-for myself?So that I can blame me flunking the exam on my mental health rather than the  lethargy or negligence or whatever it actually is. I just wanted to study somehow but why don&#8217;t I ? I stopped taking to friends too giving them the &#8216;gotta study , I am sorry&#8217; excuse from over an year,when I didn&#8217;t even study anything. They are good people so maybe I pushed them away because I am embarrassed of what I have become? Ashamed of myself? Envious of them? Haha idk instead of thinking about all these things, I should just study. I know but howwww? Why do I have to be so dramatic?
+Reply
+
+
+
+louise
+November 22nd, 2021 at 7:30 AM
+
+I have an imaginary world of my own that I&#8217;ve invented since I started doing journal writing at age 13. I escape into my fanticy world whenever I start writing in a journal. in the story, I&#8217;m friends with my favorite singer who takes me on tour to promote my youtube channel, walks down the red carpetfor award shows, and receiving awards. I&#8217;d also imagine that we&#8217;d go on stage together, and also imagined that she&#8217;s really nice to me as we&#8217;d do every day things. I&#8217;ve even imagined that we&#8217;re living in new York, and that we&#8217;re best friends. the other thing I imagine in my writing is that we&#8217;re having hot chocolate we got at starbux, and being in music videos. I find it comforting to do whenever I hear people complaining a lot at home, and enjoy it a lot. it does not effect my every day life. I am able to switch my brain between reality, and fanticy with no problem. if anyone ever asks about my imaginary world, I show them my writing.
+Reply
+
+
+
+A Dreamer of 13
+March 14th, 2022 at 12:55 PM
+
+If I feel a negative emotion, or even bored at all, I turn to my fantasy worlds. Not just one, but many. It first started out with a dream that I had, it was strange, like one of those dreams you think have no meaning, but want to see what happens next anyways. Then I had woken up right after i saw a figure that (Im embarrased to say) I thought was good looking. I was still exited to see what happened next, but whenever I went to sleep, I never saw this dream again so I thought to myself, &#8220;Why not just take this into your own hands.&#8221; So i did. It got so detailed and fun! but then I decided to make a different one when this dream began to lose momentum. It then turned into me having somone as a boyfriend, then it got exiting again, and I started a new one when i first saw Spider-Man and other Marvel movies. It got to the point where I wanted the day to be over so I could get back to this dream. And now here we are, I now prefer my Marvel made-up life to my real one. It&#8217;s begining to worry me. Like i might give up on my life to live in the one I created. With Covid, It heightened, due to the lack of activites and not seeing friends. It has taken me so long to buid up the curage to tell my embarrasing story, when I cant even tell my own mother in fear she might take this wrongly. And since I am a girl of 13, I cant exactly grab a car and drive to a therapist or somthing. What can I do to relive myself of this worry of being judged for my imagination and losing my motivation for my life &#8211; my REAL life? Please help me.
+Reply
+
+
+
+Gem
+May 16th, 2022 at 7:51 PM
+
+I have the same problem and I am 14. Even if I tell my parents I can&#8217;t exactly get a therapist because they won&#8217;t believe me. The best I could do was to put schedules on it and actually understand why I want to make the day dream. I mash up a lot of books to dream but not exactly because of the characters. I realized I just want to feel accepted by the people around me since in my dream world people use my pronouns and actually see me as strong and capable of something I guess. I am also more free in the dream world and can travel to any place I want while in reality it is hard for my parents to let me walk around the street alone and I see and feel a lot of exciting things ,and I have more people I know and trust as my friends, and so much more that I never addressed to myself. I am just starting on understanding. A little day dreaming won&#8217;t hurt but when you find it consuming around every thing you do, it can get really troubling. I am struggling with it but I found somethings that help and I hope it will help you too.
+Reply
+
+
+
+Sarah
+January 12th, 2023 at 11:44 PM
+
+Dear dreamer you are not alone There are hundreds of thousands of other dreamers out there. Please Google maladaptive daydreaming.
+Reply
+
+
+
+Duke
+January 23rd, 2024 at 7:35 PM
+
+Only read this now. To Dreamer: I&#8217;ve gone through the exact same thing for 33 years. Believe it or not. Never thought I would find others with a similar case. Hang in there.
+Reply
+
+
+
+jeff
+June 9th, 2024 at 4:30 PM
+
+hi &#8211; what are some good example to escapist fantasies &#8211;  since i don&#8217;t daydream anymore?
+Reply
+
+
+
+Dhatri P
+December 1st, 2024 at 2:34 AM
+
+I am suffering for the last year ..a to much thinking about positive or negative both sometimes the thought help me but most of time I live in a imaginary thought I couldn&#8217;t hear the activities and voice during when I think something&#8230;I have no interest in anyone I suffering from to much thinking&#8230;daily I sleep lately in 1 pm&#8230;I feel all time mood swings can I have mild depression? It is yes so how can I deal everything.
+Reply
+
+
+
+Charlotte
+January 9th, 2025 at 4:38 PM
+
+Dear Dhatri, It must be incredibly difficult to feel this way every day, and I want you to know that you&#8217;re not alone in experiencing these kinds of emotions. If you would like to consult with a mental health professional, you can start finding therapists in your area by entering your city or ZIP code into the search field on this page: 
+https://www.goodtherapy.org/find-therapist.html
+. Once you enter your information, you&#8217;ll be directed to a list of therapists and counselors who meet your criteria. You may click to view our members&#8217; full profiles and contact the therapists themselves for more information. If you need help finding a therapist, you are welcome to call us. We are in the office Monday through Friday from 8:00 a.m. to 4:00 p.m. Mountain Time, and our phone number is 888-563-2112 ext 3. Kind regards, The GoodTherapy Team
+Reply
+
+
+
+show more comments
+
+Leave a Comment
+By commenting you acknowledge acceptance of GoodTherapy.org's&nbsp;
+Terms and Conditions of Use
+.
+
+
+Name:
+*
+
+
+Email address:
+*
+
+Comment:
+*
+
+
+
+
+
+
+Current ye@r 
+*
+
+Leave this field empty
+
+
+
+&nbsp;
+
+
+
+Notify me when new comments are added.
+Subscribe me to the GoodTherapy.org public newsletter.
+
+* Indicates required field.
+                        
+Search Our Blog
+
+
+ 
+Title
+
+
+ 
+Content
+
+
+ 
+Author
+
+Browse by Category
+
+Featured
+
+
+
+Issues Treated
+
+
+
+Therapy News
+
+
+
+Uncategorized
+
+
+
+General
+
+
+
+Dear GoodTherapy
+
+
+
+Find Therapist
+
+
+
+Share Your Story
+
+
+
+GoodTherapy.org Announcements
+
+
+
+Personal Growth
+
+
+
+FAQ/What to Expect in Therapy
+
+
+
+Interviews
+
+
+
+Relationships
+
+
+
+Types of Therapy
+
+
+
+COVID-19
+
+
+
+Parenting
+
+
+
+Self-Concept
+
+
+
+For Therapists
+
+
+
+QuoteCards
+
+
+
+Holiday Topics
+
+
+
+Marketing for Therapists
+
+
+
+Family Concerns
+
+
+
+Topic Expert Roundup
+
+
+
+World Mental Health Day
+
+
+
+Sex/Sexual Concerns
+
+
+
+Anger
+
+
+
+Burnout
+
+
+
+Trauma
+
+
+
+Sexuality
+
+
+
+OCD
+
+
+
+PTSD
+
+
+
+social media
+
+
+
+Topics
+
+        
+
+See more
+
+
+Notice to users
+                
+
+
+
+
+
+About GoodTherapy
+
+About Us
+
+
+
+
+Advertise
+
+
+Press Room
+
+
+GoodCause
+
+
+
+
+Tx Center Membership
+
+
+Student Membership
+
+
+Partnership Information
+
+Contact Us
+
+
+Groups
+
+Resources
+
+Find a Therapist
+
+
+Explore Therapy
+
+
+Elements of Good Therapy
+
+Modes of Therapy
+
+
+Dear GoodTherapy
+
+
+Find a Treatment Center
+
+
+What Is Therapy?
+
+
+Types of Therapy
+
+
+Issues Treated in Therapy
+
+
+
+SUBSCRIBE TO NEWSLETTER
+
+*
+ indicates required
+
+Email Address 
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);
+
+Follow GoodTherapy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GoodTherapy, LLC
+ 
+Home
+ 
+Terms of Service
+ 
+Privacy Policy
+ 
+Sitemap
+ 
+Subscribe to our Newsletter
+ 
+)) | ([] ?
+
+
+

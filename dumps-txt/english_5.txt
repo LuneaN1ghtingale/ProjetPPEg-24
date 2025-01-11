@@ -1,0 +1,1955 @@
+Fantasy Book Critic
+
+
+ 
+ /* begin Page */ /* Generated with Artisteer version 2.6.0.35927, file checksum is [[[!CHECKSUM!]]]. */ img { filter: expression(artFixPNG(this)); } img { filter: expression(artFixPNG(this)); } #ArchiveList ul li { behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter=""); } #ArchiveList a.toggle, #ArchiveList a.toggle:link, #ArchiveList a.toggle:visited, #ArchiveList a.toggle:hover { color: expression(this.parentNode.currentStyle["color"]); } /* end Page */ /* begin Box, Sheet */ .art-sheet, .art-sheet-body { zoom: 1; } .art-sheet-body { position: static; } #art-page-background-simple-gradient, #art-page-background-gradient, #art-page-background-glare { width: expression(document.body.clientWidth  1145 ? "100%" : "1145px"); } /* end Box, Sheet */ /* begin Menu */ .art-menu ul { width: 1px; } .art-menu li.art-menuhover { z-index: 10000; } .art-menu .art-menuhoverUL { visibility: visible; } .art-menu .art-menuhoverUL { top: 100%; left: 0; } .art-menu .art-menuhoverUL .art-menuhoverUL { top: 0; left: 100%; } .art-menu .art-menuhoverUL .art-menuhoverUL { top: 5px; left: 100%; } .art-menu, .art-menu ul, .art-menu ul a { height: 1%; } .art-menu li.art-menuhover { z-index: 10000; } .art-menu .art-menuhoverUL { visibility: visible; } .art-menu .art-menuhoverUL { top: 100%; left: 0; } .art-menu .art-menuhoverUL .art-menuhoverUL { top: 0; left: 100%; } .art-menu li li { float: left; width: 100%; } .art-nav { zoom: 1; } .art-nav .l, .art-nav .r { font-size: 1px; background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/nav.png',sizingMethod='crop')"); } .art-nav .l { width: expression(this.parentNode.offsetWidth-0+'px'); } .art-nav .r { left: expression(this.parentNode.offsetWidth-1145+'px'); clip: rect(auto auto auto 1145px); } /* end Menu */ /* begin MenuItem */ .art-menu a { float: left; } .art-menu a:hover { visibility: visible; } .art-menu a .r, .art-menu a .l { font-size: 1px; background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/menuitem.png',sizingMethod='crop')"); } .art-menu a .r { left: expression(this.parentNode.offsetWidth-408+'px'); clip: rect(auto auto auto 404px); } .art-menu a .l { width: expression(this.parentNode.offsetWidth-4+'px'); } .art-menuhover .art-menuhoverA .t { color: #C5D9ED; } .art-menuhover .art-menuhoverA .l, .art-menuhover .art-menuhoverA .r { top: -29px; } /* end MenuItem */ /* begin MenuSeparator */ .art-nav .art-menu-separator { font-size: 1px; zoom: 1; background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/menuseparator.png',sizingMethod='crop')"); } /* end MenuSeparator */ /* begin MenuSubItem */ .art-menu ul a { color: #ECF2F9 !important; } .art-menu ul a:hover { color: #F3F3EC !important; } .art-menu ul .art-menuhover .art-menuhoverA { color: #F3F3EC !important; background-position: 0 -20px; } .art-nav .art-menu ul a:hover span, .art-nav .art-menu ul a:hover span span { color: #F3F3EC !important; } .art-nav .art-menu ul .art-menuhover .art-menuhoverA span, .art-nav .art-menu ul .art-menuhover .art-menuhoverA span span { color: #F3F3EC !important; } /* end MenuSubItem */ /* begin Layout */ div.art-content-layout { display: block; zoom: 1; overflow: hidden; } /* end Layout */ /* begin Box, Block, VMenuBlock */ .art-vmenublock, .art-vmenublock-body { zoom: 1; } .art-vmenublock-body { position: static; } .art-vmenublock-cc { font-size: 1px; width: expression(this.parentNode.offsetWidth+'px'); height: expression(this.parentNode.offsetHeight+'px'); background-color: #FFFFFF; } /* end Box, Block, VMenuBlock */ /* begin Box, Box, VMenuBlockContent */ .art-vmenublockcontent, .art-vmenublockcontent-body { zoom: 1; } .art-vmenublockcontent-body { position: static; } .art-vmenublockcontent-cc { font-size: 1px; width: expression(this.parentNode.offsetWidth+'px'); height: expression(this.parentNode.offsetHeight+'px'); background-color: #FFFFFF; } .art-vmenublockcontent, .art-vmenublockcontent-body { zoom: 1; } .art-vmenublockcontent-body { position: static; } .art-vmenublockcontent-cc { font-size: 1px; width: expression(this.parentNode.offsetWidth+'px'); height: expression(this.parentNode.offsetHeight+'px'); background-color: #FFFFFF; } /* end Box, Box, VMenuBlockContent */ /* begin Box, Block */ .art-block, .art-block-body { zoom: 1; } .art-block-body { position: static; } .art-block-tr, .art-block-tl, .art-block-br, .art-block-bl, .art-block-tc, .art-block-bc,.art-block-cr, .art-block-cl { font-size: 1px; background: none; } .art-block-tr, .art-block-tl, .art-block-br, .art-block-bl { behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/block_s.png',sizingMethod='scale')"); } .art-block-tl { clip: rect(auto 19px 19px auto); } .art-block-tr { left: expression(this.parentNode.offsetWidth-38+'px'); clip: rect(auto auto 19px 19px); } .art-block-bl { top: expression(this.parentNode.offsetHeight-38+'px'); clip: rect(19px 19px auto auto); } .art-block-br { top: expression(this.parentNode.offsetHeight-38+'px'); left: expression(this.parentNode.offsetWidth-38+'px'); clip: rect(19px auto auto 19px); } .art-block-tc, .art-block-bc { width: expression(this.parentNode.offsetWidth-38+'px'); behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/block_h.png',sizingMethod='scale')"); } .art-block-tc { clip: rect(auto auto 19px auto); } .art-block-bc { top: expression(this.parentNode.offsetHeight-38+'px'); clip: rect(19px auto auto auto); } .art-block-cr, .art-block-cl { height: expression(this.parentNode.offsetHeight-38+'px'); behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/block_v.png',sizingMethod='scale')"); } .art-block-cr { left: expression(this.parentNode.offsetWidth-38+'px'); clip: rect(auto auto auto 19px); } .art-block-cl { clip: rect(auto 19px auto auto); } .art-block-cc { font-size: 1px; width: expression(this.parentNode.offsetWidth-38+'px'); height: expression(this.parentNode.offsetHeight-38+'px'); background-color: #001E36; } /* end Box, Block */ /* begin BlockHeader */ .art-blockheader { zoom: 1; } .art-blockheader .l, .art-blockheader .r { background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/blockheader.png',sizingMethod='crop')"); } .art-blockheader .r { left: expression(this.parentNode.offsetWidth-1145+'px'); clip: rect(auto auto auto 1139px); } .art-blockheader .l { width: expression(this.parentNode.offsetWidth-6+'px'); } /* end BlockHeader */ /* begin Box, BlockContent */ .art-blockcontent, .art-blockcontent-body { zoom: 1; } .art-blockcontent-body { position: static; } .art-blockcontent-tr, .art-blockcontent-tl, .art-blockcontent-br, .art-blockcontent-bl, .art-blockcontent-tc, .art-blockcontent-bc,.art-blockcontent-cr, .art-blockcontent-cl { font-size: 1px; background: none; } .art-blockcontent-tr, .art-blockcontent-tl, .art-blockcontent-br, .art-blockcontent-bl { behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/blockcontent_s.png',sizingMethod='scale')"); } .art-blockcontent-tl { clip: rect(auto 7px 7px auto); } .art-blockcontent-tr { left: expression(this.parentNode.offsetWidth-14+'px'); clip: rect(auto auto 7px 7px); } .art-blockcontent-bl { top: expression(this.parentNode.offsetHeight-14+'px'); clip: rect(7px 7px auto auto); } .art-blockcontent-br { top: expression(this.parentNode.offsetHeight-14+'px'); left: expression(this.parentNode.offsetWidth-14+'px'); clip: rect(7px auto auto 7px); } .art-blockcontent-tc, .art-blockcontent-bc { width: expression(this.parentNode.offsetWidth-14+'px'); behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/blockcontent_h.png',sizingMethod='scale')"); } .art-blockcontent-tc { clip: rect(auto auto 7px auto); } .art-blockcontent-bc { top: expression(this.parentNode.offsetHeight-14+'px'); clip: rect(7px auto auto auto); } .art-blockcontent-cr, .art-blockcontent-cl { height: expression(this.parentNode.offsetHeight-14+'px'); behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/blockcontent_v.png',sizingMethod='scale')"); } .art-blockcontent-cr { left: expression(this.parentNode.offsetWidth-14+'px'); clip: rect(auto auto auto 7px); } .art-blockcontent-cl { clip: rect(auto 7px auto auto); } .art-blockcontent-cc { font-size: 1px; width: expression(this.parentNode.offsetWidth-14+'px'); height: expression(this.parentNode.offsetHeight-14+'px'); background-color: #11507C; } .art-blockcontent-body ul li { height: 1%; background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/blockcontentbullets.png',sizingMethod='crop')"); } .art-blockcontent-body ul li { height: 1%; background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/blockcontentbullets.png',sizingMethod='crop')"); } /* end Box, BlockContent */ /* begin Button */ .art-button-wrapper, .art-button-wrapper .l, .art-button-wrapper .r { zoom: 1; } .art-button-wrapper .art-button { float: left; } .art-button-wrapper .l, .art-button-wrapper .r { background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/button.png',sizingMethod='crop')"); } .art-button-wrapper .r { left: expression(this.parentNode.offsetWidth-409+'px'); clip: rect(auto auto auto 399px); } .art-button-wrapper .l { width: expression(this.parentNode.offsetWidth-10+'px'); } /* end Button */ /* begin Box, Post */ .art-post, .art-post-body { zoom: 1; } .art-post-body { position: static; } /* end Box, Post */ /* begin PostBullets */ .art-post ul li, .art-post ol ul li { height: 1%; background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/postbullets.png',sizingMethod='crop')"); padding-left: 13px; /* makes "ul li" not to align behind the image if they are in the same line */ overflow-x: visible; overflow-y: hidden; } .art-post ul ol li { background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter=""); padding-left: 0; /* overrides overflow for "ul li" and sets the default value */ overflow: visible; } /* end PostBullets */ /* begin PostQuote */ blockquote, .art-postcontent blockquote { height: 1%; background-image: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + artGetStyleUrl()+"images/postquote.png',sizingMethod='crop')"); } /* end PostQuote */ /* begin Footer */ .art-footer, .art-footer-body { zoom:1; } .art-footer-text { height: 16px; } .art-footer-t { zoom: 1; font-size: 1px; height: expression(this.parentNode.offsetHeight-0+'px'); width: 100%; } .art-rss-tag-icon { zoom: 1; font-size: 1px; background: none; behavior: expression(this.runtimeStyle.filter?'':this.runtimeStyle.filter="progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+artGetStyleUrl()+"images/rssicon.png',sizingMethod='crop')"); } /* end Footer */ /* begin LayoutCell, content */ div.art-sidebar2 { width: auto; } div.art-content-layout div.art-layout-cell, div.art-content-layout div.art-layout-cell div.art-content-layout div.art-layout-cell { display: block; overflow: hidden; float: left; clear: right; margin-bottom: -32000px; padding-bottom: 32000px; } div.art-layout-cell div.art-layout-cell { float: none; clear: both; margin-bottom: 0; padding-bottom: 0; } /* end LayoutCell, content */ 
+ 
+ 
+ /* begin Box, Sheet */ .art-sheet-body { zoom: 1; } /* end Box, Sheet */ /* begin Menu */ .art-nav .r { clip: rect(auto auto auto 1145px); } /* end Menu */ /* begin MenuItem */ .art-menu a .r { clip: rect(auto auto auto 404px); } /* end MenuItem */ /* begin Layout */ div.art-content-layout { display: block; zoom: 1; overflow: hidden; } /* end Layout */ /* begin Box, Block, VMenuBlock */ .art-vmenublock-body { zoom: 1; } /* end Box, Block, VMenuBlock */ /* begin Box, Box, VMenuBlockContent */ .art-vmenublockcontent-body { zoom: 1; } .art-vmenublockcontent-body { zoom: 1; } /* end Box, Box, VMenuBlockContent */ /* begin Box, Block */ .art-block-tl { clip: rect(auto 19px 19px auto); } .art-block-tr { clip: rect(auto auto 19px 19px); } .art-block-bl { clip: rect(19px 19px auto auto); } .art-block-br { clip: rect(19px auto auto 19px); } .art-block-tc { clip: rect(auto auto 19px auto); } .art-block-bc { clip: rect(19px auto auto auto); } .art-block-cr { clip: rect(auto auto auto 19px); } .art-block-cl { clip: rect(auto 19px auto auto); } .art-block-body { zoom: 1; } /* end Box, Block */ /* begin BlockHeader */ .art-blockheader .r { clip: rect(auto auto auto 1139px); } /* end BlockHeader */ /* begin Box, BlockContent */ .art-blockcontent-tl { clip: rect(auto 7px 7px auto); } .art-blockcontent-tr { clip: rect(auto auto 7px 7px); } .art-blockcontent-bl { clip: rect(7px 7px auto auto); } .art-blockcontent-br { clip: rect(7px auto auto 7px); } .art-blockcontent-tc { clip: rect(auto auto 7px auto); } .art-blockcontent-bc { clip: rect(7px auto auto auto); } .art-blockcontent-cr { clip: rect(auto auto auto 7px); } .art-blockcontent-cl { clip: rect(auto 7px auto auto); } .art-blockcontent-body { zoom: 1; } /* end Box, BlockContent */ /* begin Button */ .art-button-wrapper .r { clip: rect(auto auto auto 399px); } /* end Button */ /* begin Box, Post */ .art-post-body { zoom: 1; } /* end Box, Post */ /* begin PostContent */ .art-postcontent { height: 1%; } /* end PostContent */ /* begin LayoutCell, content */ div.art-sidebar2 { width: auto; } div.art-content-layout div.art-layout-cell, div.art-content-layout div.art-layout-cell div.art-content-layout div.art-layout-cell { display: block; overflow: hidden; float: left; clear: right; margin-bottom: -32000px; padding-bottom: 32000px; } div.art-layout-cell div.art-layout-cell { float: none; clear: both; margin-bottom: 0; padding-bottom: 0; } /* end LayoutCell, content */ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'+tmpstr+'
+
+
+
+
+'+homePageName+'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'+itemname+'
+
+
+
+
+
+
+'+itemname+'
+
+
+
+
+
+
+'+itemname+'
+
+'+itemname.substr(3,itemname.length)+'
+'+itemname.substr(2,itemname.length)+'
+'+itemname.substr(1,itemname.length)+'
+
+
+
+
+
+
+
+
+
+
+
+'+itemname+'
+
+
+
+
+
+
+'+itemname+'
+
+'+itemname.substr(3,itemname.length)+'
+'+itemname.substr(3,itemname.length)+'
+'+itemname.substr(2,itemname.length)+'
+'+itemname.substr(2,itemname.length)+'
+'+itemname.substr(1,itemname.length)+'
+'+itemname.substr(1,itemname.length)+'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Listing
+
+@Number71
+
+
+Beauty In Ruins
+
+
+Best Fantasy Books HQ
+
+
+Bitten By Books
+
+
+Booknest
+
+
+Bookworm Blues
+
+
+Charlotte's Library
+
+
+Civilian Reader
+
+
+Critical Mass
+
+
+Curated Fantasy Books
+
+
+Dark Wolf's Fantasy Reviews
+
+
+Everything is Nice
+
+
+Falcata Times
+
+
+Fantasy & SciFi Lovin' News & Reviews
+
+
+Fantasy Cafe
+
+
+Fantasy Literature
+
+
+Gold Not Glittering
+
+
+GoodKindles
+
+
+Grimdark Magazine
+
+
+Hellnotes
+
+
+io9
+
+
+Jabberwock
+
+
+Jeff VanderMeer
+
+
+King of the Nerds
+
+
+Layers of Thought
+
+
+Lynn's Book Blog
+
+
+Neth Space
+
+
+Novel Notions
+
+
+Omnivoracious
+
+
+Only The Best Science Fiction & Fantasy
+
+
+Pat's Fantasy Hotlist
+
+
+Pyr-O-Mania
+
+
+Realms Of My Mind
+
+
+Rob's Blog O' Stuff
+
+
+Rockstarlit Bookasylum
+
+
+SciFiChick.com
+
+
+SFF Insiders
+
+
+Smorgasbord Fantasia
+
+
+Speculative Book Review
+
+
+Stainless Steel Droppings
+
+
+Tez Says
+
+
+The Antick Musings of G.B.H. Hornswoggler, Gent.
+
+
+The B&N Sci-Fi & Fantasy Blog
+
+
+The Bibliosanctum
+
+
+The Fantasy Hive
+
+
+The Fantasy Inn
+
+
+The Nocturnal Library
+
+
+The OF Blog
+
+
+The Qwillery
+
+
+The Speculative Scotsman
+
+
+The Vinciolo Journal
+
+
+The Wertzone
+
+
+Thoughts Stained With Ink
+
+
+Tip the Wink
+
+
+Tor.com
+
+
+Val's Random Comments
+
+
+Voyager Books
+
+
+Walker of Worlds
+
+
+Whatever
+
+
+Whispers & Wonder
+
+
+
+Blog Archive
+&#9660; 
+2025
+(6)
+&#9660; 
+January
+(6)
+
+Mihir&#39;s Top Reads of 2024
+
+
+Review: Level: Unknown by David Dalglish
+
+
+Cover Re-Reveal: The Storm Beneath The World by Mi...
+
+
+SPFBO Finalist Review - The Humane Society for Cre...
+
+
+SPFBO Finalist Interview - Stephanie Gillis, the A...
+
+
+2024 Team Favorites - Łukasz
+
+2024
+(171)
+December
+(13)
+November
+(9)
+October
+(14)
+September
+(11)
+August
+(11)
+July
+(18)
+June
+(9)
+May
+(14)
+April
+(19)
+March
+(14)
+February
+(20)
+January
+(19)
+2023
+(244)
+December
+(10)
+November
+(15)
+October
+(17)
+September
+(15)
+August
+(20)
+July
+(22)
+June
+(20)
+May
+(29)
+April
+(23)
+March
+(25)
+February
+(21)
+January
+(27)
+2022
+(244)
+December
+(23)
+November
+(18)
+October
+(18)
+September
+(18)
+August
+(23)
+July
+(28)
+June
+(18)
+May
+(24)
+April
+(18)
+March
+(24)
+February
+(12)
+January
+(20)
+2021
+(196)
+December
+(12)
+November
+(18)
+October
+(10)
+September
+(12)
+August
+(16)
+July
+(17)
+June
+(19)
+May
+(16)
+April
+(18)
+March
+(16)
+February
+(18)
+January
+(24)
+2020
+(212)
+December
+(28)
+November
+(12)
+October
+(18)
+September
+(11)
+August
+(15)
+July
+(17)
+June
+(18)
+May
+(20)
+April
+(19)
+March
+(11)
+February
+(11)
+January
+(32)
+2019
+(187)
+December
+(18)
+November
+(12)
+October
+(19)
+September
+(16)
+August
+(16)
+July
+(19)
+June
+(18)
+May
+(21)
+April
+(12)
+March
+(11)
+February
+(11)
+January
+(14)
+2018
+(83)
+December
+(2)
+November
+(8)
+October
+(7)
+September
+(10)
+August
+(11)
+July
+(13)
+June
+(8)
+May
+(3)
+April
+(10)
+March
+(6)
+January
+(5)
+2017
+(106)
+December
+(13)
+November
+(6)
+October
+(7)
+September
+(3)
+August
+(8)
+July
+(11)
+June
+(13)
+May
+(10)
+April
+(9)
+March
+(12)
+February
+(8)
+January
+(6)
+2016
+(134)
+December
+(3)
+November
+(10)
+October
+(17)
+September
+(15)
+August
+(13)
+July
+(8)
+June
+(12)
+May
+(8)
+April
+(10)
+March
+(11)
+February
+(17)
+January
+(10)
+2015
+(136)
+December
+(2)
+November
+(2)
+October
+(14)
+September
+(16)
+August
+(22)
+July
+(26)
+June
+(18)
+May
+(10)
+April
+(3)
+March
+(10)
+February
+(5)
+January
+(8)
+2014
+(156)
+December
+(4)
+November
+(6)
+October
+(13)
+September
+(14)
+August
+(10)
+July
+(13)
+June
+(14)
+May
+(13)
+April
+(17)
+March
+(10)
+February
+(19)
+January
+(23)
+2013
+(259)
+December
+(11)
+November
+(20)
+October
+(25)
+September
+(25)
+August
+(22)
+July
+(21)
+June
+(14)
+May
+(30)
+April
+(27)
+March
+(23)
+February
+(20)
+January
+(21)
+2012
+(284)
+December
+(20)
+November
+(24)
+October
+(29)
+September
+(33)
+August
+(29)
+July
+(28)
+June
+(21)
+May
+(21)
+April
+(10)
+March
+(20)
+February
+(24)
+January
+(25)
+2011
+(315)
+December
+(27)
+November
+(33)
+October
+(31)
+September
+(30)
+August
+(29)
+July
+(28)
+June
+(26)
+May
+(19)
+April
+(24)
+March
+(28)
+February
+(20)
+January
+(20)
+2010
+(345)
+December
+(14)
+November
+(23)
+October
+(30)
+September
+(29)
+August
+(32)
+July
+(32)
+June
+(31)
+May
+(29)
+April
+(32)
+March
+(33)
+February
+(30)
+January
+(30)
+2009
+(465)
+December
+(32)
+November
+(31)
+October
+(32)
+September
+(33)
+August
+(38)
+July
+(40)
+June
+(43)
+May
+(41)
+April
+(50)
+March
+(37)
+February
+(36)
+January
+(52)
+2008
+(375)
+December
+(54)
+November
+(33)
+October
+(40)
+September
+(40)
+August
+(33)
+July
+(34)
+June
+(25)
+May
+(22)
+April
+(20)
+March
+(23)
+February
+(22)
+January
+(29)
+2007
+(220)
+December
+(23)
+November
+(23)
+October
+(24)
+September
+(24)
+August
+(19)
+July
+(22)
+June
+(23)
+May
+(22)
+April
+(20)
+March
+(20)
+
+
+
+
+
+
+View My Stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saturday, January 11, 2025
+Mihir's Top Reads of 2024
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;
+
+
+
+Pradeep
+
+
+and it wasn&#8217;t easy ranking them.
+
+
+
+
+
+
+
+ 
+&nbsp;
+
+So without further ado, 
+:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1)&nbsp;
+
+&nbsp;
+
+
+
+
+by 
+Michael R. Fletcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)
+&nbsp;
+
+
+
+ by 
+RR Virdi
+
+
+ 
+&#8211; The sequel to 
+The First Binding 
+rd
+ volume in the 
+ is easily one of my most anticipated reads whenever it releases.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+3)
+&nbsp;
+
+
+
+Herald
+Rob J. Hayes
+
+
+ 
+Godeater saga, Rob
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+4)
+&nbsp; 
+
+
+
+ by 
+Cameron Johnston
+
+ &#8211; 
+Cameron Johnston 
+is a huge fan of 
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+5)
+&nbsp;
+
+
+
+ by 
+M.L. Wang
+
+M.L. Wang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6)
+&nbsp;
+
+
+
+ by 
+Mark Lawrence
+
+Mark Lawrence
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+7)
+&nbsp;
+
+
+
+ by 
+Angela Boord
+
+ &#8211; 
+Angela Boord
+&#8217;s 2
+nd
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+8)&nbsp;
+&nbsp;
+
+
+
+
+ by 
+Django Wexler
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+9)
+&nbsp;&nbsp;
+
+
+
+
+ by 
+Adrian M. Gibson
+
+ &#8211; 
+Adrian M. Gibson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10)
+&nbsp;
+
+
+
+
+ by 
+Ciel Pierlot
+
+Caitlin
+Ciel Pierlot
+
+
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+ | 
+Adrian M. Gibson
+Angela Boord
+Cameron Johnston
+Ciel Pierlot
+django wexler
+Mark Lawrence
+michael r. fletcher
+ml wang
+rob j. hayes
+RR Virdi
+top reads
+
+
+
+
+
+
+
+
+
+
+Wednesday, January 8, 2025
+Review: Level: Unknown by David Dalglish
+
+
+
+
+
+
+
+&nbsp;Buy 
+Level: Unknown
+
+
+
+
+ David Dalglish currently lives in Myrtle Beach with his wife, Samantha, and daughters, Morgan, Katherine, and Alyssa. He graduated from Missouri Southern State University in 2006 with a degree in mathematics and currently spends his free time tanking dungeons for his wife and daughter in Final Fantasy XIV.
+
+
+
+Level: Unknown
+ was published by Orbit on January 14th, 2024. It is 464 pages long and told in third person from multiple POVs. It is available in paperback, ebook, and audiobook formats.
+
+
+  Nick is just a simple lab tech, he shouldn&#8217;t have to worry about swords swinging at his head. But that becomes a daily concern when an alien artifact forms a connection with him, plunging him into a simulated fantasy world every time he falls asleep. Nick quickly learns that while the world might be fake and death just means waking up, the pain is still very real. Even worse the pain is taking a strain on his real life body, and it might not be too long before his body gives out entirely. To top it all off, Nick's fellow researchers have discovered that a devastating event is heading to their planet, and the clues to how to stop it lie somewhere in the game. It's up to Nick to delve into this fantasy world and find the answers...but he's only got so many more lives before he'll never wake up again.
+
+
+&nbsp;is a fun romp of a LitRPG adventure, accessible to both game enthusiasts and those who have never picked up a controller. For those unfamiliar, LitRPG is a genre inspired by tabletop role playing games and video games, where characters for one reason or another are aware of stats, health meters, and other mechanics. In 
+Level: Unknown
+, Nick essentially finds himself in a virtual video game world, with an AI assistant, experience points, hovering UIs that display health bars, etc. While those who play games regularly will easily recognize the mechanics, Nick is written as a novice to such things so that the reader can learn the ropes alongside him. (Although I did beg the question: is the future so dark that an 18-year-old has never played a video game before?)
+
+
+
+
+ 
+Level: Unknown
+ is a good popcorn adventure that's a lot of fun to escape into. As a relative novice to the genre itself, I cannot tell you how it compares to other Lit RPGs. What I can say is that I enjoyed my time in this world, and I'm looking forward to seeing how these mysteries pan out in the sequel.
+
+  
+
+ | 
+book review
+david dalglish
+1 comments
+
+
+
+
+
+
+
+
+
+
+Tuesday, January 7, 2025
+Cover Re-Reveal: The Storm Beneath The World by Michael R. Fletcher
+
+&#160;
+
+
+
+
+
+THE STORM BENEATH THE WORLD
+
+
+
+
+
+
+
+
+COVER RE-REVEAL!
+
+
+
+
+
+
+
+
+&#160;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Book links:
+&#160;
+Amazon
+, 
+Goodreads
+, 
+FBC&#39;s REVIEW
+
+
+
+
+
+
+
+
+ABOUT THE AUTHOR:&#160;
+
+
+
+Michael R. Fletcher lives in the endless suburban sprawl north of Toronto. He dreams of trees and seeing the stars at night and being a ninja. He is an unrepentant whiskey-swilling reprobate of the tallest order and thinks grilled cheese sandwiches are a food group.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publisher:
+&#160;Michael R. Fletcher (April 4, 2024)&#160;
+Length:
+&#160;366&#160;
+Formats:&#160;
+ebook, hardcover, paperback
+
+
+
+
+
+
+Read more &#187;
+ | 
+cover reveal
+michael r. fletcher
+
+
+
+
+
+
+
+
+
+
+Monday, January 6, 2025
+SPFBO Finalist Review - The Humane Society for Creatures & Cryptids by Stephanie Gillis
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT THE AUTHOR:
+&#160;Stephanie Gillis is a vlogger, writer, dog trainer, and dinosaur-enthusiast living in Colorado with a very load and obnoxious parrot. She has two Bachelor&#39;s degrees in Linguistics and Japanese. When she&#39;s not staring at a bright white computer screen for hours on end you may be able to spot her in her natural habitat digging through thrift stores or seeing movies at ridiculously early hours of the morning. If seen in public, approach with caution, puppies, and musical song lyrics.
+
+
+
+
+Find Stephanie online:&#160;
+website
+
+
+
+
+
+
+
+The Humane Society for Creatures &amp; Cryptids
+
+&#160;links:&#160;
+Amazon
+,&#160;
+Goodreads
+
+
+
+
+
+
+
+
+Read more &#187;
+ | 
+book review
+spfbo finalist
+Stephanie Gillis
+
+
+
+
+
+
+
+
+
+
+SPFBO Finalist Interview - Stephanie Gillis, the Author of The Humane Society for Creatures & Cryptids
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT THE AUTHOR:
+&#160;Stephanie Gillis is a vlogger, writer, dog trainer, and dinosaur-enthusiast living in Colorado with a very load and obnoxious parrot. She has two Bachelor&#39;s degrees in Linguistics and Japanese. When she&#39;s not staring at a bright white computer screen for hours on end you may be able to spot her in her natural habitat digging through thrift stores or seeing movies at ridiculously early hours of the morning. If seen in public, approach with caution, puppies, and musical song lyrics.
+
+
+
+
+Find Stephanie online: 
+website
+
+
+
+
+
+
+
+The Humane Society for Creatures &amp; Cryptids
+
+ links: 
+Amazon
+, 
+Goodreads
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Read more &#187;
+ | 
+author interview
+spfbo finalist
+spfbo x
+Stephanie Gillis
+
+
+
+
+
+
+
+
+
+
+Wednesday, January 1, 2025
+2024 Team Favorites - Łukasz
+
+It&#8217;s time to start wrapping up the year, and since I can&#8217;t resist a good Top X list, here&#8217;s mine:) Books, comics, TV series - you name it, I&#8217;ve got some gems to share.
+
+
+
+I&#39;ll focus on broadly defined speculative fiction, but if thrillers are your thing, let me know - I&#8217;ve got a few killer suggestions.
+
+
+
+I hope at least some of these picks will grab your attention, especially since some of them are criminally underread and deserve way more love.
+
+
+
+
+
+
+Read more &#187;
+ | 
+Best of 2024
+Blandine Le Callet
+Jennifer Marie Thorne
+Keith Rosson
+michael r. fletcher
+Mike Carey
+Nicole Cushing
+Paolo Bacigalupi
+Robert Jackson Bennet
+Robert Kirkman
+shannon chakraborty
+
+
+
+
+
+
+
+
+
+
+Tuesday, December 31, 2024
+Review: The Relentless Legion by J.S. Dewes
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+Buy 
+The Relentless Legion
+
+
+
+ After graduating with a degree in film production, J. S. DEWES went on to serve as cinematographer for independent films, write, produce, and shoot a zombie musical, slay internet dragons, and act as lighting designer for presidents and presidential-hopefuls so many times it became mundane. To add to her list of random career paths, she unlocked the Dream Job achievement and now writes for triple-A science fiction video games.
+
+She is the author of the Divide series (The Last Watch, The Exiled Fleet) and Rubicon
+
+Jenny spends her free time drawing, gaming, scrolling ArtStation, cuddling her two sweet dogs and mercurial cat, and occasionally sleeping.
+
+
+FORMAT/INFO:
+ 
+The Relentless Legion
+ was published on November 12th, 2024, by Tor Books. It is 512 pages long. It is available in paperback, ebook, and audiobook formats.
+
+
+OVERVIEW/ANALYSIS:
+&nbsp; After a harrowing journey to recover the fuel and supplies needed to bring the fleet safely home from the Divide, the Sentinels have at last returned to the center of civilized space. They've spent months in hiding, preparing to go to war with Cavalon's grandfather, Augustus Mercer. Obsessed with eradicating a specific incurable genetic defect from humanity, Augustus has been playing a long game, using legislation to slowly ostracize any affected humans from society. But the long game is coming to an end, as Augustus is preparing to unleash a horrific weapon on the galaxy. It will take every ally that Rake and Cavalon can rally if they're going to have a prayer of stopping the plot in time.
+
+
+The Relentless Legion
+ is another fantastic adventure in 
+The Divide
+ series that continues to raise the stakes for the fate of the universe. This one is a little slower-paced than the previous novels in the series, preferring to take some time to focus on how the characters are coping with the strain of the last several months (spoiler, some of them are not). I will say that I did find Cavalon a bit exasperating this novel, but the author seems fully aware of it, given that characters called him out for exactly the things that were frustrating me. The characters get a chance to regroup and reflect before everything goes sideways.
+
+And it WILL go sideways. If you've enjoyed the author's action-packed books in the past, there is plenty of conflict to be found here. The midpoint was particularly nail-biting, an absolute gut-punch in more ways than one. You can also expect some surprising developments as Rake and Cavalon continue to deepen their understanding of the Divide and the devices that keep the collapse of the universe at bay.
+
+The one negative I had with this book is it felt like there were too many things going on. 
+The Divide
+ books have always juggled multiple threats, from the collapsing edge of the universe, the reappearance of alien enemies, and the conspiracy led by Augustus Mercer. Past books have managed to keep everything balanced and give every storyline its due. This third book, however, introduced a new problem originating from the alien ruins our group has chosen as their hideout, and that new problem proved to be just one too many things for me.
+
+
+CONCLUSION: 
+
+The Relentless Legion
+ is a fitting conclusion to a sci-fi adventure I've really enjoyed. But it isn't a complete conclusion. While one of the major storylines is wrapped up by the end of the book, the door is left wide open on another one, with plenty of runway for more adventures. No fourth book has been announced as of writing this review, but I would not be shocked (and very pleased) to hear of one eventually, especially as official marketing for&nbsp;
+The Relentless Legion
+&nbsp;refers to 
+The Divide
+ as a series, not a trilogy. With that in mind, be prepared to have some loose threads dangling when the dust settles. I, for one, will be happy to come back if another book is in our future, but if not,&nbsp;
+The Relentless Legion
+&nbsp;is a satisfying send off for a new favorite series.
+
+
+
+ | 
+book review
+J.S. Dewes
+
+
+
+
+
+
+
+
+
+
+Thursday, December 26, 2024
+Book review: Saturation Point by Adrian Tchaikovsky
+
+
+
+
+
+
+
+
+
+
+Book links:
+ 
+Amazon
+, 
+Goodreads
+
+
+
+
+ABOUT THE AUTHOR:
+&#160;Adrian Tchaikovsky was born in Woodhall Spa, Lincolnshire before heading off to Reading to study psychology and zoology. For reasons unclear even to himself he subsequently ended up in law and has worked as a legal executive in both Reading and Leeds, where he now lives. Married, he is a keen live role-player and occasional amateur actor, has trained in stage-fighting, and keeps no exotic or dangerous pets of any kind, possibly excepting his son. Catch up with Adrian at www.shadowsoftheapt.com for further information about both himself and the insect-kinden, together with bonus material including short stories and artwork. Author Website: http://shadowsoftheapt.com/
+
+
+Publisher:
+ Rebellion Publishing Ltd. (July 30, 2024) 
+Length:
+ 137 pages 
+Formats:
+ audiobook, ebook, hardback, paperback&#160;
+
+
+
+Read more &#187;
+ | 
+adrian tchaikovsky
+climate fiction
+novella
+post-apocalyptic
+
+
+
+
+
+
+
+
+
+
+Monday, December 23, 2024
+Giveaway: Three Signed Copies of Kraken Rider Z by Dyrk Ashton and David Estes (open worldwide) 
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+Dyrk Ashton&nbsp;
+
+
+is one of most beloved authors here at FBC. His Paternus trilogy is a unique epic and mythological fantasy hybrid that made us fall in love with it. His newest co-authored series Kraken Rider Z (with&nbsp;
+David Estes
+) is a fun take on nautical fantasy, military school fantasy &amp; Krakens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks to the generosity of both the authors, we at&nbsp;
+
+
+Fantasy Book Critic
+
+
+&nbsp;are ecstatic to be giving away&nbsp;
+THREE SIGNED trade paperback copies&nbsp;
+
+
+
+of&nbsp;
+KRAKEN RIDER Z
+
+
+
+!!!
+
+
+
+
+
+
+
+
+
+To enter, please send an email to "
+fbcgiveaway@gmail.com
+"&nbsp;with&nbsp;
+y
+
+our Name, Mailing Address
+, and the subject:&nbsp;
+KRAKEN
+.&nbsp;
+
+
+
+
+
+
+
+
+
+Giveaway&nbsp;
+will&nbsp;end on Friday (01/03/25) 12:01 PM
+&nbsp;and is open to participants&nbsp;WORLDWIDE! Thank you for entering and Good Luck!&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GIVEAWAY RULES
+:
+
+
+
+&nbsp;1) Open&nbsp;To&nbsp;
+Anyone WORLDWIDE
+
+
+
+&nbsp;2) Only&nbsp;One Entry Per Household&nbsp;(Multiple Entries Will Be Disqualified)
+
+
+&nbsp;3) Must Enter Valid Email Address, Mailing Address + Name
+
+
+&nbsp;4) No Purchase Necessary
+
+
+&nbsp;5) Giveaway&nbsp;
+will&nbsp;end on Friday (01/03/25) 12:01 PM
+
+
+
+&nbsp;6) Winners Will Be Randomly Selected and Notified By Email
+
+
+&nbsp;7) Personal Information Will Only Be Used In Mailing Out the Prizes To the Winners
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+Friday, December 20, 2024
+Book review: Pennyblade by J.L. Worrad (reviewed by Adam Weller)
+
+
+
+
+
+
+
+
+
+Book links: 
+
+Amazon
+, 
+Goodreads
+
+
+
+
+
+
+ABOUT THE AUTHOR:
+&#160;
+
+
+J.L Worrad lives in Leicester, England, and has for almost all his life. He has a degree in classical studies from Lampeter University, Wales. In 2011 James attended Clarion, the prestigious six-week SF workshop held at the University of California, San Diego. There, he studied under some of the genre&#8217;s leading professionals. 2018 saw the publication of his first space opera duology &#8216;Feral Space&#8217;. He&#8217;s had short stories published by Daily Science Fiction, Flurb, Newcon Press and Obverse Books. He also writes screen plays for short films, one of which- Flawless was selected for both the Cannes and NYC Independent film festivals.
+
+
+
+
+
+Publisher:
+&#160;
+
+
+Titan Books (March 29, 2022)&#160;
+
+
+
+Length:
+ 389 
+Formats:
+ Audiobook, ebook, paperback
+
+
+
+
+
+
+Read more &#187;
+ | 
+book review
+J.L. Worrad
+Older Posts
+
+Posts (Atom)
+
+
+FBC&#39;s Must Reads
+
+FBC&#39;s Critically Underrated Reads
+
+
+
+FBC Info
+
+About Us
+
+
+Contact Us
+
+
+
+NOTEWORTHY RELEASES
+
+
+
+
+Order 
+HERE
+
+
+
+NOTEWORTHY RELEASES
+
+
+
+
+Order 
+HERE
+
+
+
+NOTEWORTHY RELEASES
+
+
+
+
+Order 
+HERE
+
+
+
+NOTEWORTHY RELEASES
+
+
+
+
+Order 
+HERE
+
+
+
+NOTEWORTHY RELEASES
+
+
+
+
+Order 
+HERE
+
+
+
+NOTEWORTHY RELEASES
+
+
+
+
+Order 
+HERE
+
+
+
+
+
+
+
+Fantasy Book Critic
+
+
+
+
+Designed by 
+GameSiteTemplates.com
+.
+
+

@@ -1,0 +1,552 @@
+(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+The Psychology of Good vs Evil in Epic Fantasy - Jon Cronshaw
+img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+
+
+
+
+img#wpstats{display:none}
+
+
+Jon Cronshaw
+
+Weaving Shadows. Crafting Light. Best-Selling Fantasy &amp; Speculative Fiction.
+
+Menu
+
+
+
+Home
+
+
+Books
+
+
+Blog
+
+
+Newsletter
+
+
+Useful links
+
+
+Contact
+
+
+About
+
+
+Members&#8217; Area
+
+
+
+
+
+
+
+Home
+
+
+
+
+Books
+
+
+
+
+Blog
+
+
+
+
+Newsletter
+
+
+
+
+Useful links
+
+
+
+
+Contact
+
+
+
+
+About
+
+
+
+
+Members&#8217; Area
+
+
+
+
+
+
+
+
+The Psychology of Good vs Evil in Epic Fantasy
+
+Delve into the psychology of fantasy&#8217;s iconic characters, exploring the nuanced spectrum between good and evil. Discover how timeless tales mirror human nature&#8217;s multifaceted morality.
+
+
+
+Since the dawn of storytelling, we have been fascinated by the eternal struggle between good and evil.
+
+This plays out in epic fashion in the pages of fantasy literature, where good-hearted heroes face off against 
+dark lords
+ and sorcerers.
+But what drives the psychology behind these 
+archetypal characters
+?
+Let&#8217;s dive deeper into the minds of good and evil.
+The Staunch Hero
+Fantasy protagonists often exhibit unshakeable morals and values.
+They fight for what&#8217;s right, even against impossible odds.
+Their characterization stems from an underlying belief that good should triumph over evil.
+This gives them an admirable determination to follow their quest through to the end, no matter the cost.
+Frodo in Lord of the Rings personifies these traits. He volunteers to take the One Ring to Mordor though he knows the journey may destroy him.
+His selflessness and courage in the face of great peril makes him an inspiring hero.
+He represents the best of us—our capacity to rise up against the darkness.
+However, Tolkien imbued even the most stalwart characters with inner struggles and vulnerabilities.
+Frodo is tempted by the Ring&#8217;s power, showing how evil can corrupt the purest of hearts.
+On the flip side, Gollum retains a glimmer of goodness inside despite his monstrous acts, highlighting how rehabilitation is possible even for the most damaged souls.
+Tolkien&#8217;s nuanced approach is rooted in psychology.
+He understood evil as a corruption of free will that appeals to our base instincts, while goodness stems from exercising self-control and empathy.
+The Rogue With a Heart of Gold
+Not all fantasy heroes start out heroic. Many walk the line between good and evil before finding redemption.
+These characters often have checkered pasts but ultimately choose to use their powers for good.
+Take swordswoman Moraine from the 
+Wheel of Time
+ series.
+She begins as a mysterious magic-user with questionable motives.
+But over time, she protects the heroes, even sacrificing herself for their cause.
+Her character arc shows that even those with dark impulses can become forces of light.
+Shades of Grey
+Let&#8217;s consider George R.R. Martin&#8217;s 
+A Song of Ice and Fire
+ series.
+Martin peers behind the facades of characters to reveal the complex motives driving their actions.
+Even those expected to embody virtue are shown to have selfish impulses, like Ned Stark&#8217;s legalism blinding him to the pragmatic steps needed to survive King&#8217;s Landing.
+On the other hand, we glimpse humanity in unlikely figures such as the Hound and Jaime Lannister, showing how past traumas and difficult circumstances can turn anyone to darker paths.
+Martin understands that morality is rarely black and white, with our judgments often clouded by biased perspective.
+His messy, realistic approach exemplifies how psychology teaches us to consider multiple factors shaping human behaviour.
+Subverting the Binaries
+Authors like N.K. Jemisin, Marlon James, and Lev Grossman put diverse spins on the classic battle between good and evil.
+They deconstruct simplistic binaries to develop multidimensional characters processing trauma, grappling with leadership challenges, and navigating society&#8217;s prejudices.
+From their works, we gain psychological insight into how systemic oppression or toxic cultures can twist even compassionate individuals to act in harmful ways.
+The Nefarious Villain
+Fantasy villains exhibit lust for power, lack of empathy, and other malicious traits.
+They have no qualms destroying lives to further their agenda.
+Some may believe they are in the right—like social Darwinists who argue only the strong should survive.
+But their cruel methods make them clearly in the wrong.
+Voldemort from 
+Harry Potter
+ embodies the meglomania and ruthlessness of an epic fantasy villain.
+He murders and tortures in his quest for immortality and domination over others.
+His absence of basic human compassion makes him an effective foil to the self-sacrificing goodness of Harry and his friends.
+Readers rightly celebrate his downfall.
+The Tragic Figure
+Some villains turn evil through tragedy rather than inherent wickedness.
+&nbsp;These characters often start out with good intentions before despair twists them into darkness.
+Their downfall into evil stems from grief over losses they cannot accept.
+
+Anakin Skywalker
+ of Star Wars fame represents this archetype.
+He only turns to the dark side in an attempt to save his wife from death.
+His fear of loss leads him to evil behaviours in service of the Emperor.
+&nbsp;But the kernel of the good man he once was remains until his final redemption.
+Good and Evil Within Us All
+These epic tales of cosmic clashes reveal the complex spectrum of good and evil in human nature.
+They explore the untapped potential both for selflessness and tyranny within us all.
+We see reflections of ourselves in the characters.
+That&#8217;s what gives the age-old struggle between good and evil—and the messy space between—its timeless power to captivate our imaginations.
+
+
+
+
+
+
+Share this:
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+Email
+
+
+
+
+
+Print
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+Reddit
+
+
+
+
+
+Tumblr
+
+
+
+
+
+Pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+Like this:
+
+
+
+Like
+
+ 
+Loading...
+
+
+
+
+
+
+
+
+Related Posts:
+
+
+
+
+Moral Ambiguity in Fantasy: Why Readers Love Complex&hellip;
+
+
+
+
+
+Best Fantasy Books with Intrigue, Rebellion, and Conflict
+
+
+
+
+
+Why We Love Characters Who Walk the Line Between&hellip;
+
+
+
+
+
+Found Family in Dark Fantasy: Why We Love Brotherhood Bonds
+
+
+
+
+
+The Dark Mentor: How Tough Teachers Shape Fantasy Heroes
+
+
+
+
+
+Battle Royale in Fantasy: Why Survival Contests Grip&hellip;
+
+
+
+
+
+
+
+
+Author:
+ joncronshawauthor
+
+
+
+
+
+
+
+Author 
+ 
+joncronshawauthor
+
+
+
+
+Posted on 
+
+
+September 8, 2023
+
+August 12, 2023
+
+
+
+
+Categories 
+
+Blog
+
+
+
+Tags 
+
+A Song of Ice and Fire
+, 
+Anakin Skywalker
+, 
+archetypal characters
+, 
+character motivation
+, 
+fantasy literature
+, 
+Frodo
+, 
+George R.R. Martin
+, 
+Good vs Evil
+, 
+Harry Potter
+, 
+human nature
+, 
+Lev Grossman
+, 
+literary analysis
+, 
+Lord of the Rings
+, 
+Marlon James
+, 
+Moraine
+, 
+N.K. Jemisin
+, 
+psychology
+, 
+redemption
+, 
+selflessness
+, 
+Star Wars
+, 
+systemic oppression
+, 
+Tolkien
+, 
+tyranny
+, 
+Voldemort
+, 
+Wheel of Time
+
+
+
+Leave a Reply
+
+Cancel reply
+
+
+
+
+Post navigation
+
+
+
+Previous
+ 
+Previous post:
+ 
+The Role of Prophecy in Epic Fantasy: A Soothsayer’s Guide to Unraveling Destiny
+
+
+
+
+
+Next
+ 
+Next post:
+ 
+Jon&#8217;s author diary &#8211; September 8, 2023 #amwritingfantasy
+
+
+
+
+
+
+
+
+
+Home
+
+
+Books
+
+
+Blog
+
+
+Newsletter
+
+
+Useful links
+
+
+Contact
+
+
+About
+
+
+Members&#8217; Area
+
+
+
+
+
+
+
+Home
+
+
+
+
+Books
+
+
+
+
+Blog
+
+
+
+
+Newsletter
+
+
+
+
+Useful links
+
+
+
+
+Contact
+
+
+
+
+About
+
+
+
+
+Members&#8217; Area
+
+
+
+
+
+Jon Cronshaw
+
+
+
+
+
+
+
+Discover more from Jon Cronshaw
+Subscribe now to keep reading and get access to the full archive.
+
+
+
+Continue reading
+
+
+&nbsp;
+
+
+
+
+
+
+Loading Comments...
+
+&nbsp;
+
+Write a Comment...
+
+Email (Required)
+Name (Required)
+Website
+
+
+
+
+
+
+
+
+
+{0}
+\u00d7
+{1}
+
+
+
+
+
+
+%d
+
+
+
+

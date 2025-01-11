@@ -1,0 +1,1217 @@
+
+
+
+
+
+ 
+ document.documentElement.className = 'js'; 
+
+ 
+ let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};
+ 
+
+The Value of Fantasy - Long Island Psychology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://lipsychologist.com/the-value-of-fantasy/","url":"https://lipsychologist.com/the-value-of-fantasy/","name":"The Value of Fantasy - Long Island Psychology","isPartOf":{"@id":"https://lipsychologist.com/#website"},"datePublished":"2017-08-24T09:21:27+00:00","dateModified":"2017-08-08T09:22:10+00:00","author":{"@id":"https://lipsychologist.com/#/schema/person/8e4ce06ef5868089bf660000d0d0838d"},"breadcrumb":{"@id":"https://lipsychologist.com/the-value-of-fantasy/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://lipsychologist.com/the-value-of-fantasy/"]}]},{"@type":"BreadcrumbList","@id":"https://lipsychologist.com/the-value-of-fantasy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://lipsychologist.com/"},{"@type":"ListItem","position":2,"name":"The Value of Fantasy"}]},{"@type":"WebSite","@id":"https://lipsychologist.com/#website","url":"https://lipsychologist.com/","name":"Long Island Psychology","description":"LONG ISLAND PSYCHOLOGY ","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://lipsychologist.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://lipsychologist.com/#/schema/person/8e4ce06ef5868089bf660000d0d0838d","name":"Marc Shulman","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://lipsychologist.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/73562f50ee632855e0a82bdf3834cbb3?s=96&r=g","contentUrl":"https://secure.gravatar.com/avatar/73562f50ee632855e0a82bdf3834cbb3?s=96&r=g","caption":"Marc Shulman"},"sameAs":["http://lipsych.flywheelsites.com"],"url":"https://lipsychologist.com/author/docshulman/"}]}
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ .wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em} 
+ 
+
+
+
+ 
+h1,body #main-content .et_builder_inner_contenth2,body #main-content .et_builder_inner_contenth3,body #main-content .et_builder_inner_contenth4,body #main-content .et_builder_inner_contenth5,body #main-content .et_builder_inner_contenth6{line-height:1.4em}body #main-content .et_builder_inner_contentp{line-height:1.7em}.wp-block-pullquote{margin:20px 0 30px}.wp-block-pullquote.has-background blockquote{border-left:none}.wp-block-group.has-background{padding:1.5em 1.5em .5em}@media (min-width:981px){#left-area{width:79.125%;padding-bottom:23px}#main-content .container:before{content:"";position:absolute;top:0;height:100%;width:1px;background-color:#e2e2e2}.et_full_width_page #left-area,.et_no_sidebar #left-area{float:none;width:100%!important}.et_full_width_page #left-area{padding-bottom:0}.et_no_sidebar #main-content .container:before{display:none}}@media (max-width:980px){#page-container{padding-top:80px}.et-tb #page-container,.et-tb-has-header #page-container{padding-top:0!important}#left-area,#sidebar{width:100%!important}#main-content .container:before{display:none!important}.et_full_width_page .et_gallery_item:nth-child(4n+1){clear:none}}@media print{#page-container{padding-top:0!important}}#wp-admin-bar-et-use-visual-builder a:before{font-family:ETmodules!important;content:"\e625";font-size:30px!important;width:28px;margin-top:-3px;color:#974df3!important}#wp-admin-bar-et-use-visual-builder:hover a:before{color:#fff!important}#wp-admin-bar-et-use-visual-builder:hover a,#wp-admin-bar-et-use-visual-builder a:hover{transition:background-color .5s ease;-webkit-transition:background-color .5s ease;-moz-transition:background-color .5s ease;background-color:#7e3bd0!important;color:#fff!important}* html .clearfix,:first-child+html .clearfix{zoom:1}.iphone .et_pb_section_video_bg video::-webkit-media-controls-start-playback-button{display:none!important;-webkit-appearance:none}.et_mobile_device .et_pb_section_parallax .et_pb_parallax_css{background-attachment:scroll}.et-social-facebook a.icon:before{content:"\e093"}.et-social-twitter a.icon:before{content:"\e094"}.et-social-google-plus a.icon:before{content:"\e096"}.et-social-instagram a.icon:before{content:"\e09a"}.et-social-rss a.icon:before{content:"\e09e"}.ai1ec-single-event:after{content:" ";display:table;clear:both}.evcal_event_details .evcal_evdata_cell .eventon_details_shading_bot.eventon_details_shading_bot{z-index:3}.wp-block-divi-layout{margin-bottom:1em}*{-webkit-box-sizing:border-box;box-sizing:border-box}#et-info-email:before,#et-info-phone:before,#et_search_icon:before,.comment-reply-link:after,.et-cart-info span:before,.et-pb-arrow-next:before,.et-pb-arrow-prev:before,.et-social-icon a:before,.et_audio_container .mejs-playpause-button button:before,.et_audio_container .mejs-volume-button button:before,.et_overlay:before,.et_password_protected_form .et_submit_button:after,.et_pb_button:after,.et_pb_contact_reset:after,.et_pb_contact_submit:after,.et_pb_font_icon:before,.et_pb_newsletter_button:after,.et_pb_pricing_table_button:after,.et_pb_promo_button:after,.et_pb_testimonial:before,.et_pb_toggle_title:before,.form-submit .et_pb_button:after,.mobile_menu_bar:before,a.et_pb_more_button:after{font-family:ETmodules!important;speak:none;font-style:normal;font-weight:400;-webkit-font-feature-settings:normal;font-feature-settings:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-shadow:0 0;direction:ltr}.et-pb-icon,.et_pb_custom_button_icon.et_pb_button:after,.et_pb_login .et_pb_custom_button_icon.et_pb_button:after,.et_pb_woo_custom_button_icon .button.et_pb_custom_button_icon.et_pb_button:after,.et_pb_woo_custom_button_icon .button.et_pb_custom_button_icon.et_pb_button:hover:after{content:attr(data-icon)}.et-pb-icon{font-family:ETmodules;speak:none;font-weight:400;-webkit-font-feature-settings:normal;font-feature-settings:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;font-size:96px;font-style:normal;display:inline-block;-webkit-box-sizing:border-box;box-sizing:border-box;direction:ltr}#et-ajax-saving{display:none;-webkit-transition:background .3s,-webkit-box-shadow .3s;transition:background .3s,-webkit-box-shadow .3s;transition:background .3s,box-shadow .3s;transition:background .3s,box-shadow .3s,-webkit-box-shadow .3s;-webkit-box-shadow:rgba(0,139,219,.247059) 0 0 60px;box-shadow:0 0 60px rgba(0,139,219,.247059);position:fixed;top:50%;left:50%;width:50px;height:50px;background:#fff;border-radius:50px;margin:-25px 0 0 -25px;z-index:999999;text-align:center}#et-ajax-saving img{margin:9px}.et-safe-mode-indicator,.et-safe-mode-indicator:focus,.et-safe-mode-indicator:hover{-webkit-box-shadow:0 5px 10px rgba(41,196,169,.15);box-shadow:0 5px 10px rgba(41,196,169,.15);background:#29c4a9;color:#fff;font-size:14px;font-weight:600;padding:12px;line-height:16px;border-radius:3px;position:fixed;bottom:30px;right:30px;z-index:999999;text-decoration:none;font-family:Open Sans,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.et_pb_button{font-size:20px;font-weight:500;padding:.3em 1em;line-height:1.7em!important;background-color:transparent;background-size:cover;background-position:50%;background-repeat:no-repeat;border:2px solid;border-radius:3px;-webkit-transition-duration:.2s;transition-duration:.2s;-webkit-transition-property:all!important;transition-property:all!important}.et_pb_button,.et_pb_button_inner{position:relative}.et_pb_button:hover,.et_pb_module .et_pb_button:hover{border:2px solid transparent;padding:.3em 2em .3em .7em}.et_pb_button:hover{background-color:hsla(0,0%,100%,.2)}.et_pb_bg_layout_light.et_pb_button:hover,.et_pb_bg_layout_light .et_pb_button:hover{background-color:rgba(0,0,0,.05)}.et_pb_button:after,.et_pb_button:before{font-size:32px;line-height:1em;content:"\35";opacity:0;position:absolute;margin-left:-1em;-webkit-transition:all .2s;transition:all .2s;text-transform:none;-webkit-font-feature-settings:"kern" off;font-feature-settings:"kern" off;font-variant:none;font-style:normal;font-weight:400;text-shadow:none}.et_pb_button.et_hover_enabled:hover:after,.et_pb_button.et_pb_hovered:hover:after{-webkit-transition:none!important;transition:none!important}.et_pb_button:before{display:none}.et_pb_button:hover:after{opacity:1;margin-left:0}.et_pb_column_1_3 h1,.et_pb_column_1_4 h1,.et_pb_column_1_5 h1,.et_pb_column_1_6 h1,.et_pb_column_2_5 h1{font-size:26px}.et_pb_column_1_3 h2,.et_pb_column_1_4 h2,.et_pb_column_1_5 h2,.et_pb_column_1_6 h2,.et_pb_column_2_5 h2{font-size:23px}.et_pb_column_1_3 h3,.et_pb_column_1_4 h3,.et_pb_column_1_5 h3,.et_pb_column_1_6 h3,.et_pb_column_2_5 h3{font-size:20px}.et_pb_column_1_3 h4,.et_pb_column_1_4 h4,.et_pb_column_1_5 h4,.et_pb_column_1_6 h4,.et_pb_column_2_5 h4{font-size:18px}.et_pb_column_1_3 h5,.et_pb_column_1_4 h5,.et_pb_column_1_5 h5,.et_pb_column_1_6 h5,.et_pb_column_2_5 h5{font-size:16px}.et_pb_column_1_3 h6,.et_pb_column_1_4 h6,.et_pb_column_1_5 h6,.et_pb_column_1_6 h6,.et_pb_column_2_5 h6{font-size:15px}.et_pb_bg_layout_dark,.et_pb_bg_layout_dark h1,.et_pb_bg_layout_dark h2,.et_pb_bg_layout_dark h3,.et_pb_bg_layout_dark h4,.et_pb_bg_layout_dark h5,.et_pb_bg_layout_dark h6{color:#fff!important}.et_pb_module.et_pb_text_align_left{text-align:left}.et_pb_module.et_pb_text_align_center{text-align:center}.et_pb_module.et_pb_text_align_right{text-align:right}.et_pb_module.et_pb_text_align_justified{text-align:justify}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.et_pb_bg_layout_light .et_pb_more_button{color:#2ea3f2}.et_builder_inner_content{position:relative;z-index:1}header .et_builder_inner_content{z-index:2}.et_pb_css_mix_blend_mode_passthrough{mix-blend-mode:unset!important}.et_pb_image_container{margin:-20px -20px 29px}.et_pb_module_inner{position:relative}.et_hover_enabled_preview{z-index:2}.et_hover_enabled:hover{position:relative;z-index:2}.et_pb_all_tabs,.et_pb_module,.et_pb_posts_nav a,.et_pb_tab,.et_pb_with_background{position:relative;background-size:cover;background-position:50%;background-repeat:no-repeat}.et_pb_background_mask,.et_pb_background_pattern{bottom:0;left:0;position:absolute;right:0;top:0}.et_pb_background_mask{background-size:calc(100% + 2px) calc(100% + 2px);background-repeat:no-repeat;background-position:50%;overflow:hidden}.et_pb_background_pattern{background-position:0 0;background-repeat:repeat}.et_pb_with_border{position:relative;border:0 solid #333}.post-password-required .et_pb_row{padding:0;width:100%}.post-password-required .et_password_protected_form{min-height:0}body.et_pb_pagebuilder_layout.et_pb_show_title .post-password-required .et_password_protected_form h1,body:not(.et_pb_pagebuilder_layout) .post-password-required .et_password_protected_form h1{display:none}.et_pb_no_bg{padding:0!important}.et_overlay.et_pb_inline_icon:before,.et_pb_inline_icon:before{content:attr(data-icon)}.et_pb_more_button{color:inherit;text-shadow:none;text-decoration:none;display:inline-block;margin-top:20px}.et_parallax_bg_wrap{overflow:hidden;position:absolute;top:0;right:0;bottom:0;left:0}.et_parallax_bg{background-repeat:no-repeat;background-position:top;background-size:cover;position:absolute;bottom:0;left:0;width:100%;height:100%;display:block}.et_parallax_bg.et_parallax_bg__hover,.et_parallax_bg.et_parallax_bg_phone,.et_parallax_bg.et_parallax_bg_tablet,.et_parallax_gradient.et_parallax_gradient__hover,.et_parallax_gradient.et_parallax_gradient_phone,.et_parallax_gradient.et_parallax_gradient_tablet,.et_pb_section_parallax_hover:hover .et_parallax_bg:not(.et_parallax_bg__hover),.et_pb_section_parallax_hover:hover .et_parallax_gradient:not(.et_parallax_gradient__hover){display:none}.et_pb_section_parallax_hover:hover .et_parallax_bg.et_parallax_bg__hover,.et_pb_section_parallax_hover:hover .et_parallax_gradient.et_parallax_gradient__hover{display:block}.et_parallax_gradient{bottom:0;display:block;left:0;position:absolute;right:0;top:0}.et_pb_module.et_pb_section_parallax,.et_pb_posts_nav a.et_pb_section_parallax,.et_pb_tab.et_pb_section_parallax{position:relative}.et_pb_section_parallax .et_pb_parallax_css,.et_pb_slides .et_parallax_bg.et_pb_parallax_css{background-attachment:fixed}body.et-bfb .et_pb_section_parallax .et_pb_parallax_css,body.et-bfb .et_pb_slides .et_parallax_bg.et_pb_parallax_css{background-attachment:scroll;bottom:auto}.et_pb_section_parallax.et_pb_column .et_pb_module,.et_pb_section_parallax.et_pb_row .et_pb_column,.et_pb_section_parallax.et_pb_row .et_pb_module{z-index:9;position:relative}.et_pb_more_button:hover:after{opacity:1;margin-left:0}.et_pb_preload .et_pb_section_video_bg,.et_pb_preloaddiv{visibility:hidden}.et_pb_preload,.et_pb_section.et_pb_section_video.et_pb_preload{position:relative;background:#464646!important}.et_pb_preload:before{content:"";position:absolute;top:50%;left:50%;background:url(https://lipsychologist.com/wp-content/themes/Divi/includes/builder/styles/images/preloader.gif) no-repeat;border-radius:32px;width:32px;height:32px;margin:-16px 0 0 -16px}.box-shadow-overlay{position:absolute;top:0;left:0;width:100%;height:100%;z-index:10;pointer-events:none}.et_pb_section.box-shadow-overlay~.et_pb_row{z-index:11}body.safari .section_has_divider{will-change:transform}.et_pb_row.box-shadow-overlay{z-index:8}.has-box-shadow-overlay{position:relative}.et_clickable{cursor:pointer}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important}.et_multi_view_hidden,.et_multi_view_hidden_image{display:none!important}@keyframes multi-view-image-fade{0%{opacity:0}10%{opacity:.1}20%{opacity:.2}30%{opacity:.3}40%{opacity:.4}50%{opacity:.5}60%{opacity:.6}70%{opacity:.7}80%{opacity:.8}90%{opacity:.9}to{opacity:1}}.et_multi_view_image__loading{visibility:hidden}.et_multi_view_image__loaded{-webkit-animation:multi-view-image-fade .5s;animation:multi-view-image-fade .5s}#et-pb-motion-effects-offset-tracker{visibility:hidden!important;opacity:0;position:absolute;top:0;left:0}.et-pb-before-scroll-animation{opacity:0}header.et-l.et-l--header:after{clear:both;display:block;content:""}.et_pb_module{-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-duration:.2s;animation-duration:.2s}@-webkit-keyframes fadeBottom{0%{opacity:0;-webkit-transform:translateY(10%);transform:translateY(10%)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes fadeBottom{0%{opacity:0;-webkit-transform:translateY(10%);transform:translateY(10%)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes fadeLeft{0%{opacity:0;-webkit-transform:translateX(-10%);transform:translateX(-10%)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes fadeLeft{0%{opacity:0;-webkit-transform:translateX(-10%);transform:translateX(-10%)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes fadeRight{0%{opacity:0;-webkit-transform:translateX(10%);transform:translateX(10%)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes fadeRight{0%{opacity:0;-webkit-transform:translateX(10%);transform:translateX(10%)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes fadeTop{0%{opacity:0;-webkit-transform:translateY(-10%);transform:translateY(-10%)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes fadeTop{0%{opacity:0;-webkit-transform:translateY(-10%);transform:translateY(-10%)}to{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes fadeIn{0%{opacity:0}to{opacity:1}}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}.et-waypoint:not(.et_pb_counters){opacity:0}@media (min-width:981px){.et_pb_section.et_section_specialty div.et_pb_row .et_pb_column .et_pb_column .et_pb_module.et-last-child,.et_pb_section.et_section_specialty div.et_pb_row .et_pb_column .et_pb_column .et_pb_module:last-child,.et_pb_section.et_section_specialty div.et_pb_row .et_pb_column .et_pb_row_inner .et_pb_column .et_pb_module.et-last-child,.et_pb_section.et_section_specialty div.et_pb_row .et_pb_column .et_pb_row_inner .et_pb_column .et_pb_module:last-child,.et_pb_section div.et_pb_row .et_pb_column .et_pb_module.et-last-child,.et_pb_section div.et_pb_row .et_pb_column .et_pb_module:last-child{margin-bottom:0}}@media (max-width:980px){.et_overlay.et_pb_inline_icon_tablet:before,.et_pb_inline_icon_tablet:before{content:attr(data-icon-tablet)}.et_parallax_bg.et_parallax_bg_tablet_exist,.et_parallax_gradient.et_parallax_gradient_tablet_exist{display:none}.et_parallax_bg.et_parallax_bg_tablet,.et_parallax_gradient.et_parallax_gradient_tablet{display:block}.et_pb_column .et_pb_module{margin-bottom:30px}.et_pb_row .et_pb_column .et_pb_module.et-last-child,.et_pb_row .et_pb_column .et_pb_module:last-child,.et_section_specialty .et_pb_row .et_pb_column .et_pb_module.et-last-child,.et_section_specialty .et_pb_row .et_pb_column .et_pb_module:last-child{margin-bottom:0}.et_pb_more_button{display:inline-block!important}.et_pb_bg_layout_light_tablet.et_pb_button,.et_pb_bg_layout_light_tablet.et_pb_module.et_pb_button,.et_pb_bg_layout_light_tablet .et_pb_more_button{color:#2ea3f2}.et_pb_bg_layout_light_tablet .et_pb_forgot_password a{color:#666}.et_pb_bg_layout_light_tablet h1,.et_pb_bg_layout_light_tablet h2,.et_pb_bg_layout_light_tablet h3,.et_pb_bg_layout_light_tablet h4,.et_pb_bg_layout_light_tablet h5,.et_pb_bg_layout_light_tablet h6{color:#333!important}.et_pb_module .et_pb_bg_layout_light_tablet.et_pb_button{color:#2ea3f2!important}.et_pb_bg_layout_light_tablet{color:#666!important}.et_pb_bg_layout_dark_tablet,.et_pb_bg_layout_dark_tablet h1,.et_pb_bg_layout_dark_tablet h2,.et_pb_bg_layout_dark_tablet h3,.et_pb_bg_layout_dark_tablet h4,.et_pb_bg_layout_dark_tablet h5,.et_pb_bg_layout_dark_tablet h6{color:#fff!important}.et_pb_bg_layout_dark_tablet.et_pb_button,.et_pb_bg_layout_dark_tablet.et_pb_module.et_pb_button,.et_pb_bg_layout_dark_tablet .et_pb_more_button{color:inherit}.et_pb_bg_layout_dark_tablet .et_pb_forgot_password a{color:#fff}.et_pb_module.et_pb_text_align_left-tablet{text-align:left}.et_pb_module.et_pb_text_align_center-tablet{text-align:center}.et_pb_module.et_pb_text_align_right-tablet{text-align:right}.et_pb_module.et_pb_text_align_justified-tablet{text-align:justify}}@media (max-width:767px){.et_pb_more_button{display:inline-block!important}.et_overlay.et_pb_inline_icon_phone:before,.et_pb_inline_icon_phone:before{content:attr(data-icon-phone)}.et_parallax_bg.et_parallax_bg_phone_exist,.et_parallax_gradient.et_parallax_gradient_phone_exist{display:none}.et_parallax_bg.et_parallax_bg_phone,.et_parallax_gradient.et_parallax_gradient_phone{display:block}.et-hide-mobile{display:none!important}.et_pb_bg_layout_light_phone.et_pb_button,.et_pb_bg_layout_light_phone.et_pb_module.et_pb_button,.et_pb_bg_layout_light_phone .et_pb_more_button{color:#2ea3f2}.et_pb_bg_layout_light_phone .et_pb_forgot_password a{color:#666}.et_pb_bg_layout_light_phone h1,.et_pb_bg_layout_light_phone h2,.et_pb_bg_layout_light_phone h3,.et_pb_bg_layout_light_phone h4,.et_pb_bg_layout_light_phone h5,.et_pb_bg_layout_light_phone h6{color:#333!important}.et_pb_module .et_pb_bg_layout_light_phone.et_pb_button{color:#2ea3f2!important}.et_pb_bg_layout_light_phone{color:#666!important}.et_pb_bg_layout_dark_phone,.et_pb_bg_layout_dark_phone h1,.et_pb_bg_layout_dark_phone h2,.et_pb_bg_layout_dark_phone h3,.et_pb_bg_layout_dark_phone h4,.et_pb_bg_layout_dark_phone h5,.et_pb_bg_layout_dark_phone h6{color:#fff!important}.et_pb_bg_layout_dark_phone.et_pb_button,.et_pb_bg_layout_dark_phone.et_pb_module.et_pb_button,.et_pb_bg_layout_dark_phone .et_pb_more_button{color:inherit}.et_pb_module .et_pb_bg_layout_dark_phone.et_pb_button{color:#fff!important}.et_pb_bg_layout_dark_phone .et_pb_forgot_password a{color:#fff}.et_pb_module.et_pb_text_align_left-phone{text-align:left}.et_pb_module.et_pb_text_align_center-phone{text-align:center}.et_pb_module.et_pb_text_align_right-phone{text-align:right}.et_pb_module.et_pb_text_align_justified-phone{text-align:justify}}@media (max-width:479px){a.et_pb_more_button{display:block}}@media (min-width:768px) and (max-width:980px){[data-et-multi-view-load-tablet-hidden=true]:not(.et_multi_view_swapped){display:none!important}}@media (max-width:767px){[data-et-multi-view-load-phone-hidden=true]:not(.et_multi_view_swapped){display:none!important}}.et_pb_menu.et_pb_menu--style-inline_centered_logo .et_pb_menu__menu nav ul{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}@-webkit-keyframes multi-view-image-fade{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}50%{-webkit-transform:scale(1.01);transform:scale(1.01);opacity:1}to{-webkit-transform:scale(1);transform:scale(1);opacity:1}} 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+[{"@context":"http:\/\/schema.org\/","@type":"WPHeader","url":"https:\/\/lipsychologist.com\/the-value-of-fantasy\/","headline":"The Value of Fantasy","description":"“I want to be a billionaire, so … bad.” ~Bruno Mars Most people have fantasies. From owning a..."},{"@context":"http:\/\/schema.org\/","@type":"WPFooter","url":"https:\/\/lipsychologist.com\/the-value-of-fantasy\/","headline":"The Value of Fantasy","description":"“I want to be a billionaire, so … bad.” ~Bruno Mars Most people have fantasies. From owning a...","copyrightYear":"2017"}]
+ 
+ 
+{"@context":"https:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/lipsychologist.com\/the-value-of-fantasy\/"},"url":"https:\/\/lipsychologist.com\/the-value-of-fantasy\/","headline":"The Value of Fantasy","datePublished":"2017-08-24T05:21:27-04:00","dateModified":"2017-08-08T05:22:10-04:00","publisher":{"@type":"Organization","@id":"https:\/\/lipsychologist.com\/#organization","name":"Marc J. Shulman, PSY.D","logo":{"@type":"ImageObject","url":"https:\/\/lipsychologist.com\/wp-content\/uploads\/2020\/07\/long-island-psychology-logo-gray.png","width":600,"height":60}},"articleSection":"Coaching","description":"“I want to be a billionaire, so … bad.” ~Bruno Mars Most people have fantasies. From owning a dream car to traveling the world with nothing more than a backpack, fantasies are a muse for the imagination, giving us a picture of the life we wish we led. Some","author":{"@type":"Person","name":"Marc Shulman","url":"https:\/\/lipsychologist.com\/author\/docshulman\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/73562f50ee632855e0a82bdf3834cbb3?s=96&r=g","height":96,"width":96},"sameAs":["http:\/\/lipsych.flywheelsites.com"]}}
+ 
+ .et_bloom .et_bloom_optin_4 .et_bloom_form_content { background-color: #ededed !important; } .et_bloom .et_bloom_optin_4 .et_bloom_form_container .et_bloom_form_header { background-color: #ffffff !important; } .et_bloom .et_bloom_optin_4 .wedge_edge .triangle { fill: #ffffff} .et_bloom .et_bloom_optin_4 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_4 .et_bloom_form_content .et_bloom_fields i { color: #202a5c !important; } .et_bloom .et_bloom_optin_4 .et_bloom_form_content .et_bloom_custom_field_radio i:before { background: #202a5c !important; } .et_bloom .et_bloom_optin_4 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_4 .et_bloom_form_container h2, .et_bloom .et_bloom_optin_4 .et_bloom_form_container h2 span, .et_bloom .et_bloom_optin_4 .et_bloom_form_container h2 strong { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; }.et_bloom .et_bloom_optin_4 .et_bloom_form_container p, .et_bloom .et_bloom_optin_4 .et_bloom_form_container p span, .et_bloom .et_bloom_optin_4 .et_bloom_form_container p strong, .et_bloom .et_bloom_optin_4 .et_bloom_form_container form input, .et_bloom .et_bloom_optin_4 .et_bloom_form_container form button span { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; } div#af-form-587438177 { border-radius: 0px !important; box-shadow: none !important; width: 100%; display: inline-block; margin: 0 auto; padding: 0px !important; } .et_bloom_form_content.et_bloom_1_field.et_bloom_bottom_inline.et_bloom_custom_html_form.et_bloom_impression_recorded { padding: 15px 0px; }#af-form-587438177 .af-body .af-element:nth-child(3) { display: none; }#af-form-587438177 .af-body label.previewLabel { display: none!important; }div#af-form-587438177 { width: 100%; max-width: 100%; }#af-form-587438177 .af-body { display: flex; flex-wrap: wrap; justify-content: space-between; } #af-form-587438177 .af-body .af-element:first-child { margin-top: 0 !important; width: calc(50% - 15px); } #af-form-587438177 .af-body .af-element:nth-child(2) { margin-top: 0 !important; width: calc(50% - 15px); }.af-element.buttonContainer input.submit { width: 100%!important; } .af-element.buttonContainer { width: 100%;padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-587438177 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-587438177 .af-body { padding-top: 0; padding-bottom: 0; }#af-form-587438177 .af-body input.text { border: 1px solid #202a5c!important; color: #333333; }.af-form-wrapper { text-indent: 0; padding-left: 30px; padding-right: 30px; }#af-form-587438177 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; background-color: #202a5c !important; box-shadow: unset!important;font-family: "Montserrat",Helvetica,Arial,Lucida,sans-serif!important; font-weight: 700 !important; font-size: 16px!important;text-transform: uppercase;}.et_bloom .wedge_edge .et_bloom_form_content { padding-top: 47px; }#af-form-587438177 input.text:hover { cursor: auto!important; opacity: 1!important; }.et_bloom .et_bloom_optin_5 .et_bloom_form_content { background-color: #ededed !important; } .et_bloom .et_bloom_optin_5 .et_bloom_form_container .et_bloom_form_header { background-color: #ffffff !important; } .et_bloom .et_bloom_optin_5 .wedge_edge .triangle { fill: #ffffff} .et_bloom .et_bloom_optin_5 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_5 .et_bloom_form_content .et_bloom_fields i { color: #202a5c !important; } .et_bloom .et_bloom_optin_5 .et_bloom_form_content .et_bloom_custom_field_radio i:before { background: #202a5c !important; } .et_bloom .et_bloom_optin_5 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_5 .et_bloom_form_container h2, .et_bloom .et_bloom_optin_5 .et_bloom_form_container h2 span, .et_bloom .et_bloom_optin_5 .et_bloom_form_container h2 strong { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; }.et_bloom .et_bloom_optin_5 .et_bloom_form_container p, .et_bloom .et_bloom_optin_5 .et_bloom_form_container p span, .et_bloom .et_bloom_optin_5 .et_bloom_form_container p strong, .et_bloom .et_bloom_optin_5 .et_bloom_form_container form input, .et_bloom .et_bloom_optin_5 .et_bloom_form_container form button span { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; } div#af-form-434789985 { border-radius: 0px !important; box-shadow: none !important; width: 100%; display: inline-block; margin: 0 auto; padding: 0px !important; } .et_bloom_form_content.et_bloom_1_field.et_bloom_bottom_inline.et_bloom_custom_html_form.et_bloom_impression_recorded { padding: 15px 0px; }#af-form-434789985 .af-body label.previewLabel { display: none!important; }div#af-form-434789985 { width: 100%; max-width: 100%; }#af-form-434789985 .af-body { display: flex; flex-wrap: wrap; justify-content: space-between; } #af-form-434789985 .af-body .af-element:nth-child(2) { margin-top: 0 !important; width: calc(50% - 15px); } #af-form-434789985 .af-body .af-element:nth-child(3) { margin-top: 0 !important; width: calc(50% - 15px); }.af-element.buttonContainer input.submit { width: 100%!important; } .af-element.buttonContainer { width: 100%;padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-434789985 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-434789985 .af-body { padding-top: 0; padding-bottom: 0; }#af-form-434789985 .af-body input.text { border: 1px solid #202a5c!important; color: #333333; }.af-form-wrapper { text-indent: 0; padding-left: 30px; padding-right: 30px; }#af-form-434789985 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; background-color: #202a5c !important; box-shadow: unset!important;font-family: "Montserrat",Helvetica,Arial,Lucida,sans-serif!important; font-weight: 700 !important; font-size: 16px!important;}.et_bloom .wedge_edge .et_bloom_form_content { padding-top: 47px; } .bodyText { display: none; }#af-form-434789985 .af-body .af-element:first-child { margin-top: 0 !important; display: none; }.af-element.privacyPolicy { display: none; }.et_bloom .wedge_edge .et_bloom_form_content { padding-top: 40px; }#af-form-434789985 .buttonContainer input.submit { text-transform: uppercase!important; }#af-form-434789985 input.text:hover { cursor: auto!important; opacity: 1!important; }.et_bloom .et_bloom_optin_6 .et_bloom_form_content { background-color: #ededed !important; } .et_bloom .et_bloom_optin_6 .et_bloom_form_container .et_bloom_form_header { background-color: #ffffff !important; } .et_bloom .et_bloom_optin_6 .wedge_edge .triangle { fill: #ffffff} .et_bloom .et_bloom_optin_6 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_6 .et_bloom_form_content .et_bloom_fields i { color: #202a5c !important; } .et_bloom .et_bloom_optin_6 .et_bloom_form_content .et_bloom_custom_field_radio i:before { background: #202a5c !important; } .et_bloom .et_bloom_optin_6 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_6 .et_bloom_form_container h2, .et_bloom .et_bloom_optin_6 .et_bloom_form_container h2 span, .et_bloom .et_bloom_optin_6 .et_bloom_form_container h2 strong { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; }.et_bloom .et_bloom_optin_6 .et_bloom_form_container p, .et_bloom .et_bloom_optin_6 .et_bloom_form_container p span, .et_bloom .et_bloom_optin_6 .et_bloom_form_container p strong, .et_bloom .et_bloom_optin_6 .et_bloom_form_container form input, .et_bloom .et_bloom_optin_6 .et_bloom_form_container form button span { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; } div#af-form-516531248 { border-radius: 0px !important; box-shadow: none !important; width: 100%; display: inline-block; margin: 0 auto; padding: 0px !important; } .et_bloom_form_content.et_bloom_1_field.et_bloom_bottom_inline.et_bloom_custom_html_form.et_bloom_impression_recorded { padding: 15px 0px; }#af-form-516531248 .af-body label.previewLabel { display: none!important; }div#af-form-516531248 { width: 100%; max-width: 100%; }#af-form-516531248 .af-body { display: flex; flex-wrap: wrap; justify-content: space-between; } #af-form-516531248 .af-body .af-element:nth-child(1) { margin-top: 0 !important; width: calc(50% - 15px); } #af-form-516531248 .af-body .af-element:nth-child(2) { margin-top: 0 !important; width: calc(50% - 15px); }.af-element.buttonContainer input.submit { width: 100%!important; } .af-element.buttonContainer { width: 100%;padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-516531248 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-516531248 .af-body { padding-top: 0; padding-bottom: 0; }#af-form-516531248 .af-body input.text { border: 1px solid #202a5c!important; color: #333333; }.af-form-wrapper { text-indent: 0; padding-left: 30px; padding-right: 30px; }#af-form-516531248 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; background-color: #202a5c !important; box-shadow: unset!important;font-family: "Montserrat",Helvetica,Arial,Lucida,sans-serif!important; font-weight: 700 !important; font-size: 16px!important;}.et_bloom .wedge_edge .et_bloom_form_content { padding-top: 47px; } .bodyText { display: none; }.af-element.privacyPolicy { display: none; }.et_bloom .wedge_edge .et_bloom_form_content { padding-top: 40px; }#af-form-516531248 .buttonContainer input.submit { text-transform: uppercase!important; }#af-form-516531248 input.text:hover { cursor: auto!important; opacity: 1!important; }.et_bloom .et_bloom_optin_7 .et_bloom_form_content { background-color: #ededed !important; } .et_bloom .et_bloom_optin_7 .et_bloom_form_container .et_bloom_form_header { background-color: #ffffff !important; } .et_bloom .et_bloom_optin_7 .wedge_edge .triangle { fill: #ffffff} .et_bloom .et_bloom_optin_7 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_7 .et_bloom_form_content .et_bloom_fields i { color: #202a5c !important; } .et_bloom .et_bloom_optin_7 .et_bloom_form_content .et_bloom_custom_field_radio i:before { background: #202a5c !important; } .et_bloom .et_bloom_optin_7 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_7 .et_bloom_form_container h2, .et_bloom .et_bloom_optin_7 .et_bloom_form_container h2 span, .et_bloom .et_bloom_optin_7 .et_bloom_form_container h2 strong { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; }.et_bloom .et_bloom_optin_7 .et_bloom_form_container p, .et_bloom .et_bloom_optin_7 .et_bloom_form_container p span, .et_bloom .et_bloom_optin_7 .et_bloom_form_container p strong, .et_bloom .et_bloom_optin_7 .et_bloom_form_container form input, .et_bloom .et_bloom_optin_7 .et_bloom_form_container form button span { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; } div#af-form-434789985 { border-radius: 0px !important; box-shadow: none !important; width: 100%; display: inline-block; margin: 0 auto; padding: 0px !important; } .et_bloom_form_content.et_bloom_1_field.et_bloom_bottom_inline.et_bloom_custom_html_form.et_bloom_impression_recorded { padding: 15px 0px; }#af-form-434789985 .af-body label.previewLabel { display: none!important; }div#af-form-434789985 { width: 100%; max-width: 100%; }#af-form-434789985 .af-body { display: flex; flex-wrap: wrap; justify-content: space-between; } #af-form-434789985 .af-body .af-element:nth-child(2) { margin-top: 0 !important; width: calc(50% - 15px); } #af-form-434789985 .af-body .af-element:nth-child(3) { margin-top: 0 !important; width: calc(50% - 15px); }.af-element.buttonContainer input.submit { width: 100%!important; } .af-element.buttonContainer { width: 100%;padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-434789985 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-434789985 .af-body { padding-top: 0; padding-bottom: 0; }#af-form-434789985 .af-body input.text { border: 1px solid #202a5c!important; color: #333333; }.af-form-wrapper { text-indent: 0; padding-left: 30px; padding-right: 30px; }#af-form-434789985 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; background-color: #202a5c !important; box-shadow: unset!important;font-family: "Montserrat",Helvetica,Arial,Lucida,sans-serif!important; font-weight: 700 !important; font-size: 16px!important;}.et_bloom .wedge_edge .et_bloom_form_content { padding-top: 47px; } .bodyText { display: none; }#af-form-434789985 .af-body .af-element:first-child { margin-top: 0 !important; display: none; }.af-element.privacyPolicy { display: none; }.et_bloom .wedge_edge .et_bloom_form_content { padding-top: 40px; }#af-form-434789985 .buttonContainer input.submit { text-transform: uppercase!important; }#af-form-434789985 input.text:hover { cursor: auto!important; opacity: 1!important; }.et_bloom .et_bloom_optin_8 .et_bloom_form_content { background-color: #ededed !important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_container .et_bloom_form_header { background-color: #ffffff !important; } .et_bloom .et_bloom_optin_8 .wedge_edge .triangle { fill: #ffffff} .et_bloom .et_bloom_optin_8 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_content .et_bloom_fields i { color: #202a5c !important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_content .et_bloom_custom_field_radio i:before { background: #202a5c !important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_content button { background-color: #202a5c !important; } .et_bloom .et_bloom_optin_8 .et_bloom_form_container h2, .et_bloom .et_bloom_optin_8 .et_bloom_form_container h2 span, .et_bloom .et_bloom_optin_8 .et_bloom_form_container h2 strong { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; }.et_bloom .et_bloom_optin_8 .et_bloom_form_container p, .et_bloom .et_bloom_optin_8 .et_bloom_form_container p span, .et_bloom .et_bloom_optin_8 .et_bloom_form_container p strong, .et_bloom .et_bloom_optin_8 .et_bloom_form_container form input, .et_bloom .et_bloom_optin_8 .et_bloom_form_container form button span { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; } div#af-form-434789985 { border-radius: 0px !important; box-shadow: none !important; width: 100%; display: inline-block; margin: 0 auto; padding: 0px !important; } .et_bloom_form_content.et_bloom_1_field.et_bloom_bottom_inline.et_bloom_custom_html_form.et_bloom_impression_recorded { padding: 15px 0px; }#af-form-434789985 .af-body label.previewLabel { display: none!important; }div#af-form-434789985 { width: 100%; max-width: 100%; }#af-form-434789985 .af-body { display: flex; flex-wrap: wrap; justify-content: space-between; } #af-form-434789985 .af-body .af-element:nth-child(2) { margin-top: 0 !important; width: calc(50% - 15px); } #af-form-434789985 .af-body .af-element:nth-child(3) { margin-top: 0 !important; width: calc(50% - 15px); }.af-element.buttonContainer input.submit { width: 100%!important; } .af-element.buttonContainer { width: 100%;padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-434789985 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; }#af-form-434789985 .af-body { padding-top: 0; padding-bottom: 0; }#af-form-434789985 .af-body input.text { border: 1px solid #202a5c!important; color: #333333; }.af-form-wrapper { text-indent: 0; padding-left: 30px; padding-right: 30px; }#af-form-434789985 .buttonContainer input.submit { width: auto; padding-top: 0px!important; padding-bottom: 0px!important; background-color: #202a5c !important; box-shadow: unset!important;font-family: "Montserrat",Helvetica,Arial,Lucida,sans-serif!important; font-weight: 700 !important; font-size: 16px!important;}.et_bloom .wedge_edge .et_bloom_form_content { padding-top: 47px; } .bodyText { display: none; }#af-form-434789985 .af-body .af-element:first-child { margin-top: 0 !important; display: none; }.af-element.privacyPolicy { display: none; }.et_bloom .wedge_edge .et_bloom_form_content { padding-top: 40px; }#af-form-434789985 .buttonContainer input.submit { text-transform: uppercase!important; }#af-form-434789985 input.text:hover { cursor: auto!important; opacity: 1!important; } 
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offices in Garden City, Roslyn Heights, and Rockville Centre
+
+
+
+ 
+
+(516) 732-0273
+
+
+
+
+Offices in Garden City, Roslyn Heights, and Rockville Centre
+
+
+ 
+
+info@lipsychologist.com
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+
+Services
+
+
+
+Specialties
+
+
+
+Depression Treatment
+
+
+
+Anxiety Treatment
+
+
+
+Addictions Treatment
+
+
+
+Women’s Issues
+
+
+
+Relationships: Singles, Couples &#038; Families
+
+
+
+Trauma and Resilience Program
+
+
+
+
+
+Specific Conditions We Treat
+
+
+
+Population Specific Counseling
+
+
+
+Children
+
+
+
+Teens
+
+
+
+Emerging Adults
+
+
+
+College Students
+
+
+
+Baby Boomers / Older Adults
+
+
+
+LGBTQ
+
+
+
+
+
+Individual Therapy
+
+
+
+Couples Therapy
+
+
+
+Group Therapy
+
+
+
+Remote Therapy
+
+
+
+
+
+About
+
+
+
+About Us
+
+
+
+Why Choose Long Island Psychology?
+
+
+
+Our Unique Approach
+
+
+
+What Are Clinical Psychologists?
+
+
+
+Cognitive Behavioral Therapy
+
+
+
+FAQ
+
+
+
+
+
+Tools &#038; Resources
+
+
+
+Featured Videos
+
+
+
+Free Guides
+
+
+
+Questionnaires
+
+
+
+Exercises
+
+
+
+Useful Links
+
+
+
+Blog
+
+
+
+Article Resources
+
+
+
+
+
+Contact
+
+
+
+Contact Us
+
+
+
+Locations Serviced
+
+
+
+Garden City
+
+
+
+Rockville Centre
+
+
+
+Roslyn Heights
+
+
+
+
+
+Careers
+
+
+
+Free Guides to Wellness
+
+
+
+
+
+ 
+Select Page
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+The Value of Fantasy
+
+
+ by 
+
+Marc Shulman
+
+
+
+
+Aug 24, 2017
+
+
+
+Coaching
+
+
+
+
+
+
+
+
+
+
+
+
+
+“I want to be a billionaire, so … bad.” ~Bruno Mars
+
+
+Most people have fantasies. From owning a dream car to traveling the world with nothing more than a backpack, fantasies are a muse for the imagination, giving us a picture of the life we wish we led.
+
+Some people dismiss fantasies as silly and unrealistic thoughts. But this may not be fair. Fantasies may not always be realistically achievable, but they are not useless, and those that know how to examine their fantasies and turn them into actionable ideas often find that their life is better as a result.
+
+How Fantasies Are a Window Into You
+
+Fantasies are not just dreams. They are a chance to examine your desires. They are, in many ways, an extreme version of what you really do want out of your life.
+
+As a psychologist on Long Island, when I hear someone tell me their fantasy, what I hear is a direction for future goals. Fantasies show what someone values. :
+
+
+If a person fantasizes about being the CEO of Google, then perhaps they value professional growth.
+
+If a person fantasizes about opening up an orphanage in Haiti, then perhaps they value children, or helping those in need.
+
+If a person fantasizes about owning an expensive luxury car, then perhaps they value cars or status in some achievable way.
+
+
+Once we hear these types of fantasies, we don’t ignore them. Instead, we see what realistic and achievable goals can be established in order to fulfill some fundamental need.
+
+Even the most “childish” of needs can sometimes be satisfied – or may need to be satisfied – in a way that will improve day to day functioning and happiness, and while not every fantasy can be 100% achieved, often you’ll find that the underlying desire can be.
+
+Exploring Fantasies for Life Fulfillment
+
+From goal setting to achievement, there are many different factors that go into living a happier life. Fantasies play a role in that. While the actual fantasy is not always achievable, it is important to look within that fantasy to see what it represents, and why that desire is there.
+
+You may find there was a way to fulfill that fantasy, at least in some small part, that can ultimately help you feel happier about where you are now, and even more oriented towards what will give you a better future. If you are interested in learning more about how to explore these fantasies, please call me today at 516-732-0273.
+
+ 
+
+Related Articles:
+
+
+
+How to Adjust Your Expectations to Achieve More Happiness
+
+
+
+Where Do You See Yourself in the Future? Establish Your Goals
+
+
+
+Is There Such a Thing As a Mid-Life Crisis?
+
+
+
+Too Attached to Your Childhood? Remember the Value of Being an Adult
+
+
+
+ 
+
+
+
+
+
+ 
+ 
+ 
+&larr; 
+
+Previous Article
+ 
+ 
+ 
+ 
+ 
+Next Article
+
+ &rarr;
+ 
+ 
+
+
+
+
+
+
+Long Island Psychology
+
+
+
+ 721 Franklin Ave,
+ Garden City, NY 11530
+
+ 100 N Village Ave,
+ Rockville Centre, NY 11570
+ 70 Glen Cove Road, 
+ Suite 207
+ Roslyn Heights, NY 11577
+
+
+ 
+(516) 732-0273
+
+
+ 
+info@lipsychologist.com
+
+
+
+
+
+
+ 
+ GET STARTED 
+
+
+
+
+
+Recent Articles
+
+
+ 
+The Effects of “Minor Traumas” on Our Long Term Mental Health
+
+
+ 
+Why Do We Yell When Our Children Won’t Eat?
+
+
+ 
+Post Election Anxiety and Stress Relief
+
+
+ 
+Mental Health, Anxiety, and Staying Up Late
+
+
+ 
+How is CBT Adjusted for Children?
+
+
+
+
+
+Follow Us
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next Steps – Start Addressing Your Trauma and Move Forward, Today
+
+
+
+
+
+
+
+
+
+It’s important that we rethink what trauma really is. We often focus solely on the types of traumas most notable for experiencing trauma-related disorders, like PTSD, such as living through an assault or going to war. But most of us have experienced at least minor traumas in our life, and when we start to experience mental health disorders, it may be possible to point back to these traumas as some of the possible causes.
+
+That is why it becomes important to consider addressing these traumas as part of your mental health journey. At Long Island Psychology, we are here to help, with support specific to those that are looking to address life traumas and move forward with their psychological health and wellness. Get started today with our team here at Long Island Psychology.
+
+
+ 
+
+
+Book A Consultation Today!
+
+
+(516) 732-0273
+
+
+info@lipsychologist.com
+
+
+
+
+
+
+
+
+
+
+
+ 
+Name*
+ 
+
+
+ 
+Phone Number
+ 
+
+
+ 
+E-mail*
+ 
+
+
+ 
+Message
+
+
+
+ 
+
+ 
+Send Message
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Long Island Psychology
+
+
+721 Franklin Ave, 
+Garden City, NY 11530
+
+ 100 N Village Ave, 
+Rockville Centre, NY 11570
+ 70 Glen Cove Road 
+Suite 207
+ Roslyn Heights, NY 11577
+
+
+
+(516) 732-0273
+
+
+
+info@lipsychologist.com 
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+Counseling Services
+
+
+
+
+Individual Therapy
+
+
+
+Couples Therapy
+
+
+
+Group Therapy
+
+
+
+Remote Therapy
+
+
+
+Coaching
+
+
+
+Cognitive Behavioral Therapy
+
+
+
+
+
+
+
+
+Our Specialties
+
+
+
+
+Trauma and Resilience Program
+
+
+
+Tailored Depression Therapy
+
+
+
+Personalized Anxiety Therapy
+
+
+
+Relationship Counseling for Singles, Couples, and Individually
+
+
+
+Addictions Treatment
+
+
+
+Treatment for Life Stages
+
+
+
+
+
+
+
+
+Info
+
+
+
+
+About Us
+
+
+
+FAQ
+
+
+
+Tools &#038; Resources
+
+
+
+Blog
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+©️ Long Island Psychology | Website Support and Marketing by 
+Great Leap Studios
+ | 
+Privacy Policy 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Download All Our Free Ebooks
+
+Please complete the form below to subscribe and download all of our available ebooks.
+
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+
+Thank you! Please check your inbox to confirm.
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+Download Your Free Ebook
+
+Please complete the form below to subscribe and download your free ebook, 
+Understanding Anxiety
+.
+
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+
+Thank you! Please check your inbox to confirm.
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+Download Your Free Ebook
+
+Please complete the form below to subscribe and download your free ebook, 
+Understanding Relationships
+.
+
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+
+Thank you! Please check your inbox to confirm.
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+Download Your Free Ebook
+
+Please complete the form below to subscribe and download your free ebook, 
+Understanding Resilience
+.
+
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+
+Thank you! Please check your inbox to confirm.
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+Download Your Free Ebook
+
+Please complete the form below to subscribe and download your free ebook, 
+Understanding Depression
+.
+
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+
+Thank you! Please check your inbox to confirm.
+
+
+ 
+
+
+
+
+
+
+
+Pin It on Pinterest
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+
+
+Share This
+ 
+
+
+
+
+ 
+ 
+
+
+
+Facebook
+
+ 
+
+ 
+
+
+ 
+ 
+
+
+
+Twitter
+
+ 
+
+ 
+
+
+ 
+ 
+
+
+
+Google+
+
+ 
+
+ 
+
+
+ 
+ 
+
+
+
+Pinterest
+
+ 
+
+ 
+
+
+ 
+ 
+
+
+
+LinkedIn
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+--
+ 
+
+ 
+
+ 
+ /* 
+ */ 
+ 
+
+ 
+ /* 
+ */ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ /* 
+ */ 
+ 
+ /* 
+ */ 
+ 
+
+ 
+
+ 
+ /* 
+ */ 
+ 
+
+ 
+
+ 
+ /* 
+ */ 
+ 
+
+ 
+
+ 
+
+ 
+ /* 
+ */ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ /* 
+ */ 
+ 
+
+ 
+
+ 
+ /* 
+ */ 
+ 
+
+ 
+
+ 
+div.et_pb_section.et_pb_section_0_tb_body{background-image:linear-gradient(180deg,rgba(255,255,255,0.6) 0%,#edeef6 100%)!important}.et_pb_section_0_tb_body.et_pb_section{padding-top:1%;padding-bottom:2%}.et_pb_section_0_tb_body.section_has_divider.et_pb_bottom_divider .et_pb_bottom_inside_divider{background-image:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI4MXB4IiB2aWV3Qm94PSIwIDAgMTI4MCAxNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0iI2ZmZmYiPjxwYXRoIGQ9Ik02NDAgMTM5TDAgMHYxNDBoMTI4MFYwTDY0MCAxMzl6IiBmaWxsLW9wYWNpdHk9Ii41Ii8+PHBhdGggZD0iTTY0MCAxMzlMMCA0MnY5OGgxMjgwVjQybC02NDAgOTd6Ii8+PC9nPjwvc3ZnPg==);background-size:100% 81px;bottom:0;height:81px;z-index:10;transform:scale(-1,1)}.et_pb_fullwidth_post_title_0_tb_body .et_pb_title_container h1.entry-title,.et_pb_fullwidth_post_title_0_tb_body .et_pb_title_container h2.entry-title,.et_pb_fullwidth_post_title_0_tb_body .et_pb_title_container h3.entry-title,.et_pb_fullwidth_post_title_0_tb_body .et_pb_title_container h4.entry-title,.et_pb_fullwidth_post_title_0_tb_body .et_pb_title_container h5.entry-title,.et_pb_fullwidth_post_title_0_tb_body .et_pb_title_container h6.entry-title{text-transform:uppercase;font-size:40px;color:#202a5c!important;text-align:center}.et_pb_fullwidth_post_title_0_tb_body .et_pb_title_container .et_pb_title_meta_container,.et_pb_fullwidth_post_title_0_tb_body .et_pb_title_container .et_pb_title_meta_container a{text-transform:uppercase;color:#7a8594!important;letter-spacing:1px;text-align:center}.et_pb_fullwidth_section .et_pb_fullwidth_post_title_0_tb_body.et_pb_post_title{padding-top:4%!important;padding-bottom:4%!important}.et_pb_section_1_tb_body.et_pb_section{padding-top:0px;padding-bottom:0px}.et_pb_posts_nav.et_pb_post_nav_0_tb_body span a,.et_pb_posts_nav.et_pb_post_nav_0_tb_body span a span{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-size:15px;transition:color 300ms ease 0ms,letter-spacing 300ms ease 0ms}.et_pb_posts_nav.et_pb_post_nav_0_tb_body span a:hover,.et_pb_posts_nav.et_pb_post_nav_0_tb_body span a span:hover{color:#7a8594!important;letter-spacing:2px}.et_pb_posts_nav.et_pb_post_nav_0_tb_body a{background-color:#edeef6}.et_pb_posts_nav.et_pb_post_nav_0_tb_body span.nav-previous a,.et_pb_posts_nav.et_pb_post_nav_0_tb_body span.nav-next a{border-top-color:#a0c0dd;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px}.et_pb_posts_nav.et_pb_post_nav_0_tb_body{background:#edeef6}.et_pb_section_2_tb_body.et_pb_section{padding-bottom:8%}.et_pb_section_3_tb_body.et_pb_section{padding-bottom:8%;background-color:#edeef6!important}.et_pb_section_3_tb_body.section_has_divider.et_pb_bottom_divider .et_pb_bottom_inside_divider{background-image:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI1OHB4IiB2aWV3Qm94PSIwIDAgMTI4MCAxNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0iIzIwMmE1YyI+PHBhdGggZD0iTTY0MCAxMzlMMCAwdjE0MGgxMjgwVjBMNjQwIDEzOXoiIGZpbGwtb3BhY2l0eT0iLjUiLz48cGF0aCBkPSJNNjQwIDEzOUwwIDQydjk4aDEyODBWNDJsLTY0MCA5N3oiLz48L2c+PC9zdmc+);background-size:100% 58px;bottom:0;height:58px;z-index:1;transform:scale(1,1)}.et_pb_text_0_tb_body h2{font-size:35px;color:#202a5c!important;line-height:1.3em;text-align:center}.et_pb_text_0_tb_body{margin-bottom:10px!important}.et_pb_text_1_tb_body{line-height:28px;line-height:28px}.et_pb_text_1_tb_body h3{font-weight:700;font-size:23px;color:#202a5c!important}.et_pb_contact_form_0_tb_body.et_pb_contact_form_container .input,.et_pb_contact_form_0_tb_body.et_pb_contact_form_container .input::placeholder,.et_pb_contact_form_0_tb_body.et_pb_contact_form_container .input[type=checkbox]+label,.et_pb_contact_form_0_tb_body.et_pb_contact_form_container .input[type=radio]+label{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif}.et_pb_contact_form_0_tb_body.et_pb_contact_form_container .input::-webkit-input-placeholder{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif}.et_pb_contact_form_0_tb_body.et_pb_contact_form_container .input::-moz-placeholder{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif}.et_pb_contact_form_0_tb_body.et_pb_contact_form_container .input:-ms-input-placeholder{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif}body #page-container .et_pb_section .et_pb_contact_form_0_tb_body.et_pb_contact_form_container.et_pb_module .et_pb_button:hover{border-color:#202a5c!important;border-width:3px!important;background-image:initial!important;background-color:#a0c0dd!important}body #page-container .et_pb_section .et_pb_contact_form_0_tb_body.et_pb_contact_form_container.et_pb_module .et_pb_button,body #page-container .et_pb_section .et_pb_contact_form_0_tb_body.et_pb_contact_form_container.et_pb_module .et_pb_button:hover{padding:0.3em 1em!important}body #page-container .et_pb_section .et_pb_contact_form_0_tb_body.et_pb_contact_form_container.et_pb_module .et_pb_button:before,body #page-container .et_pb_section .et_pb_contact_form_0_tb_body.et_pb_contact_form_container.et_pb_module .et_pb_button:after{display:none!important}.et_pb_contact_form_0_tb_body .input,.et_pb_contact_form_0_tb_body .input[type="checkbox"]+label i,.et_pb_contact_form_0_tb_body .input[type="radio"]+label i,.et_pb_contact_form_0_tb_body .input:focus,.et_pb_contact_form_0_tb_body .input[type="checkbox"]:active+label i,.et_pb_contact_form_0_tb_body .input[type="radio"]:active+label i{background-color:#ffffff}.et_pb_contact_form_0_tb_body .input,.et_pb_contact_form_0_tb_body .input[type="checkbox"]+label,.et_pb_contact_form_0_tb_body .input[type="radio"]+label,.et_pb_contact_form_0_tb_body .input[type="checkbox"]:checked+label i:before,.et_pb_contact_form_0_tb_body .input::placeholder{color:#202a5c}.et_pb_contact_form_0_tb_body .input::-webkit-input-placeholder{color:#202a5c}.et_pb_contact_form_0_tb_body .input::-moz-placeholder{color:#202a5c}.et_pb_contact_form_0_tb_body .input::-ms-input-placeholder{color:#202a5c}.et_pb_contact_form_0_tb_body .input:focus,.et_pb_contact_form_0_tb_body .input[type="checkbox"]:active+label,.et_pb_contact_form_0_tb_body .input[type="radio"]:active+label,.et_pb_contact_form_0_tb_body .input[type="checkbox"]:checked:active+label i:before{color:#000000}.et_pb_contact_form_0_tb_body p .input:focus::-webkit-input-placeholder{color:#000000}.et_pb_contact_form_0_tb_body p .input:focus::-moz-placeholder{color:#000000}.et_pb_contact_form_0_tb_body p .input:focus:-ms-input-placeholder{color:#000000}.et_pb_contact_form_0_tb_body p textarea:focus::-webkit-input-placeholder{color:#000000}.et_pb_contact_form_0_tb_body p textarea:focus::-moz-placeholder{color:#000000}.et_pb_contact_form_0_tb_body p textarea:focus:-ms-input-placeholder{color:#000000}.et_pb_contact_form_0_tb_body.et_pb_contact_form_container.et_pb_module .et_pb_button{transition:background-color 300ms ease 0ms,border 300ms ease 0ms}.et_pb_contact_form_0_tb_body.et_pb_contact_form_container input,.et_pb_contact_form_0_tb_body.et_pb_contact_form_container textarea.et_pb_contact_message{border:1px solid #202a5c}.et_pb_contact_form_0_tb_body .input[type="radio"]:checked+label i:before{background-color:#202a5c}.et_pb_contact_form_0_tb_body .input[type="radio"]:checked:active+label i:before{background-color:#000000}.et_pb_column_2_tb_body{padding-right:35px}@media only screen and (max-width:980px){.et_pb_section_0_tb_body.et_pb_section{padding-bottom:4%}.et_pb_posts_nav.et_pb_post_nav_0_tb_body span.nav-previous a,.et_pb_posts_nav.et_pb_post_nav_0_tb_body span.nav-next a{border-top-color:#a0c0dd}.et_pb_section_2_tb_body.et_pb_section,.et_pb_section_3_tb_body.et_pb_section{padding-bottom:10%}.et_pb_column_2_tb_body{padding-right:0px}}@media only screen and (min-width:768px) and (max-width:980px){.et_pb_column_1_tb_body{display:none!important}}@media only screen and (max-width:767px){.et_pb_section_0_tb_body.et_pb_section{padding-bottom:13%}.et_pb_row_0_tb_body,body #page-container .et-db #et-boc .et-l .et_pb_row_0_tb_body.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0_tb_body.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0_tb_body.et_pb_row{width:95%}.et_pb_posts_nav.et_pb_post_nav_0_tb_body span a,.et_pb_posts_nav.et_pb_post_nav_0_tb_body span a span{font-size:13px}.et_pb_posts_nav.et_pb_post_nav_0_tb_body span.nav-previous a,.et_pb_posts_nav.et_pb_post_nav_0_tb_body span.nav-next a{border-top-color:#a0c0dd}.et_pb_column_1_tb_body{display:none!important}.et_pb_section_2_tb_body.et_pb_section,.et_pb_section_3_tb_body.et_pb_section{padding-bottom:15%;margin-bottom:0px}.et_pb_text_0_tb_body h2{font-size:30px}.et_pb_column_0_tb_body{padding-right:0px;padding-left:0px}}
+
+

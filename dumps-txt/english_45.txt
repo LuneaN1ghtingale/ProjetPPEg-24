@@ -1,0 +1,495 @@
+.nav-breadcrumbs::after{color:#c2c8cc;content:'';font-size:1.1em;margin:0 .4em;position:relative}.white-space--pre-wrap{white-space:pre-wrap}*,.button,button{box-sizing:border-box}.card--sidebar-nav__list,.tag-block__li--link{list-style-type:none}.columns-large-2 ul,.unstyled{list-style:none}.button,.cursor-pointer,button{cursor:pointer}.search-box__icon [class*=' icon-']::before,.vert-align-middle{vertical-align:middle}html{-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;text-size-adjust:none}body,div,form,h1,h3,header,html,iframe,li,nav,section,ul{margin:0;padding:0}header,nav,section{display:block}img{border:0}.row{max-width:75rem;margin-right:auto;margin-left:auto}.row::after,.row::before{display:table;content:' ';flex-basis:0;order:1}.row::after{clear:both}.columns{width:100%;float:left;padding-right:.625rem;padding-left:.625rem}.columns:last-child:not(:first-child){float:right}.row.row.columns{float:none}.small-2{width:16.6666666667%}.small-8{width:66.6666666667%}.small-12{width:100%}@media print,screen and (min-width:40em){.columns{padding-right:.9375rem;padding-left:.9375rem}.medium-4{width:33.3333333333%}}@media screen and (max-width:39.9375em){footer.section--footer{padding-bottom:80px;}.hide-for-small-only{display:none!important}}@media screen and (max-width:0em),screen and (min-width:40em){.show-for-small-only{display:none!important}}@media screen and (max-width:63.9375em) and (min-width:40em){.hide-for-medium-only{display:none!important}}a{text-decoration:none;color:#036}button{font-size:16px}.burger{margin-right:1rem;position:relative}@media print,screen and (min-width:64em){.large-4{width:33.3333333333%}.large-8{width:66.6666666667%}.large-10{width:83.3333333333%}.columns-large-2{-webkit-column-count:2;-webkit-column-gap:1em;-moz-column-count:2;column-count:2;-moz-column-gap:1em;column-gap:1em}}.columns-large-2 ul li{padding:0}input{border:1px solid #e1e4e5;color:#435059;font-size:1rem;padding:.8rem 1rem;transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;border-radius:.3em}input[type=text]{display:block;width:100%}.button,.button--extra,button{color:#fff;display:inline-block;text-decoration:none;text-align:center}.heading-m,.heading-xs{line-height:1.35em;margin-bottom:.3125em}.heading-m{font-size:1.5rem;font-weight:400}.heading-xs,.weight-500{font-weight:500}.heading-xs{font-size:1rem;line-height:1.6em}@media screen and (max-width:480px){.heading-xs{font-size:.875rem}}.text-m,.text-s,.text-xl{line-height:1.6em;margin-bottom:.9375em}.text-xl{font-size:1.5rem}.text-m{font-size:1rem}.text-s{font-size:.875rem;margin-bottom:.625em}.weight-700{font-weight:700}.button,button{line-height:2.2rem;white-space:nowrap;-webkit-border-radius:0;-moz-border-radius:0;-ms-border-radius:0;border-radius:0;background-color:#036;border:1px solid #036;margin:0 0 .9375rem;padding:0 1.125rem}.button--extra{border:2px solid #fff;padding:14px 25px;width:100%;border-radius:100px}.button--extra_container{background-color:#036;bottom:0;font-size:20px;min-height:80px;padding:15px 45px;position:fixed;width:100%;z-index:10000000000000000}.icon--account{height:30px;width:30px;background-image:url(//assets.bartleby.com/1.17/images/icons/user-icon-navy-circle.png);background-position:center;background-repeat:no-repeat}.card{line-height:1.5rem;margin-bottom:1.5rem;padding:1.25rem 1.5rem;position:relative;-webkit-border-radius:0.25rem;-moz-border-radius:.25rem;-ms-border-radius:0.25rem;border-radius:.25rem;background-color:#fff;border:1px solid #e1e4e5}.card--sidebar-nav{border-top:2px solid #036}@media screen and (max-width:63.9375em){.card--sidebar-nav{margin-left:auto;margin-right:auto;width:50%}}@media screen and (max-width:39.9375em){.card--sidebar-nav{margin-left:auto;margin-right:auto;width:100%}}.card--sidebar-nav__list-item{margin-bottom:.8rem}.card--sidebar-nav__section,.essay-details{margin-bottom:1rem}.card--sidebar-nav__list-item--separators{border-bottom:1px solid #e1e4e5;padding:.25rem 0}.essay-details{display:block}.essay-details:last-child::after{content:' ';margin:0}.nav-breadcrumbs{display:block;margin-bottom:1.3em}.nav-breadcrumbs:last-child::after{content:' ';margin:0}.paper__title{font-size:2.25rem;font-weight:400;margin-bottom:.5em}@media screen and (max-width:63.9375em){.paper__title{font-size:2rem}}@media screen and (max-width:39.9375em){.paper__title{font-size:1.75rem}}.paper-product-header{min-height:16rem;padding:1rem;position:relative;background:#fff;margin:0 0 1rem}@media print,screen and (min-width:40em){.paper-product-header{padding:1.7rem}}.paper-product-header__heading{font-weight:300;min-height:9rem;font-size:.9rem;padding:0 0 0 130px}@media print,screen and (min-width:40em){.paper-product-header__heading{font-size:1.25rem;font-weight:400;min-height:unset;padding:0 0 0 195px}}.paper-product-header__details{padding:1rem}.paper-product-header__paper-icon{height:auto;left:1rem;max-width:273px;position:absolute;top:1rem;width:110px}@media print,screen and (min-width:40em){.paper-product-header__details{padding:0 0 0 195px}.paper-product-header__paper-icon{left:2rem;top:2rem;width:150px}}.search-box,.search-box__input{display:inline-block;position:relative;width:100%}.paper-product-header__button{margin-top:1rem}.paper-product-header__sign-up-msg{color:#737a80}.paper-container{padding:8rem;background:#fff}@media screen and (max-width:63.9375em){.paper-container{padding:5rem}}@media screen and (max-width:39.9375em){.paper-container{padding:2rem 1rem 1rem}}@media print,screen and (min-width:64em){.paper-product-header__heading{font-size:1.5rem}.paper-product-header__button{margin-top:2rem}.paper-container--with-sidebar{padding:5rem}}.search-box__input{border:1px solid #e1e4e5;border-radius:4px;display:inline-block;font-size:1rem;height:3.75rem;margin:0;padding:1.25rem;padding-left:1.875rem;padding-right:3.75rem;position:relative;width:100%;z-index:1}.search-box__input--gray-bg{box-shadow:none;background-color:#fafafa;border:1px solid #e1e4e5}.search-box__input--splat-header{height:2.5rem;margin:0;padding:.25rem;padding-left:1rem;padding-right:2.5rem}@media screen and (max-width:39.9375em){.search-box__input--splat-header{border-radius:0;padding-right:.5rem}}.search-box__button{display:block;height:60px;position:absolute;width:60px;z-index:2;-webkit-border-radius:0 4px 4px 0;-moz-border-radius:0 4px 4px 0;-ms-border-radius:0 4px 4px 0;border-radius:0 4px 4px 0;margin:0;outline:0;padding:0;right:0;top:0}.search-box__button--splat-header{background-color:#fafafa;border-bottom:1px solid #e1e4e5;border-left:0;border-right:1px solid #e1e4e5;border-top:1px solid #e1e4e5;height:2.5rem;width:2.5rem}@media screen and (max-width:39.9375em){.search-box__button--splat-header{display:none}.header-splat__logo-container{background-size:contain}}.search-box__icon{line-height:3.75rem;text-align:center;color:#fff}.search-box__icon--splat-header{line-height:2.35rem}.tag-block__li--link{display:block;font-size:.875rem;margin:0 0 .4rem}.no-margin--bottom,.vert-center{margin-bottom:0}.header-splat{background-color:#f2f1ed;border-bottom:1px solid #b4b4b4;min-width:20rem;padding:.8125rem 0}.header-splat__logo-container{display:block;height:100%;background-image:url(//assets.bartleby.com/1.17/images/logos/bartleby-research/logo-bartleby.png);background-position:left center;background-repeat:no-repeat}.header-splat__search-box--btn-icon-mobile{background:url(//assets.bartleby.com/1.17/images/icons/magnifying-glass-navy-blue.svg) center no-repeat !important;height:30px;padding:.75rem;width:30px}.header-splat__search-box{box-shadow:none}@media screen and (max-width:39.9375em){.header-splat__search-box{position:absolute;top:4.1rem;visibility:hidden;left:0}.header-splat__search-box--custom-nav{left:-66vw;position:absolute;top:5.5rem;width:100vw}}.header-splat__search-toggle-container{cursor:pointer;display:block;font-size:1.5rem;height:2.3rem;position:absolute;right:10.5rem;top:1.05rem;visibility:visible;width:2.3rem}.position-relative,.vert-center{position:relative}@media print,screen and (min-width:40em){.header-splat__logo-container{background-image:url(//assets.bartleby.com/1.17/images/logos/bartleby-research/logo-bartleby.png);background-size:auto;min-width:140px}.header-splat__search-toggle-container{visibility:hidden}}.header-splat__search-toggle-container--custom-nav{right:0;top:.8rem}.header-splat__search-toggle-container--custom-nav-ng1{top:1.2rem}.header-splat__icon-ui-24-search-toggle{font-size:1.75rem;color:#414169;line-height:.5}.header-splat__columns{height:2.5rem;position:relative}.full-height{height:100%}.vert-center{top:50%;margin-top:0;transform:translateY(-50%)}.center{text-align:center}.align-right{text-align:right}.no-border{border:0}.margin-1{margin-bottom:1rem}.margin-2{margin-bottom:2rem}.margin-4{margin-bottom:4rem}.padding-top-1{padding-top:1rem}.padding-top-2{padding-top:2rem}.brand-primary{color:#036}.brand-secondary{color:#036}.mid-gray{color:#737a80}.ash-gray{color:#959fa6}.display-block{display:block}.display-none{display:none}.display-inline-block{display:inline-block}.border-box-shadow{-webkit-box-shadow:0 3px 13px -5px rgba(0,0,0,.3);-moz-box-shadow:0 3px 13px -5px rgba(0,0,0,.3);box-shadow:0 3px 13px -5px rgba(0,0,0,.3);border:1px solid #e1e4e5}.capitalize{text-transform:capitalize}body{line-height:normal;color:#435059;font:16px Helvetica,Arial,sans-serif;letter-spacing:-.1px}
+loadCSS('//assets.bartleby.com/1.17/css/bartleby-research.1.17.119.min.css');
+Fantasy Literature Essay - 999 Words | www2.bartleby.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home Page
+
+
+
+Fantasy Literature Essay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fantasy Literature Essay
+
+
+999 Words
+
+4 Pages
+
+
+
+
+
+
+
+…show more content…
+
+
+
+Children learn when they are interested in something, for learners to learn teachers need to find and search what children are interested in. Imagination and make-believe are what children love. They cannot wait for story time. According to Willenberg (2005:163) “in the light of historical poor quality of instruction offered in many schools serving non-white learners it is possible that many adults who have completed six or seven years of schooling are nevertheless functionally illiterate” .Fantasy literature helps in promoting the love of reading and storytelling, that love for books and good quality reading instruction reduce illiterate individuals. In charlotte’s web the animals are unfamiliar with some of the words and the words are explained by one of the characters Charlotte. This can motivate children to read and be smart like the animals in the book, in other words the animals serve as role models to children. Figurative language is popular in fantasy literature such as comics where by the writer creates a language that could be similar to other languages, for example Greek and so on. These figurative language have names to name a few Klington and Quenya, these languages also follow a set of rules and structures namely vowels, consonants, nouns, verbs, possessions and syntactical functions. Learners get a chance to learn important language rules, functions and structures. The cycle of illiterate individuals can be broken if all genres of literature can be
+
+
+
+
+
+Show More
+
+
+
+
+
+
+
+Related
+
+
+
+
+
+
+
+The Importance Of Fantasy
+
+
+2464 Words  | 10 Pages
+
+Fantasy fiction also has the freedom to travel from one place to another, from one world to another in fraction of time. The mind and imaginations are pushed in such a direction to come up with one connecting thread to another. It is possible for the protagonists to change forms and find new way of fighting and taking revenge. Ged for example, from Ursila Le.Guin&#x27;s A Wizard of Earthsea, takes the form of dragon to fight the dragon at Pendor island. He used the spell of change to change himself into
+
+
+
+
+Read More
+
+
+
+
+
+
+
+Wolf Brother Book Analysis
+
+
+1110 Words  | 5 Pages
+
+bestseller in the United States was written by Michelle Paver. She was born to a South African Father and a Belgian mother in 1960 in Malawi. Although she worked as a legal practice in London, she abandoned her job and started writing children&#x27;s fantasy books, and Wolf Brother, was the book she published in 2004. This book is focused on the main character, Torak, whose father was killed by a bear that was possessed by a demon. This book writes the journey of Torak to kill the bear and achieve saving
+
+
+
+
+Read More
+
+
+
+
+
+
+
+Lev Grossman Feeding On Fantasy Summary
+
+
+892 Words  | 4 Pages
+
+
+
+
+
+Read More
+
+
+
+
+
+
+
+The Role Of Fantasy In Harry Potter And The Philosopher&#x27;s Stone
+
+
+1103 Words  | 5 Pages
+
+
+
+
+
+Read More
+
+
+
+
+
+
+
+My Creature From The Black Lagoon Stephen King
+
+
+564 Words  | 3 Pages
+
+
+
+
+
+Read More
+
+
+
+
+
+
+
+Literature Definition Essay
+
+
+2365 Words  | 10 Pages
+
+Literature is the mirror of world that has no end, but it is the reflection of human life.  Literature is the broadest sense of writing.  It is the writing of art form with intellectual value.  Literature represents a language of a people, culture and tradition.  Literature is more important than a historical or a cultural artifact.  Literature introduces people to new worlds of experience.  Literature is the term derived from Latin word, “literature/litterautra”, which means ‘writing formed with
+
+
+
+
+Read More
+
+
+
+
+
+
+
+Barthes From Work To Text
+
+
+731 Words  | 3 Pages
+
+
+
+
+
+Read More
+
+
+
+
+
+
+
+Roll Of Thunder, Hear My Cry, Harry Potter And The Philosopher&#x27;s Stone
+
+
+752 Words  | 4 Pages
+
+oppress them. This essay examines some fluctuating systems of didacticism in relation to children’s literature; namely within Roll of Thunder, Hear My Cry (Taylor, 1976), Tom’s Midnight Garden (Pearce, 1958) and Harry Potter and the Philosopher’s Stone, (Rowling, 1997). The choice of these novels is to establish a broad and diverse selection from children’s literature in realistic autobiographical context, supernatural fantasy and fiction that incorporates both realistic and fantasy elements. It will
+
+
+
+
+Read More
+
+
+
+
+
+
+
+Second Life In Postmodernism
+
+
+1833 Words  | 8 Pages
+
+
+
+
+
+Read More
+
+
+
+
+
+
+
+Why Is Catcher In The Rye Banned
+
+
+1511 Words  | 7 Pages
+
+
+
+
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More about Fantasy Literature Essay
+
+
+
+
+The Importance Of Fantasy
+
+
+2464 Words | 10 Pages
+
+
+
+
+Wolf Brother Book Analysis
+
+
+1110 Words | 5 Pages
+
+
+
+
+Lev Grossman Feeding On Fantasy Summary
+
+
+892 Words | 4 Pages
+
+
+
+
+The Role Of Fantasy In Harry Potter And The Philosopher&#x27;s Stone
+
+
+1103 Words | 5 Pages
+
+
+
+
+My Creature From The Black Lagoon Stephen King
+
+
+564 Words | 3 Pages
+
+
+
+
+Literature Definition Essay
+
+
+2365 Words | 10 Pages
+
+
+
+
+Barthes From Work To Text
+
+
+731 Words | 3 Pages
+
+
+
+
+Roll Of Thunder, Hear My Cry, Harry Potter And The Philosopher&#x27;s Stone
+
+
+752 Words | 4 Pages
+
+
+
+
+Second Life In Postmodernism
+
+
+1833 Words | 8 Pages
+
+
+
+
+Why Is Catcher In The Rye Banned
+
+
+1511 Words | 7 Pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Essays
+
+
+
+
+
+
+
+Rabindranath Tagore Literature Summary
+
+
+
+Maus Essay: Identity As Presented In Maus
+
+
+
+Importance Of Empathy In The Workplace
+
+
+
+Informative Speech For Women
+
+
+
+Disadvantages Of Vikings
+
+
+
+Ethical Arguments Against Euthanasia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Document
+
+
+
+
+
+
+
+
+
+www2.Bartleby.com
+
+
+Great Books Online
+
+©2025 www2.Bartleby.com
+
+
+
+
+
+
+
+
+www2.Bartleby.com
+
+
+Great Books Online
+
+©2025 www2.Bartleby.com
+
+
+
+
+
+About Us
+
+
+
+Terms
+
+
+
+Privacy
+
+
+
+Copyright
+
+
+
+Cookie Policy
+
+
+
+Contact
+
+
+
+Cookie Settings
+
+
+
+
+
+
+
+
+
