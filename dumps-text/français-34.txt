@@ -1,0 +1,639 @@
+   #JSON
+
+     * La galaxie des Clionautes
+          + Les Clionautes
+          + Clio Prépas
+          + Clio Lycee
+          + Clio Collège
+          + Clio Texte
+          + Clio Ciné
+          + Clio Carto
+          + Clio Photo
+     * Accès Adhérent
+     * Adhérer
+
+     *
+     *
+     *
+     *
+
+   ____________________ (BUTTON)
+   La Cliothèque La Cliothèque
+     * Arborescence Cliothèque
+     * Histoire
+          + Préhistoire
+          + Antiquité
+               o Généralités Antiquité
+               o Proche Orient et Afrique antiques
+                    # Proche-Orient antique
+                    # Égypte ancienne
+                    # Afrique antique
+               o Mondes celtiques
+               o Mondes grecs antiques
+                    # Généralités Grèce antique
+                    # Grèce minoenne à archaïque
+                    # Grèce classique
+                    # Grèce macédonienne et hellénistique
+               o Mondes romains antiques
+                    # Généralités Rome
+                    # Des Étrusques à la République
+                    # Le Haut-Empire
+                    # Antiquité tardive
+                    # Empire romain
+          + Histoire médiévale
+               o Généralités
+               o France médiévale
+                    # Généralités France
+                    # Époque mérovingienne
+                    # Époque carolingienne
+                    # Époque capétienne
+               o Europe médiévale
+                    # Généralités
+                    # Europe de l’Est et Russie
+                    # Espace germanique
+                    # Iles britanniques
+                    # Péninsule ibérique
+                    # Empire byzantin
+               o Reste du monde médiéval
+                    # Monde musulman
+                    # Afrique médiévale
+                    # Asie médiévale
+          + Histoire moderne
+               o Généralités
+               o France moderne
+                    # Généralités
+                    # Époque des Valois
+                    # Règnes de Henri IV et de Louis XIII
+                    # Règne de Louis XIV
+                    # Règne de Louis XV
+                    # Règne de Louis XVI
+                    # Histoire régionale et locale
+               o Europe moderne
+                    # Généralités
+                    # Europe de l’Est et Russie
+                    # Péninsule ibérique
+                    # Italie
+                    # Iles britanniques et Europe du Nord
+                    # Saint-Empire
+               o Mondes coloniaux
+                    # Généralités
+                    # Commerce, traite, esclavage
+                    # Antilles
+                    # Amérique latine
+                    # Autour de la Nouvelle-France
+                    # Autour de la Nouvelle-Angleterre
+                    # Autour de l’océan Indien
+               o Mondes extra-européens
+                    # Monde musulman
+                    # Afrique
+                    # Asie
+          + Histoire contemporaine
+               o Généralités
+               o Relations internationales
+                    # Généralités
+                    # Colonisation et décolonisation
+                    # Première Guerre mondiale
+                    # Entre-deux-guerres et totalitarismes
+                    # Seconde Guerre mondiale
+                    # Construction européenne
+                    # Guerre froide
+                    # Proche et Moyen Orient
+               o France
+                    # Histoire politique
+                    # Seconde Guerre mondiale
+                    # Histoire économique et sociale
+                    # Histoire culturelle
+                    # Histoire coloniale
+               o Europe
+                    # Généralités
+                    # Allemagne
+                    # Italie
+                    # Royaume-Uni
+                    # Russie
+                    # Autres pays européens
+               o Afrique
+                    # Généralités
+                    # Sénégal
+                    # Afrique du Nord
+                    # Afrique subsaharienne
+                    # Rwanda
+               o Amérique
+                    # Généralités
+                    # États-Unis
+                    # Canada
+                    # Amérique latine
+               o Asie
+                    # Généralités
+                    # Chine
+                    # Corée
+                    # Japon
+                    # Autres pays asiatiques
+     * Géographie
+          + Géographie régionale
+               o France
+                    # Généralités- France
+                    # Géographie des régions françaises
+                    # Population française
+                    # Aménagement du territoire
+                    # Espaces urbains français
+                    # Espaces ruraux français
+               o Asie
+                    # Généralités Asie
+                    # Japon
+                    # Inde
+                    # Corée
+                    # Chine
+               o Europe
+                    # Généralités- Europe
+                    # Union européenne
+                    # Europe méditerranéenne
+                    # Europe du Nord
+                    # Europe centrale et orientale
+               o Amérique
+                    # Généralités Amérique
+                    # États-Unis
+                    # Brésil
+                    # Haïti
+                    # Autres pays d’Amérique
+               o Océanie
+          + Géographie thématique
+               o Population, société, culture
+               o Ville et campagne
+               o Environnement et développement durable
+               o Espaces productifs
+          + Géopolitique
+     * Littérature
+          + Bandes dessinées et mangas
+          + Littérature jeunesse
+          + Fiction historique
+     * Clio-pratique
+          + Clio-Veille
+               o Veille Histoire
+               o Veille Géographie
+               o Veille Bandes dessinées -Mangas – Romans graphiques
+               o Veille Littérature jeunesse
+          + Cafés virtuels
+          + Épistémologie
+               o Épistémologie Histoire
+               o Épistémologie Géographie
+          + Pédagogie
+               o Généralités pédagogie
+               o Didactique Histoire
+               o Didactique Géographie
+               o Manuels et parascolaires
+               o Histoire des arts
+               o EMC
+          + Revues
+               o Le mouvement social
+               o Parlement [s]
+               o Chroniques d’histoire maçonnique
+               o Revue Urbanisme
+               o GéoAdo
+
+   Sélectionner une page
+
+   La Cliothèque > Histoire > Histoire médiévale > Europe médiévale >
+   Généralités Europe médiévale > Le fantastique au Moyen Âge
+
+Le fantastique au Moyen Âge
+
+Samuel SADAUNE
+
+Éditions Ouest-France, 2009, 141 pages.
+
+   La Cliothèque |  3 Jan 2010 | Généralités Europe médiévale | 0 |
+   CR par Fabien Vergez, professeur au collège Desaix à Tarbes, a
+   travaillé sur le diable dans les traditions populaires pyrénéennes à
+   l’époque moderne.
+   SADAUNE, Samuel, Le fantastique au Moyen Âge, Éditions Ouest-France,
+   2009, 141 pages.
+
+   Alors que le fantastique est une source inépuisable d’inspiration pour
+   le cinéma ou les jeux vidéos, les éditions Ouest France nous proposent
+   de revenir sur les racines de nombre de ces mythes dans un très bel
+   ouvrage intitulé Le Fantastique au Moyen Âge.
+   L’auteur, Samuel Sadaune, docteur ès lettres, a travaillé sur le
+   fantastique au XIXème siècle mais également sur l’époque médiévale,
+   dans le cadre d’un ouvrage consacré aux inventions et découvertes dans
+   le monde.
+
+DU MERVEILLEUX AU FANTASTIQUE: SOURCE ET DÉFINITIONS
+
+   Dans son introduction à la littérature fantastique, l’intellectuel
+   d’origine bulgare Tzvetan Todorov définit le fantastique comme une
+   incertitude entre la réalité et le merveilleux face à un événement qui
+   échappe aux lois de la réalité. Dès que l’on choisit entre les deux, on
+   quitte le fantastique.
+   Le Moyen Âge ne connaît pas la notion de fantastique et parle de «
+   merveilles ». Pour l’homme médiéval l’hésitation précédente est
+   remplacée par la question de savoir ce qui relève de Dieu et du diable.
+
+   Il est difficile de saisir jusqu’à quel point les hommes de cette
+   époque croyaient au diable ou encore aux sorcières. Pour tenter de
+   saisir cette pensée, il est possible de s’appuyer sur l’art et la
+   littérature. Alors qu’à l’origine les merveilles relèvent des textes
+   bibliques, à partir du XIIème siècle, grâce aux romans, le merveilleux
+   évolue vers le « féerique ».
+   Les grands mythes grecs ont inspiré les hommes du Moyen Âge comme
+   l’épopée de Jason ou l’histoire d’Alexandre le Grand, dans sa rencontre
+   avec les Amazones par exemple. Les textes latins comme les
+   Métamorphoses d’Ovide alimentent à leur tour l’imaginaire médiéval.
+   Les textes bibliques constituent l’autre grande source, en particulier
+   le livre de Job ou l’Apocalypse. L’auteur insiste bien, à la suite de
+   Michel Onfray, sur la continuité entre culture antique et textes
+   bibliques.
+   La mythologie nordique est une source d’inspiration à travers la figure
+   du serpent par exemple ou des Nornes, trois sorcières qui représentent
+   passé, présent et futur.
+
+   Dans les grands textes merveilleux, il faut inclure les compilations de
+   savoir. Ainsi le Bestiaire de Gervais de Tilbury au XIIème siècle place
+   au même plan l’hydre et le crocodile.
+   La géographie de l’Au-delà tient une place importante. La Navigation de
+   saint Brandan, écrite entre le VIIIème et le Xème siècle raconte le
+   voyage du moine Brandan et de ses quatorzes compagnons, un épisode
+   marquant étant celui où les voyageurs se retrouvent sur une baleine
+   qu’ils ont confondu avec une île.
+
+   Les différents ouvrages du cycle des chevaliers de la Table Ronde
+   (compilation des cycles de Chrétien de Troyes, du cycle de
+   Lancelot-Graal d’auteur inconnu et d’ouvrages épars comme Perceval…)
+   mêlent motifs féeriques (Morgane), mythologiques (descente aux enfers
+   de Lancelot), bibliques (Saint Graal)….
+
+L’AU-DELÀ TERRIFIANT
+
+   La vie de l’homme médiéval est toute entière tournée vers l’au-delà qui
+   se subdivise entre le royaume de Dieu et celui du diable. Une
+   géographie s’organise au XIIème siècle comme en témoigne la
+   multiplicité de textes tels la Divine comédie de Dante (XIVème siècle).
+   Cette géographie est constituée de cinq lieux. Le limbe des patriarches
+   (ou des pères) où ont séjourné les justes de l’Ancien Testament mais
+   vide depuis la venue du Christ, le limbe des enfants morts sans
+   baptême, le Purgatoire, sans doute crée par Saint Augustin et enfin
+   l’Enfer et le Paradis.
+
+   La description des peines infernales se fait plus précise à partir du
+   XIème siècle, multipliant les scènes où les damnés sont bouillis,
+   embrochés et soumis à mille supplices. Une description variée de ces
+   supplices est visible dans le tableau de Fra Angelico, le Jugement
+   dernier (1431).
+
+   L’enfer est dominé par la figure du diable. Il apparaît d’abord dans
+   l’Apocalypse, vraisemblablement écrite sous le règne de Néron au Ier
+   siècle, mais Satan ne constitue dans la Bible qu’une silhouette ou une
+   allégorie du mal.
+   Au Moyen Âge, Satan devient Lucifer, puis vers l’an Mil un adversaire
+   de Dieu. Satan s’humanise au XIVème siècle avant de connaître son
+   apogée au XVème siècle selon Robert Muchembled dans son Histoire du
+   diable.
+   L’enfer et le Paradis sont peuplés par les anges et les démons. S’il
+   existe une grande hiérarchie chez les anges, du séraphin au chérubin en
+   passant par les archanges, ceux-ci n’ont pas de sexe contrairement aux
+   démons mâles (incubes) et femelles (succubes). Les démons, anges
+   déchus, symbolisent la chute dans le mal qui menace chacun.
+   Les fantômes et revenants peuvent également revenir hanter les vivants,
+   les entraînant dans des « danses macabres », amplement représentées au
+   Moyen Âge.
+
+L’AILLEURS INCONNU
+
+   L’Ailleurs, au même titre que l’Au-delà, est un profond inspirateur de
+   fantastique, et pour bien des hommes de l’époque médiévale, il commence
+   à quelques kilomètres de leur village.
+
+   L’ouvrage merveilleux type de l’époque est probablement le récit de
+   voyage comme le Livre des Merveilles de Marco Polo. Il est à noter que
+   les cartes à cette époque représentent le monde non connu, mais deviné.
+   Jusqu’au XIIIème siècle les représentations du monde sont symboliques
+   avec les cartes en TO (Le O symbolisant les limites du monde et le T
+   les mers intérieures qui séparent les continents). L’œkoumène ne
+   représentant qu’une partie de la terre, cela a alimenté tous les
+   fantasmes depuis l’Atlantide de Platon.
+   Ces pays merveilleux reviennent d’ailleurs d’un ouvrage à l’autre tel
+   le pays des Pygmées ou celui des Amazones. Le royaume du prêtre Jean,
+   sans doute né d’une mystification au XIIème siècle, serait un nouveau
+   paradis de jeunesse éternelle. Guillaume de Rubrouck, franciscain
+   flamand du XIIIème siècle s’étant rendu en Mongolie, est ainsi chargé
+   de le trouver et en confirme plus ou moins l’existence.
+
+   La figure de l’île est également très présente, l’une des plus célèbres
+   étant celle d’Avalon où réside Morgane et ses huit sœurs ainsi que
+   Merlin.
+   Le pays de Cocagne, décrit dans la Navigation de Saint Brandan avant le
+   Xème siècle, revient souvent aux XIIIème et XIVème siècle, car il
+   occupe une fonction consolatrice pendant des périodes frappées par les
+   malheurs. Il est cependant encore représenté dans par Pieter Brueghel
+   le Vieux au XVIème siècle.
+
+   La nature est enfin prétexte au merveilleux comme la forêt qui ouvre
+   l’Enfer de Dante ou celle de Brocéliande.
+
+L’AUTRE MONSTRUEUX
+
+   Le folklore médiéval recense une multitude de monstres de la Gorgone
+   aux cyclopes, en passant par le loup-garou. Cependant la frontière
+   entre ce qui est censé exister et ce qui est imaginaire est très
+   difficile à définir.
+   Les monstres sont omniprésents dans les représentations artistiques que
+   ce soit dans l’art religieux avec les gargouilles des cathédrales ou
+   chez les peintres comme Jérôme Bosch.
+
+   Les monstres hybrides sont particulièrement courants. Les Cynocéphales,
+   hommes à tête de chien, sont exemplaires à ce titre. Vincent de
+   Beauvais, un des plus savants lettrés du Moyen Âge a parlé d’une de
+   leur visite à la cour de Louis le Pieux. S’ensuit même une querelle
+   afin de déterminer s’il faut les considérer comme des hommes ou des
+   animaux.
+
+   L’autre monstrueux peut être proche, le somnambule est particulièrement
+   suspect, le cas ultime étant celui du lépreux, dernier stade avant
+   l’animalité.
+   Les géants existent dans la littérature hébraïque. Un des plus connus
+   est Gargantua, issu de la culture populaire et popularisé par Rabelais.
+   Le Mont-Saint-Michel serait ainsi un des ses lieux de culte. Les nains,
+   gnomes, lutins et elfes proviennent majoritairement de la littérature
+   arthurienne ou de la mythologie d’Europe du Nord comme les Chants des
+   Nibelungen. Les fées longtemps diabolisées par les clercs sont
+   réhabilitées dans les romans, telle la fée Viviane ou “Dame du Lac”
+   dans le cycle arthurien.
+   L’auteur accorde peu de places aux sorcières car si des procès existent
+   dès l’époque carolingienne, ceux-ci restent rares, l’époque moderne
+   constituant l’apogée de la chasse aux sorcières.
+
+   Pour les animaux, le rhinocéros ou la chauve-souris sont considérés
+   tout aussi merveilleux qu’une licorne ou un phénix.
+   Il existe ainsi trois types de monstruosités chez les animaux. Le
+   premier est l’hybride évoqué précédemment, le second est l’animal au
+   nombre élargi de membres tels l’hydre à trois têtes et enfin l’animal
+   hybride, mélange de plusieurs animaux. Parmi ces derniers le griffon
+   quadrupède à corps de lion et à la tête, aux serres et aux ailes
+   d’aigle. Il est décrit par Ibn Battûta dans ses récits de voyage.
+   Enfin l’ouvrage accorde une place importante au dragon présent dans
+   tout grand récit médiéval de Saint Georges au cycle arthurien. On peut
+   citer parmi tant d’autres Fafnir, l’adversaire de Siegfried dans les
+   Chants des Nibelungen.
+
+   Le XIVème siècle constitue une rupture, un certain type de merveilleux
+   tendant à disparaître. Ainsi après avoir longtemps été surnaturels les
+   sorciers apparaissent soudainement comme des agents du diable et on se
+   débarrasse de personnalités en les accusant de sorcellerie comme Jeanne
+   d’Arc.
+   Enfin l’ouvrage nuance dans ses dernières pages la crédulité de l’homme
+   médiéval à travers les parodies, comme le récit de voyage de l’Anglais
+   Jean de Mandeville qui accumule lieux étranges et animaux merveilleux
+   alors qu’on doute qu’il soit seulement sorti de son pays.
+
+UNE SUPERBE ICONOGRAPHIE
+
+   La construction du livre s’avère judicieuse car les grandes parties
+   mentionnées ci-dessus sont découpées en blocs de deux ou quatre pages
+   avec un texte accompagné d’illustrations traitant chacun un thème. Il
+   est ainsi possible d’avoir une lecture sélective de l’ouvrage de
+   manière très aisée.
+
+   L’iconographie est tout simplement magnifique. Comportant plusieurs
+   centaines d’illustrations, chacune est accompagnée d’un commentaire et
+   des références précises de sa source (côte de bibliothèque pour les
+   enluminures, auteur des photos..), plus agréable à lire sous chaque
+   image que lorsqu’elles sont compilées en fin d’ouvrage. Les types
+   d’image sont variés, des nombreuses enluminures aux tableaux de Bosch,
+   Brueghel en passant par les statues ou la tapisserie. Les reproductions
+   s’avèrent d’excellente qualité tel ce manuscrit enluminé du XIIème aux
+   rouges superbes, représentant un dragon à sept tête, magnifiquement
+   étalé sur une double page (p 64-65).
+
+   Les annexes sont peu nombreuses, une bibliographie sur une double page
+   rassemblant les maîtres (Duby, Le Goff) et des travaux plus récents
+   comme ceux de Jérôme Baschet, et une table des matières.
+
+   On pourra reprocher en tant qu’historien que le texte s’attarde plus
+   sur la littérature et soit déconnecté des illustrations, commentées
+   séparément, l’analyse de l’image constituant une approche très
+   pertinente en histoire.
+   Malgré ce point de détail, cet ouvrage constitue un très bel objet de
+   par sa composition, ses illustrations et la rigueur de son texte qui
+   cherche toujours à démontrer, exemples à l’appui, de manière toujours
+   limpide. L’ouvrage s’adresse ainsi tout autant au grand public qu’aux
+   enseignants à la recherche d’éclairages sur le domaine.
+   Il ne nous reste plus qu’à espérer d’autres tomes sur l’Antiquité ou
+   l’époque moderne qui viendraient à merveille compléter cet ouvrage.
+
+   Fabien Vergez
+   (BUTTON)
+
+   Partager :
+
+   Évaluer :
+
+   PrécédentDarwin et l’évolution expliqués à nos petits-enfants,
+   SuivantPar-delà le mur. La culture de guerre froide soviétique entre
+   deux détentes
+
+Articles Similaires
+
+   Image illustrant l'article 7Bis-Nous les appelons Vikings de La
+   Cliothèque Image illustrant l'article 7Bis-Nous les appelons Vikings de
+   La Cliothèque
+
+Nous les appelons Vikings
+
+   21 Jan 2019
+   Image illustrant l'article
+   E-crit-pouvoirs-et-socie-te-en-Occident-aux-XIIe-XIVe-sie-cles-Angleter
+   re-France-Italie-pe-ninsule-Ibe-rique de La Cliothèque Image illustrant
+   l'article
+   E-crit-pouvoirs-et-socie-te-en-Occident-aux-XIIe-XIVe-sie-cles-Angleter
+   re-France-Italie-pe-ninsule-Ibe-rique de La Cliothèque
+
+Écrit, pouvoirs et société en Occident aux XIIe-XIVe siècles
+
+   9 Oct 2019
+   Image illustrant l'article 3106-sitealphil-relire_l_altitude_1 de La
+   Cliothèque Image illustrant l'article
+   3106-sitealphil-relire_l_altitude_1 de La Cliothèque
+
+Relire l’altitude la terre et ses usages. Suisse et espaces avoisinants, XIIe
+– XIXe siècles
+
+   19 Mar 2019
+   Image illustrant l'article 17Bis-La forêt au Moyen Âge de La Cliothèque
+   Image illustrant l'article 17Bis-La forêt au Moyen Âge de La Cliothèque
+
+La forêt au Moyen Âge
+
+   13 Jan 2020
+
+Laisser une réponse
+
+   Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont
+   indiqués avec *
+
+   COMMENTAIRE
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   E-mail * ______________________________
+
+   Site web ______________________________
+
+   Poster un commentaire
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Rechercher : ____________________ Rechercher
+
+CONFÉRENCE VIRTUELLE
+
+   [svg%3E] [noces-de-cendres.jpg]
+
+   Noces de cendres : un voyage dans les ruines de la Grande Guerre
+
+   Clémentine Vidal-Naquet
+
+   Mardi 11 février 2025 à 18H30
+
+   INSCRIPTION
+
+Vos contacts Presse
+
+   Christiane Peyronnard Christiane Peyronnard
+   Christiane Peyronnard
+   Histoire et questions de sociétéXavier Leroux Xavier Leroux
+   Xavier Leroux
+   Géographie et Jeunesse Christine VALDOIS Christine VALDOIS
+   Christine Valdois
+   Art et Bande dessinée
+
+DERNIERS COMPTES RENDUS
+
+     * Souvenirs et Solitude Souvenirs et Solitude
+       Souvenirs et Solitude
+       11 Jan 2025 | La France pendant la Seconde Guerre mondiale, La IIIe
+       République (1870-1940)
+     * Le petit nazi illustré : propagande et bande dessinée dans Le
+       Téméraire (1943-1944) Le petit nazi illustré : propagande et bande
+       dessinée dans Le Téméraire (1943-1944)
+       Le petit nazi illustré : propagande et bande dessinée dans Le
+       Téméraire (1943-1944)
+       11 Jan 2025 | La France pendant la Seconde Guerre mondiale
+     * Le cultivateur et l’engrais Le cultivateur et l’engrais
+       Le cultivateur et l’engrais
+       10 Jan 2025 | France contemporaine
+     * Histoire du dessin politique et d’actualité 1830-2015 – De « La
+       caricature » à « Charlie Hebdo » Histoire du dessin politique et
+       d’actualité 1830-2015 – De « La caricature » à « Charlie Hebdo »
+       Histoire du dessin politique et d’actualité 1830-2015 – De « La
+       caricature » à « Charlie Hebdo »
+       10 Jan 2025 | Histoire culturelle
+     * « La fermeté de mon caractère », Gibert de l’Isle ou la
+       pérégrinations politiques d’un notaire parisien (1754-1837) « La
+       fermeté de mon caractère », Gibert de l’Isle ou la pérégrinations
+       politiques d’un notaire parisien (1754-1837)
+       « La fermeté de mon caractère », Gibert de l’Isle ou la
+       pérégrinations politiques d’un notaire parisien (1754-1837)
+       10 Jan 2025 | Généralités sociales (France, XVIe-XVIIIe siècles)
+
+La Galaxie des Clionautes
+
+     * Les Clionautes
+     * Clio Prépas
+     * Clio Lycee
+     * Clio Collège
+     * Clio Texte
+     * Clio Ciné
+     * Clio Carto
+     * Clio Photo
+     * Adhérer
+
+     * Adhérer aux Clionautes
+     * Plan du site
+     *
+     * a 15 rue des Halles 75001 PARIS
+
+   Les Clionautes
+     * Qui sommes-nous ?
+     * Comment adhérer ?
+     * Histoire de l'association
+     * Les statuts de l'association
+     * Le Contrat d'Engagement Républicain
+     * Mentions Légales
+     * Politique de confidentialité
+     * Cookies et consentement
+     * Accès rédacteur
+
+   La galaxie Clionautes
+     * La Cliothèque
+     * Clio Prépas
+     * Clio Lycée
+     * Clio Collège
+     * Clio Texte
+     * Clio Ciné
+     * Clio Carto
+     * Clio Photo
+
+   Communiquer
+     * Contactez-nous La Cliothèque
+       Votre nom (obligatoire)
+       ________________________________________
+       Votre adresse de messagerie (obligatoire)
+       ________________________________________
+       Objet
+       ________________________________________
+       Votre message
+
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       ________________________________________
+       [ ] J'ai pris connaissance et j'accepte les mentions légales et la
+       politique de confidentialité.
+       Envoyer
+       Δ
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+       _____________________________________________
+     * Les Clionautes | Google Actualités
+     * Le Groupe | Facebook
+     * Les Clionautes | Linkedin
+     * Les Clionautes | Twitter
+     * La Cliothèque | Twitter
+     * Les Clionautes | Youtube
+
+   Clio Boutique
+     * Cotisations
+     * Événements
+     * Livres
+
+   Clio Jeux
+     * Romanizer
+     * Ex Decreto
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TKNDQGGP

@@ -1,0 +1,795 @@
+   #Aurélie Depraz » Flux Aurélie Depraz » Flux des commentaires JSON
+   oEmbed (JSON) oEmbed (XML)
+
+     * Accueil
+     * A propos
+          + Partenaires
+          + Kit média
+          + Points de vente
+     * Articles
+     * Romans
+     * Ouvrages de culture G
+     * Événements
+     * À votre service
+
+Aurélie Depraz
+
+Romans, Amour et Histoire
+
+   Littérature, amour & érotisme
+
+Le Fantastique en bref
+
+   Aurélie / 30 novembre 2021
+   Partager
+   Post
+
+   Cet article s’inscrit dans la continuité de mes articles sur les grands
+   mouvements de la littérature française…
+
+   Il fait suite, notamment, à mes trois premiers articles sur le XIXe
+   siècle :
+     * Le Romantisme
+     * Le Réalisme
+     * Et le Naturalisme
+
+   que vous pouvez retrouver sur ce blog…
+
+     [EDIT janvier 2025]► Retrouvez toutes ces synthèses (et plus encore)
+     dans mon ouvrage L’Essentiel de la Littérature française (de la
+     Renaissance à nos jours) disponible à la fois en ebook et en version
+     papier sur Amazon!
+
+Aux origines
+
+   Dès le XVIIIe siècle, en réaction au développement de l’esprit critique
+   et du rationalisme à outrance du mouvement des Lumières, un certain
+   besoin de croire au surnaturel et de renouer avec le spirituel se
+   manifeste. Jugée trop sèche pour les âmes sensibles et inapte à
+   traduire les passions, les épanchements et les élans du cœur, la
+   science est rejetée par une frange des artistes et des auteurs dès le
+   XVIIIe siècle, qui éprouvent le besoin de se reconnecter à
+   l’irrationnel, à l’occultisme, à l’ésotérisme, aux croyances, d’autant
+   plus qu’avec la Révolution puis l’Empire, nous l’avons vu, les
+   structures sociales et les valeurs pluriséculaires se sont effondrées.
+   En découlera bientôt tout un mouvement, dit fantastique, qui plonge de
+   ce fait ses racines au cœur même du siècle des Lumières, en totale
+   réaction à celui-ci.
+
+   Très influencé par les littératures étrangères – tout comme le
+   Romantisme –, le Fantastique français, peut-être illustré pour la toute
+   première fois par Le Diable amoureux (très teinté d’ésotérisme) de
+   Jacques Cazotte (1772) s’inspirera :
+     * du roman noir/gothique anglais aux ambiances inquiétantes, aux
+       décors sombres, aux créatures éthérées et aux apparitions
+       horrifiantes (Le Château d’Otrante d’Horace Walpole, Les Mystères
+       d’Udolphe d’Ann Radcliffe, Le Moine de Matthew Gregory Lewis,
+       Melmoth, l’homme errant de Charles Robert Maturin – j’évoque
+       d’ailleurs cette littérature dans ma trilogie « Passions
+       Londoniennes », en particulier dans le 3^e tome, James) ; un genre
+       qui, déjà, fait la part belle au surnaturel, au macabre, au
+       démoniaque, au maléfique et à l’horreur ; le premier roman anglais
+       purement « fantastique » est peut-être Frankenstein, de Mary
+       Shelley (1818)
+     * du fantastique allemand (notamment L’Homme au sable, Contes
+       nocturnes et Fantaisies à la manière de Callot, de Hoffmann ; Peter
+       Schlemilh d’Aldebert von Chamisso ; et Faust de Goethe) ; Hoffmann,
+       en particulier, aura, avec ses contes, constitué un véritable
+       répertoire du fantastique, décliné par la suite par d’autres
+       auteurs et artistes sous forme d’autres contes, d’opéras, de
+       ballets, de films…
+
+   Naît alors la mode, en France, de ce qu’on appellera le « roman
+   frénétique » ou « frénétisme », ou encore « romantisme frénétique », où
+   l’horreur s’exacerbe pour parvenir à provoquer des sensations fortes,
+   autant de romans noirs/gothiques « à la française » où le macabre
+   côtoie la mort et la cruauté les charognes en putréfaction :
+     * Champavert, contes immoraux, Pétrus Borel
+     * Madame Putiphar, Pétrus Borel
+     * Gottfried Wolfgang, Pétrus Borel
+     * L’âne mort et la femme guillotinée (tout un programme !!), Jules
+       Janin
+     * Les Mémoires du diable (tout un programme aussi !!), Frédéric
+       Soulié (qui ne cache pas sa dette envers le Marquis de Sade… no
+       comment…)
+     * Le Manuscrit trouvé à Saragosse, Jean Potocki (polonais, mais
+       l’œuvre est écrite en français)
+     * Vathek, William Beckford (anglais, mais l’œuvre est écrite en
+       français)
+
+   Puis, au cœur même du Romantisme (première moitié du XIXe siècle – voir
+   mon article sur le sujet), des œuvres (notamment de ceux que l’on
+   appelle parfois « Surnaturalistes » ou « Symbolistes romantiques »,
+   Charles Nodier, Nerval et Aloysius Bertrand, mais aussi de certains
+   Romantiques « pur jus » comme Victor Hugo) annoncent, dès les années
+   1820, le mouvement fantastique qui connaîtra son apogée avec Prosper
+   Mérimée et Guy de Maupassant :
+     * Smarra ou les démons de la nuit, de Nodier
+     * La Fée aux miettes, Nodier
+     * Trilby ou le lutin d’Argail, Nodier
+     * « Du fantastique en littérature », Nodier (article)
+     * Han d’Islande, de Victor Hugo
+     * La Peau de chagrin, Balzac
+     * L’Elixir de longue vie, Balzac
+     * Melmoth réconcilié, Balzac
+     * La Cafetière, Théophile Gautier
+     * La Morte amoureuse, Théophile Gautier
+
+Le courant et le registre fantastiques
+
+   Le mouvement fantastique à proprement parler concerne la seconde moitié
+   du XIXe siècle et trouve ses maîtres avec Prosper Mérimée et Guy de
+   Maupassant ; paradoxalement, il s’inscrit dans la continuité du
+   Réalisme et du Naturalisme, au sein desquels il plonge ses racines…
+   pour mieux s’en séparer ensuite. De fait, le fantastique consiste, en
+   quelque sorte, en une « déviation » du Réalisme…
+
+   Expression tantôt d’une déception à l’égard de la science, tantôt d’une
+   méfiance à l’égard de celle-ci, tantôt d’une inquiétude spirituelle, le
+   Fantastique s’applique à réintroduire du doute, de l’ambiguïté,
+   jusqu’au surnaturel au cœur du réel. Inséparable du « Mal du siècle »,
+   le Fantastique, préfiguré par plusieurs auteurs romantiques (cf mes
+   articles sur le Romantisme et son goût pour le rêve, l’onirisme, le
+   surnaturel…), au point qu’on l’appellera parfois « romantisme noir »,
+   explose donc dès le milieu du XIXe siècle.
+
+L’idée
+
+   Elle est simple : en partant d’un cadre parfaitement réaliste (= qui
+   donne l’illusion du vrai), l’auteur parvient peu à peu à semer le doute
+   dans l’esprit du lecteur en y insérant des phénomènes anormaux,
+   inquiétants, surnaturels, qui le rendent perplexe. Il ne se soumet plus
+   complètement à la réalité, introduit des phénomènes paranormaux, flirte
+   avec l’étrange et, en refusant d’effectuer une photographie simplement
+   mécanique et parfaitement conforme à la réalité, il ouvre une brèche
+   dans l’édifice réaliste et naturaliste.
+
+   Ainsi, l’intrusion d’éléments insolites ou surnaturels dans l’intrigue
+   brise la sécurité quotidienne du narrateur ; au milieu d’un monde connu
+   et balisé par les connaissances scientifiques, le surnaturel
+   s’introduit (êtres, créatures, phénomènes…). La recherche d’une image
+   exacte et réaliste de la vie est comme déroutée par le mystère de
+   « l’égarement des êtres », des hasards inexplicables, des abîmes de la
+   folie, des phénomènes étranges. Si notre quotidien et la science nous
+   privent du merveilleux, de la magie et du spirituel d’antan
+   (positivisme à outrance), l’écrivain se charge de ressusciter l’univers
+   fantasmagorique des mythes et des légendes anciennes et de repeupler
+   notre esprit de ces créatures surhumaines et, bien souvent,
+   inquiétantes.
+
+   En fait, le fantastique commence lorsqu’un événement étrange
+   (phénomène), auquel le narrateur ne peut donner d’explication
+   rationnelle et satisfaisante, surgit : des bruits inexpliqués, des
+   objets qui changent de place, des comportements incompréhensibles, des
+   voix venues de nulle part, des lumières, des phosphorescences, des
+   visions, des portes qui s’ouvrent ou se déverrouillent toutes seules,
+   des murmures… Souvent, le personnage commence alors par essayer de se
+   rassurer en trouvant une explication rationnelle ; survient ensuite la
+   peur, quand on constate que cette explication n’est pas la bonne… mais
+   qu’aucune autre explication rationnelle satisfaisante ne vient s’y
+   substituer, et que le phénomène demeure donc, dès lors,
+   incompréhensible… du moins, si l’on s’en tient à la raison… Les
+   avertissements, indices et mises en garde sont en général distillés peu
+   à peu. La peur atteint son paroxysme lorsqu’il devient absolument
+   impossible au héros d’expliquer rationnellement ce qui lui arrive.
+
+   En conséquence, le propre du Fantastique est de laisser le lecteur en
+   permanence en suspens, à la fois perplexe et inquiet face à plusieurs
+   interprétations possibles de l’œuvre : s’agit-il d’hallucinations de la
+   part du personnage ? d’une crise de folie de la part du personnage, de
+   délires, de fantasmes, de simples rêves, de cauchemars ? ou bien de
+   phénomènes réels (en ce cas complètement invraisemblables,
+   incompréhensibles, surnaturels et inquiétants) ?
+
+   Le lecteur oscille entre une explication rationnelle des phénomènes
+   décrits (le personnage a des visions, est somnambule et réalise
+   lui-même des actions dont il ne se souvient pas le lendemain matin,
+   devient fou, est sujet aux hallucinations, confond rêve et réalité,
+   dort d’un sommeil profond, est schizophrène…) et irrationnelle (le
+   personnage est possédé par le diable, il y a bel et bien des esprits,
+   des forces supérieures, des démons, des créatures fantastiques chez
+   lui ; le miroir est bel et bien magique… etc).
+
+   De fait, le personnage lui-même ne comprend pas totalement ce qui est
+   en train de se passer, ce qui contribue à créer une atmosphère
+   angoissante ; il éprouve des sentiments troublants et confus, puis la
+   peur s’instaure et s’accroît peu à peu ; des maléfices, des étrangetés,
+   des coïncidences bizarres le font peu à peu glisser dans l’irrationnel,
+   sans jamais totalement l’y engloutir…
+
+   En cela, le fantastique est situé entre le merveilleux (dans lequel le
+   surnaturel/le magique est accepté et justifié par un cadre totalement
+   imaginaire délibérément choisi) et l’épouvante (où le surnaturel
+   s’immisce et est complètement accepté dans un cadre par ailleurs
+   « normal » et réaliste). Car, contrairement à ces deux genres, le
+   fantastique place son lecteur et son personnage quasiment
+   systématiquement dans une position de refus, de rejet, de déni du
+   surnaturel.
+
+Le dénouement
+
+   Le récit s’achève souvent par « un événement sinistre qui provoque la
+   mort, la damnation ou la disparition du héros » (Roger Caillois,
+   Images, images…) ; mais, surtout, sans qu’une explication claire,
+   rationnelle ou irrationnelle, ait été apportée : le lecteur (et
+   souvent, avec lui, le personnage) reste donc sur sa faim, en proie au
+   doute, à l’incertitude, à l’incompréhension et à un profond malaise.
+   L’ambiguïté du dénouement interdit toute certitude quant à
+   l’interprétation que l’on peut faire du phénomène
+   (irrationnelle-imaginée-fantastique-paranormale-magique ou
+   rationnelle-réelle-scientifique). La foi absolue (de l’ordre de la
+   superstition ou du merveilleux) tout comme une explication parfaitement
+   rationnelle ou une incrédulité totale (rationalisme, scepticisme,
+   cynisme, cartésianisme) nous mèneraient toutes deux hors du champ du
+   fantastique. Le doute, l’hésitation, l’incertitude, la peur sont la
+   caractéristique majeure du fantastique ; et cette oscillation entre le
+   logique et l’illogique, le possible et l’impossible, le naturel et le
+   surnaturel, l’essence même du genre.
+
+   « Le fantastique, c’est l’hésitation éprouvée par un être qui ne
+   connaît que les lois naturelles face à un événement en apparence
+   surnaturel » Tzvetan Todorov, Introduction à la littérature
+   fantastique, 1970.
+
+Décors et contextes
+
+     * Des lieux : maisons hantées, villes-fantômes, cimetières, lieux
+       hantés, vallées ou clairières perdues et isolées, haute montagne,
+       marais embrumés, endroits abandonnés, châteaux aux passages secrets
+       obscurs et aux hautes voûtes effrayantes, souterrains, hautes
+       tours, sombres forêts, abbayes abandonnées, ruines, vastes et
+       lugubres pièces, greniers, caves, bibliothèques poussiéreuses,
+       phares, chapelles isolées, églises, presbytères, îles …
+     * Des éléments de décor : arbres gigantesques, squelettiques et
+       dépourvus de feuilles, tombes, racines, gouffres, falaises, zones
+       d’ombre, portes condamnées ou murées, chambres interdites…
+     * Des circonstances : nuits de pleine lune, soirs d’orage, nuits sans
+       lune, brouillard, brume, nuages, pluie battante…
+
+Êtres, objets et phénomènes surnaturels
+
+     * Les êtres surnaturels présents dans le fantastique : l’esprit, le
+       spectre, le fantôme, le démon, le diable, le vampire, le
+       loup-garou, le meneur de loups, le guérisseur, le monstre, le
+       succube, la gargouille (qui s’anime), la faucheuse, le zombie, le
+       mort-vivant, la momie (qui se réveille…), le squelette, la
+       sorcière, le dieu antique, la divinité imaginaire, l’homme
+       transformé comme Frankenstein…
+     * Les grands thèmes : le cauchemar, l’Enfer, les massacres, le sang,
+       le feu, la perversité sexuelle, la possession par le démon, la
+       malédiction, la nuit et ses mystères (=lien avec le Romantisme), le
+       rêve (idem), les voyages dans le temps, le satanisme, les objets
+       magiques, les sortilèges, les pactes avec le diable, le sabbat, les
+       apparitions, les métamorphoses, les transes, les visions, les
+       superstitions, les dons, les pouvoirs, le spiritisme, le
+       magnétisme, la sorcellerie, les morts incompréhensibles, les
+       meurtres inexplicables rationnellement, la magie, la folie, le
+       fantasme, l’angoisse, les hallucinations, les délires, les drogues…
+     * Les objets (magiques ou non) : anneaux, manteaux, capes, clés,
+       serrures, bijoux, miroirs, parchemins, sceaux, talismans, faux et
+       faucilles, coupes, parties du corps devenues autonomes (une main…)
+       etc.
+     * Les animaux les plus représentés : chauve-souris, araignées, rats,
+       loups, insectes, oiseaux de nuit, chats (noirs), animaux flottant,
+       rampant, frôlant, volant, glissant… nocturnes, aquatiques…
+     * Les grands genres : le roman et la nouvelle
+     * Les émotions suscitées : la peur, l’effroi, l’angoisse, la folie,
+       l’inquiétude, le malaise, l’affolement, la terreur, le désespoir,
+       la souffrance, le suspense, la torture, le tourment, le doute, le
+       fantasme, une sorte de crispation et de tension à la rencontre de
+       l’impossible.
+
+   NB : on l’aura constaté, les manifestations du surnaturel dans la
+   littérature fantastique sont généralement néfastes : point de place ici
+   pour les bonnes fées, les anges, les gentilles licornes et les bons
+   génies ! On laisse tout ça au merveilleux (voir distinguo un peu plus
+   loin).
+
+Procédés d’écriture
+
+     * Ecriture à la première personne et focalisation interne fréquentes
+     * Ellipses
+     * Exclamations et interrogations
+     * Personnifications
+     * Comparaisons et métaphores
+     * Couleurs fréquentes : le noir, le blanc et le rouge (voir les
+       affiches et les univers de Shining et de Sleepy Hollow, par
+       exemple)
+     * Champs lexicaux de la peur, de l’angoisse, des perceptions
+       sensorielles (odeurs, goûts, illusions d’optique…), de la lumière
+       et de l’obscurité, de la phosphorescence…
+     * Création d’atmosphères étranges et oppressantes
+     * Introduction d’être et de phénomènes surnaturels
+     * Vocabulaire du doute, de la perplexité, de l’incompréhension, du
+       rêve, du cauchemar, de la folie, du délire et des peurs profondes
+     * Des frontières floues entre le réel et l’irréel, une ambiguïté
+       délibérée, l’entretien d’ambiguïtés suscitant le doute et le
+       malaise tant du lecteur que du personnage
+     * Dans la même logique, le brouillage des indices spatio-temporels
+     * Des créatures et des êtres puisés dans l’inconscient collectif,
+       dans le folklore populaire, dans les mythes antiques, dans les
+       légendes locales, dans de vieilles terreurs paysannes, dans les
+       superstitions…
+     * Enigmes et anecdotes
+     * Le recours fréquent à la forme de la nouvelle, à forte intensité
+       dramatique
+     * Le recours à de nombreux modalisateurs pour exprimer le doute et
+       les suppositions (peut-être, probablement, j’imagine que, il est
+       probable que, sans doute, quelque chose, on, c’était comme si, on
+       aurait dit, je supposai que…)
+
+Le Fantastique… à ne pas confondre avec le Merveilleux !
+
+   On confond souvent Fantastique et Merveilleux (souvent appelé, dans sa
+   forme moderne, « fantasy », ce qui contribue probablement fortement à
+   l’amalgame souvent opéré entre les deux styles). Or, il s’agit de deux
+   univers radicalement différents, et ce pour de multiples raisons.
+    1. Tandis que le fantastique consiste à introduire des éléments
+       dérangeants, inquiétants, inexplicables et même clairement
+       surnaturels dans un cadre à première vue familier et réaliste, le
+       merveilleux, lui, se veut d’entrée de jeu totalement désancré du
+       réel : c’est le fameux « il était une fois… » des contes de fées. A
+       aucun moment le merveilleux ne prétend s’inscrire dans notre
+       réalité, présente ou passée : il revendique clairement un ancrage
+       dans un monde « autre », parallèle, magique, inventé de toutes
+       pièces. Une fois acceptés les présupposés de ce monde magique, les
+       choses se déroulent de façon presque naturelle, normale,
+       familière : tout est accepté, considéré comme normal (la magie, les
+       dons, les pouvoirs surnaturels, les créatures féeriques…) ; dans le
+       fantastique, les règles ne sont jamais posées une fois pour toutes,
+       ce qui le rend profondément déroutant.
+    2. Le fantastique se veut beaucoup plus sombre que le merveilleux. Il
+       suscite des émotions déplaisantes, en général d’intensité
+       croissante au fur et à mesure que le récit progresse et, avec lui,
+       l’intensité dramatique (montée en pression jusqu’à la chute
+       finale) : doute, perplexité, incompréhension, inquiétude, angoisse…
+       Un univers relativement noir qui, poussé à l’extrême, conduit à
+       l’horreur (tant au cinéma qu’en littérature : là, on ne cherche
+       plus la déstabilisation, le malaise et l’angoisse, mais bel et bien
+       à susciter la terreur). Le merveilleux, pour sa part, n’entre pas
+       du tout dans la même logique : il s’articule bien davantage autour
+       de l’idée du bien et du mal (avec la victoire du bien sur le mal),
+       de la lumière contre les ténèbres, et cherche à susciter une
+       palette d’émotions beaucoup plus large, incluant l’émerveillement,
+       l’admiration, l’amour, la joie…
+
+   Quelques exemples de littérature merveilleuse, pour y voir plus clair ?
+
+   Tous les contes de fées (sorcières, dragons, ogres, princesses, petites
+   filles, bonnes fées, mages, princes charmants, licornes, géants…) :
+   Blanche-Neige, Le Petit Poucet, le Chat Botté, Cendrillon, Peau d’Ane,
+   La Belle au bois dormant... Aucune explication n’est fournie, les
+   animaux parlent, les mages ont des pouvoirs magiques, tout cela est
+   bien, tout cela est normal. Aucune explication n’est requise. En fait,
+   l’explication est tout simplement de l’ordre de l’irrationnel, de
+   l’extraordinaire, du merveilleux : un pacte est en effet conclu entre
+   l’auteur et le lecteur d’entrée de jeu. Tous les contes de Perrault,
+   les contes de Grimm, les contes des Mille et une nuits, mais aussi Le
+   Petit Prince, Alice au pays des Merveilles… appartiennent au registre
+   merveilleux traditionnel.
+
+   Quant à la « fantasy », (déclinée en de nombreux sous-genres, dark
+   Fantasy, high fantasy, low fantasy, heroic fantasy, fantasy médiévale,
+   fantasy arthurienne, fantasy urbaine, sword and sorcery, space fantasy,
+   romantic fantasy, fantasy féerique, oriental fantasy, fantasy
+   animalière etc), forme moderne du merveilleux, elle utilise abondamment
+   la force du mythe et la magie. Légendes, chevaliers, guerriers,
+   princes, rois et guerriers, elfes et gnomes, orques et nains, mages et
+   sorciers, Vikings et barbares, créatures fantastiques et magiques,
+   mondes inventés… Elle rencontre un succès notable auprès des jeunes, et
+   c’est par son biais que nombre d’entre eux se lancent dans la lecture…
+   y compris de longue haleine (sagas, cycles, romans-fleuves…)
+
+   Exemples : Le Trône de Fer de G.R.R Martin (Game of Thrones sur les
+   écrans), Harry Potter de J.K. Rowling, Le Seigneur des Anneaux et Bilbo
+   le Hobbit de Tolkien…, Les Chevaliers d’Emeraude (Anne Robillard),
+   L’Epée de Vérité (Terry Goodkind), Les Chroniques de Narnia (C.S
+   Lewis)…
+
+   Films : Le Monde de Narnia, la plupart des dessins animés Disney…
+
+   BD : Thorgal et beaucoup d’autres
+
+   A noter : au cinéma, fantastique, science-fiction, merveilleux et même
+   épouvante s’entremêlent souvent joyeusement… Dans certains cas, il est
+   assez difficile de distinguer le genre exact de l’œuvre, tant les
+   productions se plaisent à mêler les genres et les registres… même si de
+   nombreuses œuvres, bien sûr, appartiennent très explicitement à un
+   genre bien défini.
+
+   Une citation : « Ce qui distingue radicalement (…) le récit fantastique
+   du récit merveilleux, c’est la peur. Le fantastique est effrayant alors
+   que le merveilleux ne l’est que par instants et jamais de manière
+   définitive. Certes des êtres mauvais comme les ogres peuvent apparaître
+   dans des récits merveilleux, mais ils sont destinés à être vaincus et
+   le sont immanquablement. Au contraire dans les récits fantastiques,
+   toute victoire sur les forces du mal est précaire, ces forces sont la
+   plupart du temps invincibles ». Raymond Rogé, Récits fantastiques
+
+A ne pas confondre non plus avec la science-fiction !
+
+   Pour faire simple, le terme de science-fiction désigne toute
+   littérature futuriste. Elle présente des sciences et des technologies
+   du futur, qui y prennent une place importante. Rigueur, technique,
+   science et rationalisme règnent en maîtres. La mort est causée par une
+   trop grande soif de savoir ou de pouvoir, ou par les dérives de la
+   science par exemple, et non à l’introduction d’éléments surnaturels.
+
+   Il existe également de nombreux sous-genres de science-fiction, selon
+   la science explorée (et, bien souvent, poussée à son comble) – la
+   robotique, l’exploration spatiale, la biologie virale, l’électronique,
+   l’exploration du temps (avec machine), la génétique, la physique
+   quantique, l’informatique, la climatologie… Ainsi, selon la science
+   concernée, divers types de scénarios se profilent : la rencontre
+   d’aliens, l’exploration ou la découverte d’une nouvelle planète, une
+   pandémie mondiale (grippe, rage… transformant même parfois les humains
+   en zombies…), une catastrophe écologique ou météorologique (nouvelle
+   ère glaciaire, radioactivité, réchauffement climatique, montée des
+   eaux…), une guerre nucléaire…
+
+   En découlent les fameux sous-genres de la science-fiction : la SF
+   post-apocalytique, le planet opera, le space opera, la hard
+   science-fiction, l’anticipation, le cyberpunk, la dystopie…
+
+   Autant de sous-genres particulièrement prisés du cinéma, on s’en rend
+   vite compte à la lecture de cette présentation. Mais également
+   représentés par quelques maîtres en matière de littérature ! Citons, à
+   titre d’exemples :
+     * Jules Vernes (maître incontesté de la SF « futuriste » et
+       visionnaire), avec Le voyage au centre de la Terre, le Tour du
+       monde en quatre-vingts jours et Vingt mille lieues sous les mers
+     * Pierre Boulle, avec La Planète des singes
+     * Arthur C. Clarke, avec 2001, l’Odyssée de l’espace
+
+   Films : Le jour d’après, Waterworld, Matrix, Mad Max, Time Out, The
+   Island, Elysium, Stargate, Seul sur Mars, Bienvenue à Gattaca,
+   Passengers, Premier Contact, The Matrix, I-Robot, Independance Day,
+   Blade Runner, I am a legend, World War Z, Hell, Dune, Gravity, Le
+   Cinquième élément, Retour vers le Futur, Inception, Jurassic Park… et
+   tant d’autres !
+
+   Mais ce qui nous importe ici, c’est bien de souligner que, dans le
+   cadre de la science-fiction, l’explication des phénomènes étranges
+   (pour nous), nouveaux, surprenants, est parfaitement rationnelle : elle
+   s’explique scientifiquement (par la ligne du temps, les progrès de la
+   génétique, de l’informatique, la propagation d’un virus, la médecine,
+   le clonage, la météorologie, l’astronomie, l’intelligence artificielle,
+   la pollution…)
+
+   Alors que, dans le merveilleux, l’explication est explicitement
+   irrationnelle (monde magique clairement revendiqué) ; et que dans le
+   fantastique, aucune explication ou solution, au final, n’est fournie :
+   on hésite entre le logique et l’illogique, le rationnel et
+   l’irrationnel, le naturel et le surnaturel, mais aucune explication
+   définitive ne sera donnée, en tout cas aucune explication rationnelle
+   satisfaisante. Le lecteur n’a pas le mot de la fin. On ne peut que
+   supputer : tout est possible : cette hésitation entre les genres et les
+   explications crée le genre fantastique. L’ambiguïté persiste, savamment
+   guidée par les techniques narratives de l’auteur. Les textes courts
+   permettent de maintenir la tension dramatique et sont donc privilégies.
+   Si le lecteur veut pencher pour une interprétation réaliste et
+   rationnelle des faits, il va devoir douter de la véracité des propos
+   rapportés par le narrateur, remettre en cause sa crédibilité, le
+   considérer comme totalement fou, sujet à des hallucinations, douter de
+   sa bonne foi…
+
+   NB : deux phénomènes similaires peuvent survenir dans une œuvre
+   fantastique et dans une œuvre de science-fiction (et c’est là qu’est
+   toute la subtilité de la chose !^^) : dans les deux cas, par exemple,
+   un homme peut se rende invisible ; ou voyager dans le temps ; ou
+   contrôler des objets par la pensée ; ou lire dans les pensées de son
+   voisin ; etc. Toute la différence vient de des explications fournies
+   pour justifier ces prodiges. En matière de science-fiction, par
+   exemple, l’explication pourra être génétique : un petit bidouillage
+   d’ADN, la mutation d’un chromosome… et notre héros se retrouve doté de
+   super-pouvoirs (mutants, X-men…). Ou bien, un inventeur de génie a mis
+   au point une machine (au hasard, une DeLorean…^^) permettant de voyager
+   dans le temps.
+
+   Quant au récit fantastique, il nous refusera toute explication
+   scientifique ou technique rationnelle… et nous laissera sur notre faim…
+   en proie à la perplexité, au doute… et à l’inquiétude !
+
+Conclusion
+
+   Tantôt imprégné de mysticisme, tantôt de macabre, tantôt de poésie,
+   tantôt de morbide, le Fantastique flirte allègrement avec la peur,
+   l’ésotérisme, la superstition, le mythe, le spiritisme, le magnétisme,
+   le rêve, parfois encore l’érotisme ou le scabreux. Mouvement de
+   l’étrange, il introduit l’impression à la fois déroutante et
+   inquiétante du rêve et de l’irréalité au sein d’un récit en apparence
+   réaliste et rationnel, jusqu’à rendre incertain l’univers référentiel
+   d’origine. Des événements inquiétants se mêlent peu à peu à notre
+   quotidien, se moquant totalement des logiques de notre monde
+   positiviste et scientifique, jusqu’au moment où tout bascule. Le
+   lecteur comme le personnage ont le sentiment d’être dans un cauchemar
+   réel. Le personnage en arrive à devenir fou, et le lecteur avec lui.
+   Hésitation constante face à un événement surnaturel, le Fantastique,
+   véritable échappatoire, permet de remettre en question une réalité
+   décevante, les « repoussantes réalités du vrai » (Nodier).
+
+   Notion littéraire difficile à définir et dont de nombreux auteurs se
+   seront saisis à tour de rôle, le Fantastique est au cœur de la
+   littérature de l’étrange, quelque part entre le merveilleux, la
+   science-fiction et l’horreur ; on comprend bien, dès lors, que les
+   frontières avec les genres voisins soient floues et susceptibles d’être
+   franchies à tout moment (et, encore une fois, elles le sont d’ailleurs
+   allègrement dans le cinéma).
+
+   Subversif, le Fantastique met en exergue la fragilité, la non-maîtrise,
+   l’hésitation, le doute et l’incertitude de l’homme face à l’étrange, à
+   une époque où la science triomphante prétend acquérir la totale
+   maîtrise du monde (Révolution industrielle, progrès des sciences,
+   positivisme… ce qui est toujours le cas aujourd’hui). Il relativise
+   ainsi les progrès de la science et des techniques et cherche à mettre à
+   l’honneur cette part de mystère, ce monde « autre », situé « de l’autre
+   côté du miroir »… un peu comme le Symbolisme, à la même époque, cherche
+   à le faire à travers le genre poétique…
+
+Quelques citations
+
+   « Tout le fantastique est rupture de l’ordre reconnu, irruption de
+   l’inadmissible au sein de l’inaltérable (quotidien) » Roger Caillois,
+   Au cœur du fantastique
+
+   « Le fantastique vit d’ambiguïté (…) En lui, le réel et l’imaginaire
+   doivent se rencontrer, voire se contaminer ; de plus, contrairement à
+   tant d’autres fictions, il n’exige à ses mystères aucun
+   éclaircissement, même s’il refuse toute solution rationnelle ou
+   technique. » Jean Bellemin-Noël.
+
+   « Rêve ou réalité ? Vérité ou illusion ? (…) Dans un monde qui est bien
+   le nôtre, celui que nous connaissons, sans diables, ni sylphides, ni
+   vampires, se produit un événement qui ne peut s’expliquer par les lois
+   de ce même monde familier. Celui qui perçoit l’événement doit opter
+   pour l’une des deux solutions possibles : ou bien il s’agit d’une
+   illusion des sens, d’un produit de l’imagination et les lois du monde
+   restent alors ce qu’elles sont ; ou bien l’événement a véritablement eu
+   lieu, il est partie intégrante de la réalité, mais alors cette réalité
+   est régie par des lois inconnues de nous. » Todorov, Introduction à la
+   littérature fantastique
+
+   « Le récit fantastique exprime l’angoisse et le doute du personnage, au
+   moyen de l’indécision de perceptions et de la suspension des
+   significations trop nettes. Celles-ci amènent le lecteur à éprouver un
+   sentiment semblable à celui des personnages, qui peut aller de
+   l’ambivalence devant des interprétations contradictoires jusqu’à une
+   radicale indétermination. » Denis Mellier, La Littérature fantastique
+
+   « L’univers fantastique offre un refuge à tous ceux que déçoit et
+   décourage le siècle nouveau ; il englobe toutes ces contrées où
+   l’imagination des poètes s’aventure, loin des contraintes qu’imposent
+   la raison, l’expérience commune, les moeurs, les règles de l’art ; il
+   répond, en somme, aux impatiences et aux exigences de la génération
+   romantique. » P.G.Castex, Le Conte fantastique en France de Nodier à
+   Maupassant
+
+   « « [Le fantastique] est l’art de parler à notre imagination en la
+   ramenant vers les premières émotions de la vie, en réveillant autour
+   d’elle jusqu’à ces redoutables superstitions de l’enfance que la raison
+   des peuples perfectionnés a réduites aux proportions du ridicule » Jean
+   Sbogar
+
+   « Quand l’homme croyait sans hésitation, les écrivains fantastiques ne
+   prenaient point de précautions pour dérouler leurs surprenantes
+   histoires […]Mais quand le doute eut pénétré enfin dans les esprits,
+   l’art est devenu plus subtil. L’écrivain a cherché les nuances, a rôdé
+   autour du surnaturel plutôt que d’y pénétrer. Il a trouvé des effets
+   terribles en demeurant sur la limite du possible, en jetant les âmes
+   dans l’hésitation, dans l’effarement. Le lecteur indécis ne savait
+   plus, perdait pied comme une eau dont le fond manque à tout instant, se
+   raccrochait brusquement au réel pour s’enfoncer tout aussitôt, et se
+   débattre de nouveau dans une confusion pénible et enfiévrante comme un
+   cauchemar. » Guy de Maupassant, Chroniques, « Le Fantastique », 1883.
+
+Les plus grands auteurs de ce mouvement
+
+   Maupassant, Edgard Alan Poe, Prosper Mérimée, Villiers de l’Isle-Adam,
+   Théophile Gautier, Oscar Wilde, Hoffmann, Nodier…
+
+Quelques œuvres :
+
+     * La Peau de chagrin, Balzac
+     * Le Horla, Maupassant
+     * La Vénus d’Ille, Prosper Mérimée
+     * Le Château des Carpathes, Jules Verne
+     * Récits fantastiques, Théophile Gautier
+     * Apparitions et autres contes d’angoisse, Guy de Maupassant
+     * La Main, Guy de Maupassant
+     * Et de très nombreuses autres nouvelles de Maupassant et de Mérimée
+
+   Œuvres étrangères :
+     * Le Chat noir et la vérité sur le cas de M. Valdemar, Edgar Allan
+       Poe
+     * Le Château d’Otrante, Horace Walpole
+     * Le Portrait de Dorian Gray, Oscar Wilde
+     * Contes fantastiques, Ernst Theodor Hoffmann
+     * Frankenstein, Mary Shelley
+     * La Dame de pique, Alexandre Pouchkine
+     * Histoires extraordinaires, Edgar Allan Poe
+     * Le Cas étrange du Dr Jekyll et de Mr Hyde, Robert Louis Stevenson
+     * Dracula, Bram Stoker
+     * L’homme invisible, H-G Wells
+
+   Les œuvres dites « décadentes » ou « fin de siècle »
+
+   Il n’y a plus à cette époque d’écrivains fantastiques à proprement
+   parler, mais de nombreux auteurs qui ont écrit quelques œuvres
+   fantastiques ou qui utilisent le fantastique à d’autres fins :
+     * Contes cruels, Villiers de l’Isle-Adam
+     * Histoires de masques, Jean Lorrain
+     * Sueurs de sang, Léon Bloy
+     * Histoires désobligeantes, Léon Bloy
+     * Histoires magiques, Rémy de Gourmont
+
+   Plus tard :
+     * Histoires incertaines, Henri de Régnier
+     * The Shining, Stephen King
+     * La Métamorphose, Franz Kafka
+     * Fictions, Jorge Luis Borgès
+
+   Films
+     * Personal Shopper (dernier film avec Kristen Stewart)
+     * The Shining (avec Jack Nicholson)
+     * Les Oiseaux (Hitchcock)
+     * La Légende du cavalier sans tête (Sleepy Hollow, de Tim Burton)
+     * Jumanji…
+
+   Le genre peut bien sûr être mêlé à d’autres, comme à la romance. Ex:
+   Twilight (romance fantastique)
+
+   Peinture: quelques oeuvres fantastiques :
+     * Edvard Munch, Le Cri, 1893
+     * Léon Spilliaert, Autoportrait au miroir, 1908
+     * Johann Heinrich Fuessli, Le Cauchemar, 1790
+     * Caspar David Friedrich, Cimetière d’un monastère sous la neige,
+       1819 (qui illustre cet article!)
+
+     [EDIT janvier 2025]► Retrouvez toutes ces synthèses (et plus encore)
+     dans mon ouvrage L’Essentiel de la Littérature française (de la
+     Renaissance à nos jours) disponible à la fois en ebook et en version
+     papier sur Amazon!
+
+   Texte : © Aurélie Depraz
+
+   Tableau : Cimetière d’un monastère sous la neige – Friedrich
+
+   Source : Wikipedia
+   Partager
+   Post
+   Tagged analyse littéraire, culture littéraire, histoire littéraire,
+   littérature
+
+Autres articles
+
+Les Grands Mouvements de la Littérature française – Récap
+
+   29 novembre 2023
+
+Sacrée Nana ! La fureur de vivre au Second Empire
+
+   3 janvier 2023
+
+Nana: tentation, prostitution, destruction
+
+   3 janvier 2023
+
+About Aurélie
+
+   View all posts by Aurélie →
+
+Navigation de l’article
+
+   Le Naturalisme en bref
+   4 promos pour Noël !
+
+A propos
+
+Aurélie Depraz
+
+   Auteur de romances historiques, je partage avec vous ici mes recherches
+   et réflexions en matière d’Histoire et de littérature (notamment
+   amoureuse).
+
+   Je vous souhaite une bonne visite !
+
+   Pour mieux me connaître, veuillez cliquer ici
+
+   Suivez-moi également sur :
+     * facebook
+     * twitter
+     * linkedin
+     * instagram
+
+ACHETER SUR
+
+   amazon logo
+
+Contact
+
+                          contact@aureliedepraz.com
+
+Newsletter
+
+   Un nouvel article, un nouveau roman, un événement et vous êtes informés
+   !
+
+   Votre Email* :
+   ____________________
+
+   [ ] J'ai lu et j'accepte la Politique de Confidentialité et de recevoir
+   la lettre d'information d'Aurélie Depraz.
+
+   Souscrire
+   Laissez ce champ vide si vous êtes humain : ____________________
+
+Articles
+
+     * L'écriture, l'édition & moi (65)
+     * L'Histoire (la grande !) (58)
+     * Littérature, amour & érotisme (67)
+     * Mes univers & personnages (47)
+     * Offres, extras, cadeaux et concours (35)
+     * Ouvrages de culture G (3)
+     * Romans (19)
+
+   Rechercher : ____________________ Rechercher
+
+Romans
+
+   couverture roman l'Irlandais L'Irlandais
+   couverture roman L'Américain L'Américain
+   couverture du roman intégral Sasunnachs et Highlanders Sasunnachs et
+   Highlanders
+   (L’intégrale)
+   couverture roman La Demoiselle d'Arundel La Demoiselle d'Arundel
+   couverture roman L'Ecossaise d'Inverness L'Ecossaise d'Inverness
+   couverture intérale amours slaves Amours slaves (L'intégrale)
+   couverture roman highlander pour un autre Un Highlander pour un autre
+   couverture roman Les Yeux de Mila Les Yeux de Mila
+   couverture trilogie passions londoniennes Passions Londoniennes
+   (L'intégrale)
+   couverture du roman Retour à Blue Valley Retour à Blue Valley
+   couverture du roman Les Routes de l'Est Les Routes de l'Est
+   couverture du roman James James
+   couverture du roman Jay Jay
+   couverture du roman Alexander Tome 1 Alexander
+   couverture roman Comme une aurore dans la brume Comme une aurore
+   dans la brume
+   couverture du roman Shaena Shaena
+   couverture du roman Indomptable Aquitaine Indomptable Aquitaine
+   couverture du roman L'amour, la mer, le fer et le sang L’amour, la mer,
+   le fer et
+   le sang
+   couverture du roman Pour l'amour d'une Sasunnach Pour l'amour d'une
+   Sasunnach
+
+RGPD
+
+   Infos relatives au RGPD (Règlement Général de Protection des Données) :
+   ce site vous est proposé par Aurélie Depraz, est développé sous
+   WordPress et est hébergé par OVH. Coordonnées :
+   aurelie.depraz@gmail.com.
+
+   En nous contactant par mail  ou via notre formulaire de contact, en
+   naviguant sur ces pages, en laissant un commentaire, en vous abonnant à
+   ce blog ou à notre newsletter, ou encore en acceptant les cookies ,
+   vous pouvez être amenés à laisser des données personnelles. Ces données
+   ne seront pas utilisées à des fins commerciales, mais uniquement pour
+   un échange de qualité avec vous.
+
+   Pour des informations plus complètes sur ce site, le traitement de vos
+   données personnelles, l’utilisation de cookies et les modalités d’accès
+   à vos données merci de vous référer à la Politique de confidentialité
+   de ce site et à la Charte d’utilisation de cookies.
+
+               Conditions générales d’utilisation du blog
+
+                        Politique de confidentialité
+
+                             Gestion des cookies
+
+                              Mentions légales
+
+   Copyright © All rights reserved.
+   Blog Way by ProDesigns

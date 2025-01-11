@@ -1,0 +1,612 @@
+   Equinoxes   Equinoxes Equinoxes Equinoxes
+
+   Return to Equinoxes, Issue 6: Automne/Hiver 2005-2006
+   Article ©2006, Jean William Cally
+
+
+
+  Jean William CALLY, Université de La Réunion
+
+La peur des eaux en littÉrature fantastique
+
+   L’espace océanique et les îles engageaient, dans la pensée de
+   l’Occident médiéval, tout comme la jungle ou la forêt, l’idée des lieux
+   lointains, méconnus et, en ce sens, supposés hostiles. Ils
+   représentaient des régions extérieures à l’enclave de la civilisation,
+   des zones extrêmes, situées hors du lieu habité (là). Territoires
+   d’exotisme, d’instabilité matérielle (mer calme ou tempête),
+   d’étrangetés (démons et merveilles), l’immensité océanique s’associait
+   intimement, dans l’imaginaire, aux mondes miniatures insulaires la
+   constellant. Les îles et les océans participaient d’une vision aussi
+   angoissante que merveilleuse du monde1 et suggéraient ensemble
+   l’itinéraire périlleux que se devait d’accomplir le navigateur, en
+   défiance des monstruosités marines et des peuplades indigènes décrites
+   massivement dans les cosmographies et les récits de voyage
+   d’autrefois2. Aussi l’aire océanique tendait-elle à constituer un lieu
+   indissociable de la peur ; c’est ce que soutient Jean Delumeau dans La
+   Peur en Occident :
+
+     Pour le plus grand nombre, elle [la mer] est restée longtemps,
+     dissuasion et par excellence le lieu de la peur. De l’Antiquité au
+     XIXème siècle, de la Bretagne à la Russie, les proverbes sont légion
+     qui conseillent de ne point se risquer en mer. (31)
+
+   Il semblerait, au regard de certaines œuvres fantastiques, que cette
+   sentimentalité négative et cette angoisse relatives aux étendues
+   aquatiques ne se soient nullement évanouies dans l’imaginaire de
+   l’homme moderne. Même si ce dernier peut parfois participer d’une
+   fascination poétique pour la mer et y voir, tel Lautréamont, la matrice
+   originelle de la vie ainsi que le refuge maternel et ultime de toute
+   existence animale3, il n’en demeure pas moins que l’appréhension
+   hostile des eaux est parvenue, en dépit du progrès des connaissances, à
+   se perpétuer. L’homme se trouve toujours soumis, bien malgré lui, à
+   l’horreur aquatique. La présente étude va, de fait, tenter de repérer
+   quelques cas remarquables, en littérature fantastique, de cette
+   continuité de la peur des eaux.
+
+   La peur obsédante des eaux ou l’horreur fascinée de la mer, bien qu’il
+   ne soit pas possible d’affirmer qu’il s’agisse là d’une matrice
+   indispensable à la création de monstres aquatiques, contribue
+   cependant, de façon générale, à accroître, sous les pinceaux d’une
+   écriture sensibilisée à de telles angoisses, l’impact terrifiant des
+   bêtes imaginées. On observe ainsi plusieurs écrivains fantastiques dont
+   l’œuvre se manifeste comme profondément empreinte de cette
+   sentimentalité négative pour les étendues d’eau. Au premier rang de
+   ceux-ci, il faudrait sans doute placer William Hope Hodgson, auteur
+   britannique qui fit trois fois le tour du monde en tant que marin dans
+   sa jeunesse, sans jamais voir décroître la profonde aversion qu’il
+   entretenait maladivement par rapport à l’océan. Toutefois des auteurs
+   tels que Maupassant, Lovecraft ou encore Cortázar seraient, sur ce
+   plan, tout à fait susceptibles de lui faire concurrence.
+
+   Rien de plus aisé, il est vrai, que de déceler cette angoisse des eaux,
+   en considérant l’œuvre de Julio Cortázar, par exemple. Le bestiaire
+   aquatique cortázarien (axolotl, tortue, piranha, etc.) ne présente
+   certes pas l’apparence des chimères monstrueuses d’un Hodgson ou encore
+   d’un Lovecraft, mais il suggère pleinement, en effet, le sentiment
+   d’une inquiétante étrangeté. Cette zoologie fantastique et anxiogène, à
+   vrai dire, révèle régulièrement sa contamination par la négativité de
+   son environnement vital, c’est-à-dire l’eau. L’élément aquatique, dans
+   les textes cortázariens, représente lisiblement le miroir d’une peur
+   archaïque propre au créateur lui-même. L’écrivain argentin confessa un
+   jour, d’ailleurs, à Omar Prego, l’origine très ancienne de cette phobie
+   des eaux profondes qui était la sienne4.
+
+   Les eaux, entendues comme un lieu où l’homme se retrouve hors de son
+   élément naturel et donc sujet à la pesanteur de ses angoisses voire de
+   sa solitude, représente un autre monde. Or, la peur qui s’insinue en
+   nous devant toute altérité constitue une peur dont l’essence même est
+   de provenir de notre incapacité de détermination ou d’identification.
+   Les eaux d’un océan, d’un lac ou d’un fleuve, dissimulent, sous leur
+   surface, l’origine profonde de cette peur qu’elles inspirent aux
+   hommes. L’être humain peut ressentir de l’angoisse face à l’immensité
+   marine, du seul fait qu’elle se dévoile comme un lieu privilégié de
+   l’indéterminable, du non-identifiable ; on ne sait pas ce qu’il y a
+   en-dessous ; on ne voit pas son dedans. « Voir le dedans de la mer,
+   c’est voir l’imagination de l’Inconnu. C’est voir du côté terrible »
+   (Hugo 241). T el est ce que Victor Hugo affirmait, dans Les
+   Travailleurs de la mer, en terminant par un rapprochement, sur ce
+   point, entre la nuit et le gouffre océanique : « Le gouffre est
+   analogue à la nuit » (241). Le regard endoscopique prenant pour sujet
+   la mer pourrait aussi s’apparenter au regard psychanalytique, autrement
+   dit à celui qui prend pour sujet l’être humain ; la pulsion scopique
+   dirigée vers l’intimité des eaux rejoindrait ainsi le désir de regarder
+   le dedans de l’homme. En ce sens, une nouvelle fantastique telle que
+   « Sur l’eau » de Maupassant pourrait se révéler des plus utiles en vue
+   de mettre en évidence l’angoisse humaine relative à l’univers
+   aquatique. Il y est fait état de la passion dévorante d’un canotier
+   pour la rivière où il officie5 ; une rivière que les nuits sans lune
+   rendent illimitée6, rendent donc, sur un plan symbolique, océanique.
+   Pourtant la différence est clairement établie entre la mer et la
+   rivière ; la première étant qualifiée de dure mais de loyale, tandis
+   que la seconde est définie comme silencieuse et perfide7. Le narrateur
+   de Maupassant, quant à lui, voguant sur l’eau de cette même rivière, ne
+   ressent nullement d’extase similaire à celle dudit canotier ; c’est
+   plutôt une peur absolue et impossible à déterminer rationnellement qui
+   se met à l’assaillir, cependant qu’un brouillard épais dissimule sa
+   barque ainsi que la surface des eaux enténébrées :
+
+     J’étais comme enseveli jusqu’à la ceinture dans une nappe de coton
+     d’une blancheur singulière, et il me venait des imaginations
+     fantastiques. Je me figurais qu’on essayait de monter dans ma barque
+     que je ne pouvais plus distinguer, et que la rivière, cachée par ce
+     brouillard opaque, devait être pleine d’êtres étranges qui nageaient
+     autour de moi. ( 93)
+
+   Il est certainement pertinent de penser que le brouillard et la nuit
+   contribuent beaucoup à l’angoisse de ce personnage, toutefois il
+   demeure frappant de constater que la peur véritable envahissant ce
+   dernier se traduit finalement par l’image de créatures étranges et
+   fantastiques surgissant des profondeurs aquatiques. Les eaux de
+   Maupassant semblent donc dissimuler une monstruosité intime, un refoulé
+   hydrique susceptible de refaire surface et s’avérant, par là même,
+   source d’angoisse, de peur inexplicable. Or, pour qui a lu ce récit
+   fantastique, la chute finale de l’histoire peut s’avérer
+   particulièrement signifiante ; en effet, ce qui se révèle au terme de
+   ce récit, sous les eaux noires et brumeuses de Maupassant, c’est la
+   mort. Cette rivière qui obsède le canotier et terrifie le narrateur,
+   recouvre et dissimule un cadavre, un être mort, que l’on finit par
+   ramener à la surface :
+
+     L’homme […] unit ses efforts aux nôtres ; alors, peu à peu, l’ancre
+     céda. Elle montait, mais doucement, et chargée d’un poids
+     considérable. Enfin nous aperçûmes une masse noire, et nous le
+     tirâmes à mon bord : c’était le cadavre d’une vieille femme qui
+     avait une grosse pierre au cou. (93)
+
+   Cette image de la noyée pourrait renvoyer aux eaux noires de Poe ;
+   renvoyer notamment au monstrueux surgissement de la dépouille meurtrie
+   de Mary Roget, à la surface de la Seine, cadavre dont l’auteur ne se
+   prive pas de procéder à une description clinique des plus éprouvantes
+   (« Le mystère de Marie Roget »)8. Un exemple qui contraste, il est
+   vrai, de par son insistance sur le caractère horrible des stigmates
+   laissés par la noyade, avec la figure de la noyée shakespearienne que
+   l’on découvre dans Hamlet, à savoir celle de la belle Ophélie, qui se
+   noie avec sa couronne de fleurs et dont la chair demeure aussi
+   immaculée que de son vivant. Ainsi l’idée de la mort s’intègre-t-elle
+   naturellement à l’imaginaire des eaux profondes ; le noyé jouant
+   symboliquement le rôle d’un refoulé faisant surface et aidant l’homme à
+   discerner la nature de cette peur indéterminée qu’il ressent vis-à-vis
+   du territoire aquatique. On peut dire qu’il existe une peur archaïque
+   de l’eau et du plus horrible de ses résidents, à savoir le noyé. Les
+   morts qui pullulent dans les textes où l’eau noire, l’eau profonde est
+   présente, qu’ils soient de Poe, de Hodgson ou encore de Maupassant,
+   participent tous de cette grande entreprise de sublimation de la
+   thanatophobie, l’angoisse primitive de la mort et du mort, que
+   quelques-uns attribuent à la littérature fantastique9. La relation
+   entre l’eau et la mort est favorisée, en outre, par le caractère
+   transitoire relatif à l’élément liquide ; ce qui fait que l’eau en
+   vient à suggérer, selon certaines interprétations, l’idée même d’une
+   mort perpétuelle :
+
+     L’eau est vraiment l’élément transitoire. Il est la métamorphose
+     ontologique essentielle entre le feu et la terre. L’être voué à
+     l’eau est un être en vertige. Il meurt à chaque minute, sans cesse
+     quelque chose de sa substance s’écoule. (Bachelard 13)
+
+   L’écoulement liquide est une métaphore majeure du temps historique et
+   linéaire. L’eau qui fuit entretient naturellement une symbolique
+   temporelle, tout comme l’eau noire tend à s’apparenter au sang ; le
+   sang qui « est redoutable à la fois parce qu’il est maître de la vie et
+   de la mort, mais aussi parce qu’en sa féminité il est la première
+   horloge humaine » (Durand 122). À travers ces quelques éléments, il est
+   possible d’entrevoir la densité symbolique qui concerne la peur des
+   eaux. La mer est un abîme où l’eau, qui dissimule son gouffre béant,
+   s’apparente à un piège tendu à l’être humain, afin le faire sombrer
+   vers la mort ou la folie. Aussi n’est-il pas étonnant, par exemple, de
+   voir Stevenson laisser rejaillir, dans son roman Les Gais lurons, un
+   certain caractère infernal à travers ses descriptions de la mer ; le
+   Diable10 et l’Enfer11 y sont, en effet, mis en cause concrètement comme
+   origines de la malignité et la malfaisance des océans. Dans Le Dit du
+   vieux marin, il est question néanmoins d’un phénomène océanique pouvant
+   susciter l’angoisse des marins autrement que par l’image de l’abîme ;
+   il s’agit du phénomène de la mer qui se fige et en vient à immobiliser
+   les navires. Le texte de S.T. Coleridge, qui nous conte les
+   mésaventures d’un marin voyageant dans les régions polaires12 et voyant
+   son bateau soudain paralysé sur la mer, évoque, à vrai dire, un
+   événement des plus naturels : la glaciation de l’océan et sa
+   transformation en banquise. Lecouteux nous explique, en quelques mots,
+   la prégnance de cette appréhension de la banquise dans l’imaginaire
+   médiéval :
+
+     L’Océan qui se fige […] est la vision mythique de la banquise. Nous
+     le retrouvons un peu sur toutes les mers, et il porte divers noms :
+     Oceans caligans (mer sombre), mare concretum, dans les textes en
+     ancien français : la mer betée, c’est-à-dire figée, mare coagulatum
+     (mer coagulée). (Lecouteux 14)
+
+   Le long poème de Coleridge n’est donc pas sans faire référence à cet
+   imaginaire du Moyen-Âge et offre une vision particulièrement
+   monstrueuse de la mer « coagulée », la décrivant comme un océan
+   pourrissant, en pleine suppuration, où se débattent des créatures
+   visqueuses13.
+
+   Bien des traditions légendaires, à vrai dire, attribuent aux eaux,
+   elles-mêmes, le caractère d’être vivantes et hostiles au genre humain,
+   au point d’entraîner quelquefois les nageurs vers les profondeurs et de
+   provoquer ainsi leur noyade :
+
+     Les eaux sont depuis toujours, chacun le sait, tenues pour des êtres
+     vivants, mais on a d’elles une opinion plutôt négative. Les contes
+     populaires savent nous le dire. […] C’est de cette crainte
+     permanente que vient la croyance en l’existence d’êtres au fond des
+     eaux, ceux qui s’appel leront plus tard Nix (masc.) et Nixe (fém.).
+     (Lecouteux. ADM. 157-158)
+
+   Les courants marins ou fluviaux qui happent le baigneur et le
+   conduisent à mourir noyé, se trouvent personnifiés à Madagascar, par
+   exemple, comme une espèce particulière de créatures surnaturelles
+   vivant aux fonds des eaux et que l’on nomme généralement « lolo rano »
+   ou « lolondrano » (fantôme des eaux), voire « biby rano » (bête des
+   eaux), dernier terme qui, dans le contexte malgache, peut aussi évoquer
+   le crocodile. Très curieusement, Lecouteux, dans une enquête sur le
+   culte de saint Nicolas et ses connexions avec certaines croyances
+   relatives à des démons ou divinités des eaux, nous apprend que le mot
+   « nicchus », qu’il relie naturellement au prénom du saint et qu’il
+   affirme proche originellement de « nix/nixe », pourrait se traduire
+   « crocodilus »14.
+
+   L’appétit carnassier et le caractère prédateur prêtés à la mer auront
+   trouvé, en aval de cette peur générée par l’élément hydrique, nombre
+   d’incarnations tératologiques à travers des créatures à l’origine
+   légendaire. Divers rites superstitieux de conjuration en
+   témoigneraient :
+
+     Polyphème, Scylla, Circé, les sirènes, les Strigones, Léviathan,
+     Lorelei : autant d’êtres menaçants qui vivent dans l’eau ou en
+     bordure de l’eau. Leur but commun est de happer les humains, de les
+     dévorer ou du moins, comme Circé, de leur faire perdre leur identité
+     d’homme. Aussi pour conjurer la mer faut-il lui sacrifier des êtres
+     vivants qui rassasieront – peut-être ? – son appétit monstrueux. Des
+     ex-voto napolitains de la fin du XVIème siècle présentent des
+     navires qui portent à leur proue une peau de mouton. C’était un rite
+     de conjuration de la mer. Au lancement du navire, on tuait un mouton
+     blanc, on arrosait le bateau de son sang et on conservait sa peau à
+     l’avant du bâtiment. (Delumeau 36)
+
+   Pourraient également être convoqués, dans cette optique, quelques-uns
+   de ces monstres lacustres ou marins peuplant l’imaginaire et la
+   mythologie des hommes : le Dragon, l’Hydre de Lerne, le Léviathan, le
+   Kraken – décrit par l’évêque danois Éric Pontoppidan, en 1752, dans son
+   Histoire naturelle de Norvège – ou bien encore les grands serpents de
+   mer. La peur des eaux, force est de le constater, se situe, en règle
+   générale, à la genèse et à la base de tout monstre aquatique exploité
+   sur un mode fantastique, tant et si bien qu’il est possible d’affirmer
+   que le premier des monstres marins n’est autre que la mer elle-même. En
+   littérature fantastique, cette peur aquatique, cristallisée à travers
+   de nombreuses figures tératologiques, semble s’être perpétuée et avoir
+   trouvé des répercussions spectaculaires ; les poulpes géants de Hodgson
+   (« La chose dans les algues »), les poissons-grenouilles de Lovecraft
+   (« Le cauchemar d’Innsmouth »), le requin persécuteur de Buzzati (« Le
+   K ») ou encore les méduséens axolotls de Cortázar (« Axolotl ») ne
+   prouveraient nullement le contraire. Affronter la mer, cet espace où la
+   monstruosité animale et le surnaturel peuvent émerger à tout moment,
+   représente, de fait, un acte héroïque puisque quasi suicidaire. Le
+   destin souvent réservé aux marins hodgsoniens n’est-il pas de finir
+   happés par la bête fantastique ou d’accompagner, au fond des eaux,
+   l’épave de leur bateau fracassé ? Poncif de l’écriture de William
+   Hodgson, la menace que la mer fait peser constamment sur l’existence
+   des matelots, hommes livrés sans défense à l’immensité vorace des eaux,
+   est symptomatique de sa tendance à placer, dans ses histoires,
+   l’élément aquatique, l’eau tout simplement15 , en position de prédateur
+   suprême ; si bien que ses bêtes fantastiques n’apparaissent finalement
+   plus que comme les « tentacules » symboliques d’un monstre plus vaste
+   encore : la mer hodgsonienne. L’homme se trouve en péril, dès lors
+   qu’il s’aventure sur le territoire marin16 ; ce fait contribue, par
+   conséquent, à conférer au marin, dans l’imaginaire de W.H. Hodgson, la
+   stature de modèle héroïque :
+
+     Le marin est le héros exemplaire pour Hodgson puisque sa situation
+     est le reflet de la condition humaine, vue sous un angle
+     fantastique. Il est seul, perdu au milieu des éléments déchaînés, ou
+     bien égaré parmi les éléments calmés […]. L’homme est alors en proie
+     à ses terreurs, sa solitude lui fait affronter ses propres
+     phantasmes qu’il engendre d’autant plus facilement dans cette
+     ambiance propice. Et la "Chose" peut alors surgir et s’emparer de
+     lui. (Truchaud 7)
+
+   La mer qui fait les épaves, la mer qui conduit aux naufrages, est
+   nécessairement monstrueuse ; la tempête rend l’eau violente et, selon
+   Bachelard, du même coup, masculine17. Elle tend ainsi à changer l’océan
+   en une figure de monstre engloutisseur. Si Stevenson, dans Les Gais
+   lurons, après avoir décrit la condition paradoxale d’un vieux marin
+   dévoré par la hantise de la mer18, se met à comparer la tempête à un
+   Léviathan furieux19, ce n’est sans doute pas pour une autre raison. La
+   vision mythologique de la mer n’est jamais très distante, lorsque l’on
+   se met à l’assimiler à une entité vivante. Elle peut être suggérée, par
+   exemple, à travers l’illusion de la puissance vorace, ainsi que l’eau
+   glaciale de l’océan, dans Le loup des mers de Jack London, se trouve
+   rapprochée, par le prisme métaphorique de la morsure, d’une gueule
+   broyant les os de l’être humain jeté à la mer20. Mieux encore, dans Les
+   travailleurs de la mer de Victor Hugo, plusieurs descriptions se
+   succèdent et agissent de manière à faire prendre, à la bestialité
+   carnassière de la mer, toute son ampleur :
+
+     Pas de bête comme la mer pour dépecer une proie. L’eau est pleine de
+     griffes. Le vent mord, le flot dévore ; la vague est une mâchoire.
+     C’est à la fois de l’arrachement et de l’écrasement. L’océan a le
+     même coup de patte que le lion. (Hugo 313)
+
+   Si la mer, ainsi que suggéré à travers cette étude, tend à incarner le
+   tout premier des monstres marins. Si, comme le prétend Hugo, la mer
+   constitue une bête prodigieusement vorace. Il n’en demeure pas moins
+   que l’homme de mer a pour nécessité de changer sa nature, de devenir
+   autre, s’il entend apprivoiser durablement l’étendue immense de ses
+   eaux. L’humanité, confrontée à l’univers aquatique, à ses angoisses et
+   à ses mystères, à sa sauvagerie et à son caractère implacable, se voit
+   contrainte à une mue symbolique ; laquelle peut se traduire à travers
+   une bestialisation (les pirates de Stevenson, le capitaine Achab de
+   Melville, etc.) ou à travers une surhumanisation (Ulysse, le capitaine
+   Nemo, etc.). Tel est bien le destin des hommes de mer : troquer leur
+   nature terrestre et strictement humaine, pour une nature adaptée à
+   l’élément aquatique et, dès lors, étrangement hybride.
+
+   Il n’est pas étonnant, par conséquent, de constater que l’animalisation
+   du marin représente un phénomène récurrent à travers la littérature. La
+   mer, sauvage, âpre et bestiale, confère aux hommes qui s’associent à
+   son destin, des caractéristiques identiques aux siennes. Ainsi, les
+   chasseurs de phoques décrits par Jack London, dans Le loup des mers,
+   répondraient ostensiblement à cette tendance ; voyageant depuis des
+   années sur leur goélette, ces hommes de mer semblent avoir perdu
+   certains traits propres à leur humanité, pour acquérir des caractères
+   plus ou moins bestiaux ; on nous parle, de fait, d’hommes à l’allure
+   simiesque, ayant des « corps robustes avec une tête d’enfant » (London
+   44), voire, plus radicalement, d’êtres mi-humain mi-bête, au langage
+   grossier et émaillé de grognements21. Cependant, la palme semble devoir
+   revenir au capitaine de cette goélette, dont le narrateur dessine un
+   portrait d’homme préhistorique, aux traits simiesques particulièrement
+   prononcés et animé d’une vigoureuse vie animale22. Autre type d’hommes
+   de mer représentant, en considération de leurs actes sanguinaires et de
+   leur marginalité sociale, la cible privilégiée de l’animalisation
+   littéraire : les pirates. Stevenson (L’île au trésor) ou encore Hodgson
+   (Les pirates fantômes) ont su exploiter, dans leur fiction, cette
+   figure de « bête humaine » assoiffée de sang23 et à l’apparence souvent
+   terrifiante24, qui s’attache au personnage du forban. Les pirates,
+   mieux que tout autre catégorie de marins, se fondent à la sauvagerie et
+   à l’impétuosité de l’océan ; ils incarnent, de manière ostensible,
+   l’hostilité viscérale et la violence de cet enfer que peut devenir la
+   mer ; ils en sont les démons anthropophages.
+
+   À l’inverse, certains héros marins de la littérature, confrontés
+   également aux exigences de la vie sur les océans, en sont venus à
+   dévoiler une stature tendant vers la surhumanité. Les modèles
+   exemplaires que constituent, en la circonstance, Ulysse et le capitaine
+   Nemo, ces deux navigateurs « surhumains », dévoileraient combien
+   l’homme est susceptible d’acquérir de la grandeur, dès lors qu’il
+   parvient à dompter l’immensité océane par la puissance de son
+   intelligence. Le capitaine Nemo, inventeur du Nautilus, s’élève
+   naturellement, dans sa position d’être humain face à la mer, au-dessus
+   du commun des mortels ; de même qu’Ulysse, malgré une odyssée longue de
+   plusieurs décennies, parvient finalement à bon port et triomphe donc,
+   grâce à son intelligence légendaire, de tous les pièges tendus par la
+   mer. Nemo comme Ulysse incarnent, à vrai dire, des hommes qui ont tenté
+   d’imposer à l’océan leur propre empire, dans une démarche mégalomane et
+   au prix d’une témérité surhumaine. Or, si la mer les a souvent châtiés
+   pour cette arrogance (pensons aux pieuvres géantes attaquant le
+   Nautilus et aux monstres peuplant l’Odyssée), il n’en demeure pas moins
+   qu’ils ont, malgré tout, dans l’imaginaire, conservé entière l’aura de
+   leur posture héroïque. La mer ne les a nullement anéantis, mais a
+   plutôt contribué à les célébrer. C’est bien à l’océan que ces hommes
+   doivent les marques les plus flamboyantes de leur noblesse, leur
+   dimension chevaleresque, de telle sorte qu’ils ne pourraient jamais en
+   être dissociés. Il est pertinent de signaler, d’ailleurs, que, parmi
+   les divers surnoms attribués à l’extraordinaire Ulysse, le héros à
+   mètis de l’imaginaire grec, la plupart sont relatifs au poulpe ou à la
+   figure tentaculaire :
+
+     Pour toute la tradition grecque, il porte un nom : Ulysse, le
+     polúmētis, celui-là même dont Eustache disait : c’est un poulpe.
+     Mais le poulpe ne caractérise pas seulement un type de comportement
+     humain. Il sert également de modèle à une forme d’intelligence : le
+     polúplokonnóēma, une intelligence en tentacules (Vernant et Detienne
+     47).
+
+   La faculté de l’individu doué de mètis était, avant tout, la
+   polymorphie, c’est-à-dire la capacité de s’adapter justement à la
+   réalité multiple et changeante du monde qui l’entourait, afin de la
+   mieux dominer et de surpasser, du même coup, d’éventuels adversaires25.
+   Ainsi le plus rusé de tous les héros de la mythologie grecque, à savoir
+   Ulysse, unanimement déclaré comme homme à mètis, s’est-il trouvé
+   associé au poulpe comme à une figure zoomorphe. Cela laisse donc
+   entendre combien l’intelligence retorse et de l’art de la feinte
+   démontrés par le roi d’Ithaque était solidaire du domaine marin ;
+   Ulysse, plus qu’un homme de mer, semble incarner un être de la mer, un
+   « poulpe humain », l’apothéose de la mètis, la figure suprême de
+   l’intelligence à tentacules.
+                              _________________
+
+   Jean William Cally est en quatrième année de doctorat dans le
+   département de littérature française et comparée à l' Université de La
+   Réunion. Il est l' auteur de Kapali, la légende du Chien des cannes ,
+   publié aux éditions Orphie (coll.« Prix de l’océan Indien », 2003) et
+   aux éditions L' Harmattan (coll. « Lettres de l’océan Indien », 2005).
+   Il a obtenu plusieurs prix littéraires et cinématographiques, tels que:
+   Prix de l’océan Indien de la Nouvelle en 2000, Prix spécial du Jury de
+   l’océan Indien en 2003, Prix Universitaire de La Nouvelle (Université
+   de La Réunion) en 1997 et en 2003, Prix de la Fiction , Festival du
+   Film Étudiant de l’Université de La Réunion, pour le court-métrage
+   fantastique créole Bébèt Toute (Kapali Studios CCFC), en avril 2005.
+                              _________________
+
+  Notes:
+
+   1 « L’Océan et les îles s’intègrent dans une vision merveilleuse du
+   monde, toute contrée méconnue ou lointaine se voit peuplée de toutes
+   sortes de merveilles. » (Lecouteux.ADM. 30)
+
+   2 « Que l’océan soit l’itinéraire privilégié des démons, c’est ce que
+   croit, au début du XVIIème siècle, le célèbre et sinistre magistrat de
+   Lancre, bourreau du Pays basque. […]. Douterait-on du caractère
+   démoniaque de la mer qu’on en serait vite convaincu par la multitude et
+   l’énormité des monstres qui l’habitent et que décrivent à l’envi
+   "Cosmographies" et récits de voyages de la Renaissance. » (Delumeau 40)
+
+   3 « L’eau constitue effectivement l’une des substances élémentaires de
+   base de l’univers imaginaire de Lautréamont : sorte de toile de fond,
+   elle accuse plusieurs autres leitmotive des Chants[…]. L’hymne chanté à
+   la gloire des eaux installe l’océan au cœur de la thématique
+   lautréamontienne, comme matrice primitive d’où viennent tous les
+   animaux et toutes les masses visqueuses, et comme abri ultime,
+   possibilité et projection d’une diffusion de l’être.» (Pickering 47-48)
+
+   4 « À vrai dire, l’eau en grande quantité m’effraie et je ne l’aime
+   pas. J’aime me baigner sur une plage mais dans des conditions d’absolue
+   sécurité ; je me méfie toujours de l’eau. Je ne nage jamais là où je
+   n’ai pas pied, il faut que je sois sûr que s’il m’arrive quelque chose
+   j’ai un point d’appui et je peux sortir de l’eau. […]. La peur de me
+   noyer est une peur chargée de je ne sais quoi, de quelque chose de
+   pathologique, qui vient peut-être de ce qu’étant petit, mon professeur
+   de natation m’a jeté à l’eau, croyant que c’était le meilleur système
+   pour que je surmonte ma peur. J’ai cru que je me noyais et j’en ai
+   conçu un tel effroi que je suis resté longtemps sans vouloir
+   m’approcher de cette piscine, même en passant. J’avais neuf ans à
+   l’époque. Cela a dû me marquer… » (Cortázar 247-248)
+
+   5 « Il avait dans le cœur une grande passion, une passion dévorante,
+   irrésistible : la rivière. » (Maupassant 89)
+
+   6 «… dans l’ombre, quand il n’y a pas de lune, la rivière est
+   illimitée. » (90)
+
+   7 « Un marin n’éprouve point la même chose pour la mer. Elle est
+   souvent dure et méchante, c’est vrai, mais elle crie, elle hurle, elle
+   est loyale, la grande mer ; tandis que la rivière est silencieuse et
+   perfide. » (90)
+
+   8 « Le visage était arrosé de sang noir, qui jaillissait en partie de
+   la bouche. Il n’y avait pas d’écume, comme en voit dans le cas de
+   personnes simplement noyées. Pas de décoloration dans le tissu
+   cellulaire. Autour de la gorge se montraient des meurtrissures et des
+   impressions de doigts. Les bras étaient repliés sur la poitrine et
+   roidis… » (Poe 53)
+
+   9 «.. le fantastique macabre n’est pas un simple reflet de nos
+   angoisses, mais bien plutôt un recours contre la thanatophobie, ce que
+   nous opposons à l’opacité terrifiante de la mort. » (Guirlinger 31)
+
+   10 « Et, ma foi, si ce n’était imprimé dans la Bible, je serais fort
+   tenté de croire que ce n’est pas le Seigneur, mais le grand diable noir
+   qui a créé la mer. » (Stevenson 23)
+
+   11 « La mer est bien voisine de l’enfer ! » (23)
+
+   12 « Les falaises de neige, à travers les rafales,/ Sur les flots
+   renvoyaient une clarté sinistre ; / Point ne rencontrions forme humaine
+   ou de bête,/ La glace, de tous les côtés, nous entourait. » (Coleridge
+   26-27)
+
+   13 « Jusques aux profondeurs qui pourrissaient : ô Christ ! De
+   pareilles horreurs sont-elles donc possibles ? Oui, des êtres, tout en
+   pattes, grouillaient sur la putridité de cette mer visqueuse »  (29)
+
+   14 « Il n’est guère étonnant que le culte de saint Nicolas se soit
+   fondu avec la croyance en des démons ou des divinités des eaux puisque
+   Nicolas était le patron des bateliers. Qu’il y ait eu un rapport
+   quelconque entre le saint et le nicchus, […], ne peut faire de doute.
+   Peut-être l’identité de la syllabe Nic/Nick a-t-elle contribué au
+   rapprochement des deux personnages, mais nous ignorons encore pourquoi
+   nicchus traduit crocodilus. Que ce soit bien clair : nicchus désigne à
+   l’origine une divinité des eaux, d’où la glose notkérienne
+   nichussa/nympha ; mais celle-ci a pris différente formes selon les
+   régions – cheval, animal ou homme monstrueux.» (Lecouteux. ADM. 160)
+
+   15 « L’eau, toujours. Elle continue de le hanter. Les algues tissent sa
+   surface de pièges immondes où se font prendre les hommes, et cachent
+   dans leurs profondeurs des créatures voraces. » (Arous 54)
+
+   16 « Sur mer, l’homme est sans défense, livré aux forces mystérieuses
+   qui peuvent surgir des profondeurs ou des brumes. » (Raymond et Compère
+   91)
+
+   17 « D’abord, dans sa violence, l’eau prend une colère spécifique ou,
+   autrement dit, l’eau reçoit facilement tous les caractères
+   psychologiques d’un type de colère. Cette colère, l’homme se vante
+   assez rapidement de la mater. Un duel de méchanceté commence entre
+   l’homme et les flots. L’eau prend une rancune, elle change de sexe. En
+   devenant méchante, elle devient masculine. » (Bachelard 23)
+
+   18 « Une crainte de la mer, une hantise constante de la pensée de la
+   mer, se révélaient dans ses propos et dans ses dévotions, voire dans
+   ses regards alors qu’il se taisait. » (Stevenson 58)
+
+   19 « Parfois, la tempête dans toute sa force empoignait et secouait la
+   maison, des quatre coins, en rugissant comme un Léviathan furieux. »
+   (59)
+
+   20 « L’eau était glacée et sa morsure me causait des souffrances
+   intolérables, comme si j’avais été plongé dans un brasier. J’étais
+   broyé jusqu’à la moelle des os dans un étau qui ressemblait à
+   l’étreinte de la mort. » (London 16)
+
+   21 « Mi-hommes, mi-bêtes, les chasseurs de phoques continuaient leur
+   discussion, émaillée de grognements et de jurons obscènes. » (45)
+
+   22 « Il m’évoquait ces ancêtres préhistoriques, tels que notre
+   imagination se plaît à les décrire : modèle des races humaines
+   d’aujourd’hui, ébauche farouche et féroce de ce que nous sommes
+   devenus, et plus proche du singe courant dans les arbres que du citoyen
+   des villes. Une vie animale imprégnait totalement le personnage : cette
+   vie tenace qui fait encore s’agiter le corps d’un serpent décapité ou
+   tressaillir un morceau de chair de tortue quand on la gratte avec le
+   doigt. » (25)
+
+   23 « Qu’ils soient fantômes ou qu’ils n’en soient pas, je suis sûrs que
+   ce sont des pirates assoiffés de sang. » (Hodgson 149)
+
+   24 On peut penser au célèbre pirate amputé de L’île au trésor de R.L.
+   Stevenson, « Chien noir », dont le surnom seul suffit à laisser
+   entendre la figuration bestiale.
+
+   25 «… l’individu doué de mètis, qu’il soit dieu ou homme, lorsqu’il est
+   confronté à une réalité multiple, changeante, que son pouvoir illimité
+   de polymorphie rend presque insaisissable, ne peut la dominer,
+   c’est-à-dire l’enclore dans la limite d’une forme unique et fixe, sur
+   laquelle il a prise, qu’en se montrant lui-même plus multiple, plus
+   mobile, plus polyvalent que son adversaire. » (Vernant et Détienne 11)
+
+  Bibliographie
+
+   AROUS, Simone. « William Hope Hodgson : le silence de la peur ».
+   Magazine Littéraire. 1 er Juillet 2003, 54.
+
+   BACHELARD, Gaston. L’eau et les rêves. Paris : LGF, « Biblio-Essais »,
+   1996.
+
+   COLERIDGE, Samuel Taylor. Le Dit du Vieux Marin. Paris : José Corti,
+   « Collection romantique », 1998.
+
+   CORTÁZAR, Julio. Entretiens avec Omar Prego. Paris : Gallimard,
+   « Folio-Essais », 1986.
+
+   DELUMEAU, Jean. La Peur en Occident. Paris : Fayard, 1978.
+
+   DURAND, Gilbert. Les structures anthropologiques de l’imaginaire.
+   Paris, Dunod, 1992.
+
+   GUIRLINGER, Lucien. « La mort ou la représentation de
+   l’irreprésentable ». Les Représentations de la mort. Ed. GARREAU,
+   Bernard-Marie. Rennes : Presses Universitaires de Rennes, « Actes du
+   colloque du CRELLIC », 2002. 21-35.
+
+   HODGSON, William Hope. Les Pirates fantômes. Rennes : Terre de Brume,
+   « Terres fantastiques », 2002.
+
+   HUGO, Victor. Les travailleurs de la mer. Genève : Georges Naef, 1994.
+
+   LECOUTEUX, Claude, « La mer et ses îles au Moyen Âge : un voyage dans
+   le merveilleux. » Démons et Merveilles – Le surnaturel dans l’océan
+   Indien . Eds. TERRAMORSI, Bernard, MARIMOUTOU Carpanin, MAGDELAINE,
+   Valérie. Saint-André (La Réunion) : Océan Éditions, 2005. 10-24.
+
+   _________. Au-delà du merveilleux. Paris : Presses de l’Université de
+   Paris-Sorbonne, « Cultures et Civilisations médiévales », 1995.
+
+   LONDON, Jack. Le loup des mers. Paris : Gallimard, « Folio », 1995.
+
+   MAUPASSANT, Guy (de). « Sur l’eau. » Contes fantastiques. Bruxelles :
+   Marabout, 2001.
+
+   PICKERING, Robert. Lautréamont Ducasse thématique et écriture. Paris :
+   Lettres Modernes, « Situation », 1988.
+
+   POE, Edgar Allan. « Le mystère de Marie Roget ». Double assassinat dans
+   la rue Morgue. Paris : Librio, 1996.
+
+   RAYMOND, François et COMPÈRE, Daniel. Les maîtres du Fantastique en
+   littérature. Paris : Bordas, « Les Compacts », 1994.
+
+   STEVENSON, Robert Louis. Les Gais lurons. Paris : Mille et une nuits,
+   1994.
+
+   TRUCHAUD, François. « Préface ». La Maison au bord du Monde. Ed.
+   HODGSON, William Hope. Paris : Éditions Opta, « Aventures
+   fantastiques », 1971.
+
+   VERNANT, Jean-Pierre et DÉTIENNE, Marcel, Les ruses de l’intelligence –
+   la métis des Grecs , Paris : Flammarion, « Champs », 1995.
+                              _________________
+
+   Equinoxes Contact : [email protected] |
+   www.brown.edu/Research/Equinoxes
+   Department of French Studies, Brown University, Box 1961, Providence,
+   RI 02912

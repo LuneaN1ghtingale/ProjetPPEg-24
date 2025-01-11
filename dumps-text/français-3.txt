@@ -1,0 +1,629 @@
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Composition de l'ouvrage
+     * 2 L'étrange et le merveilleux
+       (BUTTON) Afficher / masquer la sous-section L'étrange et le
+       merveilleux
+          + 2.1 L'étrange
+          + 2.2 Le merveilleux
+     * 3 Aux frontières du fantastique
+     * 4 L'allégorie et la poésie
+     * 5 Les caractéristiques du discours fantastique
+     * 6 Les thèmes du fantastique
+       (BUTTON) Afficher / masquer la sous-section Les thèmes du
+       fantastique
+          + 6.1 Les thèmes du « je »
+          + 6.2 Les thèmes du « tu »
+     * 7 Littérature et fantastique
+     * 8 Réflexions théoriques sur la démarche du poéticien
+     * 9 Références
+     * 10 Liens externes
+     * 11 Bibliographie
+
+   [ ] Basculer la table des matières
+
+Introduction à la littérature fantastique
+
+   [ ] 1 langue
+     * Italiano
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+   ici pour en savoir plus.
+
+   Cet article ne cite pas suffisamment ses sources (octobre 2014).
+
+   Si vous disposez d'ouvrages ou d'articles de référence ou si vous
+   connaissez des sites web de qualité traitant du thème abordé ici, merci
+   de compléter l'article en donnant les références utiles à sa
+   vérifiabilité et en les liant à la section « Notes et références ».
+
+   En pratique : Quelles sources sont attendues ? Comment ajouter mes
+   sources ?
+
+   Introduction à la littérature fantastique est un essai de Tzvetan
+   Todorov paru en France en 1970.
+
+Composition de l'ouvrage
+
+   [modifier | modifier le code]
+
+   Le livre comporte dix chapitres :
+    1. Les genres littéraires ^[1];
+    2. Définition du fantastique ^[2];
+    3. L'étrange et le merveilleux ^[3];
+    4. La poésie et l'allégorie^[4] ;
+    5. Le discours fantastique^[5] ;
+    6. Les thèmes du fantastique : introduction^[6] ;
+    7. Les thèmes du « je »^[7] ;
+    8. Les thèmes du « tu » ^[8];
+    9. Les thèmes du fantastique : conclusion^[9] ;
+   10. Littérature et fantastique^[10].
+
+L'étrange et le merveilleux
+
+   [modifier | modifier le code]
+
+L'étrange
+
+   [modifier | modifier le code]
+
+   Lorsque le texte, en apparence surnaturel, débouche sur une
+   interprétation rationnelle, dans laquelle ce sont les lois naturelles
+   qui prédominent, il entre alors dans la catégorie de « l'étrange ». On
+   trouve différents exemples de ce genre dans le roman noir où prévalent
+   deux tendances : le « surnaturel expliqué » (chez Clara Reeve et Ann
+   Radcliffe) ou celle du « surnaturel accepté » (ou du « merveilleux »
+   chez Horace Walpole, Lewis et Maturin). « Dans l'étrange, on ramène
+   l'inexplicable à des faits connus, à une expérience préalable et par
+   là, au passé. »
+
+   Ce genre se retrouve dans la littérature d'horreur, dans les romans de
+   Dostoïevski.
+
+Le merveilleux
+
+   [modifier | modifier le code]
+
+   Dans le cas du merveilleux, les événements ne provoquent aucune
+   réaction particulière ni chez les personnages, ni chez le lecteur
+   implicite. On lie souvent le merveilleux aux contes de fées, pourtant
+   cette catégorie les dépasse largement. Les Mille et Une Nuits devrait
+   être caractérisé de conte merveilleux et non de conte de fées.
+
+   Le merveilleux hyperbolique : Les phénomènes sont surnaturels car les
+   unités de mesure sont beaucoup plus grandes que celles que nous
+   connaissons. Sinbad le marin, par exemple, affirme avoir vu des
+   « poissons longs de cent et deux cents coudées ». Tout est exagérément
+   décrit.
+
+   Le merveilleux exotique : On raconte des histoires de pays étrangers au
+   lecteur. Pourtant, ces histoires ne sont pas vraisemblables. Le
+   rhinocéros se bat avec l'éléphant et tombe aveuglé par son sang. Un roc
+   les enlève et les emporte.
+
+   Le merveilleux instrumental : Apparaissent ici des objets irréalisables
+   à l'époque décrite. Le merveilleux instrumental se rapproche du
+   merveilleux scientifique, qu'on appelle aujourd'hui la science-fiction.
+   Ici, le surnaturel est expliqué d'une manière rationnelle mais à partir
+   de lois que la science contemporaine ne reconnaît pas. Pensons au
+   « magnétisme » qui relève du surnaturel et que l'on retrouve dans le
+   Spectre fiancé, Le Magnétiseur de Hoffmann ou Un fou ? de Maupassant.
+
+Aux frontières du fantastique
+
+   [modifier | modifier le code]
+
+   Le fantastique-étrange : Des événements qui paraissent surnaturels tout
+   au long de l'histoire, y reçoivent à la fin une explication
+   rationnelle. Le Manuscrit de Saragosse en est un bel exemple. Tous les
+   miracles y sont rationnellement expliqués en fin de récit. Souvent, les
+   hasards, les coïncidences, le rêve, l'influence des drogues, l'illusion
+   des sens, la folie tentent de réduire le surnaturel et permettent de
+   donner une explication rationnelle à un phénomène qui ne l'était pas au
+   départ. La nouvelle d'Edgar Allan Poe La Chute de la maison Usher
+   illustre un étrange proche du fantastique. La sœur de Roderick Usher se
+   lève de son tombeau, alors qu'elle est censée être morte et se jette
+   dans les bras de son frère. Tous les deux meurent. La maison s'écoule
+   alors. Poe donne une explication rationnelle à la « résurrection » de
+   la sœur : « des crises fréquentes, quoique passagères, d'un caractère
+   presque cataleptique, en étaient les diagnostics très singuliers ».
+   Chez Poe, on ne trouve pas de contes fantastiques à proprement parler,
+   sauf peut-être les Souvenirs de M. Auguste Bedloe ou le Chat noir. Ses
+   nouvelles relèvent presque toutes de l'étrange et quelques-unes du
+   merveilleux.
+
+   Le fantastique-merveilleux : Il se caractérise par l'existence et
+   l'acceptation d'événements surnaturels. La Morte amoureuse de Théophile
+   Gautier en est un bel exemple. Un moine, Romuald, tombe amoureux de
+   Clarimonde et assiste à sa mort. Celle-ci le hante encore dans ses
+   rêves. Il ne mène plus une vie austère, mais vit à Venise avec
+   Clarimonde qui se maintient en vie grâce à son sang, qu'elle vient
+   sucer pendant la nuit. Romuald n'y voit pas une illusion des sens, mais
+   croit en l'intervention du diable. Un autre abbé, Sérapion, viendra
+   apporter la preuve formelle qu'il s'agit bien de l'influence d'un être
+   maléfique. Il ira déterrer le cercueil de Clarimonde, aussi fraîche que
+   le jour de sa mort, une goutte de sang aux lèvres. Saisi d'une pieuse
+   colère, il jettera de l'eau bénite sur le cadavre qui tombera en
+   poussière. Véra de Villiers de L'Isle Adam fonctionne également sur ce
+   même principe.
+
+L'allégorie et la poésie
+
+   [modifier | modifier le code]
+
+   La poésie ne peut être fantastique, même s'il existe des anthologies de
+   poésie fantastique, car elle n'est pas fictive. Elle renvoie de par son
+   étymologie à la création et offre différentes visions du monde en
+   passant par un travail sur le rythme, les sonorités et le discours
+   émotif.
+
+   De même, l'utilisation du sens allégorique écarte une interprétation
+   purement fantastique du texte. En effet, l'allégorie implique
+   l'existence d'au moins deux sens pour les mêmes mots, mais le sens
+   littéral doit s'effacer au profit du sens allégorique (figuré). Il n'y
+   a donc plus de place pour l'hésitation propre au fantastique.
+
+   Dans Riquet à la houppe, par exemple, Perrault conclut son histoire par
+   une morale symbolique. Le surnaturel n'a plus cours : « Ce que l'on
+   voit dans cet écrit / Est moins un conte en l'air que la vérité même. /
+   Tout est beau dans ce que l'on aime ; / Tout ce qu'on aime à de
+   l'esprit. » Riquet à la houppe est devenu beau aux yeux de la
+   princesse, non parce qu'il s'est transformé physiquement, mais parce
+   que l'amour de la jeune femme l'a transfiguré.
+
+   Dans L'homme à la cervelle d'or d'Alphonse Daudet, l'allégorie
+   prédomine également dans l'épilogue. L'homme est obligé tout au long du
+   récit de vendre une partie de sa cervelle pour vivre. Il sait qu'il
+   perd par ce commerce une partie de son intelligence, mais ne peut y
+   remédier. Cette histoire devient fable universelle et illustre
+   symboliquement le destin de nombreux artistes, obligés de « faire du
+   pain de leur intelligence », connaissant les souffrances de l'homme à
+   la cervelle d'or.
+
+   Dans La Peau de chagrin de Balzac, le fantastique est tué par
+   l'allégorie qui s'indique indirectement. La peau est une allégorie de
+   la vie et de ses désirs exaucés. Chaque fois qu'un désir est assouvi,
+   la peau se rétracte. Lorsqu'elle est réduite à néant, l'homme qui la
+   détient, meurt.
+
+   Cette théorie est également développée pour Véra de Villiers de L'Isle
+   Adam, William Wilson de Poe et Le Nez de Gogol.
+
+Les caractéristiques du discours fantastique
+
+   [modifier | modifier le code]
+    1. Emploi du discours figuré : Véra n'est autre que le développement
+       au sens propre d'une expression figurée : « L'amour est plus fort
+       que la mort ». Les comparaisons et les métaphores introduisent le
+       surnaturel et le nourrissent. Certaines comparaisons, dans Véra
+       suggèrent la résurrection par exemple.
+    2. L'énonciation : Le narrateur est souvent utilisé à la
+       1^re personne, cela permet une meilleure identification du lecteur
+       et introduit le doute inhérent au fantastique: dit-il la vérité ?
+       Ment-il ? Est-il fou ? Dans La Vénus d'Ille, si le
+       fantastique-merveilleux apparaît, c'est précisément parce que les
+       indices du surnaturel sont observés par un narrateur archéologue et
+       digne de confiance, tout pénétré des certitudes de la science.
+    3. La composition : D'après Penzoldt, on observe une gradation dans le
+       discours fantastique qui se caractérise par l'importance de l'effet
+       final. Pensons à la mort du personnage principal dans La Vénus
+       d'Ille que la statue semble avoir tué et qui est amenée peu à peu.
+       La femme de bronze a d'abord un air vivant. Le personnage affirme
+       ensuite qu'elle lui a serré le doigt. À la fin, des marques sont
+       retrouvées sur son corps ainsi que la bague. Sommes-nous en
+       présence d'un pygmalion hallucinant ou la statue s'est réellement
+       animée ? Si cette théorie de la gradation fonctionne pour bon
+       nombre de nouvelles de Poe et pour celle de Mérimée, elle n'est pas
+       généralisable à Maupassant par exemple où la première apparition
+       est souvent le point culminant de la nouvelle.
+
+Les thèmes du fantastique
+
+   [modifier | modifier le code]
+
+   Les thèmes du fantastique se définissent comme une perception
+   particulière d'événements étranges qui produisent un effet particulier
+   sur le lecteur : peur, horreur ou simplement curiosité. Ce genre
+   entretient le suspense, la présence d'éléments fantastiques favorise
+   cette tension.
+
+   Todorov remet en question la critique thématique, dont le meilleur
+   représentant est J-P Richard. Il poursuit son argumentation en mettant
+   en cause certains théoriciens de la littérature fantastique, tels que
+   Penzoldt ou Roger Caillois qui superposent les thèmes sans leur donner
+   une cohérence interne. Il cite Caillois et ses classes thématiques: le
+   pacte avec le démon (Faust), le spectre condamné à une course
+   désordonnée (Melmoth), la « chose » indéfinissable et invisible, mais
+   qui pèse et qui est présente (Le Horla), les vampires (nombreux
+   exemples), la statue, le mannequin, l'armure, l'automate qui soudain
+   s'animent et acquièrent une redoutable indépendance (La Vénus d'Ille)…
+
+   Todorov s'oppose à cette méthode qui vise à classer des thèmes
+   indépendamment les uns des autres. Il explique qu'on ne peut isoler un
+   thème de l'histoire. Les deux sont corrélativement liés. Pour lui, les
+   critiques se sont contentés de dresser des listes d'éléments
+   surnaturels sans réussir à en faire ressortir l'organisation.
+
+Les thèmes du « je »
+
+   [modifier | modifier le code]
+
+   Dans Les Mille et Une Nuits, l'histoire du second calender fait
+   ressortir plusieurs thèmes. Le premier est celui de la métamorphose. Un
+   homme se transforme en singe, tandis que le génie se métamorphose en
+   vieillard, en lion et en gros scorpion. L'autre thème tient à
+   l'existence même d'êtres surnaturels, tels que le génie et la
+   princesse-magicienne et à leur pouvoir sur la destinée humaine. Ces
+   derniers ont pour fonction, en général, de suppléer à une causalité
+   déficiente. Ils remplacent ce que nous appelons communément : le
+   hasard, la chance. Il reprend pour étayer son argumentation une phrase
+   d'Erckmann-Chatrian : « Le hasard, qu'est-ce, après tout, sinon l'effet
+   d'une cause qui nous échappe ? » Ce type de récit privilégie le
+   pan-déterminisme, c'est-à-dire que tout doit avoir une cause; le
+   recours au surnaturel est habituellement un bon moyen de pouvoir tout
+   expliquer.
+
+   Le pan-déterminisme se rencontre chez Nerval, dans Aurélia notamment.
+   Rien n'est l'effet du hasard : l'heure à laquelle on est né, le nom de
+   la chambre, tout est chargé de sens. On trouve généralement aussi un
+   effacement des limites entre le physique et le mental. À Nerval
+   d'ajouter : « Mais, selon ma pensée, les événements terrestres étaient
+   liés à ceux du monde invisible. » Pareille rupture des limites entre
+   matière et esprit était considérée, au XIX^e siècle, par les
+   psychiatres, comme la première caractéristique de la folie. Le
+   psychotique était défini comme incapable de distinguer le perçu et
+   l'imaginaire. Cette abolition des frontières entre visible et invisible
+   se rencontre aussi chez les humains ayant ingéré de la drogue. Elle a
+   pour conséquence l'effacement des limites entre sujet et objet, le
+   temps est souvent suspendu comme on le déclare au narrateur d'Aurélia :
+   « Le temps est mort : désormais, il n'y aura plus ni années, ni mois,
+   ni heures ». L'espace est également transformé.
+
+   En somme, la mise en question de la limite entre matière et esprit
+   engendre plusieurs thèmes : le pan-déterminisme, la multiplication de
+   la personnalité (liée à la métamorphose : on est plusieurs personnes en
+   même temps mentalement, on le devient physiquement), la rupture de la
+   limite entre sujet et objet, la transformation du temps et de l'espace.
+   On remarque qu'il existe une correspondance entre les thèmes
+   fantastiques et les catégories qui servent à définir le monde du
+   drogué, du psychotique ou du jeune enfant (théorie de Piaget), c'est
+   pourquoi le titre Les thèmes du « je » a été retenu.
+
+Les thèmes du « tu »
+
+   [modifier | modifier le code]
+
+   Un des premiers thèmes explorés par Todorov, concernant les thèmes du
+   « tu » est la sexualité. Louis Lambert de Balzac ou Le Club des
+   hachichins de Gautier sont cités pour illustrer cet élan d'une
+   puissance insoupçonnée. Le désir sexuel exerce sur Ambrosio, le héros
+   du Moine de Lewis, une emprise exceptionnelle. Son intensité est
+   parfois trop grande et conduit à certaines dérives comme le viol manqué
+   d'Antonia : « Son cœur lui battait dans la bouche, tandis que de l'œil
+   il dévorait ces formes qui allaient bientôt être sa proie (…). Il
+   éprouva un désir vif et rapide qui l'enflamma jusqu'à la frénésie. » Le
+   désir est généralement incarné par la figure surnaturelle du
+   « diable », synonyme de « libido ». La séduisante Mathilde, dans Le
+   Moine est « un esprit secondaire, mais malin », serviteur fidèle de
+   Lucifer.
+
+   La littérature fantastique explore tous les interdits liés à la
+   sexualité, elle brise les tabous en faisant intervenir le surnaturel.
+   L'inceste constitue une de ces variétés les plus fréquentes. Pensons à
+   Peau d'âne de Perrault, au père criminel, amoureux de sa fille, mais
+   aussi à « l'histoire du premier calender » dans Les Mille et une nuits
+   qui rapporte l'amour entre un frère et une sœur. Dans Le Moine,
+   Ambrosio tombe amoureux de sa propre sœur Antonia, la viole et la tue
+   après avoir assassiné leur mère.
+
+   L'homosexualité est une autre variété d'amour charnel. Dans Vathek de
+   Beckford, la relation entre Alasi et Firouz est homosexuelle, même si
+   plus tard on découvrira que le prince Firouz n'est autre que la
+   princesse Firouzah. L'ambiguïté sur le sexe de la personne est très
+   prisée de la littérature fantastique.
+
+   L'amour à trois ou plus de trois est une troisième variété du désir.
+   Dans le « troisième calender », ce dernier vit avec ses quarante
+   femmes. Dans une scène du Manuscrit trouvé à Saragosse, on a vu Hervas
+   au lit avec trois femmes, la mère et ses deux filles.
+
+   La joie sadique est également mise en scène dans Le Manuscrit avec la
+   princesse de Mont-Salerno qui raconte comment elle se plaisait « à
+   mettre la soumission de [ses] femmes à toutes sortes d'épreuves (…).
+   [Elle] les punissait soit en les pinçant, soit en leur enfonçant des
+   épingles dans les bras et les cuisses. » Il en va de même dans Vathek
+   où Carathis se plaisait à donner des dîners fameux avec d'exquises
+   femmes et au moment où la joie était à son comble, elle faisait couler
+   des vipères sous la table et vidaient des pots remplis de scorpions.
+
+   On passe ensuite de la cruauté à la mort. Chez Perrault, par exemple,
+   s'établit une équivalence entre l'amour sexuel et la mise à mort. Dans
+   Le Petit Chaperon rouge, se mettre au lit avec une personne du sexe
+   opposé, équivaut à « être mangé, périr ». Dans La Morte amoureuse de
+   Gautier, le prêtre éprouve un désir sensuel pour le corps mort de
+   Clarimonde. La nécrophilie va souvent de pair avec le vampirisme. En
+   effet, Romuald découvre bientôt que Clarimonde n'est autre qu'un
+   vampire qui se nourrit de son sang. Il l'aime pourtant et lui aurait
+   donné tout le sang dont elle avait besoin si l'abbé Sérapion ne l'avait
+   réduite à néant. L'intervention du surnaturel permet généralement
+   d'éviter la censure et de ne pas trop choquer le lecteur, plongé dans
+   des pulsions souvent immorales et transgressives.
+
+   Les thèmes du « tu » sont particulièrement liés au désir sexuel à ses
+   formes excessives, interdites et perverses. L'auteur explique alors ce
+   qui a motivé la partition des thèmes du fantastique entre les thèmes du
+   "je" et les thèmes du "tu", avec un vocabulaire freudien il rattache
+   les premiers à une altération de ce qui structure le rapport du
+   personnage-narrateur et du monde (se rapprochant ainsi dans les
+   définitions aux psychoses et au stade de l'enfance avant l'acquisition
+   du langage) et dans le second une altération des rapports du
+   personnage-narrateur avec sa libido (se rapprochant donc des névroses
+   et des perversions). La motivation de cette partition est que les deux
+   thèmes ne se rencontrent jamais en même temps dans la littérature
+   fantastique.
+
+Littérature et fantastique
+
+   [modifier | modifier le code]
+
+   Après avoir essayé d'analyser les structures du fantastique, Todorov
+   s'intéresse à ses fonctions : pourquoi le fantastique ?
+
+   La littérature fantastique permet de franchir certaines limites,
+   d'aborder des thèmes interdits. Mais grâce à l'intervention du diable,
+   les déchaînements sexuels sont mieux acceptés par toute espèce de
+   censure. « La fonction du surnaturel est de soustraire le texte à
+   l'action de la loi et par là même de la trangresser. » Si le réseau des
+   thèmes du « tu » relève directement de la censure et des tabous, il en
+   va de même des thèmes du « je » qui renvoient à la folie. Tandis que le
+   pervers est emprisonné, le schizophrène connaît une autre forme
+   d'enfermement : la maison de santé.
+
+   Par ailleurs, il y a un lien entre les thèmes du fantastique et les
+   recherches psychologiques. Si la littérature fantastique admet le
+   « pan-déterminisme », la psychanalyse reconnaît précisément ce même
+   déterminisme sans faille : « Dans la vie psychique, il n'y a rien
+   d'arbitraire, d'indéterminé », écrit Freud dans Psychopathologie de la
+   vie quotidienne.
+
+   La littérature fantastique reprend cette opposition, propre à la
+   littérature en général, entre réel et irréel. Elle part généralement de
+   faits qui semblent réels pour aller vers le surnaturel, en crescendo.
+   Pourtant, ce schéma n'est pas propre à l'ensemble des œuvres de ce
+   genre. Dans La Métamorphose de Kafka, on assiste au passage du
+   surnaturel dans la toute première ligne du texte « Au matin, au sortir
+   d'un rêve agité, Grégoire Samsa s'éveilla transformé dans son lit en
+   une véritable vermine » à celui du naturel : personne ne semble
+   s'étonner de cette métamorphose, même pas les membres de sa famille.
+   Apparaît alors ce que Freud nomme « l'inquiétante étrangeté ». La
+   transformation apparaît bien comme un événement choquant, impossible,
+   qui pourtant finit par devenir possible, et même naturel,
+   paradoxalement.
+
+   En conclusion, l'œuvre de Kafka, comme le souligne Maurice Blanchot
+   dans Kafka et la littérature, met en scène la contradiction inhérente à
+   la littérature même, l'antithèse entre le verbal et le transverbal,
+   entre le réel et l'irréel. Le fantastique se veut le miroir de ce
+   doute, de cette formidable hésitation entre visible et invisible, entre
+   matière et esprit.
+
+Réflexions théoriques sur la démarche du poéticien
+
+   [modifier | modifier le code]
+
+   Dans l'ensemble de l'ouvrage, Todorov, au fur et à mesure, commente et
+   explique sa démarche critique en tant que poéticien en commençant dès
+   le premier chapitre avec une réflexion sur la manière de définir ce
+   qu'est un genre littéraire. De la même manière, la recherche sur les
+   thèmes du genre fantastique sont l'occasion pour l'auteur d'expliquer
+   la méthode qu'il a voulu suivre ainsi que les difficultés face
+   auxquelles il a été confronté. Il cherche à s'éloigner de la critique
+   thématique d'influence jungienne et bachelardienne et cherche à
+   déterminer quelle peut être la place de l'analyse thématique dans la
+   poétique, c'est-à-dire la théorie sur le fonctionnement d'un texte en
+   tant que machine sémantique. Il craint dans la critique thématique
+   telle qu'elle est faite par les penseurs de l'École de Genève son
+   manque d'exhaustivité et son incapacité à réfléchir sur la littérature
+   en général. Il prend l'exemple de J-P. Richard dans Poésie et
+   profondeur qui traite de Nerval, Baudelaire, Rimbaud et Verlaine
+   séparément et qui développe des thèmes qui peuvent sembler arbitraires
+   tout en ayant une approche sensualiste qui n'aborderait qu'un seul
+   aspect des œuvres commentées^[11]^,^[12].
+
+Références
+
+   [modifier | modifier le code]
+    1. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp.
+       7-27
+    2. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp.
+       28-45
+    3. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp.
+       46-62
+    4. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp.
+       63-79
+    5. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp.
+       80-96
+    6. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp.
+       97-112
+    7. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp.
+       131-147
+    8. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp
+       131-147
+    9. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp.
+       148-164
+   10. ↑ Tzvetan Todorov, Introduction à la littérature fantastique, pp.
+       165-184
+   11. ↑ Jean-Pierre Richard, Poésie et profondeur, pp. 309-311
+       Todorov prend cet ouvrage pour exemple de la critique thématique où
+       chaque chapitre ne traite que d'un auteur, chaque partie ayant pour
+       titres : "Géographie magique de Nerval", "Profondeur et
+       Baudelaire", "Fadeur de Verlaine" et "Rimbaud ou la poésie du
+       devenir". Il cite un extrait de la table des matières du chapitre
+       sur Nerval pour illustrer un certain arbitraire de la critique
+       thématique.
+   12. ↑ Jean-Pierre Richard, Poésie et profondeur, p.10
+
+     « Ce projet j'ai cherché à le saisir à son niveau le plus
+     élémentaire, celui où il s'affirme avec le plus de franchise :
+     niveau de la sensation pure, du sentiment brut ou de l'image en
+     train de naitre. »
+       J-P. Richard ne cache pas son approche sensualiste.
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     * Ressource relative à la littérature Voir et modifier les données
+       sur Wikidata  :
+          + NooSFere
+     *
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + VIAF
+     * Jeanne Favret, « Todorov T., Introduction à la littérature
+       fantastique », Revue française de sociologie,‎ 1972, p. 444-447
+       (lire en ligne)
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Tzvetan Todorov, Introduction à la littérature fantastique, Paris,
+       Editions du Seuil, 1970, 192 p.
+
+     * icône décorative Portail de la littérature française
+     * icône décorative Portail de la fantasy et du fantastique
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Introduction_à_la_littérat
+   ure_fantastique&oldid=221139334 ».
+   Catégories :
+     * Essai paru en 1970
+     * Essai français des années 1970
+     * Essai sur la fantasy ou le fantastique
+     * 1970 en littérature fantastique
+
+   Catégories cachées :
+     * Article manquant de références depuis octobre 2014
+     * Article manquant de références/Liste complète
+     * Page utilisant P5571
+     * Page pointant vers des bases externes
+     * Page pointant vers des bases relatives à la littérature
+     * Article utilisant le modèle Dictionnaires inactif
+     * Article de Wikipédia avec notice d'autorité
+     * Portail:Littérature française ou francophone/Articles liés
+     * Portail:Littérature française/Articles liés
+     * Portail:Littérature/Articles liés
+     * Portail:France/Articles liés
+     * Portail:Europe/Articles liés
+     * Portail:Fantasy et fantastique/Articles liés
+
+     * La dernière modification de cette page a été faite le 14 décembre
+       2024 à 19:24.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
