@@ -1,0 +1,1432 @@
+<!DOCTYPE html>
+<html lang="fr-FR" id="html" class="no-js">
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+		
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.lesbonsprofs.com/xmlrpc.php">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Le fantastique | Français | Quatrième | Les Bons Profs</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin&#038;display=swap" /></noscript><link rel="stylesheet" href="https://www.lesbonsprofs.com/wp-content/cache/min/1/ea6da8b7785ea46b97758a22bba4ce40.css" media="all" data-minify="1" />
+	<meta name="description" content="Le fantastique : accédez à un rappel de cours en vidéo du chapitre La fiction pour interroger le réel en Français Quatrième." />
+	<link rel="canonical" href="https://www.lesbonsprofs.com/cours/le-fantastique/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Le fantastique | Français | Quatrième | Les Bons Profs" />
+	<meta property="og:description" content="Le fantastique : accédez à un rappel de cours en vidéo du chapitre La fiction pour interroger le réel en Français Quatrième." />
+	<meta property="og:url" content="https://www.lesbonsprofs.com/cours/le-fantastique/" />
+	<meta property="og:site_name" content="Les Bons Profs" />
+	<meta property="article:modified_time" content="2023-05-15T14:57:38+00:00" />
+	<meta property="og:image" content="https://www.lesbonsprofs.com/wp-content/uploads/2022/09/50ff00258d3fa5e9dd22a13565ebfa93.png" />
+	<meta property="og:image:width" content="663" />
+	<meta property="og:image:height" content="374" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":{"0":{"@type":"WebPage","@id":"https://www.lesbonsprofs.com/cours/le-fantastique/","url":"https://www.lesbonsprofs.com/cours/le-fantastique/","name":"Le fantastique | Français | Quatrième | Les Bons Profs","isPartOf":{"@id":"https://www.lesbonsprofs.com/#website"},"primaryImageOfPage":{"@id":"https://www.lesbonsprofs.com/cours/le-fantastique/#primaryimage"},"image":{"@id":"https://www.lesbonsprofs.com/cours/le-fantastique/#primaryimage"},"thumbnailUrl":"https://www.lesbonsprofs.com/wp-content/uploads/2022/09/50ff00258d3fa5e9dd22a13565ebfa93.png","datePublished":"2022-09-05T09:09:28+00:00","dateModified":"2023-05-15T14:57:38+00:00","description":"Le fantastique : accédez à un rappel de cours en vidéo du chapitre La fiction pour interroger le réel en Français Quatrième.","breadcrumb":{"@id":"https://www.lesbonsprofs.com/cours/le-fantastique/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.lesbonsprofs.com/cours/le-fantastique/"]}]},"1":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.lesbonsprofs.com/cours/le-fantastique/#primaryimage","url":"https://www.lesbonsprofs.com/wp-content/uploads/2022/09/50ff00258d3fa5e9dd22a13565ebfa93.png","contentUrl":"https://www.lesbonsprofs.com/wp-content/uploads/2022/09/50ff00258d3fa5e9dd22a13565ebfa93.png","width":663,"height":374},"3":{"@type":"WebSite","@id":"https://www.lesbonsprofs.com/#website","url":"https://www.lesbonsprofs.com/","name":"Les Bons Profs","description":"Un site utilisant WordPress (reglages -&gt; général)","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.lesbonsprofs.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"}}}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+
+
+
+
+
+
+
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='theme-style-css' href='https://www.lesbonsprofs.com/wp-content/themes/masterstudy-child-rnd/style.css?ver=10.0' type='text/css' media='all' />
+
+
+
+
+
+
+
+
+
+
+
+
+<style id='stm_theme_style-inline-css' type='text/css'>
+#header:not(.transparent_header) .header_default {
+	        background-color : 
+	        #ffffff
+	         !important;
+	    }
+@media (max-width: 1025px) {
+	    #header .header_default {
+	        background-color : #ffffff !important;
+	    }
+	    #header .header_default .stm_header_top_search{
+	     background-color : #ffffff !important;
+	    }
+	    #header .header_default  *{
+	     color : #1f2660 !important;
+	    }
+	}
+@media (max-width: 1025px) {
+	    #header .header_default .header_top button.stm_header_top_search .icon-bar{
+	     background-color : #333e6c !important;
+	    }
+	}
+@media (max-width: 1025px) {
+	    #header .header_top .stm_header_top_toggler {
+	     display: none !important;
+	    }
+	}
+@media (max-width: 1025px) {
+	    #header .mobile_search_courses {
+	     display: none !important;
+	    }
+	}
+</style>
+
+<style id='stm_theme_custom_styles-inline-css' type='text/css'>
+/* julien CODE */
+
+.ellipse-rouge {
+top: 0;
+    left: -95px;
+    content: "";
+    width: 538px;
+    height: 697px;
+position: absolute;
+
+
+background: url(https://www.lesbonsprofs.com/wp-content/uploads/2022/09/ellipse-red.eb995d0a.svg) center no-repeat;;
+}
+
+.ellipse-bleu {
+position: absolute;
+    top: -70px;
+    right: -100px;
+    content: "";
+    width: 431px;
+    height: 531px;
+    background: url(https://www.lesbonsprofs.com/wp-content/uploads/2022/09/ellipse-blue.a025ce90.svg) center no-repeat;
+    }
+    .ellipse-orange {
+top: -60px;
+    left: -210px;
+    content: "";
+    width: 538px;
+    height: 697px;
+position: absolute;
+
+
+background: url(https://www.lesbonsprofs.com/wp-content/uploads/2022/09/ellipse-orange.9a8f493e.svg) center no-repeat;;
+}
+span.wpcf7-list-item { display: block; }
+
+.stm_post_unit a {
+text-decoration: underline !important;
+}
+
+.col-cour-contenu a {
+text-decoration: underline !important;
+}
+
+.bullet-stick ul {
+  list-style: none;
+}
+
+.bullet-stick ul li:before {
+  content: '✓';
+}
+/* julien CODE *//* julien CODE */ .ellipse-rouge { top: 0; left: -95px; content: ""; width: 538px; height: 697px; position: absolute; background: url(https://www.lesbonsprofs.com/wp-content/uploads/2022/09/ellipse-red.eb995d0a.svg) center no-repeat;; } .ellipse-bleu { position: absolute; top: -70px; right: -100px; content: ""; width: 431px; height: 531px; background: url(https://www.lesbonsprofs.com/wp-content/uploads/2022/09/ellipse-blue.a025ce90.svg) center no-repeat; } .ellipse-orange { top: -60px; left: -210px; content: ""; width: 538px; height: 697px; position: absolute; background: url(https://www.lesbonsprofs.com/wp-content/uploads/2022/09/ellipse-orange.9a8f493e.svg) center no-repeat;; } span.wpcf7-list-item { display: block; } .stm_post_unit a { text-decoration: underline !important; } .col-cour-contenu a { text-decoration: underline !important; } .bullet-stick ul { list-style: none; } .bullet-stick ul li:before { content: '✓'; } /* julien CODE */
+</style>
+
+
+
+
+<link rel='stylesheet' id='elementor-post-14-css' href='https://www.lesbonsprofs.com/wp-content/uploads/elementor/css/post-14.css?ver=1696927084' type='text/css' media='all' />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel='stylesheet' id='elementor-global-css' href='https://www.lesbonsprofs.com/wp-content/uploads/elementor/css/global.css?ver=1696933087' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-19753-css' href='https://www.lesbonsprofs.com/wp-content/uploads/elementor/css/post-19753.css?ver=1696927084' type='text/css' media='all' />
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type="rocketlazyloadscript" async="async" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/advanced-responsive-video-embedder/build/main.js?ver=54d2e76056851d3b806e' id='arve-main-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/masterstudy-lms-learning-management-system/nuxy/metaboxes/assets/js/vue.min.js?ver=2.8.8' id='vue.js-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/masterstudy-lms-learning-management-system/nuxy/metaboxes/assets/js/vue-resource.min.js?ver=2.8.8' id='vue-resource.js-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/masterstudy-lms-learning-management-system/nuxy/metaboxes/assets/js/vue2-datepicker.min.js?ver=2.8.8' id='vue2-datepicker-js'></script>
+<script type='text/javascript' id='stm-lms-lms-js-extra'>
+/* <![CDATA[ */
+var stm_lms_vars = {"symbol":"$","position":"left","currency_thousands":",","wp_rest_nonce":"2401aff147"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/masterstudy-lms-learning-management-system/assets/js/lms.js?ver=1' id='stm-lms-lms-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/masterstudy-lms-learning-management-system/assets/js/noconflict/main.js?ver=1' id='stm-lms-noconflict/main-js'></script>
+<script type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/stm-post-type/theme/assets/lazysizes.min.js?ver=false' id='lazysizes.js-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/stm-post-type/theme/assets/stm_lms_lazyload.js?ver=false' id='stm_lms_lazysizes-js'></script>
+<script type='text/javascript' id='tp-js-js-extra'>
+/* <![CDATA[ */
+var trustpilot_settings = {"key":"","TrustpilotScriptUrl":"https:\/\/invitejs.trustpilot.com\/tp.min.js","IntegrationAppUrl":"\/\/ecommscript-integrationapp.trustpilot.com","PreviewScriptUrl":"\/\/ecommplugins-scripts.trustpilot.com\/v2.1\/js\/preview.min.js","PreviewCssUrl":"\/\/ecommplugins-scripts.trustpilot.com\/v2.1\/css\/preview.min.css","PreviewWPCssUrl":"\/\/ecommplugins-scripts.trustpilot.com\/v2.1\/css\/preview_wp.css","WidgetScriptUrl":"\/\/widget.trustpilot.com\/bootstrap\/v5\/tp.widget.bootstrap.min.js"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/trustpilot-reviews/review/assets/js/headerScript.min.js?ver=1.0' async='async' id='tp-js-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.9.4' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%&elementor_page_id=7985","i18n_view_cart":"Voir le panier","cart_url":"https:\/\/www.lesbonsprofs.com","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.9.4' id='wc-add-to-cart-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.9.0' id='vc_woocommerce-add-to-cart-js-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/themes/masterstudy-child-rnd/js/build/index.js?ver=20250111' id='custom-rnd-scripts-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/rnd-tarteaucitron/tarte-au-citron/tarteaucitron/js.cookie.min.js?ver=1.0.0' id='js_cookie-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/rnd-tarteaucitron/tarte-au-citron/tarteaucitron/tarteaucitron.min.js?ver=1.0.0' id='tarteaucitron-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/rnd-tarteaucitron/tarte-au-citron/tarteaucitron/lang/dist/tarteaucitron.fr.min.js?ver=1.0.0' id='tarteaucitron_lang_fr-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/rnd-tarteaucitron/tarte-au-citron/tarteaucitron/services/matomo.js?ver=1.0.0' id='tarteaucitron_services_matomo-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/rnd-tarteaucitron/tarte-au-citron/tarteaucitron/tarteaucitron.rnd_scripts_matomo.js?ver=1.0.0' id='tarteaucitron_rnd_init-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='tarteaucitron_rnd_init-js-after'>
+            var init_tac = function(){
+              tarteaucitron.init({
+    "privacyUrl": "https:\/\/www.lesbonsprofs.com\/politique-de-confidentialite\/",
+    "hashtag": "#tarteaucitron",
+    "cookieName": "tarteaucitron",
+    "orientation": "middle",
+    "groupServices": false,
+    "showAlertSmall": false,
+    "cookieslist": false,
+    "showIcon": false,
+    "iconSrc": false,
+    "iconPosition": "BottomRight",
+    "adblocker": false,
+    "DenyAllCta": true,
+    "AcceptAllCta": true,
+    "highPrivacy": true,
+    "handleBrowserDNTRequest": false,
+    "removeCredit": false,
+    "moreInfoLink": true,
+    "useExternalCss": false,
+    "readmoreLink": "",
+    "mandatory": true,
+    "trackingEvents": true
+});
+            }
+
+            document.addEventListener("DOMContentLoaded", function(){
+              window.dataLayer=window.dataLayer || [];
+              if(tarteaucitron && typeof tarteaucitron != "undefined"){
+                var tarteaucitronForceExpire = 182; 
+                // Init TAC :
+                init_tac({
+                  "tac": tarteaucitron
+                })
+
+                      
+          setUpAnalytics({
+            "tac": tarteaucitron,
+            "services": ["matomo"],
+            "activateAnonymStat": true
+          })
+        
+
+                // Specific IDs or conf for any service needing some
+                
+            tarteaucitron.user.matomoSiteId = window.mtmSiteID;
+            tarteaucitron.user.matomoHost = "https://lesbonsprofs.matomo.cloud/";
+            tarteaucitron.user.matomoContainerCNIL = window.mtmContainerCNIL;
+          
+
+                // Push here all other services you need. Ex :
+                // Individualy with specific IDs or conf
+
+                
+
+              }
+            })
+
+            // Surcouche tracking services CMP
+            document.addEventListener("tac_ready", function(){
+              if(tarteaucitron && typeof tarteaucitron != "undefined" && tarteaucitron.parameters.trackingEvents === true){
+                setTracking(`data-btn="tracking"`) // Set tracking on individual CMP services
+              }
+            })
+          
+</script>
+<script type='text/javascript' id='sib-front-js-js-extra'>
+/* <![CDATA[ */
+var sibErrMsg = {"invalidMail":"Veuillez entrer une adresse e-mail valide.","requiredField":"Veuillez compl\u00e9ter les champs obligatoires.","invalidDateFormat":"Veuillez entrer une date valide.","invalidSMSFormat":"Veuillez entrer une num\u00e9ro de t\u00e9l\u00e9phone valide."};
+var ajax_sib_front_object = {"ajax_url":"https:\/\/www.lesbonsprofs.com\/wp-admin\/admin-ajax.php","ajax_nonce":"0d11918df2","flag_url":"https:\/\/www.lesbonsprofs.com\/wp-content\/plugins\/mailin\/img\/flags\/"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/mailin/js/mailin-front.js?ver=1671703107' id='sib-front-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.lesbonsprofs.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.lesbonsprofs.com/wp-json/wp/v2/product/7985" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.lesbonsprofs.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.lesbonsprofs.com/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://www.lesbonsprofs.com/?p=7985' />
+<link rel="alternate" type="application/json+oembed" href="https://www.lesbonsprofs.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lesbonsprofs.com%2Fcours%2Fle-fantastique%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.lesbonsprofs.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lesbonsprofs.com%2Fcours%2Fle-fantastique%2F&#038;format=xml" />
+	<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+		var stm_lms_ajaxurl = 'https://www.lesbonsprofs.com/wp-admin/admin-ajax.php';
+		var stm_lms_resturl = 'https://www.lesbonsprofs.com/wp-json/stm-lms/v1';
+	</script>
+
+	<style>
+		.vue_is_disabled {
+			display: none;
+		}
+	</style>
+		<script type="rocketlazyloadscript">
+		var stm_lms_nonces = {"load_modal":"d2226ee0b3","load_content":"74c1136ece","start_quiz":"83412c7918","user_answers":"8c5baa578d","get_order_info":"7ff4d09dc7","user_orders":"fe617538c0","stm_lms_get_instructor_courses":"5c7de2245c","stm_lms_add_comment":"f0fd6d37d8","stm_lms_get_comments":"33deceb7e4","stm_lms_login":"c5e39ed574","stm_lms_register":"674a558504","stm_lms_become_instructor":"7bf854527b","stm_lms_enterprise":"358a91b552","stm_lms_get_user_courses":"2b666b2420","stm_lms_get_user_quizzes":"e2c0a4089e","stm_lms_wishlist":"a10aa9ab22","stm_lms_save_user_info":"adf5a49afe","stm_lms_lost_password":"6e98aeb832","stm_lms_change_avatar":"b856a4688c","stm_lms_delete_avatar":"d086efdc0c","stm_lms_complete_lesson":"802a7e41d0","stm_lms_use_membership":"0aa0d27b27","stm_lms_change_featured":"b8b3283a42","stm_lms_delete_course_subscription":"1cc4fab7b2","stm_lms_get_reviews":"10c960817f","stm_lms_add_review":"2e2cca9079","stm_lms_add_to_cart":"912bc71564","stm_lms_delete_from_cart":"9691a6e658","stm_lms_purchase":"540ef32add","stm_lms_send_message":"887ff087f0","stm_lms_get_user_conversations":"f7cb34d2e5","stm_lms_get_user_messages":"d6e401b4db","stm_curriculum":"ff38215743","stm_manage_posts":"baf3736bd4","stm_curriculum_create_item":"a03bb540b8","stm_curriculum_get_item":"3b96200a91","stm_save_questions":"bee4b231ff","stm_lms_terms":"e7ee9972d8","stm_lms_questions":"473729c807","stm_lms_create_term":"9509280f0d","stm_save_title":"2a3a856f73","wpcfto_save_settings":"9cf17b0609","stm_lms_tables_update":"2d31154b0d","stm_lms_get_enterprise_groups":"d36a8daa03","stm_lms_get_enterprise_group":"ad8be68346","stm_lms_add_enterprise_group":"3ee4bf1e48","stm_lms_delete_enterprise_group":"9c97b9ebda","stm_lms_add_to_cart_enterprise":"3835a627b3","stm_lms_get_user_ent_courses":"f231d3e019","stm_lms_delete_user_ent_courses":"62d29c1ba0","stm_lms_add_user_ent_courses":"dd3b8b7fe3","stm_lms_change_ent_group_admin":"6cfea22e9c","stm_lms_delete_user_from_group":"3548c7bfce","stm_lms_import_groups":"e53b6319dd","stm_lms_upload_file_assignment":"c938a1cc5c","stm_lms_delete_assignment_file":"f92e2e97a3","stm_lms_save_draft_content":"7b52b52c3c","stm_lms_accept_draft_assignment":"2cd88e9dff","stm_lms_get_assignment_data":"054ecd5ac9","stm_lms_get_instructor_assingments":"b7f75318c5","stm_lms_get_user_assingments":"c2c591b3d9","stm_lms_edit_user_answer":"f0705ed20e","stm_lms_get_user_points_history":"942f9cfb75","stm_lms_buy_for_points":"78b25f003b","stm_lms_get_point_users":"25811197e9","stm_lms_get_user_points_history_admin":"ff4bd09bee","stm_lms_change_points":"9b6f340499","stm_lms_delete_points":"058baa60b8","stm_lms_get_user_bundles":"7b300a2933","stm_lms_change_bundle_status":"712c6cb378","stm_lms_delete_bundle":"5c8b2352e0","stm_lms_get_co_courses":"b7473a0c8d","stm_lms_check_certificate_code":"8a534be308","stm_lms_get_google_classroom_courses":"28aafbbf06","stm_lms_get_google_classroom_course":"3b04ed7c11","stm_lms_get_google_classroom_publish_course":"19a2a2509c","stm_lms_get_g_c_get_archive_page":"536fe6f529","install_zoom_addon":"4130c64921","stm_lms_get_course_cookie_redirect":"6eb3ecb69a","stm_get_certificates":"80c238a6b5","stm_get_certificate_fields":"c015a1fc9d","stm_save_certificate":"d401c976ce","stm_get_certificate_categories":"ad66b999e0","stm_get_certificate":"98aa238eaa","stm_delete_certificate":"87a02b91ac","stm_lms_get_users_submissions":"76bc140940","stm_lms_update_user_status":"063c90be33","stm_lms_hide_become_instructor_notice":"c363f92932","stm_lms_ban_user":"f0d92ccc12","stm_lms_save_forms":"f55db11c2b","stm_lms_get_forms":"25bc6ff3da","stm_lms_upload_form_file":"b94d133f37","stm_lms_dashboard_get_course_students":"c6ce0f2964","stm_lms_dashboard_delete_user_from_course":"2564bcd585","stm_lms_dashboard_add_user_to_course":"f13fbd43ab","stm_lms_add_to_cart_guest":"ec84923757","stm_lms_fast_login":"0547c14451","stm_lms_fast_register":"7618efea56","stm_lms_change_lms_author":"a292bf6a97","stm_lms_add_student_manually":"1b1a51035c","stm_lms_change_course_status":"ba364f6ebd","stm_lms_total_progress":"404a3b1208","stm_lms_add_h5p_result":"9e7951ef6c","stm_lms_toggle_buying":"b5604b3bab","stm_lms_logout":"2fd5faea66","stm_lms_restore_password":"c6e6f26361","stm_lms_hide_announcement":"f527535329","stm_lms_get_curriculum_v2":"fb66bb5426","stm_lms_dashboard_get_student_progress":"f50a1e3695","stm_lms_dashboard_set_student_item_progress":"fa81f25b67","stm_lms_dashboard_reset_student_progress":"ead29ba5be","stm_lms_dashboard_get_courses_list":"7d2c39b598","stm_lms_dashboard_get_student_assignments":"2b9a710591","stm_lms_dashboard_get_student_quizzes":"4fa44202da","stm_lms_dashboard_get_student_quiz":"0eefd590b4","stm_lms_wizard_save_settings":"951063ce4f","stm_lms_wizard_save_business_type":"78df232200","stm_lms_get_enrolled_assingments":"35435e9142"};
+	</script>
+	<style id="mystickymenu" type="text/css">#mysticky-nav { width:100%; position: static; }#mysticky-nav.wrapfixed { position:fixed; left: 0px; margin-top:0px;  z-index: 99988; -webkit-transition: 0.3s; -moz-transition: 0.3s; -o-transition: 0.3s; transition: 0.3s; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)"; filter: alpha(opacity=90); opacity:0.9; background-color: #f7f5e7;}#mysticky-nav.wrapfixed .myfixed{ background-color: #f7f5e7; position: relative;top: auto;left: auto;right: auto;}#mysticky-nav .myfixed { margin:0 auto; float:none; border:0px; background:none; max-width:100%; }</style>			<style type="text/css">
+																															</style>
+				<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+		var stm_wpcfto_ajaxurl = 'https://www.lesbonsprofs.com/wp-admin/admin-ajax.php';
+	</script>
+
+	<style>
+		.vue_is_disabled {
+			display: none;
+		}
+	</style>
+		<script type="rocketlazyloadscript">
+		var stm_wpcfto_nonces = {"wpcfto_save_settings":"9cf17b0609","get_image_url":"afe2dd14e6","wpcfto_upload_file":"a5ec0689e8","wpcfto_search_posts":"3769ca9666"};
+	</script>
+	<style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>	<script type="rocketlazyloadscript">
+		var ajaxurl = 'https://www.lesbonsprofs.com/wp-admin/admin-ajax.php';
+		var stm_install_plugin = 'c29e0636ce';
+		var stm_buddypress_groups = 'c8368395d6';
+		var stm_ajax_add_review = 'b977097e51';
+	</script>
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.lesbonsprofs.com/wp-content/uploads/2022/09/Favico-LBP.png" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.11.2; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+		<style>
+			#wp-admin-bar-stm_lms_settings			img {
+				max-width: 25px;
+				vertical-align: top;
+				position: relative;
+				top: 3px;
+			}
+		</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style type="text/css" title="dynamic-css" class="options-output">.logo-unit .logo{font-family:Poppins;color:#fff;font-size:23px;}#header .header_default, #header .header_default .stm_header_links a, #header .header_default .header_main_menu_wrapper a, #header .header_default .header_top_bar a, #header .header_default .right_buttons a > i, #header .header_default .header_top_bar{color:#1f2660;}.header_top_bar, .header_top_bar a, .header_2_top_bar .header_2_top_bar__inner ul.header-menu li a{font-family:Poppins;font-weight:400;font-style:normal;color:#ffffff;font-size:16px;}#header .header_top_bar a:hover{color:#000000;}
+body.skin_custom_color .stm_archive_product_inner_grid_content .stm-courses li.product.course-col-list .product-image .onsale,
+body.skin_custom_color .related.products .stm-courses li.product.course-col-list .product-image .onsale,
+body.skin_custom_color .stm_archive_product_inner_grid_content .stm-courses li.product .product__inner .woocommerce-LoopProduct-link .onsale,
+body.skin_custom_color .related.products .stm-courses li.product .product__inner .woocommerce-LoopProduct-link .onsale,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_meta_unit .sticky_post,
+body.skin_custom_color .overflowed_content .wpb_column .icon_box,
+body.skin_custom_color .stm_countdown_bg,
+body.skin_custom_color #searchform-mobile .search-wrapper .search-submit,
+body.skin_custom_color .header-menu-mobile .header-menu > li .arrow.active,
+body.skin_custom_color .header-menu-mobile .header-menu > li.opened > a,
+body.skin_custom_color mark,
+body.skin_custom_color .woocommerce .cart-totals_wrap .shipping-calculator-button:hover,
+body.skin_custom_color .detailed_rating .detail_rating_unit tr td.bar .full_bar .bar_filler,
+body.skin_custom_color .product_status.new,
+body.skin_custom_color .stm_woo_helpbar .woocommerce-product-search input[type="submit"],
+body.skin_custom_color .stm_archive_product_inner_unit .stm_archive_product_inner_unit_centered .stm_featured_product_price .price.price_free,
+body.skin_custom_color .sidebar-area .widget:after,
+body.skin_custom_color .sidebar-area .socials_widget_wrapper .widget_socials li .back a,
+body.skin_custom_color .socials_widget_wrapper .widget_socials li .back a,
+body.skin_custom_color .widget_categories ul li a:hover:after,
+body.skin_custom_color .event_date_info_table .event_btn .btn-default,
+body.skin_custom_color .course_table tr td.stm_badge .badge_unit.quiz,
+body.skin_custom_color .page-links span:hover,
+body.skin_custom_color .page-links span:after,
+body.skin_custom_color .page-links > span:after,
+body.skin_custom_color .page-links > span,
+body.skin_custom_color .stm_post_unit:after,
+body.skin_custom_color .blog_layout_grid .post_list_content_unit:after,
+body.skin_custom_color ul.page-numbers > li a.page-numbers:after,
+body.skin_custom_color ul.page-numbers > li span.page-numbers:after,
+body.skin_custom_color ul.page-numbers > li a.page-numbers:hover,
+body.skin_custom_color ul.page-numbers > li span.page-numbers:hover,
+body.skin_custom_color ul.page-numbers > li a.page-numbers.current:after,
+body.skin_custom_color ul.page-numbers > li span.page-numbers.current:after,
+body.skin_custom_color ul.page-numbers > li a.page-numbers.current,
+body.skin_custom_color ul.page-numbers > li span.page-numbers.current,
+body.skin_custom_color .triangled_colored_separator,
+body.skin_custom_color .magic_line,
+body.skin_custom_color .navbar-toggle .icon-bar,
+body.skin_custom_color .navbar-toggle:hover .icon-bar,
+body.skin_custom_color #searchform .search-submit,
+body.skin_custom_color .header_main_menu_wrapper .header-menu > li > ul.sub-menu:before,
+body.skin_custom_color .search-toggler:after,
+body.skin_custom_color .modal .popup_title,
+body.skin_custom_color .sticky_post,
+body.skin_custom_color .btn-carousel-control:after,
+.primary_bg_color,
+.mbc,
+.stm_lms_courses_carousel_wrapper .owl-dots .owl-dot.active,
+.stm_lms_courses_carousel__term.active,
+body.course_hub .header_default.header_2,
+.triangled_colored_separator:before,
+.triangled_colored_separator:after,
+body.skin_custom_color.udemy .btn-default,
+.single_instructor .stm_lms_courses .stm_lms_load_more_courses,
+.single_instructor .stm_lms_courses .stm_lms_load_more_courses:hover,
+.stm_lms_course_sticky_panel .stm_lms_course_sticky_panel__button .btn,
+.stm_lms_course_sticky_panel .stm_lms_course_sticky_panel__button .btn:hover,
+body.skin_custom_color.language_center .btn-default,
+.header-login-button.sign-up a,
+#header .header_6 .stm_lms_log_in,
+body.cooking .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button:hover,
+body.cooking .stm_theme_wpb_video_wrapper .stm_video_preview:after,
+body.cooking .btn.btn-default,
+body.cooking .button,
+body.cooking .form-submit .submit,
+body.cooking .post-password-form input[type=submit],
+body.cooking .btn.btn-default:hover,
+body.cooking .button:hover,
+body.cooking .form-submit .submit:hover,
+body.cooking .post-password-form input[type=submit]:hover,
+body.cooking div.multiseparator:after,
+body.cooking .view_type_switcher a.view_grid.active_grid,
+body.cooking .view_type_switcher a.view_list.active_list,
+body.cooking .view_type_switcher a:hover,
+body.cooking.woocommerce .sidebar-area .widget .widget_title:after,
+body.cooking.woocommerce .sidebar-area .widget.widget_price_filter .price_slider_wrapper .price_slider .ui-slider-handle,
+body.cooking.woocommerce .sidebar-area .widget.widget_price_filter .price_slider_wrapper .price_slider .ui-slider-range,
+body.cooking .stm_lms_courses_list_view .stm_lms_courses__grid .stm_lms_courses__single--image>a:after,
+body.cooking .testimonials_main_wrapper.simple_carousel_wrapper .btn-carousel-control:hover,
+body.cooking .testimonials_main_wrapper.simple_carousel_wrapper .btn-carousel-control:focus,
+body.cooking .short_separator,
+body.cooking .widget_tag_cloud .tagcloud a:hover,
+body.cooking .blog_layout_grid .sticky .post_list_meta_unit,
+body.cooking .stm_lms_instructor_courses__single--featured .feature_it,
+
+.stm_archive_product_inner_grid_content .stm-courses li.product .product__inner .button:hover,
+
+body.tech .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button:hover,
+body.tech .stm_theme_wpb_video_wrapper .stm_video_preview:after,
+body.tech .btn.btn-default,
+body.tech .button,
+body.tech .form-submit .submit,
+body.tech .post-password-form input[type=submit],
+body.tech .btn.btn-default:hover,
+body.tech .button:hover,
+body.tech .form-submit .submit:hover,
+body.tech .post-password-form input[type=submit]:hover,
+body.tech div.multiseparator:after,
+body.tech .view_type_switcher a.view_grid.active_grid,
+body.tech .view_type_switcher a.view_list.active_list,
+body.tech .view_type_switcher a:hover,
+body.tech.woocommerce .sidebar-area .widget .widget_title:after,
+body.tech.woocommerce .sidebar-area .widget.widget_price_filter .price_slider_wrapper .price_slider .ui-slider-handle,
+body.tech.woocommerce .sidebar-area .widget.widget_price_filter .price_slider_wrapper .price_slider .ui-slider-range,
+body.tech .stm_lms_courses_list_view .stm_lms_courses__grid .stm_lms_courses__single--image>a:after,
+body.tech .testimonials_main_wrapper.simple_carousel_wrapper .btn-carousel-control:hover,
+body.tech .testimonials_main_wrapper.simple_carousel_wrapper .btn-carousel-control:focus,
+body.tech .short_separator,
+body.tech .stm_lms_wishlist_button .lnr:after,
+body.tech .widget_tag_cloud .tagcloud a:hover,
+body.tech .blog_layout_grid .sticky .post_list_meta_unit,
+body.tech .stm_lms_instructor_courses__single--featured .feature_it,
+body.tech .select2-container--default .select2-results__option--highlighted[aria-selected],
+body.tech .select2-container--default .select2-results__option--highlighted[data-selected]
+{background-color:#fbb03b;}.icon_box.stm_icon_box_hover_none{border-left-color:#fbb03b;}
+body.skin_custom_color ul.page-numbers > li a.page-numbers:hover,
+body.skin_custom_color ul.page-numbers > li a.page-numbers.current,
+body.skin_custom_color ul.page-numbers > li span.page-numbers.current,
+body.skin_custom_color .custom-border textarea:active,
+body.skin_custom_color .custom-border input[type=text]:active,
+body.skin_custom_color .custom-border input[type=email]:active,
+body.skin_custom_color .custom-border input[type=number]:active,
+body.skin_custom_color .custom-border input[type=password]:active,
+body.skin_custom_color .custom-border input[type=tel]:active,
+body.skin_custom_color .custom-border .form-control:active,
+body.skin_custom_color .custom-border textarea:focus,
+body.skin_custom_color .custom-border input[type=text]:focus,
+body.skin_custom_color .custom-border input[type=email]:focus,
+body.skin_custom_color .custom-border input[type=number]:focus,
+body.skin_custom_color .custom-border input[type=password]:focus,
+body.skin_custom_color .custom-border input[type=tel]:focus,
+body.skin_custom_color .custom-border .form-control:focus,
+body.skin_custom_color .icon-btn:hover .icon_in_btn,
+body.skin_custom_color .icon-btn:hover,
+body.skin_custom_color .average_rating_unit,
+body.skin_custom_color blockquote,
+body.skin_custom_color .tp-caption .icon-btn:hover .icon_in_btn,
+body.skin_custom_color .tp-caption .icon-btn:hover,
+body.skin_custom_color .stm_theme_wpb_video_wrapper .stm_video_preview:after,
+body.skin_custom_color .btn-carousel-control,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_meta_unit .post_list_comment_num,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_meta_unit,
+body.skin_custom_color .search-toggler:hover,
+body.skin_custom_color .search-toggler,
+.stm_lms_courses_carousel_wrapper .owl-dots .owl-dot.active,
+.triangled_colored_separator .triangle:before,
+body.cooking .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button,
+body.cooking .btn.btn-default,
+body.cooking .button,
+body.cooking .form-submit .submit,
+body.cooking .post-password-form input[type=submit],
+body.cooking.woocommerce .sidebar-area .widget.widget_product_categories ul li a:after,
+body.cooking .select2-container--default .select2-selection--single .select2-selection__arrow b:after,
+body.cooking.woocommerce .sidebar-area .widget .widget_title:after,
+body.cooking .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit,
+body.cooking .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .post_list_comment_num,
+body.cooking .widget_tag_cloud .tagcloud a:hover,
+
+body.tech .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button,
+body.tech .btn.btn-default,
+body.tech .button,
+body.tech .form-submit .submit,
+body.tech .post-password-form input[type=submit],
+body.tech.woocommerce .sidebar-area .widget.widget_product_categories ul li a:after,
+body.tech .select2-container--default .select2-selection--single .select2-selection__arrow b:after,
+body.tech.woocommerce .sidebar-area .widget .widget_title:after,
+body.tech .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit,
+body.tech .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .post_list_comment_num,
+body.tech .widget_tag_cloud .tagcloud a:hover,
+body.tech .stm_lms_points_history__head .left a,
+body.tech .simple_carousel_wrapper_style_6 .navs #carousel-custom-dots li.active:before
+{border-color:#fbb03b;}
+body.skin_custom_color .icon_box .icon i,
+body.skin_custom_color .icon-btn:hover .icon_in_btn,
+body.skin_custom_color .icon-btn:hover .link-title,
+body.skin_custom_color .stats_counter .h1,
+body.skin_custom_color .event_date_info .event_date_info_unit .event_labels,
+body.skin_custom_color .event-col .event_archive_item .event_location i,
+body.skin_custom_color .event-col .event_archive_item .event_start i,
+body.skin_custom_color .gallery_terms_list li.active a,
+body.skin_custom_color .tp-caption .icon-btn:hover .icon_in_btn,
+body.skin_custom_color .teacher_single_product_page>a:hover .title,
+body.skin_custom_color .sidebar-area .widget ul li a:hover:after,
+body.skin_custom_color div.pp_woocommerce .pp_gallery ul li a:hover,
+body.skin_custom_color div.pp_woocommerce .pp_gallery ul li.selected a,
+body.skin_custom_color .single_product_after_title .meta-unit i,
+body.skin_custom_color .single_product_after_title .meta-unit .value a:hover,
+body.skin_custom_color .woocommerce-breadcrumb a:hover,
+body.skin_custom_color #footer_copyright .copyright_text a:hover,
+body.skin_custom_color .widget_stm_recent_posts .widget_media .cats_w a:hover,
+body.skin_custom_color .widget_pages ul.style_2 li a:hover,
+body.skin_custom_color .sidebar-area .widget_categories ul li a:hover,
+body.skin_custom_color .sidebar-area .widget ul li a:hover,
+body.skin_custom_color .widget_categories ul li a:hover,
+body.skin_custom_color .stm_product_list_widget li a:hover .title,
+body.skin_custom_color .widget_contacts ul li .text a:hover,
+body.skin_custom_color .sidebar-area .widget_pages ul.style_1 li a:focus .h6,
+body.skin_custom_color .sidebar-area .widget_nav_menu ul.style_1 li a:focus .h6,
+body.skin_custom_color .sidebar-area .widget_pages ul.style_1 li a:focus,
+body.skin_custom_color .sidebar-area .widget_nav_menu ul.style_1 li a:focus,
+body.skin_custom_color .sidebar-area .widget_pages ul.style_1 li a:active .h6,
+body.skin_custom_color .sidebar-area .widget_nav_menu ul.style_1 li a:active .h6,
+body.skin_custom_color .sidebar-area .widget_pages ul.style_1 li a:active,
+body.skin_custom_color .sidebar-area .widget_nav_menu ul.style_1 li a:active,
+body.skin_custom_color .sidebar-area .widget_pages ul.style_1 li a:hover .h6,
+body.skin_custom_color .sidebar-area .widget_nav_menu ul.style_1 li a:hover .h6,
+body.skin_custom_color .sidebar-area .widget_pages ul.style_1 li a:hover,
+body.skin_custom_color .sidebar-area .widget_nav_menu ul.style_1 li a:hover,
+body.skin_custom_color .widget_pages ul.style_1 li a:focus .h6,
+body.skin_custom_color .widget_nav_menu ul.style_1 li a:focus .h6,
+body.skin_custom_color .widget_pages ul.style_1 li a:focus,
+body.skin_custom_color .widget_nav_menu ul.style_1 li a:focus,
+body.skin_custom_color .widget_pages ul.style_1 li a:active .h6,
+body.skin_custom_color .widget_nav_menu ul.style_1 li a:active .h6,
+body.skin_custom_color .widget_pages ul.style_1 li a:active,
+body.skin_custom_color .widget_nav_menu ul.style_1 li a:active,
+body.skin_custom_color .widget_pages ul.style_1 li a:hover .h6,
+body.skin_custom_color .widget_nav_menu ul.style_1 li a:hover .h6,
+body.skin_custom_color .widget_pages ul.style_1 li a:hover,
+body.skin_custom_color .widget_nav_menu ul.style_1 li a:hover,
+body.skin_custom_color .see_more a:after,
+body.skin_custom_color .see_more a,
+body.skin_custom_color .transparent_header_off .header_main_menu_wrapper ul > li > ul.sub-menu > li a:hover,
+body.skin_custom_color .stm_breadcrumbs_unit .navxtBreads > span a:hover,
+body.skin_custom_color .btn-carousel-control,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_meta_unit .post_list_comment_num,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_meta_unit .date-m,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_meta_unit .date-d,
+body.skin_custom_color .stats_counter h1,
+body.skin_custom_color .yellow,
+body.skin_custom_color ol li a:hover,
+body.skin_custom_color ul li a:hover,
+body.skin_custom_color .search-toggler,
+.primary_color,
+.mtc_h:hover,
+body.classic_lms .header_top_bar .header_top_bar_socs ul li a:hover,
+body.classic_lms .header_top_bar a:hover,
+#footer .widget_stm_lms_popular_courses ul li a:hover .meta .h5.title,
+body.classic_lms .stm_lms_wishlist_button a:hover i,
+.classic_lms .post_list_main_section_wrapper .post_list_item_title:hover,
+.stm_lms_courses__single.style_2 .stm_lms_courses__single--title h5:hover,
+body.cooking .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button,
+body.cooking #footer .widget_contacts ul li .icon,
+body.cooking #footer .stm_product_list_widget.widget_woo_stm_style_2 li a:hover .meta .title,
+body.cooking .courses_filters__switcher i:not(.active),
+body.cooking .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .date-d,
+body.cooking .blog_layout_grid .post_list_meta_unit .date-m,
+body.cooking .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .post_list_comment_num,
+body.cooking .stm_post_info .stm_post_details .post_meta li i,
+body.cooking .comment-form .logged-in-as a,
+body.cooking .post_list_content_unit .post_list_item_title:hover,
+body.cooking .post_list_content_unit .post_list_item_title:focus,
+body.cooking .widget_search .search-form>label:after,
+body.cooking .blog_layout_grid .post_list_cats a,
+body.cooking .blog_layout_grid .post_list_item_tags a,
+body.cooking .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .date-d,
+body.cooking .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .date-m-plugin,
+body.cooking .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .post_list_comment_num,
+body.cooking #stm_lms_faq .panel.panel-default .panel-heading .panel-title a:hover,
+body.cooking .stm_post_info .stm_post_details .comments_num .post_comments:hover,
+body.cooking .stm_lms_courses_list_view .stm_lms_courses__grid .stm_lms_courses__single--info_title a:hover h4,
+body.cooking .comments-area .commentmetadata i,
+body.cooking .stm_lms_gradebook__filter .by_views_sorter.by-views,
+body.cooking .stm_post_info .stm_post_details .comments_num .post_comments i,
+
+body.tech .stm_lms_courses_carousel__buttons .stm_lms_courses_carousel__button,
+body.tech #footer .widget_contacts ul li .icon,
+body.tech #footer .stm_product_list_widget.widget_woo_stm_style_2 li a:hover .meta .title,
+body.tech .courses_filters__switcher i:not(.active),
+body.tech .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .date-d,
+body.tech .blog_layout_grid .post_list_meta_unit .date-m,
+body.tech .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .post_list_comment_num,
+body.tech .stm_post_info .stm_post_details .post_meta li i,
+body.tech .comment-form .logged-in-as a,
+body.tech .post_list_content_unit .post_list_item_title:hover,
+body.tech .post_list_content_unit .post_list_item_title:focus,
+body.tech .widget_search .search-form>label:after,
+body.tech .blog_layout_grid .post_list_cats a,
+body.tech .blog_layout_grid .post_list_item_tags a,
+body.tech .footer_wrapper .widget_contacts ul li .text a,
+body.tech .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .date-d,
+body.tech .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .date-m-plugin,
+body.tech .blog_layout_grid .plugin_style .post_list_inner_content_unit .post_list_meta_unit .post_list_comment_num,
+body.tech #stm_lms_faq .panel.panel-default .panel-heading .panel-title a:hover,
+body.tech .stm_post_info .stm_post_details .comments_num .post_comments:hover,
+body.tech .stm_lms_courses_list_view .stm_lms_courses__grid .stm_lms_courses__single--info_title a:hover h4,
+body.tech .comments-area .commentmetadata i,
+body.tech .stm_lms_gradebook__filter .by_views_sorter.by-views,
+body.tech .stm_post_info .stm_post_details .comments_num .post_comments i,
+body.tech .stm_lms_courses_carousel__top .h4:hover,
+body.tech.skin_custom_color #footer a:hover,
+body.tech .socials_widget_wrapper__text a,
+.testimonials_main_title_6 i
+{color:#fbb03b;}
+body.skin_custom_color .triangled_colored_separator .triangle,
+body.skin_custom_color .magic_line:after,
+body.cooking .stm_lms_gradebook__filter .by_views_sorter.by-views,
+body.tech .stm_lms_gradebook__filter .by_views_sorter.by-views
+{border-bottom-color:#fbb03b;}body.rtl-demo .stm_testimonials_wrapper_style_2 .stm_lms_testimonials_single__content:after{border-left-color:#333E6C;}
+body.skin_custom_color .blog_layout_grid .post_list_meta_unit .sticky_post,
+body.skin_custom_color .blog_layout_list .post_list_meta_unit .sticky_post,
+body.skin_custom_color .product_status.special,
+body.skin_custom_color .view_type_switcher a:hover,
+body.skin_custom_color .view_type_switcher a.view_list.active_list,
+body.skin_custom_color .view_type_switcher a.view_grid.active_grid,
+body.skin_custom_color .stm_archive_product_inner_unit .stm_archive_product_inner_unit_centered .stm_featured_product_price .price,
+body.skin_custom_color .sidebar-area .widget_text .btn,
+body.skin_custom_color .stm_product_list_widget.widget_woo_stm_style_2 li a .meta .stm_featured_product_price .price,
+body.skin_custom_color .widget_tag_cloud .tagcloud a:hover,
+body.skin_custom_color .sidebar-area .widget ul li a:after,
+body.skin_custom_color .sidebar-area .socials_widget_wrapper .widget_socials li a,
+body.skin_custom_color .socials_widget_wrapper .widget_socials li a,
+body.skin_custom_color .gallery_single_view .gallery_img a:after,
+body.skin_custom_color .course_table tr td.stm_badge .badge_unit,
+body.skin_custom_color .widget_mailchimp .stm_mailchimp_unit .button,
+body.skin_custom_color .textwidget .btn:active,
+body.skin_custom_color .textwidget .btn:focus,
+body.skin_custom_color .form-submit .submit:active,
+body.skin_custom_color .form-submit .submit:focus,
+body.skin_custom_color .button:focus,
+body.skin_custom_color .button:active,
+body.skin_custom_color .btn-default:active,
+body.skin_custom_color .btn-default:focus,
+body.skin_custom_color .button:hover,
+body.skin_custom_color .textwidget .btn:hover,
+body.skin_custom_color .form-submit .submit,
+body.skin_custom_color .button,
+body.skin_custom_color .btn-default,
+.btn.btn-default:hover, .button:hover, .textwidget .btn:hover,
+body.skin_custom_color .short_separator,
+body.skin_custom_color div.multiseparator:after,
+body.skin_custom_color .widget_pages ul.style_2 li a:hover:after,
+body.skin_custom_color.single-product .product .woocommerce-tabs .wc-tabs li.active a:before,
+body.skin_custom_color.woocommerce .sidebar-area .widget .widget_title:after,
+body.skin_custom_color.woocommerce .sidebar-area .widget.widget_price_filter .price_slider_wrapper .price_slider .ui-slider-handle,
+body.skin_custom_color.woocommerce .sidebar-area .widget.widget_price_filter .price_slider_wrapper .price_slider .ui-slider-range,
+.sbc,
+.sbc_h:hover,
+.wpb-js-composer .vc_general.vc_tta.vc_tta-tabs.vc_tta-style-classic li.vc_tta-tab:not(.vc_active)>a,
+.wpb-js-composer .vc_general.vc_tta.vc_tta-tabs.vc_tta-style-classic li.vc_tta-tab:not(.vc_active)>a:hover,
+#header.transparent_header .header_2 .stm_lms_account_dropdown .dropdown button,
+.stm_lms_courses_categories.style_3 .stm_lms_courses_category>a:hover,
+.stm_lms_udemy_course .nav.nav-tabs>li a,
+body.classic_lms .classic_style .nav.nav-tabs>li.active a,
+.header_bottom:after,
+.sbc:hover,
+body.rtl-demo .stm_testimonials_wrapper_style_2 .stm_lms_testimonials_single__content,
+.masterstudy_stm_video.style_2 .stm_theme_wpb_video_wrapper .stm_video_preview:after
+{background-color:#333E6C;}
+body.skin_custom_color.woocommerce .sidebar-area .widget.widget_layered_nav ul li a:after,
+body.skin_custom_color.woocommerce .sidebar-area .widget.widget_product_categories ul li a:after,
+body.skin_custom_color .wpb_tabs .form-control:focus,
+body.skin_custom_color .wpb_tabs .form-control:active,
+body.skin_custom_color .woocommerce .cart-totals_wrap .shipping-calculator-button,
+body.skin_custom_color .sidebar-area .widget_text .btn,
+body.skin_custom_color .widget_tag_cloud .tagcloud a:hover,
+body.skin_custom_color .icon_box.dark a:hover,
+body.skin_custom_color .simple-carousel-bullets a.selected,
+body.skin_custom_color .stm_sign_up_form .form-control:active,
+body.skin_custom_color .stm_sign_up_form .form-control:focus,
+body.skin_custom_color .form-submit .submit,
+body.skin_custom_color .button,
+body.skin_custom_color .btn-default,
+.sbrc,
+.sbrc_h:hover,
+.vc_general.vc_tta.vc_tta-tabs,
+body.skin_custom_color .blog_layout_grid .post_list_meta_unit,
+body.skin_custom_color .blog_layout_grid .post_list_meta_unit .post_list_comment_num,
+body.skin_custom_color .blog_layout_list .post_list_meta_unit .post_list_comment_num,
+body.skin_custom_color .blog_layout_list .post_list_meta_unit,
+body.tech .stm_lms_points_history__head .left a:hover,
+#header.transparent_header .header_2 .stm_lms_account_dropdown .dropdown button,
+.masterstudy_stm_video.style_2 .stm_theme_wpb_video_wrapper .stm_video_preview:after
+{border-color:#333E6C;}
+.header_2_top_bar__inner .top_bar_right_part .header_top_bar_socs ul li a:hover,
+.secondary_color,
+body.skin_custom_color.single-product .product .woocommerce-tabs .wc-tabs li.active a,
+body.skin_custom_color.single-product .product .woocommerce-tabs .wc-tabs li a:hover,
+body.skin_custom_color .widget_pages ul.style_2 li a:hover .h6,
+body.skin_custom_color .icon_box .icon_text>h3>span,
+body.skin_custom_color .stm_woo_archive_view_type_list .stm_featured_product_stock i,
+body.skin_custom_color .stm_woo_archive_view_type_list .expert_unit_link:hover .expert,
+body.skin_custom_color .stm_archive_product_inner_unit .stm_archive_product_inner_unit_centered .stm_featured_product_body a .title:hover,
+body.skin_custom_color .stm_product_list_widget.widget_woo_stm_style_2 li a:hover .title,
+body.skin_custom_color .blog_layout_grid .post_list_meta_unit .post_list_comment_num,
+body.skin_custom_color .blog_layout_grid .post_list_meta_unit .date-m,
+body.skin_custom_color .blog_layout_grid .post_list_meta_unit .date-d,
+body.skin_custom_color .blog_layout_list .post_list_meta_unit .post_list_comment_num,
+body.skin_custom_color .blog_layout_list .post_list_meta_unit .date-m,
+body.skin_custom_color .blog_layout_list .post_list_meta_unit .date-d,
+body.skin_custom_color .widget_stm_recent_posts .widget_media a:hover .h6,
+body.skin_custom_color .widget_product_search .woocommerce-product-search:after,
+body.skin_custom_color .widget_search .search-form > label:after,
+body.skin_custom_color .sidebar-area .widget ul li a,
+body.skin_custom_color .sidebar-area .widget_categories ul li a,
+body.skin_custom_color .widget_contacts ul li .text a,
+body.skin_custom_color .event-col .event_archive_item > a:hover .title,
+body.skin_custom_color .stm_contact_row a:hover,
+body.skin_custom_color .comments-area .commentmetadata i,
+body.skin_custom_color .stm_post_info .stm_post_details .comments_num .post_comments:hover,
+body.skin_custom_color .stm_post_info .stm_post_details .comments_num .post_comments i,
+body.skin_custom_color .stm_post_info .stm_post_details .post_meta li a:hover span,
+body.skin_custom_color .stm_post_info .stm_post_details .post_meta li i,
+body.skin_custom_color .blog_layout_list .post_list_item_tags .post_list_divider,
+body.skin_custom_color .blog_layout_list .post_list_item_tags a,
+body.skin_custom_color .blog_layout_list .post_list_cats .post_list_divider,
+body.skin_custom_color .blog_layout_list .post_list_cats a,
+body.skin_custom_color .blog_layout_list .post_list_item_title a:hover,
+body.skin_custom_color .blog_layout_grid .post_list_item_tags .post_list_divider,
+body.skin_custom_color .blog_layout_grid .post_list_item_tags a,
+body.skin_custom_color .blog_layout_grid .post_list_cats .post_list_divider,
+body.skin_custom_color .blog_layout_grid .post_list_cats a,
+body.skin_custom_color .blog_layout_grid .post_list_item_title:focus,
+body.skin_custom_color .blog_layout_grid .post_list_item_title:active,
+body.skin_custom_color .blog_layout_grid .post_list_item_title:hover,
+body.skin_custom_color .stm_featured_products_unit .stm_featured_product_single_unit .stm_featured_product_single_unit_centered .stm_featured_product_body a .title:hover,
+body.skin_custom_color .icon_box.dark a:hover,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_item_tags .post_list_divider,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_item_tags a,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_cats .post_list_divider,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_cats a,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_item_title:active,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_item_title:focus,
+body.skin_custom_color .post_list_main_section_wrapper .post_list_item_title:hover,
+body.skin_custom_color a:hover,
+.secondary_color,
+#header.transparent_header .header_2 .header_top .stm_lms_categories .heading_font,
+#header.transparent_header .header_2 .header_top .stm_lms_categories i,
+.classic_lms .post_list_main_section_wrapper .post_list_cats a,
+.classic_lms .post_list_main_section_wrapper .post_list_item_tags a,
+body.skin_custom_color .single_product_after_title .meta-unit.teacher:hover .value,
+.stm_lms_course_sticky_panel__teacher:before,
+.stm_lms_courses__single__inner .stm_lms_courses__single--info_title a:hover h4
+{color:#333E6C;}a{color:#7eaded;}body,
+                    .normal_font,
+                    .h6.normal_font,
+                    body.rtl.rtl-demo .stm_testimonials_wrapper_style_2 .stm_lms_testimonials_single__excerpt p,
+                    .stm_product_list_widget.widget_woo_stm_style_2 li a .meta .title{font-family:Poppins;color:#404040;font-size:16px;}.btn, .header-login-button.sign-up a{font-family:Poppins;line-height:14px;font-size:14px;}.header-menu{font-family:Poppins;font-weight:400;color:#404040;}h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6,.nav-tabs>li>a,.member-name,.section-title,.user-name,.heading_font,.item-title,.acomment-meta,[type="reset"],.bp-subnavs,.activity-header,table,.widget_categories ul li a,.sidebar-area .widget ul li a,.select2-selection__rendered,blockquote,.select2-chosen,.vc_tta-tabs.vc_tta-tabs-position-top .vc_tta-tabs-container .vc_tta-tabs-list li.vc_tta-tab a,.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tabs-container .vc_tta-tabs-list li.vc_tta-tab a, body.distance-learning .btn, body.distance-learning .vc_btn3{font-family:Poppins;color:#333e6c;}h1,.h1{line-height:52.8px;letter-spacing:0px;font-weight:700;font-size:48px;}h2,.h2{line-height:39px;font-weight:400;font-size:30px;}h3,.h3{line-height:34px;font-weight:400;font-size:22px;}h4,.h4,blockquote{line-height:20.34px;font-weight:400;font-size:18px;}h5,.h5,.select2-selection__rendered{line-height:20px;font-weight:400;font-size:14px;}h6,.h6,.widget_pages ul li a, .widget_nav_menu ul li a, .footer_menu li a,.widget_categories ul li a,.sidebar-area .widget ul li a{line-height:12px;font-weight:400;font-size:12px;}#footer_top{background-color:#1f2660;}#footer_bottom{background-color:#273044;}#footer_bottom .widget_title h3{font-weight:700;color:#ffffff;font-size:18px;}#footer_bottom, .widget_contacts ul li .text,
+				.footer_widgets_wrapper .widget ul li a,
+				.widget_nav_menu ul.style_1 li a .h6,
+				.widget_pages ul.style_2 li a .h6,
+				#footer .stm_product_list_widget.widget_woo_stm_style_2 li a .meta .title,
+				.widget_pages ul.style_1 li a .h6{color:#ffffff;}.widget_pages ul.style_2 li a:after{background-color:#ffffff;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>		<!-- Matomo Tag Manager -->
+	<script type="rocketlazyloadscript">
+		var _mtm = window._mtm = window._mtm || [];
+		_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.async=true; g.src='https://cdn.matomo.cloud/lesbonsprofs.matomo.cloud/container_mCYLJzEF.js'; s.parentNode.insertBefore(g,s);
+	</script>
+	<!-- End Matomo Tag Manager -->
+        <!-- Google tag (gtag.js) -->
+<!-- Google Tag Manager -->
+<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6WW2D7');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="product-template-default single single-product postid-7985 stm_lms_button theme-masterstudy woocommerce woocommerce-page woocommerce-no-js skin_custom_color classic_lms masterstudy-theme stm_preloader_0 wpb-js-composer js-comp-ver-6.9.0 vc_responsive elementor-default elementor-kit-14" ontouchstart="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6WW2D7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<!-- Searchform -->
+	<div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="searchModal">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+		
+			<div class="modal-body heading_font">
+				<div class="search-title">Rechercher</div>
+				<form role="search" method="get" id="searchform" action="https://www.lesbonsprofs.com/">
+				    <div class="search-wrapper">
+				        <input placeholder="Commencer à écrire ici…" type="text" class="form-control search-input" value="" name="s" id="s" />
+				        <button type="submit" class="search-submit" ><i class="fa fa-search"></i></button>
+				    </div>
+				</form>
+			</div>
+		
+		</div>
+	</div>
+</div>
+<div id="wrapper">
+
+	
+	<div id="header" class="transparent_header_off sticky_header"
+		data-color="">
+
+		
+					<div class="sticky_header_holder"></div>
+		
+		<div class="header_default header_default">
+			<div class="container">
+    <div class="row">
+	    <div class="col-md-3 col-sm-12 col-xs-12">
+		    <div class="logo-unit">
+                	<a href="https://www.lesbonsprofs.com/">
+		<img width="300" height="69" class="img-responsive logo_transparent_static visible" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2069'%3E%3C/svg%3E" style="width: 200px;" alt="Les Bons Profs" data-lazy-src="https://www.lesbonsprofs.com/wp-content/uploads/2022/09/logo-1.svg"/><noscript><img width="300" height="69" class="img-responsive logo_transparent_static visible" src="https://www.lesbonsprofs.com/wp-content/uploads/2022/09/logo-1.svg" style="width: 200px;" alt="Les Bons Profs"/></noscript>
+				<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://www.lesbonsprofs.com/",
+    "logo": "https://www.lesbonsprofs.com/wp-content/uploads/2022/09/logo-1.svg"
+}</script>	</a>
+		    </div>
+		    
+	        <!-- Navbar toggle MOBILE -->
+		    <button type="button" class="navbar-toggle collapsed hidden-lg hidden-md" data-toggle="collapse" data-target="#header_menu_toggler">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+	    </div> <!-- md-3 -->
+	    
+
+	    <!-- MObile menu -->
+	    <div class="col-xs-12 col-sm-12 visible-xs visible-sm">
+		    <div class="collapse navbar-collapse header-menu-mobile" id="header_menu_toggler">
+			    <ul class="header-menu clearfix">
+				    <li id="menu-item-19404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19404"><a href="https://www.lesbonsprofs.com/soutien-scolaire-en-ligne/">Cours en ligne</a></li>
+<li id="menu-item-19405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19405"><a href="https://www.lesbonsprofs.com/cours-particuliers/">Cours particuliers</a></li>
+<li id="menu-item-17092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17092"><a href="https://www.lesbonsprofs.com/les-cours-en-video-des-bons-profs/">Vidéos</a></li>
+<li id="menu-item-5129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5129"><a href="https://www.lesbonsprofs.com/blog/">Blog</a></li>
+<li id="menu-item-19406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19406"><a href="tel:+33186957201">📞 01 86 95 72 01</a></li>
+<li id="menu-item-14558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14558"><a href="https://app.lesbonsprofs.com/connexion">Connexion</a></li>
+                    <li>
+                    	<form role="search" method="get" id="searchform-mobile" action="https://www.lesbonsprofs.com/">
+						    <div class="search-wrapper">
+						        <input placeholder="Rechercher..." type="text" class="form-control search-input" value="" name="s" />
+						        <button type="submit" class="search-submit" ><i class="fa fa-search"></i></button>
+						    </div>
+						</form>
+                    </li>
+			    </ul>
+		    </div>
+	    </div>
+	    
+	    <!-- Desktop menu -->
+	    <div class="col-md-9 col-sm-9 col-sm-offset-0 hidden-xs hidden-sm">
+			
+<div class="stm_menu_toggler" data-text="Menu"></div>
+<div class="header_main_menu_wrapper clearfix" style="margin-top:5px;">
+
+    <div class="pull-right hidden-xs right_buttons">
+
+		
+		
+		
+            </div>
+
+    <div class="collapse navbar-collapse">
+        <ul class="header-menu clearfix">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19404"><a href="https://www.lesbonsprofs.com/soutien-scolaire-en-ligne/">Cours en ligne</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19405"><a href="https://www.lesbonsprofs.com/cours-particuliers/">Cours particuliers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17092"><a href="https://www.lesbonsprofs.com/les-cours-en-video-des-bons-profs/">Vidéos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5129"><a href="https://www.lesbonsprofs.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19406"><a href="tel:+33186957201">📞 01 86 95 72 01</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14558"><a href="https://app.lesbonsprofs.com/connexion">Connexion</a></li>
+        </ul>
+    </div>
+
+</div>	    </div><!-- md-8 desk menu -->
+	    
+    </div> <!-- row -->
+</div> <!-- container -->		</div>
+	</div> <!-- id header -->
+	
+<div id="main">					<nav class="woocommerce-breadcrumb">
+					<div class="container" vocab="https://schema.org/" typeof="BreadcrumbList"><!-- Breadcrumb NavXT 7.1.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Tout savoir sur Les Bons Profs." href="https://www.lesbonsprofs.com" class="home" ><span property="name">Les Bons Profs</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Cours." href="https://www.lesbonsprofs.com/nos-cours/" class="archive post-product-archive" ><span property="name">Cours</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to the Quatrième Catégorie archives." href="https://www.lesbonsprofs.com/nos-cours/quatrieme/" class="taxonomy product_cat" ><span property="name">Quatrième</span></a><meta property="position" content="3"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to the Français Catégorie archives." href="https://www.lesbonsprofs.com/nos-cours/quatrieme/francais-quatrieme/" class="taxonomy product_cat" ><span property="name">Français</span></a><meta property="position" content="4"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to the La fiction pour interroger le réel Catégorie archives." href="https://www.lesbonsprofs.com/nos-cours/quatrieme/francais-quatrieme/la-fiction-pour-interroger-le-reel/" class="taxonomy product_cat" ><span property="name">La fiction pour interroger le réel</span></a><meta property="position" content="5"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name" class="post post-product current-item">Le fantastique</span><meta property="url" content="https://www.lesbonsprofs.com/cours/le-fantastique/"><meta property="position" content="6"></span></div>
+				</nav>
+											<div class="woocommerce-notices-wrapper"></div><div id="product-7985" class="product type-product post-7985 status-publish first instock product_cat-la-fiction-pour-interroger-le-reel has-post-thumbnail product-type-simple">
+	<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Le fantastique",
+    "description": "Le fantastique : accédez à un rappel de cours en vidéo...",
+    "provider": {
+        "@type": "Organization",
+        "name": "Les Bons Profs",
+        "sameAs": "https://www.lesbonsprofs.com/"
+    }
+}</script>	<div class="container">
+		<div class="row headlines">
+			<div class="col-xs-12">
+				<div class="single_product_title"><h1 class="product_title entry-title">Le fantastique</h1></div>
+			</div>
+						<div class="col-12 col-md-6 col-back-btn">
+				<a href="https://www.lesbonsprofs.com/nos-cours/quatrieme/francais-quatrieme/la-fiction-pour-interroger-le-reel/" title="Revenir au chapitre">
+					<svg viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M16.25 21.125L8.125 13L16.25 4.875" stroke-linecap="round" stroke-linejoin="round"/>
+					</svg>	
+					Revenir au chapitre				</a>
+			</div>
+						<div class="col-12 col-md-6 col-cta col-cta-right">
+				<a href="https://app.lesbonsprofs.com/creation/compte/eleve" 
+					title="Lien vers l'inscription gratuite"
+					id="form_inscription_top" class="cta">
+					Crée ton compte				</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-md-4 col-onglets">
+				<div class="sticky">
+					<ul class="categories">
+													<li>
+								<a href="https://www.lesbonsprofs.com/nos-cours/quatrieme/" title="Lien vers la catégorie Quatrième">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+										<path d="M320 32c-8.1 0-16.1 1.4-23.7 4.1L15.8 137.4C6.3 140.9 0 149.9 0 160s6.3 19.1 15.8 22.6l57.9 20.9C57.3 229.3 48 259.8 48 291.9v28.1c0 28.4-10.8 57.7-22.3 80.8c-6.5 13-13.9 25.8-22.5 37.6C0 442.7-.9 448.3 .9 453.4s6 8.9 11.2 10.2l64 16c4.2 1.1 8.7 .3 12.4-2s6.3-6.1 7.1-10.4c8.6-42.8 4.3-81.2-2.1-108.7C90.3 344.3 86 329.8 80 316.5V291.9c0-30.2 10.2-58.7 27.9-81.5c12.9-15.5 29.6-28 49.2-35.7l157-61.7c8.2-3.2 17.5 .8 20.7 9s-.8 17.5-9 20.7l-157 61.7c-12.4 4.9-23.3 12.4-32.2 21.6l159.6 57.6c7.6 2.7 15.6 4.1 23.7 4.1s16.1-1.4 23.7-4.1L624.2 182.6c9.5-3.4 15.8-12.5 15.8-22.6s-6.3-19.1-15.8-22.6L343.7 36.1C336.1 33.4 328.1 32 320 32zM128 408c0 35.3 86 72 192 72s192-36.7 192-72L496.7 262.6 354.5 314c-11.1 4-22.8 6-34.5 6s-23.5-2-34.5-6L143.3 262.6 128 408z"/>
+									</svg>
+									<div class="span">Quatrième</div>
+								</a>
+							</li>
+																			<li>
+								<a href="https://www.lesbonsprofs.com/nos-cours/quatrieme/francais-quatrieme/" title="Lien vers la catégorie Français">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+										<!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
+										<path d="M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z"/>
+									</svg>
+									<div class="span">Français</div>
+								</a>
+							</li>
+																			<li>
+								<a href="https://www.lesbonsprofs.com/nos-cours/quatrieme/francais-quatrieme/la-fiction-pour-interroger-le-reel/" title="Lien vers la catégorie La fiction pour interroger le réel">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+										<!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
+										<path d="M360 0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V24c0-13.3-10.7-24-24-24zM64 112c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16v-32zm1.6 129.4l12.7-12.6c2.1-2.1 5.5-2.1 7.6 0l20.6 20.8 47.6-47.2c2.1-2.1 5.5-2.1 7.6 0l12.6 12.7c2.1 2.1 2.1 5.5 0 7.6l-64.2 63.6c-2.1 2.1-5.5 2.1-7.6 0L65.6 249c-2.1-2.1-2.1-5.5 0-7.6zM128 400c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16v-32c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32zm192-8c0 4.4-3.6 8-8 8H168c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h144c4.4 0 8 3.6 8 8v16zm0-128c0 4.4-4.3 8-9.6 8H170.2s29.2-30.2 30.4-32h109.7c5.3 0 9.6 3.6 9.6 8v16zm0-128c0 4.4-3.6 8-8 8H168c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h144c4.4 0 8 3.6 8 8v16z"/>
+									</svg>
+									<div class="span">La fiction pour interroger le réel</div>
+								</a>
+							</li>
+											</ul>
+
+					<ol class="onglets-list">
+						<li class="onglet" role="tab" id="onglet-0"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-0" aria-expanded="true" aria-controls="collapse-0"><div class="marker">1</div><div class="text"><div class="text-label">Le fantastique</div></div></a></li>					</ol>
+					
+					<div class="others-courses">
+						<div class="multiseparator"></div><div class="widget widget_others_courses"><div class='widget'><p class='h3 widgettitle'>Dans ce chapitre</p></div>
+            <ul class="stm_product_list_widget widget_woo_stm_style_2">
+
+                                    <li>
+                        <a href="https://www.lesbonsprofs.com/cours/la-litterature-realiste/">
+                            <img width="75" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2075%2075'%3E%3C/svg%3E" class="attachment-img-75-75 size-img-75-75 wp-post-image" alt="" decoding="async" data-lazy-srcset="https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-75x75.jpeg 75w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-150x150.jpeg 150w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-129x129.jpeg 129w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-122x120.jpeg 122w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-69x69.jpeg 69w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-300x300.jpeg 300w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-100x100.jpeg 100w" data-lazy-sizes="(max-width: 75px) 100vw, 75px" data-lazy-src="https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-75x75.jpeg" /><noscript><img width="75" height="75" src="https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-75x75.jpeg" class="attachment-img-75-75 size-img-75-75 wp-post-image" alt="" decoding="async" srcset="https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-75x75.jpeg 75w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-150x150.jpeg 150w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-129x129.jpeg 129w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-122x120.jpeg 122w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-69x69.jpeg 69w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-300x300.jpeg 300w, https://www.lesbonsprofs.com/wp-content/uploads/2022/09/9160bee58f69741733e764b70e9ff4b3-100x100.jpeg 100w" sizes="(max-width: 75px) 100vw, 75px" /></noscript>                            <div class="meta">
+                                <div class="title h5">La littérature réaliste</div>
+                            </div>
+                        </a>
+                    </li>
+                
+            </ul>
+
+        </div>					</div>
+				</div>
+			</div>	
+			<div class="col-xs-12 col-md-8 col-cour-contenu">
+				
+				<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true" style="border:0"><div class="panel panel-default" style="border:0"><div id="collapse-0" class="panel-collapse fade collapse in" role="tabpanel" aria-labelledby="collapse-0"><div class="panel-body" style="border:0"><h2>Le fantastique</h2><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "Le fantastique Le fantastique",
+    "description": "Le fantastique : accédez à un rappel de cours en vidéo du chapitre La fiction pour interroger le réel en Français Quatrième.",
+    "uploadDate": "2022-09-05T11:09:28+02:00",
+    "contentUrl": "https://player.vimeo.com/external/282874403.hd.mp4?s=af9946f228f0a3013093432747a5f6730c5741bf\u0026amp;profile_id=174\u0026amp;oauth2_token_id=933044758",
+    "thumbnailUrl": "https://www.lesbonsprofs.com/wp-content/uploads/2022/09/717026434_295x166.jpg"
+}</script><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" width="640" height="360" frameborder="0" allowfullscreen src="https://player.vimeo.com/external/282874403.hd.mp4?s=af9946f228f0a3013093432747a5f6730c5741bf&amp;profile_id=174&amp;oauth2_token_id=933044758" /></iframe></div>
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "FAQPage",
+		"mainEntity": [
+					{
+				"@type": "Question",
+				"name": "Qu’est-ce que le fantastique ?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Le registre fantastique se caractérise par la survenue d’un élément surnaturel dans un univers réaliste, familier. C’est un registre littéraire qui apparaît au XIXe siècle environ."
+									}
+			}
+			,				{
+				"@type": "Question",
+				"name": "Quels sont les autres genres proches du fantastique ?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Il ne faut pas confondre le fantastique avec le merveilleux, puisque dans le merveilleux on est dans un univers où le surnaturel est normal. De même, pour la science-fiction, qui est aussi un genre littéraire. L’horreur est encore autre chose, parce qu’il y a aussi cette dimension de peur comme dans le fantastique, mais l’horreur repose entièrement sur la peur, tant pour un film d’horreur comme pour un livre d’horreur."
+									}
+			}
+						]
+	}
+</script>
+
+<p class="p1">Le fantastique est un<strong> registre littéraire</strong>, c’est-à-dire, une manière d’écrire ou de raconter une histoire qui implique un certain nombre d’éléments de contrainte et qui génère une certaine émotion.</p>
+<h3 class="p1">I. Qu’est-ce que le fantastique ?</h3>
+<p class="p1">Le registre fantastique se caractérise par la <strong>survenue d’un élément surnaturel</strong> <strong>dans un univers réaliste</strong>, familier. C’est un registre littéraire qui apparaît au <strong>XIX<sup>e</sup> siècle</strong> environ.</p>
+<p class="p1">Cela veut dire qu’on raconte une histoire qui semble banale où tout est <strong>crédible,</strong> puis tout d’un coup, il y a un élément qui déroge à la règle de la logique et qui normalement <strong>fait peur</strong>. Le personnage principal se demande si cet élément peut être expliqué rationnellement ou s’il s’agit vraiment de quelque chose de surnaturel, que ce soit un fantôme, une apparition de monstre ou un autre élément surnaturel qui survient et qui apporte un danger. C’est rarement pour faire du bien que l’élément surnaturel arrive dans le fantastique.</p>
+<h3 class="p1">II. Quels sont les autres genres proches du fantastique ?</h3>
+<p class="p1"><strong>Il ne faut pas confondre le fantastique avec le merveilleux</strong>, puisque dans le merveilleux on est dans un univers où l<strong>e surnaturel est normal</strong>. Quand on est dans un univers merveilleux, par exemple, dans les romans de chevalerie, il y a des fées, des magiciens, des sorcières ou alors des fontaines avec des propriétés particulières : la fontaine qui bout, par exemple dans <em>Yvain ou le chevalier au lion</em>. Tous sont des <strong>éléments merveilleux</strong> qui suscitent l’admiration et qui n’effraient pas ou très peu car ils sont considérés comme normaux dans cet univers-là. En ce sens, le merveilleux se rapproche plus de la <em>fantasy</em> au cinéma et dans les nouvelles catégories de romans jeunesse. La <em>fantasy</em> est aussi un univers merveilleux. Il y a du surnaturel mais tout cela est cohérent et ne pose pas de problème.</p>
+<p class="p1">De même, pour la <strong>science-fiction</strong>, qui est aussi un genre littéraire. Dans la science-fiction on prend des <strong>éléments scientifiques</strong> et on essaie de les pousser à leur paroxysme, soit dans leurs <strong>conséquences</strong> ou dans des <strong>nouvelles lois</strong> qu’on pourrait inventer sur le voyage dans le temps, par exemple, pour en faire des histoires. Mais on n’essaie pas d’introduire du surnaturel : c’est à partir de la science qu’on développe des hypothèses un peu extrêmes, mais on reste dans des choses qui sont censées pouvoir être faites dans un cadre réaliste, en exagérant un peu.</p>
+<p class="p1">L’<strong>horreur</strong> est encore autre chose, parce qu’il y a aussi cette <strong>dimension de peur</strong> comme dans le fantastique, mais <strong>l’horreur repose entièrement sur la peur</strong>, tant pour un film d’horreur comme pour un livre d’horreur. Le but est de faire peur, alors que dans le fantastique ce n’est pas le but. Le but est plutôt l’<strong>inquiétude de l’étrangeté</strong>, de l’espèce de malaise qui s’instaure face à quelque chose qui ne rentre pas dans le cadre et qui dérange justement ce qu’on connaît de la réalité.</p>
+<h3 class="p1">III. Histoire littéraire</h3>
+<p class="p1">Le terme fantastique vient de <em>phantastikos</em>, terme grec qui veut dire « irréel », « imaginaire ». Même dans le terme, il y a l’idée de ce qui est <strong>en dehors de la réalité</strong>, ce qui dérange le cours ordinaire des choses.</p>
+<p class="p1">C’est un registre qui apparaît au XIX<sup>e</sup> siècle d’abord chez les <strong>Romantiques</strong> : Naudier, Gautier, Mérimée. Ils ont rédigé soit des nouvelles, soit de courts poèmes fantastiques. Néanmoins, les œuvres que l’on connaît le plus parmi les <strong>nouvelles fantastiques</strong> sont<em> Le Horla </em>de Maupassant et <em>La Peau de chagrin</em> de Balzac.</p>
+<h4 class="p1">A. <em>La Peau de chagrin </em>de Balzac</h4>
+<p class="p1">Dans <em>La Peau de chagrin</em>, le chagrin n’est pas seulement d’être triste. C’est peau particulière qui s’appelle « le chagrin », qui est une <strong>très belle pièce de cuir</strong> que le héros de l’histoire va acheter chez un antiquaire. C’est en fait une <strong>peau magique</strong>. Tout est décrit normalement : il y a une vraie brocante, le personnage est tout à fait crédible et il achète finalement une pièce de cuir. Ce n’est pas exceptionnel en soi, sauf que <strong>c’est une peau qui lui permet de réaliser ses souhaits </strong>dès qu’il veut quelque chose. Il n’a même pas besoin de formuler le souhait (comme dans le pacte avec le diable ou les histoires du malin génie dans Aladdin), il a juste à vouloir quelque chose pour que tout de suite, la peau, par un effet magique, fasse réaliser le souhait, et puis elle rétrécit. À mesure qu’elle rétrécit, c’est la vie du personnage qui s’amenuise, ses forces vitales baissent et il va finir par mourir, à force de vouloir des choses et de ne pas pouvoir restreindre sa volonté.</p>
+<p class="p1">Tout l’enjeu du livre est de réussir à ne plus rien vouloir pour réussir à survivre aussi longtemps que possible. Le démon surnaturel est cette peau magique qui finalement est une <strong>malédiction </strong>et en même temps est une <strong>bénédiction</strong> pour lui, dans un univers qui est, au début, réaliste et familier.</p>
+<h4 class="p1">B. <em>Le Horla</em>, de Maupassant</h4>
+<p class="p1">Dans cette nouvelle, Maupassant nous livre le<strong> journal intime</strong> de quelqu’un qui se rend compte qu’il y a des choses bizarres qui se passent chez lui et qui se demande s’il n’y a pas quelqu’un d’autre chez lui.<span class="Apple-converted-space">  </span>Par exemple, quelqu’un qui, pendant qu’il dort, boit dans son verre d’eau sur sa table de chevet, ou qui déplace des objets, etc. Il y a une <strong>dimension de surnaturel</strong>, d’éléments bizarres qui inquiètent et qui <strong>dérangent un cadre familier et réaliste</strong>.</p>
+<h3 class="p1">IV. Le héros dans le fantastique</h3>
+<p class="p1">Dans les textes fantastiques, <strong>le héros commence toujours par refuser le surnaturel</strong>. Il n’adhère pas, au contraire du merveilleux, en se disant « c’est super, il y a quelque chose de bizarre ; ça doit forcément être un élément irréel, surnaturel que je ne contrôle pas ». Au début, il essaie d’avoir une <strong>explication rationnelle</strong>, de ramener cet élément bizarre à quelque chose de connu, mais cela ne marche pas et cela instaure une peur. Parfois on parle d’une <strong>« inquiétante étrangeté »</strong> : c’est un terme de Freud pour dire que tout est familier mais il y a quelque chose qui ne va pas.</p>
+</div></div></div></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+			           </div>
+</div>
+		<footer id="footer" class="">
+			<div class="footer_wrapper">
+								
+    <div id="footer_bottom">
+      <div class="footer_widgets_wrapper kek text-upper">
+        <div class="container">
+          <div class="widgets cols_3 clearfix">
+            <aside id="stm_text-2" class="widget stm_wp_widget_text"><p class="widget-title widget-title-fake-hn widgettitle">Nos cours</p>        <div class="textwidget"><div class="widget_pages">
+<ul class="style_1">
+<li class="page_item">
+<a href="/nos-cours/terminale" title="Tous les cours du programme de Terminale en vidéo"><span class="h6">Terminale</span></a></li>
+<li class="page_item"><a href="/nos-cours/premiere" title="Tous les cours du programme de Première en vidéo">Première</a></li>
+<li class="page_item"><a href="/nos-cours/seconde" title="Tous les cours du programme de Seconde en vidéo">Seconde</a></li>
+<li class="page_item"><a href="/nos-cours/troisieme" title="Tous les cours du programme de Troisième en vidéo">3e</a></li>
+<li class="page_item"><a href="/nos-cours/quatrieme" title="Tous les cours du programme de Quatrième en vidéo">4e</a></li>
+<li class="page_item"><a href="/nos-cours/cinquieme" title="Tous les cours du programme de Cinquième en vidéo">5e</a></li>
+<li class="page_item"><a href="/nos-cours/sixieme" title="Tous les cours du programme de Sixième en vidéo">6e</a></li>
+</ul>
+</div>
+</div>
+
+		</aside><aside id="stm_pages-2" class="widget widget_pages"><p class="widget-title widget-title-fake-hn widgettitle">Pages</p>			<ul class="style_1">
+				<li class="page_item page-item-664 "><a href="https://www.lesbonsprofs.com/blog/"><span class="h6">Blog</span></a></li>
+<li class="page_item page-item-5301"><a href="https://www.lesbonsprofs.com/brevet-bac/"><span class="h6">Brevet/Bac</span></a></li>
+<li class="page_item page-item-5220"><a href="https://www.lesbonsprofs.com/faq/"><span class="h6">FAQ</span></a></li>
+<li class="page_item page-item-5330"><a href="https://www.lesbonsprofs.com/mentions-legales-cgu/"><span class="h6">Mentions Légales et Conditions générales d&#8217;utilisation</span></a></li>
+<li class="page_item page-item-4969 current_page_parent"><a href="https://www.lesbonsprofs.com/nos-cours/"><span class="h6">Nos cours</span></a></li>
+<li class="page_item page-item-4989"><a href="https://www.lesbonsprofs.com/nos-offres/"><span class="h6">Nos offres</span></a></li>
+<li class="page_item page-item-18"><a href="https://www.lesbonsprofs.com/nos-profs/"><span class="h6">Nos profs</span></a></li>
+<li class="page_item page-item-5072"><a href="https://www.lesbonsprofs.com/nos-stages/"><span class="h6">Nos stages</span></a></li>
+<li class="page_item page-item-5317"><a href="https://www.lesbonsprofs.com/notre-manifeste/"><span class="h6">Notre manifeste</span></a></li>
+<li class="page_item page-item-3"><a href="https://www.lesbonsprofs.com/politique-de-confidentialite/"><span class="h6">Politique de confidentialité</span></a></li>
+			</ul>
+			</aside><aside id="socials-2" class="widget widget_socials"><p class="widget-title widget-title-fake-hn widgettitle">Suivre Les Bons Profs</p><div class="socials_widget_wrapper"><ul class="widget_socials list-unstyled clearfix"><li class='simple_flip_container'>
+							<div class='simple_flipper'>
+								<div class='front'>
+									<a href='https://www.facebook.com/lesbonsprofs' target='_blank' class='facebook'><i class='fab fa-facebook'></i></a>
+								</div>
+								<div class='back'>
+									<a href='https://www.facebook.com/lesbonsprofs' target='_blank'><i class='fab fa-facebook'></i></a>
+								</div>
+							</div>
+						</li><li class='simple_flip_container'>
+							<div class='simple_flipper'>
+								<div class='front'>
+									<a href='https://twitter.com/LesBonsProfs/' target='_blank' class='twitter'><i class='fab fa-twitter'></i></a>
+								</div>
+								<div class='back'>
+									<a href='https://twitter.com/LesBonsProfs/' target='_blank'><i class='fab fa-twitter'></i></a>
+								</div>
+							</div>
+						</li><li class='simple_flip_container'>
+							<div class='simple_flipper'>
+								<div class='front'>
+									<a href='https://www.instagram.com/lesbonsprofs/' target='_blank' class='instagram'><i class='fab fa-instagram'></i></a>
+								</div>
+								<div class='back'>
+									<a href='https://www.instagram.com/lesbonsprofs/' target='_blank'><i class='fab fa-instagram'></i></a>
+								</div>
+							</div>
+						</li><li class='simple_flip_container'>
+							<div class='simple_flipper'>
+								<div class='front'>
+									<a href='https://fr.linkedin.com/company/lesbonsprofs' target='_blank' class='linkedin'><i class='fab fa-linkedin'></i></a>
+								</div>
+								<div class='back'>
+									<a href='https://fr.linkedin.com/company/lesbonsprofs' target='_blank'><i class='fab fa-linkedin'></i></a>
+								</div>
+							</div>
+						</li><li class='simple_flip_container'>
+							<div class='simple_flipper'>
+								<div class='front'>
+									<a href='https://www.youtube.com/lesbonsprofs' target='_blank' class='youtube'><i class='fab fa-youtube'></i></a>
+								</div>
+								<div class='back'>
+									<a href='https://www.youtube.com/lesbonsprofs' target='_blank'><i class='fab fa-youtube'></i></a>
+								</div>
+							</div>
+						</li>
+	        </ul></div></aside>          </div>
+        </div>
+      </div>
+
+      <div class="container text-center">
+        <button id="tarteaucitronManager" class="tarteaucitron-manager">Gestion des cookies</button>
+      </div>
+    </div>
+
+  				
+			</div>
+		</footer>
+
+        
+	<script type="rocketlazyloadscript">
+		var cf7_custom_image = 'https://www.lesbonsprofs.com/wp-content/themes/masterstudy-child-rnd/assets/img/';
+		var daysStr = 'Jours';
+		var hoursStr = 'Heures';
+		var minutesStr = 'Minutes';
+		var secondsStr = 'Secondes';
+	</script>
+
+
+			<div data-elementor-type="popup" data-elementor-id="19753" class="elementor elementor-19753 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1&quot;,&quot;sizes&quot;:[]},&quot;close_automatically&quot;:&quot;8&quot;,&quot;prevent_scroll&quot;:&quot;yes&quot;,&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:{&quot;page_load_delay&quot;:5,&quot;page_load&quot;:&quot;yes&quot;},&quot;timing&quot;:{&quot;times_times&quot;:1,&quot;times_period&quot;:&quot;day&quot;,&quot;times&quot;:&quot;yes&quot;}}">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-35abb904 elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-section-boxed elementor-section-height-default" data-id="35abb904" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4723a976" data-id="4723a976" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3f872837 elementor-widget__width-auto elementor-absolute elementor-view-default elementor-widget elementor-widget-icon" data-id="3f872837" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9">
+						</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4bde4ad5 elementor-widget__width-initial elementor-absolute elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-invisible elementor-widget elementor-widget-spacer" data-id="4bde4ad5" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4cde478c elementor-widget__width-initial elementor-absolute elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-invisible elementor-widget elementor-widget-spacer" data-id="4cde478c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-520d04f3 elementor-widget__width-initial elementor-absolute elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-spacer" data-id="520d04f3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-65b5e0bc elementor-widget__width-initial elementor-absolute elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-spacer" data-id="65b5e0bc" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3e174a51 elementor-widget__width-auto elementor-absolute elementor-view-default elementor-widget elementor-widget-icon" data-id="3e174a51" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6db3ed32 elementor-widget elementor-widget-heading" data-id="6db3ed32" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Tu veux réviser 2x plus vite ?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7a132df0 elementor-widget elementor-widget-text-editor" data-id="7a132df0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Découvre les offres des Bons Profs avec : </p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-d06476d elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d06476d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Tout le programme de ton année en vidéo</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Des quiz interactifs directement dans les vidéos</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Des profs en visio pour t'aider dans tes devoirs</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Des QCM, des fiches à télécharger et plein d'outils pratiques !</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2e8264a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e8264a2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-70d3da41" data-id="70d3da41" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f838b8d elementor-align-center elementor-widget elementor-widget-button" data-id="f838b8d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Essaie gratuitement pendant 7 jours</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" aria-label="Fermer (Echap)"></button>
+				<button class="pswp__button pswp__button--share" aria-label="Partagez"></button>
+				<button class="pswp__button pswp__button--fs" aria-label="Basculer en plein écran"></button>
+				<button class="pswp__button pswp__button--zoom" aria-label="Zoomer/Dézoomer"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" aria-label="Précédent (flèche  gauche)"></button>
+			<button class="pswp__button pswp__button--arrow--right" aria-label="Suivant (flèche droite)"></button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+	<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/structured-content/dist/app.build.js?ver=1.5.0' id='structured-content-frontend-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/masterstudy-lms-learning-management-system/assets/vendors/bootstrap.min.js?ver=2.8.8' id='masterstudy-bootstrap-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/masterstudy-lms-learning-management-system/assets/vendors/ms-bootstrap-custom.js?ver=2.8.8' id='masterstudy-bootstrap-custom-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/masterstudy-lms-learning-management-system/assets/js/countdown.js?ver=2.8.8' id='lms_countdown.js-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.6.9.4' id='zoom-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/js_composer/assets/lib/flexslider/jquery.flexslider.min.js?ver=6.9.0' id='flexslider-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.6.9.4' id='photoswipe-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.6.9.4' id='photoswipe-ui-default-js'></script>
+<script type='text/javascript' id='wc-single-product-js-extra'>
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Veuillez s\u00e9lectionner une note","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=6.9.4' id='wc-single-product-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.9.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%&elementor_page_id=7985"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.9.4' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%&elementor_page_id=7985","cart_hash_key":"wc_cart_hash_67abacac4b8e97e031cbdbd9705759d0","fragment_name":"wc_fragments_67abacac4b8e97e031cbdbd9705759d0","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.9.4' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='wpcfto_metaboxes.js-js-extra'>
+/* <![CDATA[ */
+var wpcfto_global_settings = {"translations":{"font_size":"Font size","line_height":"Line height","word_spacing":"Word spacing","letter_spacing":"Letter spacing","font_family":"Font Family","backup_font_family":"Backup Font Family","font_weight":"Font Weignt &amp; Style","font_subset":"Font Subsets","text_align":"Text Align","font_color":"Font Color","text-transform":"Text transform","export":"Copy settings","import":"Import settings","import_notice":"WARNING! This will overwrite all existing option values, please proceed with caution!","exported_data":"Settings copied to buffer","exported_data_error":"Couldn&#039;t copy settings","export_data_label":"Export options","import_data_label":"Import options","vue_select_notice":"Sorry, no matching options."}};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/masterstudy-lms-learning-management-system/nuxy/metaboxes/assets/js/metaboxes.js?ver=1736601211' id='wpcfto_metaboxes.js-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/themes/masterstudy/assets/vendors/jquery.fancybox.min.js?ver=10.0' id='fancybox-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3-wc.6.9.4' id='select2-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/themes/masterstudy/assets/js/custom.js?ver=10.0' id='stm_theme_scripts-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/themes/masterstudy/assets/js/ajax.submit.js?ver=10.0' id='ajaxsubmit-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/mystickymenu-pro/js/morphext/morphext.min.js?ver=2.6.5' id='morphext-js-js'></script>
+<script type='text/javascript' id='welcomebar-frontjs-js-extra'>
+/* <![CDATA[ */
+var welcomebar_frontjs = {"ajaxurl":"https:\/\/www.lesbonsprofs.com\/wp-admin\/admin-ajax.php","days":"Days","hours":"Hours","minutes":"Minutes","seconds":"Seconds","ajax_nonce":"6d9278d548"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/mystickymenu-pro/js/welcomebar-front.js?ver=2.6.5' id='welcomebar-frontjs-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/mystickymenu-pro/js/detectmobilebrowser.js?ver=2.6.5' id='detectmobilebrowser-js'></script>
+<script type='text/javascript' id='mystickymenu-js-extra'>
+/* <![CDATA[ */
+var option = {"mystickyClass":".menu-main-menu-container","activationHeight":"0","disableWidth":"0","disableLargeWidth":"0","adminBar":"false","device_desktop":"1","device_mobile":"1","mystickyTransition":"fade","mysticky_disable_down":"false"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/mystickymenu-pro/js/mystickymenu.min.js?ver=2.6.5' id='mystickymenu-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.11.3' id='elementor-pro-webpack-runtime-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.11.2' id='elementor-webpack-runtime-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.11.2' id='elementor-frontend-modules-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.lesbonsprofs.com\/wp-admin\/admin-ajax.php","nonce":"506fa5e202","urls":{"assets":"https:\/\/www.lesbonsprofs.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.lesbonsprofs.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.lesbonsprofs.com","checkout_page_url":"https:\/\/www.lesbonsprofs.com","fragments_nonce":"cd7d418510"}},
+"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.lesbonsprofs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.11.3' id='elementor-pro-frontend-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Grand mobile","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Grande tablette","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},
+"version":"3.11.2","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"landing-pages":true,"kit-elements-defaults":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/www.lesbonsprofs.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":7985,"title":"Le%20fantastique%20%7C%20Fran%C3%A7ais%20%7C%20Quatri%C3%A8me%20%7C%20Les%20Bons%20Profs","excerpt":"","featuredImage":"https:\/\/www.lesbonsprofs.com\/wp-content\/uploads\/2022\/09\/50ff00258d3fa5e9dd22a13565ebfa93.png"}};
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.2' id='elementor-frontend-js'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.lesbonsprofs.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.11.3' id='pro-elements-handlers-js'></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.lesbonsprofs.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>	
+<script type="rocketlazyloadscript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML-full"></script>
+	<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+	    extensions: ["tex2jax.js"],
+	    jax: ["input/TeX", "output/HTML-CSS"],
+	    tex2jax: {
+		    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+		    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+		    processEscapes: true
+			},
+		  "HTML-CSS": { fonts: ["TeX"] }
+		});
+	</script>
+	<script>class RocketElementorAnimation{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}_detectAnimations(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this._listAnimationSettingsKeys(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach(t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this._animateElement(t)}catch(t){}})}_animateElement(t){const e=JSON.parse(t.dataset.settings),i=e._animation_delay||e.animation_delay||0,n=e[this.animationSettingKeys.find(t=>e[t])];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let s=setTimeout(()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this._removeAnimationSettings(t,e)},i);window.addEventListener("rocket-startLoading",function(){clearTimeout(s)})}_listAnimationSettingsKeys(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach(t=>{e.forEach(e=>{i.push(t+e)})}),i}_removeAnimationSettings(t,e){this._listAnimationSettingsKeys().forEach(t=>delete e[t]),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorAnimation;requestAnimationFrame(t._detectAnimations.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorAnimation.run);</script></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1736601212 -->

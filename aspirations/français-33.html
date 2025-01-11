@@ -1,0 +1,410 @@
+
+
+<style>
+h1 {
+	line-height: 40px;
+	font-size:28px;
+}
+h2 {
+	line-height: 40px;
+	font-size:20px;
+}
+</style>
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<script > 
+function montre(div) 
+{ 
+var item=document.getElementById(div);
+var img=document.getElementById('img_' + div);
+var expDate = new Date();
+expDate.setTime(expDate.getTime() + (7 * 24 * 3600 * 1000));
+if(item.style.display =='none') {
+  item.style.visibility='visible'; 
+  item.style.display='block'; 
+  img.src = '/images/minus_L.gif';
+  // document.cookie = div + '.visible=OUI;expires=' + expDate.toGMTString();
+  }
+  else {
+  item.style.visibility='hidden'; 
+  item.style.display='none'; 
+  img.src = '/images/plusik_l.gif';
+  // document.cookie = div + '.visible=NON;expires=' + expDate.toGMTString();
+  } 
+} 
+</script> 
+
+<title>Mythe et fantastique</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="nooSFere">
+<meta name="keywords" content="SF fantastique fantasy imaginaire">
+<meta name="author" content="noocontact@noosfere.com">
+<link rel="icon" href="favicon.ico" />
+<!-- Inclure la charte -->
+<!-- RMD detecting agent-->
+<link rel="StyleSheet" type="text/css" href="/images/charte1/noostyle.css?vers=49">
+
+<link rel="stylesheet" href="/modules/charte/choix/modal-message.css" type="text/css">
+<script type="text/javascript" src="/modules/charte/choix/ajax.js"></script>
+<script type="text/javascript" src="/modules/charte/choix/modal-message.js"></script>
+<script type="text/javascript" src="/modules/charte/choix/ajax-dynamic-content.js"></script>
+<script type="text/javascript">
+messageObj = new DHTML_modalMessage();	// We only create one object of this class
+messageObj.setShadowOffset(5);	// Large shadow
+
+function afficherChoix(url)
+{
+	messageObj.setSource(url);
+	messageObj.setCssClassMessageBox(false);
+	messageObj.setSize(400,380);
+	messageObj.setShadowDivVisible(true);	// Enable shadow for these boxes
+	messageObj.display();
+}
+
+function cacherChoix()
+{
+	messageObj.close();	
+}
+</script>
+
+
+
+<SCRIPT language=JavaScript>
+//MENU AT START
+startmenu = 'noo3'; //Encyclopédie
+</SCRIPT>
+</head>
+
+<body>
+<table align="center" width="100%">
+	<tr>
+		<td>
+
+			<div class="mainnav">
+				<table>
+					<tr>
+						<td class="logo" rowspan=2><a title="accueil" href="/"><img id="Logo" src="/images/menus1/noologo122-78.gif" ></a></td>
+						<td class="mainitem"><a title="Littérature" href="/livres/livres.asp">Littérature</a></td>
+						<td class="mainitem"><a title="Encyclopédie" href="/icarus/default.asp">Encyclop&eacute;die</a></td>
+						<td class="mainitem"><a title="Sites hébergés" href="/noosfere/heberges.asp">Sites hébergés</a></td>
+						<td class="mainitem"><a title="Infos" href="/actu/evenements.asp">Infos & actus</a></td>
+						<td class="mainitem"><a title="Association" href="/noosfere/assoc/qu_estce.asp">Association</a></td>
+						<td align="center"><br><form name="simplesearch" action="/noosearch_simple.asp" method="post">
+							<input align=center type="text" size=16 name="Mots" class="input_search" onchange="this.submit()" placeholder="recherche...">
+							<br><a href="/livres/noosearch.asp">recherche avancée</a>
+							</form>
+						</td>
+						<td>
+							&nbsp;
+							<a href="https://www.facebook.com/nooSFere" target="_Blank"><img src="/images/facebook.png" height=30></a>
+							&nbsp;
+							<!-- <a href="https://twitter.com/noosfere" target="_Blank"><img src="/images/twitter.png" height=30></a>
+							&nbsp; -->
+							<a href="https://www.instagram.com/noosfere_sf" target="_Blank"><img src="/images/instagram.png" height=30></a>
+						</td>
+					</tr>
+				</table>
+			</div>
+
+	<TABLE border=0 cellPadding=0 cellSpacing=0 width="100%" align=center>
+		<tr>
+			<td width="30" >&nbsp;</td>
+			<td class="vousetesici">
+
+			</td>
+			<td class="vousetesici" style="text-align:right;font-weight:bold;color:#110022;">
+ Site clair 
+				(<a href="#" onclick="afficherChoix('/modules/charte/choix/choix.asp?numarticle=575');return false">Changer</a>)&nbsp;
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td>
+	</TABLE>
+			<div id="divmenugauche" style="float:left;width:200px">
+	<!-- Menu -->
+	<TABLE border=0 cellPadding=0 cellSpacing=0 width="195">
+	<tr><td align="left">
+		<TABLE border=0 cellPadding=0 cellSpacing=0>
+			<tr>
+				<td class="onglet_bleu_bg"></td>
+				<td class="onglet_bleu">&nbsp;&nbsp;Base de données&nbsp;&nbsp;</td>
+				<td class="onglet_bleu_bd"></td>
+			</tr>
+		</table>
+	</td></tr>
+	<tr><td>
+		<TABLE class="menu_gauche" width="100%">
+			<tr>
+				<td><span class="sous_menu_gauche"><a href="/livres/livres.asp">Littérature</a></span></td>
+			</tr>
+		</table>
+	</td></tr>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr><td align="left">
+		<TABLE border=0 cellPadding=0 cellSpacing=0>
+			<tr>
+				<td class="onglet_bleu_bg"></td>
+				<td class="onglet_bleu">&nbsp;&nbsp;Base d'articles&nbsp;&nbsp;</td>
+				<td class="onglet_bleu_bd"></td>
+			</tr>
+		</table>
+	</td></tr>
+	<tr><td>
+		<TABLE class="menu_gauche" width="100%"><tr><td>
+			<span class="sous_menu_gauche"><a href="/articles/categories.asp?numsection=1">Fonds documentaire</a></div>
+			</td></tr><tr><td>
+			<span class="sous_menu_gauche"><a href="/articles/listes.asp">Conseils de lecture</a></span>
+			</td></tr><tr><td>
+			<span class="sous_menu_gauche"><a href="/articles/references.asp">Références</a></span>
+			</td></tr><tr><td>
+			<span class="sous_menu_gauche"><a href="/articles/ouvrages.asp">Livres d'art</a></span>
+			</td></tr><tr><td>
+			<span class="sous_menu_gauche"><a href="/articles/themes.asp">Thématiques</a></span>
+			</td></tr><tr><td>
+			<span class="sous_menu_gauche"><a href="/articles/themeshist.asp">Histoire & Géo</a></span>
+		</td></tr></table>
+	<img  src="/images/o.gif" align="middle" width="1" height="15">
+	</td></tr>
+</table>
+
+
+
+			</div>
+			<div id="divfenetrecentrale" style="margin-left:200px;margin-right:10px;">
+  
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td class="onglet_bleu_bg"></td>
+				<td class="onglet_bleu">
+      			&nbsp;&nbsp;&nbsp;&nbsp;Fonds documentaire&nbsp;&nbsp;&nbsp;&nbsp;</td>
+				<td class="onglet_bleu_bd"></td>
+		<td class='ligneadherent' width='70%'>
+			<a href='/membres/login.asp'>Connexion adh&eacute;rent</a>
+
+			</tr>
+		</table>
+
+		<DIV style="display:block; visibility:visible;" Id="Fonds_documentaire">
+      <TABLE class="corps_page" width="100%">
+      <TR><TD valign="top">
+<script>
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+if (getCookie("menugauche")=="none") {
+    document.getElementById("divmenugauche").style.display="none";
+    document.getElementById("divfenetrecentrale").style.marginLeft="5px";
+}
+</script>
+				<div align="center">
+        <!-- Corps de la page -->
+
+&nbsp;<br>
+                <!-- Début Corps de la page -->
+                <H1>Mythe et fantastique</H1>
+                <H2><a HREF="../livres/auteur.asp?NumAuteur=485191548">Roger BOZZETTO</A></H2>
+                <center>
+                (lieu de parution initiale inconnu)0
+                </center>
+                <TABLE width="100%">
+                  <TR>
+                  <TD>
+                    <div align="center">
+                      <center>
+                    <TABLE width="90%" cellpadding="50" border="2" bordercolor="#800000" style="border-collapse: collapse" cellspacing="0">
+                      <TR>
+                        <TD bordercolor="#0262A8" class="TexteArticle">
+                          <!-- RMD <center><FONT SIZE="1"><A href="./article.asp?numarticle=575&pdf=1">version PDF</A></FONT></center> -->
+                          <P align="justify">
+                          <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>D&eacute;limitation des domaines</strong></div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les approches de la notion de mythe, qui se sont multipli&eacute;es ces derni&egrave;res ann&eacute;es, ainsi que la naissance d'une mythocritique, ont plus densifi&eacute; que clarifi&eacute; cet &laquo;&nbsp;objet&nbsp;&raquo; symbolique. Les fonctions id&eacute;ologiques, po&eacute;tiques, &eacute;pist&eacute;mologiques, psychanalytiques ou anthropologiques, qu'on lui attribue, selon l'angle d'attaque choisi pour l'aborder, favorisent une fructueuse mise en rapport avec la litt&eacute;rature dans son ensemble. Mais cela pose question lorsqu'on tente de le confronter &agrave; un genre litt&eacute;raire, en particulier avec le fantastique. Les raisons en sont nombreuses et complexes, car les fronti&egrave;res du fantastique ont &eacute;volu&eacute;, elles aussi.</div>
+<br />
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le mythe, en anthropologie, est d'abord un r&eacute;cit. Il pose par le biais de l'imaginaire une concr&eacute;tisation recevable &agrave; ce qui se pr&eacute;sente, aux yeux d'une culture, comme un myst&egrave;re angoissant &mdash;&nbsp;en g&eacute;n&eacute;ral celui de son origine. On se r&eacute;f&eacute;rera &agrave; la cr&eacute;ation du monde, ou d'Adam, dans la <em>Gen&egrave;se,</em> par exemple.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'histoire que le mythe raconte se donne comme une question qu'une culture pose &agrave; l'Univers, et la r&eacute;ponse de l'Univers &agrave; cette question (A. Jolles, 1970&nbsp;: 81). Le mythe fait, &agrave; cet effet, intervenir des images de Surnature &mdash;&nbsp;dans les mythes de cr&eacute;ation en particulier. Se pr&eacute;sentant comme parole d'une &laquo;&nbsp;autorit&eacute;&nbsp;&raquo;, et rapport&eacute; par une tradition, il donne du sens &agrave; une culture et lui permet de s'ins&eacute;rer dans l'ordre du symbolique. Mais le mythe peut aussi, outre cette dimension de cr&eacute;ation de sens, donner forme, par l'invention de figures comme celles de M&eacute;duse, &agrave; des terreurs li&eacute;es &agrave; des aspects &eacute;motionnels, ou &agrave; la pr&eacute;sence du Mal. Dans ces deux cas il est li&eacute; &agrave; la peur.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De plus le mythe est d'abord un r&eacute;cit oral particulier dont la forme, c'est-&agrave;-dire &laquo;&nbsp;la succession des &eacute;v&eacute;nements&nbsp;&raquo;, n'y est &laquo;&nbsp;subordonn&eacute;e &agrave; aucune r&egrave;gle de logique ou de continuit&eacute;&nbsp;&raquo;, car &laquo;&nbsp;tout peut arriver dans un mythe&nbsp;&raquo; (C. Levi-Strauss, 1958&nbsp;: 229-232). Pour un observateur &mdash;&nbsp;ext&eacute;rieur &agrave; la culture qui fonde certaines de ses croyances sur la pr&eacute;sence de ce mythe&nbsp;&mdash; un tel r&eacute;cit semblera proche du d&eacute;lire, tel qu'il est per&ccedil;u en psychiatrie. N&eacute;anmoins un anthropologue peut le d&eacute;crypter, avec ses propres cat&eacute;gories symboliques, qui peuvent &ecirc;tre diff&eacute;rentes de ceux de la culture qui a cr&eacute;&eacute; le mythe.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr&egrave;s l'invention de l'&eacute;criture, les mythes, par les figures, les trames et les personnages qu'ils avaient mis en sc&egrave;ne, ont fourni &agrave; des &eacute;crivains de quoi construire des mythologies, puis des textes, dont le rapport aux mythes initiaux est mis en travail selon les &eacute;poques avec des r&eacute;sultats variables. On en trouve un exemple avec, &agrave; la p&eacute;riode romantique, les nombreuses figures de Prom&eacute;th&eacute;e, ainsi qu'avec la cr&eacute;ation par Mary Shelley de Frankenstein, &laquo;&nbsp;un Prom&eacute;th&eacute;e moderne&nbsp;&raquo;.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ajoutons que la notion de mythe s'est ensuite li&eacute;e &agrave; celle de figure repr&eacute;sentative d'un certain rapport des hommes au savoir et au pouvoir. C'est le cas du mythe de Faust.</div>
+<br />
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quels rapports le mythe peut-il entretenir avec le fantastique&nbsp;?</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorsqu'on emploie le substantif &laquo;&nbsp;fantastique&nbsp;&raquo; on se r&eacute;f&egrave;re &agrave; deux acceptions diff&eacute;rentes, bien que compatibles.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D'une part, &agrave; la dimension fantastique du rapport de l'homme au monde, qui est intemporelle, en ce sens qu'il s'agit, comme le soutient Julio Cort&agrave;zar, d'un &laquo;&nbsp;sentiment face &agrave; la r&eacute;alit&eacute;&nbsp;&raquo;. C'est-&agrave;-dire &agrave; l'impression qu'il y a sous l'apparent ordre humain, une sorte de loi ou de r&egrave;gle inaccessible mais pourtant pr&eacute;sente (J. Cort&agrave;zar, 1986&nbsp;: 72). Cette &laquo;&nbsp;loi&nbsp;&raquo;, impossible &agrave; cerner intellectuellement, est pr&eacute;sente sur le mode du sentir, car comme le soutient Henri Maldiney, &laquo;&nbsp;le sentir est notre premier mode de communication avec le monde&nbsp;&raquo; et &laquo;&nbsp;le fantastique se signifie &agrave; m&ecirc;me ce sentir&nbsp;&raquo; (H. Maldiney,1993&nbsp;: 221).</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D'autre part il s'agit d'un genre litt&eacute;raire, n&eacute; en Occident en m&ecirc;me temps que la R&eacute;volution Industrielle et le Romantisme, et qui s'est d&eacute;velopp&eacute; depuis. Comme tout genre litt&eacute;raire vivace, il a entretenu des liens &eacute;troits avec les diff&eacute;rentes tendances litt&eacute;raires. On a ainsi pu lire des textes de fantastique romantique avec Gautier, r&eacute;aliste avec Maupassant, symboliste avec Poe, surr&eacute;aliste avec Mandiargues, moderne avec Matheson, d'horreur avec Lovecraft, etc.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans tous les cas, &agrave; des degr&eacute;s divers et sous des formes diff&eacute;rentes, le sentiment de fantastique instaure et rend sensible un type particulier de rapport de l'&ecirc;tre au monde. Les textes dits fantastiques construisent alors, pour les explorer, diverses modalit&eacute;s de ce rapport particulier. Ils tentent de rendre compte de l'affleurement, dans le monde du quotidien, d'un informulable conceptuellement, dont l'un des effets est souvent, pour le lecteur, une sensation de manque, engendrant malaise, terreur ou horreur, ainsi qu'une obscure jouissance.</div>
+<br />
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Mythe et &laquo;&nbsp;sentiment de fantastique&nbsp;&raquo;</strong></div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il existe cependant des points de rencontre entre les mythes et le &laquo;&nbsp;sentiment de fantastique&nbsp;&raquo;.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le mythe, on l'a vu, repr&eacute;sente une tentative, valid&eacute;e par une culture, de donner une forme rassurante &agrave; ce qui est sans doute l'une des premi&egrave;res impressions que les hommes ont ressentie devant le simple fait d'exister dans un univers incompr&eacute;hensible, &agrave; savoir &laquo;&nbsp;la peur de l'inconnu&nbsp;&raquo; (H.P. Lovecraft, 1969&nbsp;: 9). Cette peur, &laquo;&nbsp;cosmique&nbsp;&raquo;, est sans doute li&eacute;e &agrave; la naissance de la conscience propre &agrave; l'&ecirc;tre humain, et de ce qui en d&eacute;coule&nbsp;: l'affrontement &agrave; la mort. Elle a sans doute donn&eacute; lieu d&egrave;s l'acquisition du langage, &agrave; ces types de r&eacute;cits, les mythes, qui se retrouvent sous des formes diff&eacute;rentes dans chaque culture, et conduisent &agrave; solliciter la dimension symbolique du sacr&eacute; et du surnaturel. En d'autres termes, l'affrontement au r&eacute;el a n&eacute;cessit&eacute; l'usage du langage, fondement du rapport symbolique, et de l'imaginaire, pour construire une r&eacute;alit&eacute; acceptable. Ce que Daniel Pennac nomme &laquo;&nbsp;la victoire perp&eacute;tuelle du langage sur l'opacit&eacute; des choses&nbsp;&raquo; (D. Pennac, 1992&nbsp;: 31). Le r&eacute;el &laquo;&nbsp;innommable&nbsp;&raquo; a &eacute;t&eacute; symbolis&eacute;, et figure dans ces r&eacute;cits par le biais d'un imaginaire li&eacute; &agrave; la pr&eacute;sence d'une Surnature, puisque &laquo;&nbsp;les dieux, c'est un mode de r&eacute;v&eacute;lation du r&eacute;el&nbsp;&raquo; , car &laquo;&nbsp;les dieux, c'est bien certain, appartiennent &eacute;videmment au r&eacute;el&nbsp;&raquo; (J. Lacan, 1991&nbsp;: 58).</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le &laquo;&nbsp;sentiment de fantastique&nbsp;&raquo; quant &agrave; lui ne renvoie pas &agrave; une cr&eacute;ation collective comme le mythe. Il semble surgir, pour chacun, dans des circonstances particuli&egrave;res, qui r&eacute;activent sans doute des peurs anciennes, pour ne pas dire archa&iuml;ques. On peut en voir un exemple dans le texte &laquo;&nbsp;Sur l'eau&nbsp;&raquo; (Maupassant. 1876). Une partie de p&ecirc;che, la nuit, sur la Seine, provoque chez le narrateur, isol&eacute; dans sa barque, une terreur sans cause et sans nom&nbsp;: un &laquo;&nbsp;effroi b&ecirc;te et inexplicable grandissait toujours et devenait de la terreur&nbsp;&raquo;. Ces moments peuvent &ecirc;tre tr&egrave;s divers et, comme l'exemple de Maupassant le montre, rel&egrave;vent de situations banales. Julio Cort&agrave;zar insiste d'ailleurs sur l'aspect &laquo;&nbsp;in&eacute;puisable&nbsp;&raquo; de ces possibles irruptions du fantastique dans la r&eacute;alit&eacute;. Selon lui il s'agirait d'une sorte d'exp&eacute;rience o&ugrave; les choses et les &ecirc;tres changent en un instant de signe et de situation dans l'espace de la r&eacute;alit&eacute; rationnelle. Elle renvoie &agrave; l'apparition d'un trouble, d'une angoisse qui est engendr&eacute;e par l'impression que, sous la surface lisse de la r&eacute;alit&eacute; connue, se cachent des forces obscures Le trouble fantastique surgit du simple pressentiment de leur existence.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce &laquo;&nbsp;sentiment de fantastique&nbsp;&raquo; est li&eacute; &agrave; la peur, ce qui le rapproche du mythe. Cependant pour Cl&eacute;ment Rosset cette peur, dans les textes fantastiques, n'est pas r&eacute;f&eacute;r&eacute;e &agrave; la Surnature, mais &agrave; la pr&eacute;sence du r&eacute;el (C. Rosset, 1985&nbsp;: 75) Ajoutons que ce &laquo;&nbsp;sentiment de fantastique&nbsp;&raquo;, comme cette peur, peut aussi prendre sa source dans l'exp&eacute;rience onirique et traumatisante du cauchemar, qui peut servir d'exemple de rencontre avec ce &laquo;&nbsp;sentiment&nbsp;&raquo;. Les Grecs ne s'y trompaient pas, qui, dans leur mythologie, faisaient du G&eacute;ant Ephialtes &mdash;&nbsp;petit-fils d'H&eacute;cate, bless&eacute; et devenu aveugle&nbsp;&mdash; un lutteur oblig&eacute; de continuer &agrave; se battre dans le noir, contre les Olympiens, image du cauchemardeur dans les labyrinthes du sommeil, pris par des vertiges et des oppressions.</div>
+<br />
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Le genre du fantastique et l'univers du mythe</strong></div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tout semble par contre opposer le genre litt&eacute;raire du fantastique et l'univers du mythe. Le mythe est oral, le narrateur/conteur est fiable. Le discours du mythe est assertif pour ne pas dire didactique, il est cens&eacute; donner une explication, justifier un &eacute;tat de fait &agrave; l'aide de figures surnaturelles. Il fait autorit&eacute; malgr&eacute; son aspect irrationnel, et accepte une interpr&eacute;tation symbolique. Par contre, le fantastique, en tant que genre, rel&egrave;ve de l'&eacute;crit et invente des strat&eacute;gies narratives sophistiqu&eacute;es. De plus il n'est pas cens&eacute; d&eacute;livrer de message, m&ecirc;me s'il n'est pas simplement l&agrave; pour &laquo;&nbsp;communiquer un frisson&nbsp;&raquo; (H. Juin, 1962&nbsp;: 22)</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cependant, comme le mythe, le fantastique dans son &eacute;volution, depuis l'&eacute;poque romantique jusqu'aux r&eacute;cits d'horreur actuels, a pu utiliser la pr&eacute;sence de la Surnature. Chez les auteurs romantiques, elle sera utilis&eacute;e afin de cr&eacute;er des effets d'ind&eacute;termination du sens (T. Todorov, 1970) Elle sera pa&iuml;enne dans &laquo;&nbsp;La V&eacute;nus d'Ille&nbsp;&raquo; &mdash;&nbsp;puisque la statue de d&eacute;esse exhum&eacute;e provoque peut-&ecirc;tre la mort du &laquo;&nbsp;novio&nbsp;&raquo; et la folie de sa femme (P. M&eacute;rim&eacute;e, 1867). Elle sera chr&eacute;tienne dans &laquo;&nbsp;La morte amoureuse&nbsp;&raquo; &mdash;&nbsp;o&ugrave; Clarimonde au nom pr&eacute;destin&eacute; s&eacute;duit le jeune pr&ecirc;tre Romuald, puis est exorcis&eacute;e comme vampire et d&eacute;mon par l'ambigu S&eacute;rapion (T. Gautier, 1836). Plus tard, un auteur comme Bram Stoker a donn&eacute;, par son roman <em>Dracula</em>, une figure et un nom &agrave; la monstruosit&eacute; d'un impossible &agrave; penser, &agrave; savoir le mort vivant, le vampire. (B. Stoker, 1895). De nombreux &eacute;pigones, puis le cin&eacute;ma, ont fini par donner un statut &laquo;&nbsp;mythique&nbsp;&raquo; &agrave; cette cr&eacute;ation litt&eacute;raire.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ajoutons que l'on retrouve actuellement chez les &eacute;crivains d'horreur, surtout anglo-saxons, une utilisation abondante de r&eacute;f&eacute;rences &agrave; la Surnature, mais cela leur sert surtout pour concr&eacute;tiser le sentiment du Mal. Ils font, pour cela, indiff&eacute;remment appel &agrave; des figures relevant de la tradition chr&eacute;tienne, comme le diable (I. Levin, <em>Un b&eacute;b&eacute; pour Rosemary</em>, 1968), des d&eacute;mons pr&eacute;-chr&eacute;tiens (W.P. Blatty, <em>L'exorciste</em>, 1971) ou des d&eacute;it&eacute;s mal&eacute;fiques sp&eacute;cifiques d'une culture anglo-saxonne comme le Wendigo (S. King, <em>Simeti&egrave;re</em>, 1985). Dans ces textes, en effet, le Mal n'est pas simplement donn&eacute; &agrave; percevoir comme une &laquo;&nbsp;d&eacute;viation&nbsp;&raquo; par rapport &agrave; ce qui serait une norme du bien, il acquiert ou retrouve une essence propre, et il prend un nom, comme pour les figures mythiques, auxquelles les textes le rattachent plus ou moins explicitement.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D'autres auteurs ont imagin&eacute; d'inventer une sorte de mythologie parall&egrave;le, au lieu de ressusciter des formes religieuses ou folkloriques connues, comme le diable ou le wendigo. L'&oelig;uvre de H.P Lovecraft, par exemple, s'articule autour d'un panth&eacute;on original, avec des dieux de civilisations ant&eacute;rieures &agrave; la race humaine &mdash;&nbsp;Cthulhu, Nyarlathotep ou Yog-Sothoth. Ils n'aspirent qu'&agrave; revenir sur Terre, lorsque des appels pr&eacute;cis fond&eacute;s sur la lecture de livres maudits comme le <em>N&eacute;cronomicon</em> leur en permettent l'acc&egrave;s sous diverses formes, y compris sous celle de l'accouplement &agrave; une mortelle, avec des effets horrifiques (H.P. Lovecraft, 1995).</div>
+<br />
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>La litt&eacute;rature fantastique et l'univers du mythe</strong></div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les textes relevant du genre litt&eacute;raire du fantastique ne se limitent pas &agrave; mettre en sc&egrave;ne des apparitions plus ou moins terrifiantes de la Surnature. Le roman gothique avec <em>Le Moine </em>(M.G. Lewis, 1796) ou m&ecirc;me ce roman inclassable qu'est<em> Le diable amoureux</em> (J. Cazotte, 1772), y pourvoyaient fort bien, avant que le genre fantastique, dans les ann&eacute;es 1830, soit reconnu comme tel.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En tant que genre litt&eacute;raire, le fantastique na&icirc;t en effet lors d'une forte crise de la repr&eacute;sentation, lorsque l'approche de la r&eacute;alit&eacute; par le d&eacute;veloppement de la rationalit&eacute; scientifique se confronte durement aux croyances ant&eacute;rieures. Au point qu'appara&icirc;t une incompatibilit&eacute; insurmontable et traumatisante entre ce qui rel&egrave;ve de la nature et ce qui semblait relever du surnaturel, devant l' &laquo;&nbsp;impossible et pourtant l&agrave;&nbsp;&raquo; que le texte pr&eacute;sente (G. Ponnau &amp; R. Bozzetto, 1995). Ce conflit des interpr&eacute;tations devant des ph&eacute;nom&egrave;nes &mdash;&nbsp;la possession d&eacute;moniaque, r&eacute;f&eacute;rant &agrave; la Surnature, oppos&eacute;e &agrave; ce qui est per&ccedil;u alors comme une forme d'ali&eacute;nation mentale par exemple&nbsp;&mdash; provoque, dans les textes, une mise en crise du sens (G. Ponnau.1997). Crise caract&eacute;ristiques d'un &laquo;&nbsp;effet de fantastique&nbsp;&raquo; qu'Octave Mannoni, caract&eacute;risera par la formule &laquo;&nbsp;Je sais bien... mais quand m&ecirc;me&nbsp;&raquo;&nbsp;: et qui contribue &agrave; cr&eacute;er un climat d'angoisse (O. Mannoni, 1969). C'est cette dimension qui a &eacute;t&eacute; &laquo;&nbsp;th&eacute;oris&eacute;e&nbsp;&raquo; par Tzvetan Todorov, apr&egrave;s les analyses de Roger Caillois (R. Caillois, 1965).</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cependant, tous les textes visant &agrave; produire des effets de fantastique ne renvoient pas &agrave; une simple opposition, insoluble et traumatisante, entre une explication de type rationnel et une pr&eacute;sence de la Surnature, entre l'univers du mythe et celui de l'&eacute;criture.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&laquo;&nbsp;Lig&eacute;ia,&nbsp;&raquo; que Poe consid&eacute;rait comme sa meilleure nouvelle, permet d'aborder l'effet fantastique autrement que par des effets d'ind&eacute;termination (E.A. Poe, 1838). La question n'est plus de savoir si une transmigration a eu lieu, qui aurait permis &agrave; Ligeia de se r&eacute;incarner en empruntant le corps de Rowena &mdash;&nbsp;le lecteur peut &eacute;piloguer&nbsp;&mdash; , mais de partager la sid&eacute;ration du narrateur devant l'actualisation sans doute &eacute;ph&eacute;m&egrave;re et devant la r&eacute;alisation de son v&oelig;u. Cette notion de sid&eacute;ration, ou de &laquo;&nbsp;monstration&nbsp;&raquo; a &eacute;t&eacute; analys&eacute;e par les critiques r&eacute;cents (D. Mellier, 1999). Il en va de m&ecirc;me de la seconde version du <em>Horl&agrave; </em>(Maupassant, 1887).</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans ce texte, le journal nous offre la parole &agrave; un narrateur soucieux de donner, par sa version d'une exp&eacute;rience, la preuve qu'il est sain d'esprit, que ses actes les plus d&eacute;ments (le feu mis &agrave; sa demeure, et le fait de faire br&ucirc;ler ainsi ses domestiques) sont logiques, n&eacute;cessaires &mdash;&nbsp;comme dans tout d&eacute;lire. Inutile donc de faire r&eacute;f&eacute;rence &agrave; une dimension surnaturelle, de convoquer la Surnature, le diable ou les vampires. Ce qui demeure, c'est le partage de l'horreur, la fascination &eacute;pouvantable de l'impensable d'un effondrement psychique du diariste, &agrave; quoi le texte nous confronte sans la moindre mise &agrave; distance ni le moindre recours. Il en irait de m&ecirc;me pour certains textes de Marcel Schwob comme &laquo;&nbsp;L'homme voil&eacute;&nbsp;&raquo;, qui se cl&ocirc;t sur une image insoutenable et grotesque (M. Schwob, 1891) Est-ce &agrave; dire que, devant le texte fantastique nous n'ayons d'autres solutions que de demeurer sid&eacute;r&eacute;s comme le narrateur de &laquo;&nbsp;Ligeia&nbsp;&raquo;, ou devant les termes d'une impossible alternative&nbsp;?</div>
+<br />
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Du sens</strong></div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le mythe est porteur d'une signification pr&eacute;cise, et tout le r&eacute;cit y concourt. Bien que, depuis le romantisme allemand, on ait insist&eacute; sur la relation &eacute;troite qui existait entre le mythe et la litt&eacute;rature, la r&eacute;ception du mythe et la lecture d'un texte sont diff&eacute;rentes. Le mythe, comme le conte merveilleux, ne laisse aucun &laquo;&nbsp;blanc&nbsp;&raquo; &agrave; remplir par l'auditeur, &agrave; l'inverse du texte litt&eacute;raire mim&eacute;tique (U. Eco, 1990). Par contre l'&eacute;nonciation, dans le r&eacute;cit fantastique, prend appui sur une rh&eacute;torique qui tend, par d&eacute;faut ou par exc&egrave;s, &agrave; emp&ecirc;cher toute saisie d'une signification explicite de la totalit&eacute; de l'&eacute;nonc&eacute;. Par d&eacute;faut comme dans le cas de &laquo;&nbsp;La V&eacute;nus d'Ille&nbsp;&raquo;, par exemple, o&ugrave; la r&eacute;alit&eacute; demeure myst&eacute;rieuse. Par exc&egrave;s comme dans &laquo;&nbsp;L'horreur de Dunwich&nbsp;&raquo;<em> </em>(Lovecraft, 1993) o&ugrave; le texte met sous les yeux un &eacute;clatant impossible &agrave; voir, qui peut faire penser &agrave; la figure mythique de M&eacute;duse.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Est-ce &agrave; dire que le texte fantastique ne propose aucune signification, qu'il est absurde, ou qu'il ne peut procurer qu'un simple &laquo;&nbsp;frisson&nbsp;&raquo;&nbsp;?</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour certains auteurs, comme Lovecraft, il s'agit de retrouver ou de recr&eacute;er, par le biais d'un artefact langagier bien construit, d'une atmosph&egrave;re singuli&egrave;re, les sensations de la peur la plus archa&iuml;que. Pour d'autres, comme Alfonso Bioy Casares, il s'agit de lier un d&eacute;sir d'&eacute;criture au besoin d'explorer, par ce type de fiction, des limites, des apories. Pour lui, comme pour Cort&agrave;zar, le fantastique n'est pas le choix volontaire d'un genre, c'est le seul type de fiction possible.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&laquo;&nbsp;Aux fronti&egrave;res des choses que nous ne comprenons pas du tout, nous inventons de r&eacute;cits fantastiques [...] pour partager avec d'autres des vertiges [...] la d&eacute;couverte d'une l&eacute;zarde dans la face imperturbable de la r&eacute;alit&eacute;&nbsp;&raquo; (A. Bioy Casares, 1990&nbsp;: 5).</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans les deux cas, il s'agit de conduire le lecteur non pas vers la sensation d'une peur banale, pour laquelle des effets de suspens ou de grand guignol suffiraient, mais vers des zones de terreur ou d'horreur qui r&eacute;sultent du pressentiment, de la pr&eacute;sence et de surtout la proximit&eacute; du r&eacute;el. Car c'est &laquo;&nbsp;le r&eacute;el qui fait peur [...] lorsqu'il baigne dans le flou de l'imagination qui en anticipe la perception&nbsp;&raquo; (C. Rosset, 1985&nbsp;: 35-41).</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce pressentiment d'un r&eacute;el innommable sous la surface de la r&eacute;alit&eacute; connue, cette &laquo;&nbsp;l&eacute;zarde&nbsp;&raquo;, est d'autant plus susceptible de se manifester que la solidit&eacute; symbolique du monde est min&eacute;e. Ce fut le cas lors de la premi&egrave;re r&eacute;volution industrielle qui vit na&icirc;tre le genre fantastique, et c'est encore le cas de nos jours pour des causes &agrave; la fois semblables et diff&eacute;rentes, ce qui explique peut-&ecirc;tre son actuel succ&egrave;s.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le fantastique, sous les diverses formes qu'il a prises au long de son &eacute;volution, et jusqu'&agrave; nos jours, prend en compte le d&eacute;sir de solidit&eacute; de la repr&eacute;sentation des formes de la r&eacute;alit&eacute; sociale, et c'est pourquoi il situe ses personnages dans un cadre mim&eacute;tique du vraisemblable. Mais il d&eacute;nonce, par le trouble qu'il y fait na&icirc;tre &mdash;&nbsp;au moyen de personnages, de figures monstrueuses, ou d'&eacute;v&eacute;nements&nbsp;&mdash; l'irrationalit&eacute; et l'horreur de l'univers social et des d&eacute;sordres psychiques qu'il engendre. Il met en crise et en tension l'impossibilit&eacute; de saisir l'univers, et par l&agrave; il met en crise l'aspiration humaine &agrave; une totale rationalit&eacute;. Cette tension cr&eacute;e une angoisse, o&ugrave; le besoin de trouver un sens cach&eacute; &agrave; tout ce qui advient se manifeste. Mais le texte ne met en sc&egrave;ne que des leurres, des &laquo;&nbsp;promesses de sens&nbsp;&raquo;, et l'angoisse, loin d'&ecirc;tre exorcis&eacute;e, en est aliment&eacute;e jusqu'au paroxysme par des images de des passages &agrave; l'acte, repr&eacute;sent&eacute;s dans toute leur sauvage intensit&eacute; dans les textes actuels, mais qui d&eacute;j&agrave; se trouvaient en filigrane dans les textes classiques.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alors que le mythe tend &agrave; donner une coh&eacute;rence symbolique forte au r&eacute;el innommable, le fantastique met en place un dispositif textuel qui questionne cette coh&eacute;rence et tend &agrave; faire rena&icirc;tre la terreur ou l'horreur devant le chaos et la violence latente qui s'y cachent, pr&ecirc;tes &agrave; resurgir.</div>
+<br />
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Bibliographie</strong></div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><em>NB&nbsp;: lorsqu'il n'est pas indiqu&eacute;, le lieu d'&eacute;dition est toujours Paris.</em></strong></div>
+<br />
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BIOY CASARES, A. 1990. Cit&eacute; par P. L. Barca in Introduction &agrave; <em>La Trama Celeste</em>. Madrid. .</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLATTY, W.P. 1971.<em> L'Exorciste</em>. J'ai Lu.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BOZZETTO, R. &amp; PONNAU, G. 1995. &laquo;&nbsp;Le fantastique&nbsp;&raquo; in <em>Dictionnaire des Litt&eacute;ratures</em>. PUF.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CAILLOIS, R . 1965. &laquo;&nbsp;Au c&oelig;ur du fantastique&nbsp;&raquo; in <em>Coh&eacute;rences aventureuses.</em>1976. Id&eacute;es Gallimard.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CORTAZAR, J. 1986.<em> Entretiens avec Omar Prego</em>. Folio.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ECO, U. 1992. <em>Les limites de l'interpr&eacute;tation. Grasset</em>.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOLLES, A. 1970. <em>Formes simples</em>. Seuil. Po&eacute;tique.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JUIN, H. 1962. &laquo;&nbsp;Du fantastique en litt&eacute;rature&nbsp;: l'exemple de Claude Seignolle&nbsp;&raquo;. in <em>Chroniques sentimentales.</em> Mercure de France.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KING, S. 1985. <em>Simeti&egrave;re</em>. J'ai Lu.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LACAN, J. 1991. <em>Le s&eacute;minaire.</em> Livre VIII. Seuil.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LEVIN, I. 1968. <em>Un b&eacute;b&eacute; pour Rosemary</em>. Laffont.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LEVI-STRAUSS, C. 1958. <em>Anthropologie structurale</em>. Plon.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOVECRAFT, H. P. a) 1969.<em> Epouvante et surnaturel en litt&eacute;rature</em>. UGE.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 1993. <em>L'Horreur de Dunwich</em>. Folio bilingue.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MALDINEY, H. 1993. &laquo;&nbsp;Structures profondes et fondement existential du fantastique et de l'art fantastique&nbsp;&raquo; in <em>L'art l'&eacute;clair de l'&ecirc;tre</em>. Ed. Compact.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MANNONI, O. 1969. <em>Clefs pour l'imaginaire ou l'autre sc&egrave;ne</em>. Seuil.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MELLIER, D. 1999. <em>L'&eacute;criture de l'exc&egrave;s&nbsp;: fiction fantastique et po&eacute;tique de la terreur. </em>Champion.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PENNAC, D. 1992.<em> Comme un roman</em>. Gallimard.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROSSET, C. a) 1985. <em>Le philosophe et les sortil&egrave;ges</em>. Minuit.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 1995. &laquo;&nbsp;La proximit&eacute; du r&eacute;el&nbsp;&raquo; in <em>Traverses</em> N&deg;25. 1.&nbsp;: 35-41.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCHWOB, M. 1891. &laquo;&nbsp;L'homme voil&eacute;&nbsp;&raquo; in <em>C&oelig;ur double</em>. Flasquelle.</div>
+<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TODOROV, T. 1970. <em>Introduction &agrave; la litt&eacute;rature fantastique</em>. Seuil.</div>
+                    </FONT></CENTER>
+                    </TABLE>
+                    </center>
+                    </div>
+                  </TD>
+                </TR>
+                </TABLE>
+                Cet article est référencé sur le site dans les sections suivantes :<BR>Thèmes, catégorie Fantastique<BR>
+				</div>   
+</TD></TR></TABLE></DIV>			        
+			</div>
+			<div style="text-align:center;">
+				<a href='#'>retour en haut de page</a>
+			</div>
+			<div>
+				<script language="JavaScript">
+function Form_validator(theForm) {
+
+if (theForm.LinkDesc.value=="")
+  {
+     alert("Vous devez choisir une page thème !");
+     theForm.LinkDesc.focus();
+     return(false);
+  }
+return (true);
+}
+
+function showLayer(id) {
+   if(document.getElementById(id).style.visibility == "hidden"){
+      document.getElementById(id).style.visibility = "visible";
+      document.getElementById(id).style.display = "block";
+   }
+   else{
+   document.getElementById(id).style.visibility = "hidden";
+   document.getElementById(id).style.display = "none";
+   }
+} 
+</SCRIPT>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push([function() {
+var self = this;
+function getOriginalVisitorCookieTimeout() {
+ var now = new Date(),
+ nowTs = Math.round(now.getTime() / 1000),
+ visitorInfo = self.getVisitorInfo();
+ var createTs = parseInt(visitorInfo[2]);
+ var cookieTimeout = 33696000; // 13 mois en secondes
+ var originalTimeout = createTs + cookieTimeout - nowTs;
+ return originalTimeout;
+}
+this.setVisitorCookieTimeout( getOriginalVisitorCookieTimeout() );
+}]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.noosfere.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.noosfere.org/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+<br>
+<table class="piedpage" width="100%">
+
+	<tr><td class="paragraphecentre"><b>Dans la nooSFere : </b> 85032 livres, 106707 photos de couvertures, 81391 quatrièmes.</td></tr>
+	<tr><td class="paragraphecentre">
+		 10222 critiques, 45876 intervenant&middot;e&middot;s, 1886 photographies, 3897 adaptations.
+	</td></tr>
+
+
+
+	<tr>
+		<td>&nbsp;<br></td>
+	</tr><tr>
+		<td class="paragraphecentre"> 
+			<a href="/vieprivee.asp">Vie privée et cookies/RGPD</a><br/>
+			<a href="/noosfere/assoc/participants.asp">A propos de l'association</a>. <a href="/noosfere/assoc/nouscontacter.asp">Nous contacter.</a><br/>
+			NooSFere est une encyclopédie et une base de données bibliographique. <br/>
+			<span style="font-variant:small-caps; font-weight:bold;">Nous ne sommes ni libraire ni éditeur, nous ne vendons pas de livres et ne publions pas de textes. </span><br/>
+			<A href='/actu/librairies.asp'>Trouver une librairie !</a><br />
+			© nooSFere, 1999-2025. Tous droits réservés. 
+			<br>
+		</td>
+	</tr>
+	<tr>
+		<td>
+
+		</td>
+	</tr>
+</table>
+<BR>
+
+			</div>
+		</td>
+	</tr>
+</TaBlE>
+</body>
+</html>

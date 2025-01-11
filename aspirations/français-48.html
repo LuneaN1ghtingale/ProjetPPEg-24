@@ -1,0 +1,1874 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr"
+      class="">
+<head>
+    <meta charset="utf-8">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'http://www.ostramus.com/',
+        AccountUUID: 'ec67f6f7a96244188e27982dd3aee63d',
+        SystemID: '1AND1_EU_PROD',
+        SiteAlias: '5403ff3af4bf45efa3e35c9ed2a3587b',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Mon Sep 13 17:00:42 UTC 2021',
+        ExternalUid: '92669f63-3474-4fe9-86ea-839f0f5dbd36',
+        IsSiteMultilingual: false,
+        InitialPostAlias: 'blog/quest-ce-quun-element-fantastique',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'd1-internal-blog-post',
+        InitialPageUuid: 'b77c67140cd24d508d4f23159d2599fa',
+        InitialPageId: '660425742',
+        InitialEncodedPageAlias: 'ZDEtaW50ZXJuYWwtYmxvZy1wb3N0',
+        InitialHeaderUuid: 'ca41628e8ee34936a97f5d0bb25d4522',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '3205',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: true,
+        cookiesNotificationMarkup: ' <div>Afin de vous offrir une exp&eacute;rience en ligne optimale, ce site web utilise des cookies. En utilisant notre site web, vous acceptez notre utilisation des cookies. <a href=\"\/privacy\" target=\"_blank\">Plus d\'informations<\/a>.<\/div> \n',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'LEFT',
+        currentLanguage: 'fr',
+        currentLocale: 'fr',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: 4,
+            NavbarLiveHomePage: 'http://www.ostramus.com/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '2302',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'BLOG_LAYOUT',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'fr',
+        hamburgerMigration: null
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<!-- PWA settings -->
+<script>
+    function toHash(str) {
+        var hash = 5381, i = str.length;
+        while (i) {
+            hash = hash * 33 ^ str.charCodeAt(--i)
+        }
+        return hash >>> 0
+    }
+</script>
+<script>
+    (function (global) {
+    //const cacheKey = global.cacheKey;
+    const isOffline = 'onLine' in navigator && navigator.onLine === false;
+    const hasServiceWorkerSupport = 'serviceWorker' in navigator;
+    if (isOffline) {
+        console.log('offline mode');
+    }
+    if (!hasServiceWorkerSupport) {
+        console.log('service worker is not supported');
+    }
+    if (hasServiceWorkerSupport && !isOffline) {
+        window.addEventListener('load', function () {
+            const serviceWorkerPath = '/runtime-service-worker.js?v=3';
+            navigator.serviceWorker
+                .register(serviceWorkerPath, { scope: './' })
+                .then(
+                    function (registration) {
+                        // Registration was successful
+                        console.log(
+                            'ServiceWorker registration successful with scope: ',
+                            registration.scope
+                        );
+                    },
+                    function (err) {
+                        // registration failed :(
+                        console.log('ServiceWorker registration failed: ', err);
+                    }
+                )
+                .catch(function (err) {
+                    console.log(err);
+                });
+        });
+
+        // helper function to refresh the page
+        var refreshPage = (function () {
+            var refreshing;
+            return function () {
+                if (refreshing) return;
+                // prevent multiple refreshes
+                var refreshkey = 'refreshed' + location.href;
+                var prevRefresh = localStorage.getItem(refreshkey);
+                if (prevRefresh) {
+                    localStorage.removeItem(refreshkey);
+                    if (Date.now() - prevRefresh < 30000) {
+                        return; // dont go into a refresh loop
+                    }
+                }
+                refreshing = true;
+                localStorage.setItem(refreshkey, Date.now());
+                console.log('refereshing page');
+                window.location.reload();
+            };
+        })();
+
+        function messageServiceWorker(data) {
+            return new Promise(function (resolve, reject) {
+                if (navigator.serviceWorker.controller) {
+                    var worker = navigator.serviceWorker.controller;
+                    var messageChannel = new MessageChannel();
+                    messageChannel.port1.onmessage = replyHandler;
+                    worker.postMessage(data, [messageChannel.port2]);
+                    function replyHandler(event) {
+                        resolve(event.data);
+                    }
+                } else {
+                    resolve();
+                }
+            });
+        }
+    }
+})(window);
+</script>
+<!-- Add manifest -->
+<!-- End PWA settings -->
+
+
+
+<link rel="canonical" href="https://www.ostramus.com/quest-ce-quun-element-fantastique">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="apple-touch-icon" href="https://cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/Ostramus+logo5b4.png"/>
+
+<link rel="icon" type="image/x-icon" href="https://cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/site_favicon_16_1619880342401.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://le-cdn.website-editor.net/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script id='d-js-dmapi'>
+    window.SystemID = '1AND1_EU_PROD';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link type="text/css" rel="stylesheet" href="https://cdn.website-editor.net/fonts/css2?family=Belgrano:ital,wght@0,400&family=Bitter:ital,wght@0,100..900;1,100..900&family=Lusitana:ital,wght@0,400;0,700&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&family=Cabin:ital,wght@0,400..700;1,400..700&family=Paytone+One:ital,wght@0,400&family=Bree+Serif:ital,wght@0,400&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&amp;subset=latin-ext&amp;display=swap"  />
+
+<style>
+@font-face {
+  font-family: "Gotham Medium Regular";
+  src: url("https://cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/fonts/Gotham+Medium+Regular-a484_400.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "Transat Light [TheFontsMaster.com]";
+  src: url("https://cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/fonts/Transat+Light+%5BTheFontsMaster.com%5D-ddb9_400.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-new-->
+<link rel="stylesheet" type="text/css" href="https://static-cdn.website-editor.net/mnlt/production/5081/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-new.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link type="text/css" rel="stylesheet" href="https://cdn.website-editor.net/WIDGET_CSS/6b842b8e9b8c13c845af6f33ad4c98a9.css" id="widgetCSS" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="d1-internal-blog-post"] #dm [data-show-on-page-only="d1-internal-blog-post"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/files/5403ff3af4bf45efa3e35c9ed2a3587b_1.min.css?v=75" id="siteGlobalCss" />
+
+
+<!-- additional css file per platform -->
+<link
+        type="text/css" rel="stylesheet"
+        href="/_dm/s/rt/css/oneUndOne/1and1-runtime.css?version=2025-01-06T13_50_50"
+/>
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+    *#dm *.dmBody a.span.textonly{
+color:rgb(255,255,255) !important}
+*#dm *.dmBody a.span.textonly{
+color:rgb(255,255,255) !important}
+*#dm *.dmBody div.dmform-error{
+font-style:normal !important}
+*#dm *.dmBody div.dmforminput textarea{
+font-style:italic !important}
+*#dm *.dmBody div.dmforminput *.fileUploadLink{
+font-style:italic !important}
+*#dm *.dmBody div.checkboxwrapper span{
+font-style:italic !important}
+*#dm *.dmBody div.radiowrapper span{
+font-style:italic !important}
+*#dm *.dmBody *.u_1250789679{
+text-align:LEFT !important}
+*#dm *.dmBody *.u_1250789679 *.rteBlock{
+text-align:LEFT !important}*#dm *.d-page-1716942098 DIV.dmInner
+{
+	background-repeat:no-repeat !important;
+	background-size:cover !important;
+	background-attachment:fixed !important;
+	background-position:50% 50% !important;
+}
+*#dm *.d-page-1716942098 DIV#dmSlideRightNavRight
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+	background-attachment:fixed !important;
+	background-position:50% 50% !important;
+}
+*.dmTabletBody *.hamburger-header
+{
+	display:null !important;
+}
+*.dmTabletBody *.hamburger-drawer
+{
+	display:null !important;
+}
+*.dmTabletBody *.layout-drawer-hamburger
+{
+	display:null !important;
+}
+*.dmTabletBody *[dmtemplateid*="amburger"] *#site_content *.site_content
+{
+	margin-top:null !important;
+}
+*#dm *.dmBody div.u_1668470589
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody div.u_1250789679
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:150.5px !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	display:block !important;
+	text-align:left !important;
+}
+*#dm *.dmBody div.u_1471232539
+{
+	padding-top:15px !important;
+	padding-left:0 !important;
+	margin-top:0 !important;
+	padding-right:0 !important;
+}
+
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<style id="pagestyle" type="text/css">
+    *#dm *.dmBody a.span.textonly{
+color:rgb(255,255,255) !important}
+*#dm *.dmBody div.dmform-error{
+font-style:normal !important}
+*#dm *.dmBody div.dmforminput textarea{
+font-style:italic !important}
+*#dm *.dmBody div.dmforminput *.fileUploadLink{
+font-style:italic !important}
+*#dm *.dmBody div.checkboxwrapper span{
+font-style:italic !important}
+*#dm *.dmBody div.radiowrapper span{
+font-style:italic !important}
+*#dm *.dmBody div.u_1639724380{
+background-color:rgba(0,0,0,0) !important}
+*.dmFooterContainer{
+display:null !important}
+*#dm *.dmBody div.u_1214401551{
+background-color:rgba(0,0,0,0) !important}
+*#dm *.dmBody *.u_1315103047 *.title{
+text-align:CENTER !important}
+*#dm *.dmBody *.u_1852899778 *.rteBlock{
+text-align:LEFT !important}
+*#dm *.dmBody *.u_1131577706 *.rteBlock{
+text-align:LEFT !important}
+*#dm *.dmBody h1.u_1852899778{
+line-height:normal !important}
+*#dm *.dmBody div.u_1325247579>*.bgExtraLayerOverlay{
+background-color:rgba(255,255,255,1) !important;
+opacity:0.23 !important}
+*#dm *.dmBody div.u_1325247579>.bgExtraLayerOverlay{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.22 !important}
+*#dm *.dmBody div.u_1325247579:before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.22 !important}
+*#dm *.dmBody div.u_1325247579.before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.22 !important}
+*#dm *.dmBody h3.u_1852899778{
+color:rgba(255,255,255,1) !important}
+*#dm *.dmBody div.u_1131577706{
+color:rgba(255,255,255,1) !important}
+*#dm *.dmBody *.u_1131577706{
+text-align:LEFT !important;
+font-family:Roboto !important}
+*#dm *.dmBody *.u_1325247579:before{
+opacity:0.5 !important;
+background-color:rgb(0,0,0) !important}
+*#dm *.dmBody *.u_1325247579.before{
+opacity:0.5 !important;
+background-color:rgb(0,0,0) !important}
+*#dm *.dmBody *.u_1325247579>*.bgExtraLayerOverlay{
+opacity:0.5 !important;
+background-color:rgb(0,0,0) !important}
+*#dm *.dmBody div.u_1325247579{
+background-repeat:no-repeat !important;
+background-image:url(https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/jupiter+atmosphe%CC%80re-2880w.jpg) !important;
+background-color:rgba(241,241,241,1) !important}
+*#dm *.dmBody *.u_1852899778{
+text-align:LEFT !important;
+font-size:48px !important;
+font-family:Volkhov !important}
+*#dm *.dmBody *.u_1821464270:before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1821464270.before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1821464270>.bgExtraLayerOverlay{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1821464270:before{
+opacity:0.44 !important}
+*#dm *.dmBody div.u_1821464270.before{
+opacity:0.44 !important}
+*#dm *.dmBody div.u_1821464270>.bgExtraLayerOverlay{
+opacity:0.44 !important}
+*#dm *.dmBody div.u_1821464270{
+background-repeat:no-repeat !important;
+background-image:none !important;
+background-color:rgba(255,255,255,1) !important}
+*#dm *.dmBody a.u_1710102817 .iconBg{
+display:none !important}
+*#dm *.dmBody a.u_1710102817{
+border-radius:50px !important;
+-moz-border-radius:50px !important;
+-webkit-border-radius:50px !important;
+background-color:rgba(178,178,178,0.32) !important;
+border-color:rgba(124,124,124,1) !important}
+*#dm *.dmBody a.u_1710102817:hover{
+border-color:rgba(80,80,80,1) !important;
+background-color:rgba(255,255,255,1) !important;
+background-image:none !important}
+*#dm *.dmBody a.u_1710102817.hover{
+border-color:rgba(80,80,80,1) !important;
+background-color:rgba(255,255,255,1) !important;
+background-image:none !important}
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    *#dm *.d-page-1716942098 DIV.dmInner
+{
+	background-repeat:no-repeat !important;
+	background-size:cover !important;
+	background-attachment:fixed !important;
+	background-position:50% 50% !important;
+}
+*#dm *.d-page-1716942098 DIV#dmSlideRightNavRight
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+	background-attachment:fixed !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1061888463
+{
+	padding-top:15px !important;
+	margin-top:0 !important;
+	padding-left:200px !important;
+	padding-right:200px !important;
+}
+*#dm *.dmBody div.u_1879452075
+{
+	padding-top:0 !important;
+	padding-right:50px !important;
+	padding-left:50px !important;
+}
+*#dm *.dmBody div.u_1846542956
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:40px !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:start !important;
+}
+*#dm *.dmBody div.u_1749144169
+{
+	padding-top:15px !important;
+	margin-top:0 !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1287730679
+{
+	padding-top:0 !important;
+	padding-right:50px !important;
+	padding-left:50px !important;
+}
+*#dm *.dmBody div.u_1639724380
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+	margin-left:50px !important;
+	margin-right:50px !important;
+}
+*.dmTabletBody *.hamburger-header
+{
+	display:null !important;
+}
+*.dmTabletBody *.hamburger-drawer
+{
+	display:null !important;
+}
+*.dmTabletBody *.layout-drawer-hamburger
+{
+	display:null !important;
+}
+*.dmTabletBody *[dmtemplateid*="amburger"] *#site_content *.site_content
+{
+	margin-top:null !important;
+}
+*#dm *.dmBody div.u_1214401551
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+	margin-left:50px !important;
+	margin-right:50px !important;
+}
+*#dm *.dmBody div.u_1861057944
+{
+	padding-top:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1315103047
+{
+	padding-top:0 !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 42px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:860px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1815935546
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1200968374
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody h1.u_1852899778
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:860px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	display:block !important;
+	text-align:center !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+}
+*#dm *.dmBody div.u_1955241875
+{
+	padding-top:40px !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+	margin-top:0 !important;
+	padding-bottom:50px !important;
+}
+*#dm *.dmBody div.u_1131577706
+{
+	padding-top:2px !important;
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 58px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	max-width:744px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	margin-top:15px !important;
+	margin-bottom:0 !important;
+	font-size:16px !important;
+}
+*#dm *.dmBody h3.u_1852899778
+{
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:8px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	font-size:60px !important;
+}
+*#dm *.dmBody div.u_1821464270
+{
+	padding-top:40px !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+	background-attachment:initial !important;
+	background-size:cover !important;
+	background-position:50% 0 !important;
+	background-repeat:no-repeat !important;
+}
+*#dm *.dmBody div.u_1325247579
+{
+	padding-top:33.5px !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+	background-attachment:fixed !important;
+	background-size:cover !important;
+	padding-bottom:19.5px !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:auto !important;
+	position:relative !important;
+	height:auto !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	min-width:0 !important;
+	text-align:start !important;
+}
+*#dm *.dmBody div.u_1179188210
+{
+	margin-left:0px !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	margin-top:10px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+	padding-right:0px !important;
+}
+
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-30, .size-30, .size-30 > font { font-size: 30px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+
+  
+  #dmRoot:not(.editGrid) .flex-element [data-anim-extended]
+  {
+    visibility: hidden;
+  }
+  
+</style>
+
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Belgrano Fallback";
+  src: local('Arial');
+  ascent-override: 87.5736%;
+  descent-override: 24.5914%;
+  size-adjust: 113.0478%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Bitter Fallback";
+  src: local('Arial');
+  ascent-override: 89.526%;
+  descent-override: 25.3737%;
+  size-adjust: 104.4389%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Helvetica Fallback";
+  src: local('Arial');
+  ascent-override: 77.002%;
+  descent-override: 22.998%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Lusitana Fallback";
+  src: local('Arial');
+  ascent-override: 101.9286%;
+  descent-override: 36.3574%;
+  size-adjust: 93.7912%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Volkhov Fallback";
+  src: local('Arial');
+  ascent-override: 88.7382%;
+  descent-override: 29.1529%;
+  size-adjust: 109.423%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Amaranth Fallback";
+  src: local('Arial');
+  ascent-override: 100.189%;
+  descent-override: 24.226%;
+  size-adjust: 97.4159%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Cabin Fallback";
+  src: local('Arial');
+  ascent-override: 101.7818%;
+  descent-override: 26.3684%;
+  size-adjust: 94.8106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Paytone One Fallback";
+  src: local('Arial');
+  ascent-override: 97.671%;
+  descent-override: 24.8346%;
+  size-adjust: 113.954%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Bree Serif Fallback";
+  src: local('Arial');
+  ascent-override: 106.3522%;
+  descent-override: 27.7484%;
+  size-adjust: 101.2673%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="https://www.ostramus.com//feed/rss2"/>
+  <link type="application/atom+xml" rel="alternate" href="https://www.ostramus.com//feed/atom"/>
+  <script type="application/ld+json">
+
+{
+  "@context" : {
+    "@vocab" : "http://schema.org/"
+  },
+  "@type" : "BlogPosting",
+  "headline" : "Qu’est-ce qu’un élément fantastique ?",
+  "datePublished" : "2015-01-12T19:36:33",
+  "dateModified" : "2021-02-13T14:37:23",
+  "author" : {
+    "@type" : "Person",
+    "name" : "Ostramus"
+  },
+  "image" : "https://cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/magie1.jpg"
+}
+
+  </script>
+  <meta property="og:type" content="article"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="Qu’est-ce qu’un élément fantastique ?"/>
+  <meta name="twitter:image" content="https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/magie1-1920w.jpg"/>
+  <meta name="article:published_time" content="2015-01-12T19:36Z"/>
+  <meta property="og:url" content="https://www.ostramus.com/quest-ce-quun-element-fantastique"/>
+  <meta property="og:title" content="Qu’est-ce qu’un élément fantastique ?"/>
+  <meta property="og:image" content="https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/magie1-1920w.jpg"/>
+  <title>
+    
+    Qu’est-ce qu’un élément fantastique ?
+  
+  </title>
+  <meta name="keywords" content="Science-Fiction
+Steampunk
+imaginaire
+écriture
+littérature
+dramaturgie
+conseil
+fantasy"/>
+  <meta name="description" content="Site d'auteur avec articles portant sur l'écriture, la littérature et l'imaginaire."/>
+
+
+
+
+<!-- SYS- MUFORDFfRVVfUFJPRA== -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="d1-internal-blog-post"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1901957768" class="dm-home-page" themewaschanged="true"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-sec hasAnimations dmPageBody d-page-1716942098 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1716942098" data-buttonstyle="THICK_BORDER_ROUND" data-soch="true" data-background-parallax-selector=".dmHomeSection1, .dmSectionParallex"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true"> <div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236"> <div class="u_1967325476 dmRespRow dmSectionNoParallax" style="text-align: center;" id="1967325476"> <div class="dmRespColsWrapper" id="1587589732"> <div class="dmRespCol small-12 medium-12 large-12" id="1365946891"> <span id="1860115527"></span> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1173758368 dmRespRow fullBleedChanged fullBleedMode" style="text-align: center;" id="1173758368"> <div class="dmRespColsWrapper" id="1277775709"> <div class="u_1864622880 dmRespCol small-12 medium-12 large-12" id="1864622880"> <span id="1992206421"></span> 
+ <nav class="u_1284501632 effect-float main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_3" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1284501632" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" navigation_id="" data-logo-src="https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/artmuseum-1920w.png" data-nav-structure="HORIZONTAL" wr="false" icon="true" surround="false" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmUDNavigationItem_010101203608  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         Articles
+        " data-auto="page-text-style">Articles<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/ecrits" class="unifiednav__item  dmUDNavigationItem_00  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         Écrits
+        " data-auto="page-text-style">&Eacute;crits<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/qui-suis-je" class="unifiednav__item  dmUDNavigationItem_010101680351  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         Qui suis-je ?
+        " data-auto="page-text-style">Qui suis-je ?<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/nous-contacter" class="unifiednav__item  dmUDNavigationItem_010101783271  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         Contact
+        " data-auto="page-text-style">Contact<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"> <div class="innerPageTitle">Mise en page du blog</div> 
+</div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_d1-internal-blog-post dm-home-page" themewaschanged="true"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="170" class="dmHomeRespTmpl mainBorder dmRespRowsWrapper dmFullRowRespTmpl" id="1716942098"> <div class="u_1325247579 dmRespRow mobile-columns-reversed hasBackgroundOverlay dmSectionParallaxNew" id="1325247579" data-blog-template="bind-bg-img"> <div class="dmRespColsWrapper" id="1462856210"> <div class="u_1287730679 dmRespCol small-12 medium-12 large-12" id="1287730679"> <h3 class="u_1852899778 dmNewParagraph" data-element-type="paragraph" id="1852899778" data-blog-template="bind-title" style="transition: none 0s ease 0s; display: block;" data-binding="W3siYmluZGluZ05hbWUiOiJ0ZXh0IiwidmFsdWUiOiJibG9nLnRpdGxlIn1d" data-diy-text="">Qu&rsquo;est-ce qu&rsquo;un &eacute;l&eacute;ment fantastique ?</h3> <div class="u_1131577706 dmNewParagraph" data-element-type="paragraph" id="1131577706" data-blog-template="bind-author" style="transition: opacity 1s ease-in-out 0s; display: block;" data-binding="W3siYmluZGluZ05hbWUiOiJ0ZXh0IiwidmFsdWUiOiJibG9nLmRhdGUifV0=" data-diy-text="">12 janvier 2015</div></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1821464270 dmSectionNoParallax" id="1821464270"> <div class="dmRespColsWrapper" id="1484962664"> <div class="dmRespCol large-12 medium-12 small-12 u_1214401551 postPageExtRoot" id="1214401551" server_id="1716942098"> <div class="dmRespRow u_1471232539 blog-post-row" id="1471232539"> <div class="dmRespColsWrapper" id="1292474755"> <div class="dmRespCol large-12 medium-12 small-12 u_1668470589" id="1668470589"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1371254304" style="transition: opacity 1s ease-in-out 0s;"><p class="text-align-justify"><span style="font-weight: 400; display: initial;">La fantasy fait de nos jours partie des genres les plus pris&eacute;s et les plus &eacute;cris ; sur ce forum, de nombreuses fictions de ce type naissent et bien souvent, &eacute;chouent, parfois &agrave; cause d&rsquo;un manque de compr&eacute;hension des &eacute;l&eacute;ments qui doivent composer un r&eacute;cit de ce genre. La fantasy est-elle un genre facile, pourrait-on se demander en voyant les nombreux &eacute;crits de ce genre qui surgissent ? Pas forc&eacute;ment. Il est sans doute plus ais&eacute; de fournir quelque chose de correct en fantasy, ne serait-ce qu&rsquo;en se basant simplement bien plus difficile.</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;">Ce tutoriel aura pour but de vous fournir les &eacute;l&eacute;ments phares d&rsquo;un r&eacute;cit fantastique et de construire plus facilement vos r&eacute;cits. Toutefois, rappelez-vous bien, en lisant ce texte, qu&rsquo;il n&rsquo;a pas la pr&eacute;tention de vous fournir une histoire ou un monde tout fait : il s&rsquo;agit seulement d&rsquo;un r&eacute;capitulatif des divers &eacute;l&eacute;ments autour desquels vous pouvez articuler votre toile de fond. Mais malgr&eacute; cela, n&rsquo;oubliez pas que m&ecirc;me le meilleur concept de monde, aussi original soit-il, n&rsquo;est pas un roman, seulement une base pour votre histoire, au mieux un pr&eacute;texte : l&rsquo;imagination brute ne remplacera jamais totalement l&rsquo;analyse et la construction.</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;">Ce tutoriel repose sur de nombreux exemples, pouvant exceptionnellement spoiler le livre ; j&rsquo;ai essay&eacute; de l&rsquo;&eacute;viter le plus possible, mais il m&rsquo;aura &eacute;t&eacute; in&eacute;vitable de r&eacute;v&eacute;ler l&rsquo;orientation globale de livres. J&rsquo;aurais &eacute;galement tent&eacute; de rendre compr&eacute;hensibles mes points de vue m&ecirc;me en dehors de toute connaissance des livres les plus souvent mentionn&eacute;s.</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="size-30 m-size-21 text-align-center"><span style="font-weight: 700; display: initial;" class="font-size-30 m-font-size-21">Les &eacute;l&eacute;ments fantastiques</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;">L&rsquo;&eacute;l&eacute;ment fantastique est, &agrave; proprement parler, l&rsquo;ensemble des choses qui existent dans le monde de fiction qui n&rsquo;existent pas, ou du moins, ne sont pas palpables, dans le notre. Les &eacute;l&eacute;ments les plus souvent utilis&eacute;s sont la pr&eacute;sence de races suppl&eacute;mentaires, animales ou pensantes, ainsi que la pr&eacute;sence de magie. Toutefois, l&rsquo;&eacute;l&eacute;ment fantastique est une chose &agrave; part enti&egrave;re : ainsi, m&ecirc;me si la bataille du Gouffre de Helm ainsi que le lieu &eacute;ponyme n&rsquo;a pas exist&eacute; dans notre monde, il s&rsquo;agit bien d&rsquo;une bataille et d&rsquo;un gouffre : ainsi, ce ne sont pas des &eacute;l&eacute;ments fantastiques tant qu&rsquo;ils restent dans des proportions raisonnables. En effet, un arbre de dizaines de milliers de kilom&egrave;tres de hauteur est bel et bien un &eacute;l&eacute;ment fantastique, car il serait inconcevable d&rsquo;en trouver un pareil &agrave; lui dans notre monde.</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="size-30 m-size-21 text-align-center"><span style="font-weight: 700; display: initial;" class="font-size-30 m-font-size-21">Leur occurrence</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;">Il s&rsquo;agit bien souvent d&rsquo;un des piliers des mondes fantastiques : est-ce que mon monde sera d&rsquo;une fantasy d&eacute;brid&eacute;e et irr&eacute;aliste d&rsquo;une fa&ccedil;on voulue, ou au contraire tr&egrave;s proche d&rsquo;une notre, les &eacute;l&eacute;ments de magie n&rsquo;en &eacute;tant que plus marquants ? On peut grossi&egrave;rement classer les r&eacute;cits en deux cat&eacute;gories primaires, la &laquo; haute magie &raquo; et la &laquo; basse magie &raquo;.</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="size-30 m-size-21 text-align-center"><span style="font-weight: 700; display: initial;" class="font-size-30 m-font-size-21">La haute magie</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;">Les mondes de haute magie sont caract&eacute;ris&eacute;s par le grand nombre d&rsquo;&eacute;l&eacute;ments fantastiques qu&rsquo;ils contiennent. Bien souvent, la magie y est chose commune, et l&rsquo;on peut constater la pr&eacute;sence de nombreuses autres races que les humains. Le commun des mortels, quoiqu&rsquo;il en pense, reconna&icirc;t pleinement l&rsquo;existence de ces ph&eacute;nom&egrave;nes &eacute;tranges. La haute magie peut aussi se caract&eacute;riser par la pr&eacute;sence et l&rsquo;action des dieux qui plus que des concepts, sont de v&eacute;ritables entit&eacute;s, souvent capables de s&rsquo;incarner. De plus, la magie ou l&rsquo;un des &eacute;l&eacute;ments fantastiques est presque tout le temps le centre et le pr&eacute;texte de l&rsquo;histoire ; d&rsquo;ailleurs, le personnage principal est souvent un pratiquant de la magie ou &eacute;troitement li&eacute;e &agrave; elle.</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;">Ainsi, on peut classer aux rangs des mondes de haute magie la Malerune, de Pierre Grimbert, o&ugrave; la magie est chose commune et o&ugrave; les races sont foison. Lancedragon est &eacute;galement un univers de haute magie, comme d&rsquo;une mani&egrave;re globale tout l&rsquo;univers gravitant autour de Donjons &amp; Dragons. La litt&eacute;rature jeunesse est bien plus souvent caract&eacute;ris&eacute;e par la pr&eacute;sence de haute magie que la litt&eacute;rature adulte.</span></p><p class="text-align-justify"><span style="display: initial;"><br/></span></p><p class="text-align-justify"><span style="display: initial;">On peut &eacute;galement remarquer que la haute magie est le terrain pr&eacute;f&eacute;r&eacute; des &eacute;crivains de fantasy novice, et que d&rsquo;une mani&egrave;re globale, il est difficile de rencontrer des mondes de haute magie au personnages creus&eacute;s et &agrave; l&rsquo;histoire profonde. En effet, il devient souvent plus facile de meubler le r&eacute;cit par des &eacute;v&egrave;nements extraordinaires et de continuer &agrave; captiver le lecteur en jouant sur les &eacute;l&eacute;ments fantastiques ; de plus, l&rsquo;imagination s&rsquo;exprime souvent plus facilement par ce biais.</span></p><p><br/></p></div> 
+ <div class="imageWidget align-center u_1848129202" data-element-type="image" data-widget-type="image" id="1848129202"> <a id="1775361988"><img src="https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/magie4-960w.jpg" alt="" id="1669837737" class="" data-dm-image-path="https://cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/magie4.jpg" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="u_1250789679 dmNewParagraph" data-element-type="paragraph" id="1250789679" style="transition: none 0s ease 0s; display: block;"> <div style="text-align: center;"><b style="" class="font-size-30 lh-1"><br/>La basse magie</b></div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;">Les univers de basse magie, eux, sont &agrave; l&rsquo;inverse de la haute magie. En effet, ils ne sont souvent peupl&eacute;s que d&rsquo;une seule race, les humains, et les pratiquants de la magie sont rares ; globalement, les &eacute;l&eacute;ments fantastiques n&rsquo;influent pas r&eacute;ellement sur le quotidien des habitants. La magie est souvent mystifi&eacute;e : les sorts pr&eacute;format&eacute;s et simples laissent leur place &agrave; des rituels myst&eacute;rieux. Un point commun &agrave; de nombreux univers de basse magie est &eacute;galement la r&eacute;f&eacute;rence &agrave; un pass&eacute; o&ugrave; la magie &eacute;tait tr&egrave;s commune, puis a d&eacute;clin&eacute; pour une raison ou pour une autre jusqu&rsquo;&agrave; la situation actuelle. L&agrave; encore, il arrive qu&rsquo;un pouvoir ou qu&rsquo;un &eacute;l&eacute;ment magique soit le centre de l&rsquo;intrigue ; mais parfois, il ne s&rsquo;agit que d&rsquo;un moyen.</div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;">Ainsi, le Seigneur des Anneaux peut &ecirc;tre classifi&eacute; comme un univers de basse magie, typique du d&eacute;clin progressif de les &eacute;l&eacute;ments fantastiques : les elfes disparaissent, les nains sont rares, les magiciens quittent la terre&hellip; la magie elle-m&ecirc;me n&rsquo;a que des applications voil&eacute;es et puissantes. On peut aussi ranger dans cette cat&eacute;gorie le Tr&ocirc;ne de Fer, qui pousse &agrave; ses extr&ecirc;mes les caract&eacute;ristiques de la basse magie, ou encore l&rsquo;Assassin Royal ; les romans de Gemmel se classent &eacute;galement dans cette cat&eacute;gorie.</div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;">La basse magie caract&eacute;rise plus g&eacute;n&eacute;ralement la litt&eacute;rature adulte et donne g&eacute;n&eacute;ralement lieu &agrave; des r&eacute;cits plus riches, de part une psychologie des personnages et une intrigue plus fouill&eacute;e. De plus, la magie et les &eacute;v&egrave;nements extraordinaires sont bien plus mis en sc&egrave;ne et assez paradoxalement, on d&eacute;note souvent un travail plus soigneux sur les r&egrave;gles de la magie pourtant rare.</div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: center;"><b style="" class="font-size-30 lh-1">La &laquo; fausse &raquo; basse magie</b></div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;">La fausse basse magie est un genre un peu b&acirc;tard, o&ugrave; le monde lui-m&ecirc;me est clairement de basse magie et pr&eacute;sent&eacute; comme tel : pratiquants de la magie rares, peu de connaissance et d&rsquo;influence de celle-ci sur la vie quotidienne. Souvent, ceci est mis en sc&egrave;ne par le fait que le personnage est au d&eacute;but totalement ignorant de la pr&eacute;sence des forces surnaturelles, ainsi que son entourage : ceci nous expose le fait que le commun des mortels n&rsquo;a pas conscience des enjeux qui l&rsquo;entoure. Toutefois, le personnage se retrouve rapidement aux prises avec de tr&egrave;s nombreuses situations impliquant des &eacute;l&eacute;ments fantastiques. On peut dire ainsi que l&rsquo;univers est de basse magie tandis que la sc&egrave;ne est caract&eacute;ristique de la haute magie.</div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;">Ainsi, pour prendre un exemple tr&egrave;s c&eacute;l&egrave;bre, Harry Potter est le st&eacute;r&eacute;otype de l&rsquo;univers de fausse basse magie : le personnage est au d&eacute;but immerg&eacute; dans un milieu ignorant mais se retrouve finalement entour&eacute; de personnages presque exclusivement dot&eacute;s de particularit&eacute;s fantastiques. Plus nuanc&eacute;s, les romans de l&rsquo;Ep&eacute;e de V&eacute;rit&eacute; ou du Cycle de Ji s&rsquo;inscrivent dans une id&eacute;e semblable : des personnages campagnards rencontrent des magiciens, apprennent les arts surnaturels et se d&eacute;m&ecirc;lent avec des sorciers surpuissants, des menaces pour le monde et m&ecirc;me des dieux !</div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;">Toutefois, la pr&eacute;sence d&rsquo;un personnage central magicien dans un monde de basse magie n&rsquo;inscrit pas forc&eacute;ment l&rsquo;histoire dans la fausse basse magie. En effet, dans l&rsquo;Assassin Royal, bien que Fitz pratique l&rsquo;Art et le Vif, il est majoritairement entour&eacute; de personnages d&eacute;pourvus de dons ; de plus, la mise en sc&egrave;ne de la magie dans ce cycle est caract&eacute;ristique des &oelig;uvres de basse magie.</div> 
+ <div style="text-align: justify;"><br/></div> 
+ <div style="text-align: justify;">Gardez toutefois &agrave; l&rsquo;esprit que ces classifications sont grossi&egrave;res : ne serait-ce que dans la fausse basse magie, d&eacute;j&agrave; pourtant sp&eacute;cialis&eacute;e, l&rsquo;Ep&eacute;e de V&eacute;rit&eacute; sera plus proche de la haute magie que le Cycle de Ji ; certains romans oscilleront entre plusieurs classifications, etc.</div> 
+ <div style="text-align: justify;"><br/></div> 
+</div></div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1682739462" style="background-color:transparent;padding-right:0;padding-left:0;" exclude="true"> <div class="dmRespColsWrapper" id="1831051081"> <div class="dmRespCol small-12 medium-12 large-12 dmBlockElement" id="1426924690"> <a id="1679207410" href="/les-batailles-spatiales" data-blog-post-alias="les-batailles-spatiales" style="float:left;width:50%;text-align:left;">&lt; Post plus ancien</a> 
+ <a id="1571472149" href="/comment-la-magie-se-manifeste-dans-la-fantasy" data-blog-post-alias="comment-la-magie-se-manifeste-dans-la-fantasy" style="float:right;width:50%;text-align:right;">Post plus r&eacute;cent &gt;</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1061888463" id="1061888463"> <div class="dmRespColsWrapper" id="1262657630"> <div class="dmRespCol large-12 medium-12 small-12 u_1861057944" id="1861057944"> <div class="u_1315103047 default dmDefaultGradient dmShare dmNoMark dmShareDesktop clearfix" id="1315103047" dmle_extension="shareextension" data-element-type="shareextension" whatsapp="false" google_plus="true" wr="true" data-display-type="block" icon="true" surround="true" icon-name="icon-share" facebook="true" twitter="true" email="false" like="true" use_new_design="true" use_popup="true" linked_in="false" data-title="UGFydGFnZXogY2V0IGFydGljbGUgOg==" data-display-title="true" data-layout="layout-1" data-share-hover-effect="zoomout" text="I wanted to share this great website with you" design="large" share_button_text="Share" share_popup_title="Share by:"> <div> <h4 class="title">Partagez cet article :</h4> 
+</div> 
+ <div class="share-icons"> <div data-target="facebook" class="shareLink fbShare clickTarget" data-href="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ostramus.com%2Fquest-ce-quun-element-fantastique" data-hover-effect="zoomout"> <span class="share-icon dm-social-icons-facebook"></span> 
+</div> 
+ <div data-target="twitter" class="shareLink twitterShare clickTarget" data-href="http://twitter.com/intent/tweet?text=Je voulais partager cet excellent site Web avec vous&url=https%3A%2F%2Fwww.ostramus.com%2Fquest-ce-quun-element-fantastique" data-hover-effect="zoomout"> <span class="share-icon dm-social-icons-twitter"></span> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1440010816"> <div class="dmRespColsWrapper" id="1582426239"> <div class="dmRespCol large-12 medium-12 small-12" id="1718925281"> <a data-display-type="block" class="align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient u_1710102817" file="false" href="/" data-element-type="dButtonLinkId" id="1710102817" data-buttonstyle="ROUND_SIDES"> <span class="iconBg" id="1811082675"> <span class="icon hasFontIcon icon-star" id="1793446034"></span> 
+</span> 
+ <span class="text" id="1156873022">Retour aux articles</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1094320672"> <div class="dmRespColsWrapper" id="1239426865"> <div class="dmRespCol large-12 medium-12 small-12" id="1858818411"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1971182422" style="transition: opacity 1s ease-in-out 0s;"><p class="text-align-center"><span style="display: initial;">Votre avis est forc&eacute;ment int&eacute;ressant, n&rsquo;h&eacute;sitez pas &agrave; laisser un commentaire !</span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1749144169" id="1749144169"> <div class="dmRespColsWrapper" id="1072097650"> <div class="dmRespCol large-12 medium-12 small-12 u_1639724380" id="1639724380" data-blog-template="inject-fb"> <div data-element-type="html" class="dmCustomHtml u_1755908741" id="1755908741"> <div id="disqus_thread"></div> 
+ <script>
+
+
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-www-ostramus-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+                                                                                          
+
+                </script> 
+ <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a> 
+</noscript> 
+</div> 
+ <div class="default u_1179188210 disqusWidget" id="1179188210" dmle_extension="disqus" data-element-type="disqus" disqusurl="" wr="true" disquscontainerid="" disqusidentifier="5403ff3af4bf45efa3e35c9ed2a3587b~20944208" shortname="Ostramus" icon="true" surround="true" adwords=""> <div id="disqus_thread" class="disqusInited" language="fr" shortname="Ostramus" disqusurl="" disqus_identifier="5403ff3af4bf45efa3e35c9ed2a3587b~20944208" disqus_container_id=""></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1955241875" id="1955241875"> <div class="dmRespColsWrapper" id="1640503916"> <div class="dmRespCol large-12 medium-12 small-12 u_1879452075" id="1879452075"> <div class="u_1846542956 default mainBlog layout4" id="1846542956" dmle_extension="internal_blog_list" data-element-type="internal_blog_list" show-images="true" wr="true" trim-title="false" show-blog-title="false" posts-animation="none" show-action-text="false" text-align="left" icon="true" surround="true" adwords="" list-layout="layout4" visible-items="6" visible-post-lines="4" search-tags="" search-term="" more-posts-text="Plus d'articles" header-type="H2" posts-padding="10" posts-per-row="3" show-author="false" text-box-padding="true" action-text="" skip-post-index="1213404" blog-posts-feature-flag="true" data-image-hover-effect="zoomout" show-more-posts-text="true"> <div class="inner "> <div style="-ms-grid-column:1; -ms-grid-row:1" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 200.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/critique-la-millieme-nuit-d-alastair-reynolds" data-blog-post-alias="critique-la-millieme-nuit-d-alastair-reynolds"> <div class="blogImg" style="background-image: url('https://le-cdn.website-editor.net/s/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/La-millieme-nuit-1920w.jpg');"><img src="https://le-cdn.website-editor.net/s/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/La-millieme-nuit-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/critique-la-millieme-nuit-d-alastair-reynolds" data-blog-post-alias="critique-la-millieme-nuit-d-alastair-reynolds">Critique - La milli&egrave;me nuit, d'Alastair Reynolds</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>3 mai 2023</span> 
+</div> 
+ <div class="postDescription">La Milli&egrave;me Nuit                                               est l&rsquo;un des tous derniers titres de la collection &laquo; Une heure-lumi&egrave;re &raquo; (UHL) sorti chez Le B&eacute;lial le 25 ao&ucirc;t dernier. L&rsquo;ouvrage collectionne quantit&eacute; de qualit&eacute;s que je vous invite &agrave; d&eacute;couvrir c&eacute;ans.</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:2; -ms-grid-row:1" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 400.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/critique-avatar-la-voie-de-l-eau" data-blog-post-alias="critique-avatar-la-voie-de-l-eau"> <div class="blogImg" style="background-image: url('https://cdn.website-editor.net/s/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/avatar-+lavoiedeleau.webp');"><img src="https://cdn.website-editor.net/s/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/avatar-+lavoiedeleau.webp" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/critique-avatar-la-voie-de-l-eau" data-blog-post-alias="critique-avatar-la-voie-de-l-eau">Critique - Avatar, la voie de l'eau</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>par Ostramus</span> 
+ <span>&bull;</span> 
+ <span>26 d&eacute;cembre 2022</span> 
+</div> 
+ <div class="postDescription">Un peu plus d&rsquo;une d&eacute;cennie apr&egrave;s la sortie du premier Avatar, James Cameron propose la suite directe :                                              Avatar, la voie de l&rsquo;eau                                               . Ce film &eacute;veille un int&eacute;r&ecirc;t particulier non pas en raison du succ&egrave;s commercial du premier opus, mais au regard du talent du r&eacute;alisateur pour les suites. En effet,                                              Terminator 2                                               et                                              Aliens                                               font autorit&eacute; comme &eacute;tant d&rsquo;excellentes suites, parfois consid&eacute;r&eacute;es comme meilleures que le film d&rsquo;origine, chacune ayant apport&eacute; un angle diff&eacute;rent et explorant de nouveaux aspects de l&rsquo;univers. Autrement dit, je suis all&eacute; voir le second film Avatar plus par curiosit&eacute; sc&eacute;naristique que par int&eacute;r&ecirc;t pour le monde d&rsquo;Avatar et son histoire qui, sans &ecirc;tre mauvais, n&rsquo;a rien de fabuleux exception faite de la technique.                                                                                                                        Le pr&eacute;sent article divulgue tout ou partie de l&rsquo;intrigue.</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:3; -ms-grid-row:1" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 600.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/critique-la-nuit-du-faune-de-romain-lucazeau" data-blog-post-alias="critique-la-nuit-du-faune-de-romain-lucazeau"> <div class="blogImg" style="background-image: url('https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/La-Nuit-du-faune+2-1920w.jpg');"><img src="https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/La-Nuit-du-faune+2-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/critique-la-nuit-du-faune-de-romain-lucazeau" data-blog-post-alias="critique-la-nuit-du-faune-de-romain-lucazeau">Critique - La Nuit du faune de Romain Lucazeau</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>par Ostramus</span> 
+ <span>&bull;</span> 
+ <span>5 septembre 2021</span> 
+</div> 
+ <div class="postDescription">Pour &ecirc;tre honn&ecirc;te, j&rsquo;ai un a priori n&eacute;gatif concernant l&rsquo;&oelig;uvre de Romain Lucazeau, notamment &agrave; cause de la lecture &ndash; fastidieuse &ndash; de                                              Latium                                               . Si j&rsquo;ai ador&eacute; la quasi-int&eacute;gralit&eacute; des id&eacute;es et des r&eacute;flexions peuplant le dyptique robotique (je fr&eacute;tille rien qu&rsquo;en repensant &agrave; la cr&eacute;ation du Limes), son ex&eacute;cution m&rsquo;avait paru laborieuse, port&eacute;e par un style amphigourique.                                                                               Cela &eacute;tant dit, je reconnais qu&rsquo;il y avait un je-ne-sais-quoi qui justifiait le succ&egrave;s dont il a b&eacute;n&eacute;fici&eacute;, et j&rsquo;avoue que ma curiosit&eacute; n&rsquo;eut pas besoin d&rsquo;&ecirc;tre exacerb&eacute;e bien longtemps pour m&rsquo;int&eacute;resser &agrave; la nouvelle &oelig;uvre de l&rsquo;auteur,                                              La Nuit du faune                                               , publi&eacute; chez                                              Albin Michel Imaginaire                                  , d&eacute;crit par mon libraire comme &laquo; Le Petit Prince avec des neutrinos &raquo;.                                                                   Si une majorit&eacute; de critiques dithyrambiques en parlent en termes &eacute;logieux, le consid&eacute;rant comme le chef d'&oelig;uvre de la rentr&eacute;e litt&eacute;raire, je crains de                                              ne pas partager la bonne vision                                  .</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:1; -ms-grid-row:2" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 800.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/pourquoi-il-faut-rehabiliter-jafar" data-blog-post-alias="pourquoi-il-faut-rehabiliter-jafar"> <div class="blogImg" style="background-image: url('https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/jafar-1920w.png');"><img src="https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/jafar-1920w.png" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/pourquoi-il-faut-rehabiliter-jafar" data-blog-post-alias="pourquoi-il-faut-rehabiliter-jafar">Pourquoi il faut r&eacute;habiliter Jafar</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>par Ostramus</span> 
+ <span>&bull;</span> 
+ <span>30 mai 2021</span> 
+</div> 
+ <div class="postDescription">Et si Jafar avait de bonnes intentions et que les apparences jouaient contre lui ?                                                                                                                                                                                         Apr&egrave;s tout, nous ne savons pas grand-chose le concernant. Dans le film d&rsquo;animation de Disney sorti en 1992, il n&rsquo;est jamais fait mention de sa vie pass&eacute;e, de ses origines ni de la nature et l&rsquo;&eacute;tendue de ses fonctions. L&rsquo;unique chose que le spectateur sait est qu&rsquo;il souhaite devenir sultan &agrave; la place du sultan. Si la qu&ecirc;te du pouvoir est rarement per&ccedil;ue comme vertueuse, nous ignorons pourquoi Jafar souhaite s&rsquo;en emparer et ce qu&rsquo;il compte en faire.                                                                                                                              En y regardant de plus pr&egrave;s, il est tout &agrave; fait possible d&rsquo;imaginer que derri&egrave;re les complots, la r&eacute;partie lapidaire et une apparence sinistre se cache un &ecirc;tre d&eacute;vou&eacute; qui se soucie r&eacute;ellement de son prochain. Aussi, mettons un instant de c&ocirc;t&eacute; l                                                                                        e r&ecirc;ve bleu                                                                                        , renversons les perspectives et hasardons-nous &agrave; accorder une seconde chance au grand vizir d&rsquo;Agrabah.</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:2; -ms-grid-row:2" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 1000.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/critique-un-long-voyage-de-claire-duvivier" data-blog-post-alias="critique-un-long-voyage-de-claire-duvivier"> <div class="blogImg" style="background-image: url('https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/long-voyage-claire-duvivier-1920w.jpeg');"><img src="https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/dms3rep/multi/opt/long-voyage-claire-duvivier-1920w.jpeg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/critique-un-long-voyage-de-claire-duvivier" data-blog-post-alias="critique-un-long-voyage-de-claire-duvivier">Critique - Un long voyage de Claire Duvivier</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>par Ostramus</span> 
+ <span>&bull;</span> 
+ <span>3 mai 2021</span> 
+</div> 
+ <div class="postDescription">Un long voyage                                                                                                                  de Claire Duvivier, publi&eacute; Aux Forges de Vulcain est d&eacute;j&agrave; sorti il y a un moment et il a connu un joli succ&egrave;s dans le petit monde de la litt&eacute;rature de l&rsquo;imaginaire au regard des nombreux articles le concernant. Toutefois, certains aspects n&rsquo;ont pas &eacute;t&eacute; &eacute;voqu&eacute;s, du moins &agrave; mon sens certains qui ont capt&eacute; mon attention et qui soul&egrave;vent quelques questions. Aussi, je me suis fendu &agrave; mon tour d&rsquo;un billet. La diff&eacute;rence &eacute;tant que je vais d&eacute;tailler l&rsquo;enti&egrave;ret&eacute; de l&rsquo;ouvrage et &eacute;voquer des &eacute;l&eacute;ments de l&rsquo;intrigue. Cette critique s&rsquo;adresse ainsi davantage &agrave; ceux qui l&rsquo;ont lu qu&rsquo;&agrave; ceux qui pr&eacute;voient de le lire.</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:3; -ms-grid-row:2" class="postArticle lastArticle"> <div class="inner clearfix wow" style="animation-delay: 1200.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/pourquoi-les-univers-paralleles-nexistent-pas" data-blog-post-alias="pourquoi-les-univers-paralleles-nexistent-pas"> <div class="blogImg" style="background-image: url('https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/import/clib/ostramus_com/dms3rep/multi/opt/multivers-630x640-1920w.jpg');"><img src="https://le-cdn.website-editor.net/5403ff3af4bf45efa3e35c9ed2a3587b/import/clib/ostramus_com/dms3rep/multi/opt/multivers-630x640-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/pourquoi-les-univers-paralleles-nexistent-pas" data-blog-post-alias="pourquoi-les-univers-paralleles-nexistent-pas">Pourquoi les univers parall&egrave;les n&rsquo;existent pas</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>par Ostramus</span> 
+ <span>&bull;</span> 
+ <span>27 mars 2020</span> 
+</div> 
+ <div class="postDescription">Un univers d&eacute;signe la r&eacute;alit&eacute; au sein de laquelle se trouve contenue l&rsquo;int&eacute;gralit&eacute; de ce qui existe et o&ugrave; se produit l&rsquo;int&eacute;gralit&eacute; des ph&eacute;nom&egrave;nes physiques. Il constitue pour un individu l&rsquo;ensemble de ce qu&rsquo;il est en principe possible d&rsquo;observer, d&rsquo;explorer, et de manipuler.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Si cette d&eacute;finition n&rsquo;a rien d&rsquo;universel, il s&rsquo;agit de la conception adopt&eacute;e pour la suite du propos. Selon cette acception commune, l&rsquo;univers a la propri&eacute;t&eacute; d&rsquo;&ecirc;tre de taille infinie et d&rsquo;&ecirc;tre r&eacute;gi des lois physiques identiques en tout lieu et en tout temps.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         En l&rsquo;&eacute;tat actuel de nos connaissances, l&rsquo;univers dans lequel nous nous situons, du moins la portion que nous sommes en mesure d&rsquo;observer et d&rsquo;analyser serait unique. M&ecirc;me si le mod&egrave;le standard de la cosmologie accuse quelques lacunes et autres difficult&eacute;s &agrave; unifier la m&eacute;canique quantique et la relativit&eacute; g&eacute;n&eacute;rale, il n&rsquo;offre pour l&rsquo;heure aucune preuve de l&rsquo;existence d&rsquo;un univers diff&eacute;rent du n&ocirc;tre. Pour autant, il existe des th&eacute;ories qui s&rsquo;interrogent quant &agrave; la possibilit&eacute; que notre univers ne soit pas unique, mais un parmi d&rsquo;autres. Il y aurait un ensemble d&rsquo;univers formant un vaste multivers.</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <a dont-color-link="true" class="more-posts-text-container dmWidget"> <span class="morePosts text">Plus d'articles</span> 
+</a> 
+ <div></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="250" class="dmFooterResp generalFooter" id="1943048428"> <div class="u_1465871800 dmRespRow dmFooterContent" id="1465871800"> <div class="dmRespColsWrapper" id="1995794985"> <div class="dmRespCol small-12 u_1705060182 medium-6 large-6" id="1705060182"> <div class="u_1796748466 dmSpacer hide-for-medium hide-for-large" id="1796748466" data-element-type="spacer"></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1010904747" style="transition: opacity 1s ease-in-out 0s;"> <h2 class="size-22 m-size-15"><span class="font-size-22 m-font-size-15" style="display: initial;">R&eacute;seaux sociaux</span></h2> 
+</div> 
+ <div class="u_1612796659 dmNewParagraph" id="1612796659"><font data-inject="home-At16footerCol1Paragraph">Venez jeter un oeil &agrave; ce que je bricole ailleurs.</font></div> <div class="u_1954675044 align-center text-align-center dmSocialHub gapSpacing" id="1954675044" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/Ostramus" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="opacity"></span> 
+</a> 
+ <a href="https://twitter.com/Ostramus_" target="_blank" dm_dont_rewrite_url="true" aria-label="twitter" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Twitter&apos;)"> <span class="dmSocialTwitter dm-social-icons-twitter oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect="opacity"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespCol small-12 medium-6 large-6" id="1724379289"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1062293052" style="transition: opacity 1s ease-in-out 0s;"> <h2 class="size-22 m-size-15"><span class="font-size-22 m-font-size-15" style="display: initial;">Rechercher</span></h2> 
+</div> 
+ <div class="default dmBlogSearch" searchpage="blog-search" id="1363820139" dmle_extension="internal_blog_search" data-element-type="internal_blog_search" wr="true" icon="true" surround="true" adwords="" placeholder=""> <div class="dmBlogSearchWrapper"><!--  position relative --><input type="text" placeholder="" class="dmBlogSearchInput" aria-label="Search" maxlength="100"/> <div class="dmBlogSearchClickOverlay"></div> 
+ <div class="dmBlogSearchIcon dm-icon-search2"></div> 
+<!--  position absolute --></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div id="1236746004" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "FRENCH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_5081";
+    var build = "2025-01-06T13_50_50";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2025-01-06T13_50_50";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static-cdn.website-editor.net/libs/jquery/2.2.4/jquery.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = ' <div>Afin de vous offrir une exp&eacute;rience en ligne optimale, ce site web utilise des cookies. En utilisant notre site web, vous acceptez notre utilisation des cookies. <a href=\"\/privacy\" target=\"_blank\">Plus d\'informations<\/a>.<\/div> \n';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.website-editor.net';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/5081';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static-cdn.website-editor.net';
+    rtCommonProps["common.resources.folder"] = 'https://static-cdn.website-editor.net/mnlt/production/5081';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://le-cdn.website-editor.net/';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =true;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =false;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+    rtFlags["feature.flag.notifications.push.from.top"] =false;
+    rtFlags["streamline.monolith.personalization.supportMultipleConditions.enabled"] =false;
+    rtFlags["runtime.cwv.report.cls.enabled"] =false;
+</script>
+<script src="https://static-cdn.website-editor.net/mnlt/production/5081/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+    if (!window.location.search) {
+        return;
+    }
+	const cleanParams = window.location.search.substring(1); // Strip ?
+	const queryParams = cleanParams.split('&');
+
+	const expires = 'expires=' + new Date().getTime() + 24 * 60 * 60 * 1000;
+	const domain = 'domain=' + window.location.hostname;
+	const path = "path=/";
+
+	queryParams.forEach((param) => {
+		const [key, value = ''] = param.split('=');
+		if (key.startsWith('utm_')) {
+			const cookieName = "_dm_rt_" + key.substring(4);
+			const cookie = cookieName + "=" + value;
+			const joined = [cookie, expires, domain, path].join(";");
+			document.cookie = joined;
+		}
+	});
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d1dxoqu0t5mb7j.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd1dxoqu0t5mb7j.cloudfront.net', { // Initialise a tracker
+  appId: '5403ff3af4bf45efa3e35c9ed2a3587b'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Fermer (Echap)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Partager"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Passer en mode plein écran"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom avant / arrière"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Précédent (flèche gauche)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Suivant (flèche droite)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="fr_FR"></div>
+<!-- Alias: 5403ff3af4bf45efa3e35c9ed2a3587b -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = '......';
+    
+    Parameters.NavigationAreaParams.LessButtonText = '......';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+<!--  Begin Product Custom HTML Markup -->
+<script>
+function call1and1Tracking() {
+	var externalId = dmAPI.getSiteExternalId();
+	var siteName = dmAPI.getSiteName();
+	var src = 'https://integration.mywebsite-editor.com/dakota-snippet-service/snippet/integration/snippet.js?sitename='+siteName+'&external_uid='+externalId+'&mode=visit'
+	var tracking = document.createElement('script');
+     tracking.setAttribute('src',src);
+   	document.head.appendChild(tracking);
+}
+call1and1Tracking();
+</script><!--  End Product Custom HTML Markup -->
+</body>
+</html>
