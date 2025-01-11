@@ -41,3 +41,5 @@ Mélanie (10 jan) : problème PALS réglé grâce à Thulac. Création style.css
 Mélanie (11 jan) : Finalisation page présentation (partie chinois), fin page script, nuage fait (marche pas très bien), CSS améliorer. Fin projet  
 
 Juliette : J'ai complété ma liste d'URLs pour atteindre les 50. J'ai ajouté les colonnes "contexte" et "concordances" à mon tableau.
+
+Marie (11 jan) : Script terminé et upload du tableau pour le corpus anglais.
