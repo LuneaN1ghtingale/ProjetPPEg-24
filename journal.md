@@ -37,6 +37,7 @@ Marie (le 8 janvier) :  avancé sur mon script (qui s'occupe de l'analyse du mot
 
 
 Mélanie : Ajout Contexte et Concordances, modification CSS. PALS à améliorer, les caractères chinois ne respecte pas le format demandé (un mot par ligne) parce que le chinois ne sépare pas les mots par espace.  
-Mélanie (10 jan) : problème PALS réglé grâce à Thulac. Création style.css, finalisation page d'accueil+tableau chinois, à avancer sur la présentation des scripts et les nuages.
+Mélanie (10 jan) : problème PALS réglé grâce à Thulac. Création style.css, finalisation page d'accueil+tableau chinois, à avancer sur la présentation des scripts et les nuages.  
+Mélanie (11 jan) : Finalisation page présentation (partie chinois), fin page script, nuage fait (marche pas très bien), CSS améliorer. Fin projet  
 
 Juliette : J'ai complété ma liste d'URLs pour atteindre les 50. J'ai ajouté les colonnes "contexte" et "concordances" à mon tableau.

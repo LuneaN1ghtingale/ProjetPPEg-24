@@ -51,10 +51,257 @@
     </div>
   </header>
 
-<main>
+  <main>
+    <div class="script-container">
+      <div class="script-description">
+        <h2>Téléchargement URLs</h2>
+        <p>Vérification du code HTTP de l'URL
+        <br>Si l'URL n'est pas valide, on inscrit une ligne vide dans le tableau HTML, sinon on télécharge l'URL.
+        </p>
+      </div>
+      <div class="script-code">
+        <pre>
+# détection de l'encodage
+content_type=$(curl -sI -L "$url" | grep -i "Content-Type")
+if [[ "$content_type" =~ charset=([a-zA-Z0-9-]+) ]]; then
+    encodage="${BASH_REMATCH[1]}"
+else
+    # Tentative de détection d'encodage à partir du contenu HTML
+fi
 
-</main>
+#################
 
+while read -r url; do
+    http_code=$(curl -sI -L "$url" -o /dev/null -w "%{http_code}")
+
+    if [[ "$http_code" != 2* && "$http_code" != 3* ]]; then
+        # Gestion des URL invalides
+    else
+        # Traitement des URL valides
+    fi
+
+    num_ligne=$((num_ligne + 1))
+done < "$fichier_url"
+
+ if [[ "$http_code" != 2* && "$http_code" != 3* ]]; then
+    echo "URL invalide ou introuvable : code HTTP = $http_code" >&2
+    echo "  <tr>
+            <td>$num_ligne</td>
+            <td><a href=\"$url\">$url</a></td>
+          </tr>" >> ../tableaux/tableau_ch.html
+ else
+    file_path="../aspirations/chinois-$num_ligne.html"
+    if [ ! -f "$file_path" ]; then
+        echo "Téléchargement de $url vers $file_path..."
+        curl --connect-timeout 5 -s -L -o "$file_path" "$url"
+        # Gestion des erreurs de téléchargement
+    fi
+        </pre>
+      </div>
+    </div>
+
+    <div class="script-container">
+      <div class="script-description">
+        <h2>Création des fichiers</h2>
+        <ul>
+<li>Convertir la page HTML en texte brut.</li>
+<li>Compter le nombre total de mots.</li>
+<li>Compter les occurrences du mot cible (ici "奇幻").</li>
+<li>Nettoyage le texte dumpé pour extraire un contexte pertinent.</li>
+<li>Génération des concordances.</li>
+        </ul>
+      </div>
+      <div class="script-code">
+        <pre>
+dump_path="../dumps-text/chinois-$num_ligne.txt"
+lynx -dump -nolist "$file_path" > "$dump_path"
+
+nb_mots=$(wc -w < "$dump_path")
+compte=$(egrep -i -o "奇幻?" "$file_path" | wc -l)
+
+context_path="../contexte/chinois-$num_ligne.txt"
+cat "$dump_path" \
+  | sed '/^[[:space:]]*$/d' \
+  | sed -E 's/\[[0-9]+\]//g' \
+  | sed '/^References/Id' \
+  | sed '/^mailto:/Id' \
+  | sed '/^URL:/Id' \
+  > "$context_path"
+
+concordance_path="../concordances/chinois-$num_ligne.html"
+{
+  echo [...]
+
+  while IFS= read -r line; do
+    # Traitement de chaque ligne du contexte pour extraire les concordances
+  done < "$context_path"
+
+  echo [...]
+} > "$concordance_path"
+        </pre>
+      </div>
+    </div>
+
+    <div class="script-container">
+      <div class="script-description">
+        <h2>Créations du tableau</h2>
+        <p> La partie de la création est difficila à montrer, nous vous invitons à rendre visite sur GITHUB>programmes>script_ch.sh
+        </p>
+      </div>
+      <div class="script-code">
+        <pre>
+cat <<EOF > ../tableaux/tableau_ch.html
+
+EOF
+
+aspiration_link="<a href='../aspirations/chinois-$num_ligne.html'>aspiration</a>"
+dump_link="<a href='../dumps-text/chinois-$num_ligne.txt'>dump</a>"
+contexte_link="<a href='../contexte/chinois-$num_ligne.txt'>contexte</a>"
+concordance_link="<a href='../concordances/chinois-$num_ligne.html'>concordances</a>"
+
+echo "  <tr>
+        <td>$num_ligne</td>
+        <td><a href=\"$url\">$url</a></td>
+        <td>$encodage</td>
+        <td>$nb_mots</td>
+        <td>$compte</td>
+        <td>$aspiration_link</td>
+        <td>$dump_link</td>
+        <td>$contexte_link</td>
+        <td>$concordance_link</td>
+      </tr>" >> ../tableaux/tableau_ch.html
+
+done < "$fichier_url"
+
+cat <<EOF >> ../tableaux/tableau_ch.html
+
+EOF
+
+echo "Tableau généré avec succès dans ../tableaux/tableau_ch.html"
+        </pre>
+      </div>
+    </div>
+
+<div class="script-container">
+    <div class="script-description">
+        <h2>PALS Chinois</h2>
+        <p> Utilisation du Thulac, parce que le chinois ne sépare pas les mots par espace.
+        </p>
+    </div>
+    <div class="script-code">
+      <pre>
+#!/usr/bin/env bash
+
+if [[ $# -ne 3 ]]; then
+  echo "Usage: $0 <dossier_dumps> <dossier_contexte> <nom_base>"
+  exit 1
+fi
+
+dossier_dumps="$1"
+dossier_contexte="$2"
+nom_base="$3"
+
+mkdir -p ../pals
+
+fichier_sortie_dumps="../pals/dump-text-$nom_base.txt"
+fichier_sortie_contexte="../pals/contexte-text-$nom_base.txt"
+
+> "$fichier_sortie_dumps"
+> "$fichier_sortie_contexte"
+
+# chinois en utilisant thulac
+convert_to_pals_chinois() {
+  python3 -c "
+import sys, re, thulac
+thu = thulac.thulac(seg_only=True)
+for line in sys.stdin:
+    line = re.sub(r'[?!]', '.', line)
+    if not line.strip():
+        print('')
+        continue
+    phrases = re.split(r'(?<=\.)', line)
+    for phrase in phrases:
+        phrase = phrase.strip()
+        if not phrase:
+            continue
+        segmented = thu.cut(phrase, text=True)
+        for word in segmented.split():
+            print(word)
+        print('')
+" < "$1"
+}
+
+echo "Traitement des dumps..."
+for dump_file in "$dossier_dumps"/chinois-*.txt; do
+  if [[ -f "$dump_file" ]]; then
+    convert_to_pals_chinois "$dump_file" >> "$fichier_sortie_dumps"
+  fi
+done
+
+echo "Traitement des contextes..."
+for ctx_file in "$dossier_contexte"/chinois-*.txt; do
+  if [[ -f "$ctx_file" ]]; then
+    convert_to_pals_chinois "$ctx_file" >> "$fichier_sortie_contexte"
+  fi
+done
+
+echo "Fichiers générés :"
+echo "  -> $fichier_sortie_dumps"
+echo "  -> $fichier_sortie_contexte"
+
+      </pre>
+    </div>
+</div>
+
+<div class="script-container">
+    <div class="script-description">
+        <h2>Nuage 奇幻</h2>
+        <p> Apparament, ça n'a pas fonctionné comme prévu...</p>
+    </div>
+    <div class="script-code">
+<pre>from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+import os
+
+with open('contexte-text-chinois.txt', 'r', encoding='utf-8') as f:
+    contextes_text = f.readlines()
+mot_cle = input("Entrez le mot-clé à rechercher : ")
+
+contextes_filtrés = [ligne for ligne in contextes_text if mot_cle in ligne]
+
+if not contextes_filtrés:
+    print(f" Aucun résultat trouvé pour le mot-clé : {mot_cle}")
+    exit()
+text_filtré = ' '.join(contextes_filtrés)
+
+font_path = "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc"
+
+wordcloud_contextes = WordCloud(
+    width=800,
+    height=400,
+    background_color='white',
+    font_path=font_path
+).generate(text_filtré)
+
+plt.figure(figsize=(10, 5))
+plt.imshow(wordcloud_contextes, interpolation='bilinear')
+plt.axis("off")
+plt.title(f"Wordcloud - Contexte de '{mot_cle}'")
+
+output_folder = "../wordcloud"
+os.makedirs(output_folder, exist_ok=True)
+
+output_path = os.path.join(output_folder, f"{mot_cle}_chinois.png")
+wordcloud_contextes.to_file(output_path)
+
+print(f"Wordcloud a été sauvegardé dans : {output_path}")
+
+plt.show()
+</pre>
+    </div>
+</div>
+
+  </main>
 
 <footer>
     <p>

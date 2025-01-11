@@ -1,0 +1,460 @@
+/* ========================================================================== */
+/* 1) Importation d'une Google Font (pensez à ajouter cette ligne tout en haut)*/
+/* ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* ========================================================================== */
+/* 2) Reset et styles de base                                                 */
+/* ========================================================================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  color: #333;
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url('../html/bg.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Large titre centré (optionnel) */
+.titre-centre {
+  font-size: 2.5rem; /* Ajustez selon votre préférence */
+  font-weight: 600;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+/* ========================================================================== */
+/* 3) Barre de navigation (header)                                            */
+/* ========================================================================== */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: linear-gradient(to right, #333, #444); /* Dégradé pour la navbar */
+  z-index: 999;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Petite ombre */
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Espace entre le titre et le menu */
+  padding: 10px 20px;
+}
+
+.site-name {
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+/* Menu principal */
+nav {
+  /* Pas de style spécifique, géré par les ul.menu */
+}
+
+/* Liste horizontale du menu */
+ul.menu {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+/* Liens du menu principal */
+ul.menu > li > a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 15px;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500; /* Légèrement plus épais */
+}
+
+ul.menu > li:hover > a {
+  background-color: #555; /* Au survol, un gris plus clair */
+  color: #ffd700;         /* Et une couleur de texte dorée pour ressortir */
+}
+
+/* ========================================================================== */
+/* 4) Sous-menus                                                              */
+/* ========================================================================== */
+ul.menu li {
+  position: relative;
+}
+
+.submenu {
+  position: absolute;
+  display: none;
+  background-color: #333;
+  list-style: none;
+  margin-top: 10px;
+  padding: 0;
+  width: 180px; /* On élargit un peu plus le sous-menu */
+  border-radius: 4px; /* Coins légèrement arrondis */
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Petite ombre pour le sous-menu */
+  transition: opacity 0.3s ease-in-out;
+}
+
+ul.menu li:hover .submenu {
+  display: block;
+  opacity: 1;
+}
+
+.submenu li a {
+  display: block;
+  padding: 10px 15px;
+  color: #fff;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.submenu li a:hover {
+  background-color: #444;
+}
+
+/* ========================================================================== */
+/* 5) Main                                                                    */
+/* ========================================================================== */
+main {
+  padding-top: 100px;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* ========================================================================== */
+/* 6) Slideshow et éléments associés                                          */
+/* ========================================================================== */
+.slideshow-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0; /* Derrière le header */
+  overflow: hidden;
+}
+
+.bg-slide {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.mot-cle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 20px 30px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+#mot {
+  font-size: 4rem;
+  margin-bottom: 15px;
+  font-weight: 600;
+  color: #333;
+}
+
+.lang-versions {
+  font-style: italic;
+  display: block;
+  margin-top: 5px;
+}
+
+#definition {
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #555;
+}
+
+/* Boutons de navigation du diaporama */
+.slide-buttons {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  z-index: 100;
+}
+
+.slide-buttons button {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: none;
+  background-color: #ccc;
+  margin: 0 5px;
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.3s;
+}
+
+.slide-buttons button:hover,
+.slide-buttons button.active {
+  background-color: #333;
+}
+
+/* ========================================================================== */
+/* 7) Section Présentation                                                    */
+/* ========================================================================== */
+#presentation {
+  background-color: rgba(255, 255, 255, 0.8); /* Fond blanc semi-transparent */
+  padding: 50px 20px;
+  margin-top: 100vh; /* Apparaît après le diaporama initial */
+  /* Petite ombre pour détacher la section */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* ========================================================================== */
+/* 8) Tableau                                                                  */
+/* ========================================================================== */
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin: 2rem auto; /* Ajout d'une marge autour du tableau */
+  background:rgba(255, 255, 255, 0.8);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: 600;
+}
+
+/* Survol des lignes du tableau */
+tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Mot cible en rouge pour le mettre en valeur */
+.mot-cible {
+  font-weight: bold;
+  color: red;
+}
+
+/* ========================================================================== */
+/* 9) Footer                                                                   */
+/* ========================================================================== */
+footer {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 2rem;
+  position: relative; /* Si vous voulez le fixer en bas, vous pouvez changer */
+}
+
+/* ========================================================================== */
+/* 10) Responsivité (exemple de media query)                                  */
+/* ========================================================================== */
+@media (max-width: 768px) {
+  .header-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  ul.menu {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  table {
+    width: 90%;
+  }
+}
+
+/* ========================================================================== */
+/* Présentation                                                */
+/* ========================================================================== */
+
+.projet-container {
+  max-width: 1400px; /* Définissez la largeur que vous souhaitez */
+  margin: 0 auto;   /* Centre horizontalement */
+  padding: 1rem;    /* Ajoute de l'espace autour du contenu */
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+  max-width: 1200px;
+}
+
+#projet p {
+  text-align: left; /* Aligner le texte à gauche */
+  margin: 1rem 0;
+  line-height: 1.6; /* Rendre la lecture plus aisée */
+}
+
+#projet h2{
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: left; /* Centre le titre */
+}
+
+/* 3) Conteneur des membres :
+     - On force l'affichage en colonne et on centre le contenu */
+/* Conteneur de la section Membres */
+
+#membres h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: left; /* Centre le titre */
+}
+
+/* Conteneur des cartes membres en flexbox */
+.members-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+/* Style de chaque carte membre */
+.member-card {
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 280px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+  padding: 10px; /* Ajoute un espace intérieur global */
+}
+
+
+/* Effet au survol de la carte */
+.member-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+/* Image du membre */
+.member-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Nom du membre */
+.member-card h3 {
+  margin: 1rem 0 0.5rem;
+  font-size: 1.5rem;
+  color: #222;
+}
+
+/* Langue ou autre détail */
+.member-card p {
+  margin-bottom: 1rem;
+  color: #666;
+  font-size: 1rem;
+}
+
+/* ========================================================================== */
+/* Présentation des Mots                                                      */
+/* ========================================================================== */
+#presentation-mots {
+  margin: 2rem 0;         /* Espace avant et après la section */
+  padding: 1rem 0;        /* Optionnel : espace interne vertical */
+}
+
+#presentation-mots h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: left;       /* Alignement à gauche pour le titre, comme la section Présentation */
+  color: #333;
+}
+
+/* Style commun pour chaque sous-partie de langue */
+.word-language {
+  margin-bottom: 3rem;  /* Espace entre chaque sous-partie */
+  margin-left: 2rem;
+}
+
+.word-language h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #222;
+}
+
+.word-language p {
+  text-align: left;       /* Aligner le texte à gauche */
+  margin: 0.5rem 0;
+  line-height: 1.6;
+  color: #333;
+}
+
+
+/* ========================================================================== */
+/* Scripts                                                                    */
+/* ========================================================================== */
+.script-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+  max-width: 1400px; /* Largeur maximale du conteneur global */
+  margin: 0 auto;    /* Centrage horizontal */
+  padding: 1rem;     /* Espace autour du contenu */
+}
+
+.script-code,
+.script-description {
+  /* Facultatif : Conserver un minimum de largeur pour une bonne mise en page sur petits écrans */
+  min-width: 250px;
+}
+
+/* Zone de code (pré) avec dimensions fixes */
+.script-code {
+  flex: 0 0 65%;          /* Attribue 65% de la largeur au code (si l'écran est suffisamment large) */
+  max-width: 800px;       /* Largeur maximale fixe */
+  height: 400px;          /* Hauteur fixe */
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 1rem;
+  overflow: auto;         /* Active le défilement si le contenu déborde */
+}
+
+.script-code pre {
+  margin: 0;
+  font-family: 'Consolas', monospace;
+}
+
+/* Description du script avec dimensions fixes */
+.script-description {
+  flex: 0 0 35%;          /* Attribue 35% de la largeur à la description */
+  max-width: 400px;       /* Largeur maximale fixe */
+  height: 400px;          /* Hauteur fixe, à harmoniser avec .script-code si nécessaire */
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 1rem;
+  overflow: auto;         /* Active le défilement si le contenu déborde */
+}
+
+.nuage-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}

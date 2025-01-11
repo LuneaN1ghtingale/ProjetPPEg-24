@@ -1,49 +1,67 @@
+/* ==========================================================================
+   1) Importation image
+   ========================================================================== */
+
+/* ==========================================================================
+   2) Reset et styles de base
+   ========================================================================== */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
   color: #333;
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+              url('../html/bg.jpeg') no-repeat center center fixed;
+  background-size: cover;
   min-height: 100vh;
   position: relative;
 }
 
+/* Large titre centré (optionnel) */
 .titre-centre {
-    font-size: 40px;
-    font-weight: bold;
-    text-align: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 1rem 0;
 }
 
-/* Barre de navigation */
+/* ==========================================================================
+   3) Barre de navigation (header)
+   ========================================================================== */
 header {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #333;
+  background: linear-gradient(to right, #333, #444);
   z-index: 999;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
 
 .header-content {
   display: flex;
   align-items: center;
-  justify-content: space-between; /* espace entre le titre et le menu */
+  justify-content: space-between;
   padding: 10px 20px;
 }
 
-/* Nom du site à gauche */
 .site-name {
   color: #fff;
   font-size: 1.8rem;
   font-weight: bold;
 }
 
-/* Menu principal à droite */
+/* Menu principal */
 nav {
-  /* Aucun alignement particulier requis ici puisque justify-content gère la répartition */
+  /* Géré par ul.menu */
 }
 
 ul.menu {
@@ -56,14 +74,22 @@ ul.menu > li > a {
   color: #fff;
   text-decoration: none;
   padding: 10px 15px;
-  transition: background-color 0.3s;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
 }
 
 ul.menu > li:hover > a {
-  background-color: #444;
+  background-color: #555;
+  color: #ffd700;
 }
 
-/* Sous-menus élargis */
+/* ==========================================================================
+   4) Sous-menus
+   ========================================================================== */
+ul.menu li {
+  position: relative;
+}
+
 .submenu {
   position: absolute;
   display: none;
@@ -71,15 +97,16 @@ ul.menu > li:hover > a {
   list-style: none;
   margin-top: 10px;
   padding: 0;
-  width: 150px; /* largeur élargie pour le sous-menu */
-}
-
-ul.menu li {
-  position: relative;
+  width: 180px;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: opacity 0.3s ease-in-out;
 }
 
 ul.menu li:hover .submenu {
   display: block;
+  opacity: 1;
 }
 
 .submenu li a {
@@ -87,16 +114,33 @@ ul.menu li:hover .submenu {
   padding: 10px 15px;
   color: #fff;
   text-decoration: none;
+  transition: background-color 0.3s;
 }
 
 .submenu li a:hover {
   background-color: #444;
 }
 
+/* ==========================================================================
+   5) Main
+   ========================================================================== */
 main {
-  padding-top: 0px;
+  padding-top: 100px;
   min-height: 100vh;
   position: relative;
+}
+
+/* ==========================================================================
+   6) Slideshow et éléments associés
+   ========================================================================== */
+.slideshow-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  overflow: hidden;
 }
 
 .bg-slide {
@@ -120,6 +164,8 @@ main {
 #mot {
   font-size: 4rem;
   margin-bottom: 15px;
+  font-weight: 600;
+  color: #333;
 }
 
 .lang-versions {
@@ -131,25 +177,17 @@ main {
 #definition {
   font-size: 1rem;
   line-height: 1.4;
+  color: #555;
 }
 
-.slideshow-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 0;         /* Nouvelle valeur */
-  overflow: hidden;
-}
-
+/* Boutons de navigation du diaporama */
 .slide-buttons {
   position: absolute;
   bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
-  z-index: 100; /* Assure que les boutons sont au-dessus */
+  z-index: 100;
 }
 
 .slide-buttons button {
@@ -169,40 +207,234 @@ main {
   background-color: #333;
 }
 
-/* Style pour la section Présentation */
+/* ==========================================================================
+   7) Section Présentation
+   ========================================================================== */
 #presentation {
-  background-color: rgba(255, 255, 255, 0.8); /* fond blanc semi-transparent */
+  background-color: rgba(255, 255, 255, 0.8);
   padding: 50px 20px;
-  margin-top: 100vh; /* pour s'assurer qu'elle apparaît après le diaporama initial */
+  margin-top: 100vh;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-html {
-  scroll-behavior: smooth;
+/* ==========================================================================
+   8) Tableau
+   ========================================================================== */
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin: 2rem auto;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Tableau */
-        table {
-            width: 60%;
-            border-collapse: collapse;
-            margin: 0 auto;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        .mot-cible {
-            font-weight: bold;
-            color: red;
-        }
+th, td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: left;
+}
 
-/* footer */
+th {
+  background-color: #f2f2f2;
+  font-weight: 600;
+}
+
+tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.mot-cible {
+  font-weight: bold;
+  color: red;
+}
+
+/* ==========================================================================
+   9) Footer
+   ========================================================================== */
 footer {
-            background-color: #222;
-            color: #fff;
-            text-align: center;
-            padding: 10px 0;
-        }
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 2rem;
+  position: relative;
+}
+
+/* ==========================================================================
+   10) Responsivité (exemple de media query)
+   ========================================================================== */
+@media (max-width: 768px) {
+  .header-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  ul.menu {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  table {
+    width: 90%;
+  }
+}
+
+/* ==========================================================================
+   Présentation
+   ========================================================================== */
+.projet-container {
+  /* Utilisation d'une seule valeur pour max-width */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+}
+
+#projet p {
+  text-align: left;
+  margin: 1rem 0;
+  line-height: 1.6;
+}
+
+#projet h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+/* Conteneur de la section Membres */
+#membres h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+/* Conteneur des cartes membres en flexbox */
+.members-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.member-card {
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 280px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+  padding: 10px;
+}
+
+.member-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+.member-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.member-card h3 {
+  margin: 1rem 0 0.5rem;
+  font-size: 1.5rem;
+  color: #222;
+}
+
+.member-card p {
+  margin-bottom: 1rem;
+  color: #666;
+  font-size: 1rem;
+}
+
+/* ==========================================================================
+   Présentation des Mots
+   ========================================================================== */
+#presentation-mots {
+  margin: 2rem 0;
+  padding: 1rem 0;
+}
+
+#presentation-mots h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: left;
+  color: #333;
+}
+
+.word-language {
+  margin-bottom: 3rem;
+  margin-left: 2rem;
+}
+
+.word-language h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #222;
+}
+
+.word-language p {
+  text-align: left;
+  margin: 0.5rem 0;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* ==========================================================================
+   Scripts
+   ========================================================================== */
+.script-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.script-code,
+.script-description {
+  min-width: 250px;
+}
+
+.script-code {
+  flex: 0 0 65%;
+  max-width: 800px;
+  height: 400px;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 1rem;
+  overflow: auto;
+}
+
+.script-code pre {
+  margin: 0;
+  font-family: 'Consolas', monospace;
+}
+
+.script-description {
+  flex: 0 0 35%;
+  max-width: 400px;
+  height: 400px;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 1rem;
+  overflow: auto;
+}
+
+.nuage-image {
+  display: block;
+  margin: 20px auto;
+  max-width: 80%;
+  height: auto;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
