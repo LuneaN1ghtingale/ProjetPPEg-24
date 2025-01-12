@@ -33,7 +33,7 @@ Mélanie: Ajout code pour télécharger automatiquement dump depuis urls dans as
 
 ## Semaine du 6 janvier
 
-Marie 
+Marie :
 - (8 janvier) :  avancé sur mon script (qui s'occupe de l'analyse du mot "fantasic" en anglais).   
 - (11 janvier) : Script terminé et upload du tableau pour le corpus anglais. Upload des scripts (abandon du nuage EN)
 
@@ -43,5 +43,4 @@ Mélanie :
 - (11 jan) : Finalisation page présentation (partie chinois), fin page script, nuage fait (marche pas très bien), CSS améliorer. Fin projet  
 
 Juliette : 
-- (répartie sur la semaine) : J'ai complété ma liste d'URLs pour atteindre les 50. J'ai ajouté les colonnes "contexte" et "concordances" à mon tableau. J'ai crée mon nuage de mots via Voyant Tools. et j'ai ajouté mes pages html.
-
+- (répartie sur la semaine) : J'ai complété ma liste d'URLs pour atteindre les 50. J'ai ajouté les colonnes "contexte" et "concordances" à mon tableau. J'ai crée mon nuage de mots via Voyant Tools et j'ai ajouté mes pages html. J'ai complété ma partie de présentation et j'ai ajouté mes fichiers PALS et mes scripts.
