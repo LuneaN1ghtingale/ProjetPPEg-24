@@ -1,12 +1,217 @@
 <!DOCTYPE html>
-<html lang="">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-  </body>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Projet Encadré</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Barre de navigation en haut -->
+  <header>
+    <div class="header-content">
+          <h1 class="site-name">Projet Encadré</h1>
+      <!-- Menu Sommaire -->
+      <nav>
+        <ul class="menu">
+          <li><a href="../index.html">Accueil</a></li>
+
+          <li><a href="presentation.html">Présentation</a></li>
+
+          <li>
+            <a href="#">Tableaux</a>
+            <ul class="submenu">
+              <li><a href="tableau_cn.html">Tableau CN</a></li>
+              <li><a href="tableau_fr.html">Tableau FR</a></li>
+              <li><a href="tableau_en.html">Tableau EN</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="#">Scripts</a>
+            <ul class="submenu">
+              <li><a href="script_cn.html">Script CN</a></li>
+              <li><a href="script_fr.html">Script FR</a></li>
+              <li><a href="#">Script EN</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="#">Nuages</a>
+            <ul class="submenu">
+              <li><a href="nuage_cn.html">Nuage CN</a></li>
+              <li><a href="nuage_fr.html">Nuage FR</a></li>
+              <li><a href="#">Nuage EN</a></li>
+            </ul>
+          </li>
+
+          <li><a href="https://github.com/LuneaN1ghtingale/ProjetPPEg-24">GITHUB</a></li>
+        </ul>
+      </nav>
+
+    </div>
+  </header>
+
+<main>
+    <div class="script-container">
+      <div class="script-description">
+        <h2>Récupération des données</h2>
+        <br>
+        <p>Cette partie de code sert à récupérer les données qui nous intéresse via les URLs pour ensuite remplir notre tableau.
+        </p>
+      </div>
+      <div class="script-code">
+        <pre>
+# On vérifie qu'on applique bien un argument au script
+if [ $# -ne 1 ]
+then
+  echo "Le script prend exactement 1 argument"
+  exit 1
+fi
+
+# On définie nos variables
+fichier_url=$1
+num_ligne=1
+
+# On crée une boucle qui, pour chaque url du dossier, récupère le code HTTP, le Content Type, le type d'encodage, le nombre de mots, le nombre d'occurences du mot cible, le dump textuel, et le contexte. 
+while read -r url
+do
+	reponse=$(curl --connect-timeout 5 -s -L -w  "%{content_type}\t%{http_code}" -o ./aspirations/français-$num_ligne.html $url)
+	echo $url
+        http_code=$(echo "$reponse" | cut -f2)
+        content_type=$(echo "$reponse" | cut -f1)
+ 	encodage=$(echo "$content_type" | egrep -o "charset=\S+" | cut -d "=" -f2 | tail -n1)
+        encodage=${encodage:-"N/A"}
+
+	# Si le code HTTP n'est pas bon, affiche un message d'erreur.
+ 	if [ $http_code != "200" ] ;
+        then
+        echo "URL invalide ou introuvable : code http = $http_code" >&2
+        nb_mots="/"
+        encodage="/"
+        content_type="/"
+        fi
+
+
+	nb_mots=$(lynx "$url" -dump -nolist | wc -w)
+
+	dump=$(lynx  -dump -nolist ./aspirations/français-$num_ligne.html > ./dumps-text/français-$num_ligne.txt)
+
+	compte=$(egrep -i -o "\bfantastique(s)?\b" ./dumps-text/français-$num_ligne.txt | wc -l)
+
+	contexte=$(egrep -i -C 2 "\bfantastique(s)?\b" ./dumps-text/français-$num_ligne.txt | sed 's/^--$/---------------/' > ./contexte/français-$num_ligne.txt)
+
+	# Liens pour le tableau
+	aspiration_link=$(echo "<a href='../aspirations/français-$num_ligne.html'>aspiration</a>")
+	dump_link=$(echo "<a href='../dumps-text/français-$num_ligne.txt'>dump</a>")
+	contexte_link=$(echo "<a href='../contexte/français-$num_ligne.txt'>contexte</a>")
+	concordance_link=$(echo "<a href='../concordances/français-$num_ligne.html'>concordances</a>")
+
+	</pre>
+      </div>
+    </div>
+
+    <div class="script-container">
+      <div class="script-description">
+        <h2>Création du concordancier</h2>
+        <br>
+        <p>Code pour créer le concordancier (imparfait).
+	</p>
+      </div>
+      <div class="script-code">
+        <pre>
+# ...
+concordance_path="./concordances/français-$num_ligne.html"
+{
+
+  while IFS= read -r line; do
+
+ # On remplace ! et ? par un point pour découper naïvement en phrases
+    line=$(echo "$line" | tr '?!' '.')
+    IFS='.' read -ra phrases <<< "$line"
+
+    for phrase in "${phrases[@]}"; do
+      # Vérifie si la
+      if echo "$phrase" | egrep -qi "\bfantastique(s)?\b"; then
+
+        # Extraction gauche / mot / droite
+	left=$(echo "$phrase"   | sed -E "s/(.*)(fantastique*)(.*)/\1/; t; d")
+        center=$(echo "$phrase" | sed -E "s/(.*)(fantastique*)(.*)/\2/; t; d")
+        right=$(echo "$phrase"  | sed -E "s/(.*)(fantastique*)(.*)/\3/; t; d")
+
+        # Si center n’est pas vide, c’est qu’on a trouvé le mot
+        if [[ -n "$center" ]]; then
+          # Échappement minimal des chevrons
+          left_esc=$(echo "$left"   | sed 's/</\&lt;/g; s/>/\&gt;/g')
+          center_esc=$(echo "$center" | sed 's/</\&lt;/g; s/>/\&gt;/g')
+          right_esc=$(echo "$right"  | sed 's/</\&lt;/g; s/>/\&gt;/g')
+
+          echo "<tr>"
+          echo "  <td>$left_esc</td>"
+          echo "  <td class='mot-cible'>$center_esc</td>"
+          echo "  <td>$right_esc</td>"
+          echo "</tr>"
+        fi
+      fi
+    done
+  done < ./contexte/français-$num_ligne.txt
+
+  echo "</table>"
+  echo "</body></html>"
+} > "$concordance_path"
+# ...
+
+	</pre>
+      </div>
+    </div>
+
+    <div class="script-container">
+      <div class="script-description">
+        <h2>Script pour PALS</h2>
+        <br>
+        <p> Bout de code pour mettre un mot par ligne (imparfait), que j'ai complété avec les commandes cat pour concatener tous les fichiers et grep -vpour supprimer des mots qui se sont involontairement insérés. 
+        </p>
+      </div>
+      <div class="script-code">
+        <pre>
+
+# Dossier contenant les fichiers TXT
+input_dir="./contexte_fr"
+output_dir="./contexte-words"
+mkdir -p "$output_dir"
+
+# Fonction pour convertir un fichier TXT en format "un mot par ligne"
+convert_to_words() {
+  local input_file="$1"
+  local output_file="$2"
+
+  # Lire chaque ligne du fichier et séparer les mots
+  while IFS= read -r line; do
+    # Diviser la ligne en mots et les écrire un par un
+    for word in $line; do
+      echo "$word" >> "$output_file"
+    done
+  done < "$input_file"
+}
+
+# Parcourir tous les fichiers TXT et les convertir
+for file in "$input_dir"/*.txt; do
+  if [[ -f "$file" ]]; then
+	  convert_to_words "$file" "$output_file"
+	  output_file="$output_dir/$(basename "$file")"
+	  echo "Conversion de $file en $output_file"
+  fi
+done
+</pre>
+      </div>
+    </div>
+</main>
+
+<footer>
+    <p>
+        © 2025 Projet M1 TAL <br>
+        Réalisé par ZHUGE Mélanie, HENRY Juliette, LATIMIER Marie Sasha
+    </p>
+</footer>
+</body>
 </html>
+
