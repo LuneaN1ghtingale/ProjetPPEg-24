@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Projet Encadré</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Barre de navigation en haut -->
+  <header>
+    <div class="header-content">
+          <h1 class="site-name">Projet Encadré</h1>
+      <!-- Menu Sommaire -->
+      <nav>
+        <ul class="menu">
+          <li><a href="../index.html">Accueil</a></li>
+
+          <li><a href="presentation.html">Présentation</a></li>
+
+          <li>
+            <a href="#">Tableaux</a>
+            <ul class="submenu">
+              <li><a href="tableau_cn.html">Tableau CN</a></li>
+              <li><a href="tableau_fr.html">Tableau FR</a></li>
+              <li><a href="tableau_en.html">Tableau EN</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="#">Scripts</a>
+            <ul class="submenu">
+              <li><a href="script_cn.html">Script CN</a></li>
+              <li><a href="script_fr.html">Script FR</a></li>
+              <li><a href="#">Script EN</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="#">Nuages</a>
+            <ul class="submenu">
+              <li><a href="nuage_cn.html">Nuage CN</a></li>
+              <li><a href="nuage_fr.html">Nuage FR</a></li>
+              <li><a href="#">Nuage EN</a></li>
+            </ul>
+          </li>
+
+          <li><a href="https://github.com/LuneaN1ghtingale/ProjetPPEg-24">GITHUB</a></li>
+        </ul>
+      </nav>
+
+    </div>
+  </header>
+
+  <main></main>
+    <div class="script-container">
+      <div class="script-description">
+        <h2>Script-en ou La récupération du texte pour l'enregistrement en local</h2>
+        <br>
+        <p> J'ai organisé mon script en trois partie. 
+        </p>
+        <p>
+            La première (aussi appelé "script-en") sert à récupérer le texte des pages internet cibles en passant par leur url. Ensuite, le texte est enregistrer dans un premier dossier sous format txt et dans un autre dossier sous format html.
+        </p>
+      </div>
+      <div class="script-code">
+        <pre>
+            # Vérifiez si le fichier contenant les URLs est fourni
+if [[ -z "$1" ]]; then
+  echo "Usage: $0 <fichier_urls>"
+  exit 1
+fi
+
+# Fichier contenant les URLs
+input_file="$1"
+output_dir="./dumps-txt"
+mkdir -p "$output_dir"
+
+# Fonction pour extraire le texte propre d'une URL
+extract_clean_text() {
+  local url="$1"
+  local output_file="$2"
+
+  # Utiliser lynx pour extraire le texte visible et propre
+  lynx -dump -nolist "$url" > "$output_file" 2>/dev/null
+}
+
+# Initialiser un compteur d'URL
+url_number=0
+
+# Parcourez chaque URL dans le fichier et extrayez le texte
+while IFS= read -r url; do
+  if [[ -n "$url" ]]; then
+    # Incrémenter le compteur
+    url_number=$((url_number + 1))
+
+    # Nom du fichier basé sur le numéro de l'URL
+    file_name="english_${url_number}.txt"
+    output_file="$output_dir/$file_name"
+
+    echo "Extraction du texte de : $url"
+    extract_clean_text "$url" "$output_file"
+    echo "Texte enregistré dans : $output_file"
+  fi
+
+done < "$input_file"
+
+echo "Extraction terminée. Les textes sont dans le dossier $output_dir"
+</pre>
+</div>
+</div>
+
+<div class="script-container">
+    <div class="script-description">
+        <h2>table_maker-en ou le calcule des occurences et la mise en forme du tableau</h2>
+        <p>
+            Ce bout de code-ci sert simplement à calculer le nombre d'occurence du mot "fantasy" (ainsi du mot "fantastic") et à afficher les résultats dans un beau tableau.
+            Comme vous pouvez le voir, on repasse par les urls pour récupérer les données, c'est simplement parce qu'il fallait aussi récupérer l'url en lui même au passage. Je trouvais cela plus simple ainsi. Bien sûr, c'est loin d'être le plus optimisé.
+        </p>
+        <p>
+            J'utilise donc un compteur pour savoir de quel url il s'agit, je récupère l'url. Le script utilise lynx pour récupérer le texte, encore une fois, et un count pour compter le nombre d'occurences du mot cible. J'ai aussi créer un petit "get_encoding" pour récuperer l'encodage de la page internet. 
+        </p>
+    </div>
+</div>
+<div class="script-code">
+    <pre>
+        # Vérifiez si le fichier contenant les URLs est fourni
+if [[ -z "$1" ]]; then
+  echo "Usage: $0 <fichier_urls>"
+  exit 1
+fi
+
+# Fichier contenant les URLs
+input_file="$1"
+output_file="results_table.html"
+output_dir="./tableaux"
+mkdir -p "$output_dir"
+
+# Réinitialiser le fichier HTML de sortie
+echo "<html><head><title>Résultats</title></head><body><table border='1'><tr><th>Ligne</th><th>URL</th><th>Occurrences de 'fantasy'</th><th>Occurrences de 'fantastic'</th><th>Encodage</th></tr>" > "$output_file"
+
+# Fonction pour extraire le texte propre d'une URL
+extract_clean_text() {
+  local url="$1"
+  local output_file="$2"
+
+  # Utiliser lynx pour extraire le texte visible et propre
+  lynx -dump -nolist "$url" > "$output_file" 2>/dev/null
+}
+
+# Fonction pour détecter l'encodage via HTTP
+get_encoding() {
+  local url="$1"
+  encoding=$(curl -s -I "$url" | grep -i "content-type" | grep -o -E "charset=[^;]+" | cut -d'=' -f2)
+  echo "${encoding:-Inconnu}"
+}
+
+# Fonction pour compter les occurrences des mots cibles
+count_occurrences() {
+  local input_file="$1"
+  local word="$2"
+
+  grep -o -i "$word" "$input_file" | wc -l
+}
+
+# Initialiser un compteur d'URL
+url_number=0
+
+# Parcourez chaque URL dans le fichier et extrayez le texte
+while IFS= read -r url; do
+  if [[ -n "$url" ]]; then
+    # Incrémenter le compteur
+    url_number=$((url_number + 1))
+
+    # Nom du fichier basé sur le numéro de l'URL
+    file_name="english_${url_number}.txt"
+    output_text_file="$output_dir/$file_name"
+
+    echo "Extraction du texte de : $url"
+    extract_clean_text "$url" "$output_text_file"
+    echo "Texte enregistré dans : $output_text_file"
+
+    # Récupérer l'encodage
+    encoding=$(get_encoding "$url")
+
+    # Compter les occurrences des mots cibles
+    fantasy_count=$(count_occurrences "$output_text_file" "fantasy")
+    fantastic_count=$(count_occurrences "$output_text_file" "fantastic")
+
+    # Ajouter une ligne au tableau HTML
+    echo "<tr><td>$url_number</td><td><a href='$url' target='_blank'>$url</a></td><td>$fantasy_count</td><td>$fantastic_count</td><td>$encoding</td></tr>" >> "$output_file"
+  fi
+
+done < "$input_file"
+
+# Terminer le fichier HTML
+echo "</table></body></html>" >> "$output_file"
+
+echo "Analyse terminée. Les résultats sont dans le fichier $output_file"
+
+    </pre>
+</div>
+
+<div class="script-container">
+    <div class="script-description">
+        <h2>pals-corpus-maker ou le formatage sous pals</h2>
+        <p>
+            Ce dernier script sert à formater le fichier dumps-text pour l'analyse.
+        </p>
+    </div>
+    <div class="script-code">
+        <pre>
+            # Dossier contenant les fichiers TXT
+input_dir="./dumps-txt"
+output_dir="./dumps-words"
+mkdir -p "$output_dir"
+
+# Fonction pour convertir un fichier TXT en format "un mot par ligne"
+convert_to_words() {
+  local input_file="$1"
+  local output_file="$2"
+
+  # Lire chaque ligne du fichier et séparer les mots
+  while IFS= read -r line; do
+    # Diviser la ligne en mots et les écrire un par un
+    for word in $line; do
+      echo "$word" >> "$output_file"
+    done
+  done < "$input_file"
+}
+
+# Parcourir tous les fichiers TXT et les convertir
+for file in "$input_dir"/*.txt; do
+  if [[ -f "$file" ]]; then
+    output_file="$output_dir/$(basename "$file")"
+    echo "Conversion de $file en $output_file"
+    convert_to_words "$file" "$output_file"
+  fi
+done
+
+echo "Conversion terminée. Les fichiers convertis sont dans le dossier $output_dir"
+
+        </pre>
+    </div>
+</div>
+</main>
+
+<footer>
+    <p>
+        © 2025 Projet M1 TAL <br>
+        Réalisé par ZHUGE Mélanie, HENRY Juliette, LATIMIER Marie Sasha
+    </p>
+</footer>
+</body>
+</html>
