@@ -36,7 +36,7 @@ for line in sys.stdin:
         for word in segmented.split():
             print(word)
         print('')
-" < "$1"
+" < "$1" | sed -E '/^#/d' | sed -E 's/[a-zA-Z]//g'
 }
 
 echo "Traitement des dumps..."

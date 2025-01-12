@@ -396,6 +396,7 @@ footer {
   max-width: 1400px;
   margin: 0 auto;
   padding: 1rem;
+  justify-content: center;
 }
 
 .script-code,
@@ -405,7 +406,7 @@ footer {
 
 .script-code {
   flex: 0 0 65%;
-  max-width: 800px;
+  max-width: 1000px;
   height: 400px;
   background: rgba(255, 255, 255, 0.8);
   border: 1px solid #ccc;
@@ -421,7 +422,7 @@ footer {
 
 .script-description {
   flex: 0 0 35%;
-  max-width: 400px;
+  max-width: 300px;
   height: 400px;
   background: rgba(255, 255, 255, 0.8);
   border: 1px solid #eee;
@@ -430,6 +431,9 @@ footer {
   overflow: auto;
 }
 
+/* ==========================================================================
+   Nuage
+   ========================================================================== */
 .nuage-image {
   display: block;
   margin: 20px auto;

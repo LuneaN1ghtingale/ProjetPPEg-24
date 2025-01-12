@@ -117,14 +117,25 @@ EOD
         compte=$(egrep -i -o "奇幻?" "$file_path" | wc -l)
 
         # Contexte: nettoyage
-        context_path="../contexte/chinois-$num_ligne.txt"
-        cat "$dump_path" \
-          | sed '/^[[:space:]]*$/d' \
-          | sed -E 's/\[[0-9]+\]//g' \
-          | sed '/^References/Id' \
-          | sed '/^mailto:/Id' \
-          | sed '/^URL:/Id' \
-          > "$context_path"
+clean_sed_exprs=(
+  -e '/IFRAME:/d'
+  -e '/(BUTTON)/d'
+  -e '/\[.*\]/d'
+  -e '/http/d'
+  -e 's/^[[:space:]]*//'
+  -e '/^(\*|\+) ([^ ]+ ){0,2}[^ ]*$/d'
+  -e 's/<[^>]*>//g'
+  -e 's/\r//g'
+  -e '/^[[:space:]]*$/d'
+  -e 's/\[[0-9]+\]//g'
+  -e '/^References/Id'
+  -e '/^mailto:/Id'
+  -e '/^URL:/Id'
+)
+
+context_path="../contexte/chinois-$num_ligne.txt"
+sed -E "${clean_sed_exprs[@]}" "$dump_path" > "$context_path"
+
 
         # Concordances
 # ...
@@ -208,7 +219,7 @@ concordance_path="../concordances/chinois-$num_ligne.html"
     num_ligne=$((num_ligne + 1))
 done < "$fichier_url"
 
-C
+cat <<EOF >> ./tableaux/tableau_ch.html
         </tbody>
     </table>
 </body>

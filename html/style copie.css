@@ -291,16 +291,16 @@ footer {
 .projet-container {
   max-width: 1400px; /* Définissez la largeur que vous souhaitez */
   margin: 0 auto;   /* Centre horizontalement */
-  padding: 1rem;    /* Ajoute de l'espace autour du contenu */
+  padding: 3rem;    /* Ajoute de l'espace autour du contenu */
   background: rgba(255, 255, 255, 0.7);
   border-radius: 5px;
-  max-width: 1200px;
 }
 
 #projet p {
-  text-align: left; /* Aligner le texte à gauche */
-  margin: 1rem 0;
-  line-height: 1.6; /* Rendre la lecture plus aisée */
+  font-family: 'Georgia', serif;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #333;
 }
 
 #projet h2{

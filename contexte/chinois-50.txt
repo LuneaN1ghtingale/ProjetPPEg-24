@@ -1,292 +1,63 @@
-   #alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
-   alternate alternate alternate alternate alternate alternate
-   Wikipedia的Atom feed
-   跳转到内容
-   [ ] 主菜单
-   主菜单
-   (BUTTON) 移至侧栏 (BUTTON) 隐藏
-   导航
-     * 首页
-     * 分类索引
-     * 特色内容
-     * 新闻动态
-     * 最近更改
-     * 随机条目
-   帮助
-     * 帮助
-     * 维基社群
-     * 方针与指引
-     * 互助客栈
-     * 知识问答
-     * 字词转换
-     * IRC即时聊天
-     * 联络我们
-     * 关于维基百科
-   维基百科 自由的百科全书
-   搜索
-   ____________________
-   (BUTTON) 搜索
-   [ ] 外观
-     * 资助维基百科
-     * 创建账号
-     * 登录
-   [ ] 个人工具
-     * 资助维基百科
-     * 创建账号
-     * 登录
-   未登录编辑者的页面 了解详情
-     * 贡献
-     * 讨论
+#alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
+alternate alternate alternate alternate alternate alternate
+Wikipedia的Atom feed
+跳转到内容
+主菜单
+导航
+帮助
+维基百科 自由的百科全书
+搜索
+____________________
+未登录编辑者的页面 了解详情
 目录
-   (BUTTON) 移至侧栏 (BUTTON) 隐藏
-     * 序言
-     * 1 代表作品
-       (BUTTON) 开关代表作品子章节
-          + 1.1 電視劇
-               o 1.1.1 待上映
-          + 1.2 電影
-          + 1.3 動畫
-     * 2 另見
-     * 3 參考文獻
-   [ ] 开关目录
+o 1.1.1 待上映
 都市奇幻
-   [ ] 19种语言
-     * Беларуская
-     * Čeština
-     * English
-     * Español
-     * فارسی
-     * Suomi
-     * Français
-     * Frysk
-     * עברית
-     * Magyar
-     * Italiano
-     * 한국어
-     * Nederlands
-     * Polski
-     * Română
-     * Русский
-     * Simple English
-     * Українська
-     * 粵語
-   编辑链接
-     * 条目
-     * 讨论
-   [ ] 不转换
-     * 不转换
-     * 简体
-     * 繁體
-     * 大陆简体
-     * 香港繁體
-     * 澳門繁體
-     * 大马简体
-     * 新加坡简体
-     * 臺灣正體
-     * 阅读
-     * 编辑
-     * 查看历史
-   [ ] 工具
-   工具
-   (BUTTON) 移至侧栏 (BUTTON) 隐藏
-   操作
-     * 阅读
-     * 编辑
-     * 查看历史
-   常规
-     * 链入页面
-     * 相关更改
-     * 上传文件
-     * 特殊页面
-     * 固定链接
-     * 页面信息
-     * 引用此页
-     * 获取短链接
-     * 下载二维码
-   打印/导出
-     * 下载为PDF
-     * 打印页面
-   在其他项目中
-     * 维基数据项目
-   外观
-   (BUTTON) 移至侧栏 (BUTTON) 隐藏
-   维基百科，自由的百科全书
-   都市奇幻（英語：Urban
-   fantasy）是設定於都市場景的奇幻類型^^。該類型的作品主要設定於現實世界中，並常有著魔法、外來種族的到來、神話生物的發現、人
-   與超自然存在的共存或衝突以及其他為都市生活帶來的變化等情節^^。
-   都市奇幻和當代奇幻不同，因為當代奇幻不一定設定於都市場景。
+编辑链接
+工具
+操作
+常规
+打印/导出
+在其他项目中
+外观
+维基百科，自由的百科全书
+都市奇幻（英語：Urban
+都市奇幻和當代奇幻不同，因為當代奇幻不一定設定於都市場景。
 代表作品
-   [编辑]
 電視劇
-   [编辑]
-     * 《妖女迷行》（2010年）
-     * 《格林》（2011年）
-     * 《英國恐怖故事》（2014年）
-     * 《闇影獵人》（2016年1月12日）
-     * 《魔鬼神探》（2016年1月25日）
-     * 《詭魅海妖（英语：Siren (TV series)）》（2018年）
-     * 《嘉年華大街》（2019年8月）（Amazon）
-     * 《黑暗元素》（2019年11月）（BBC + HBO）
-     * 《地獄風暴》（2020年）
-     * 《一猎钟情（英语：First Kill (TV series)）》（2022年6月）（Netflix）
-     * 《夜訪吸血鬼（英语：Interview with the Vampire (TV series)）》（2022年10月）
-     * 《洛克靈異偵探社》（2023年）（Netflix英國）
-     * 《死亡男孩偵探社（英语：Dead Boy Detectives (TV
-       series)）》（2024年）（Netflix）（《睡魔》衍生劇）
+* 《一猎钟情（英语：First Kill (TV series)）》（2022年6月）（Netflix）
+* 《夜訪吸血鬼（英语：Interview with the Vampire (TV series)）》（2022年10月）
+* 《死亡男孩偵探社（英语：Dead Boy Detectives (TV
+series)）》（2024年）（Netflix）（《睡魔》衍生劇）
 待上映
-   [编辑]
-     * 《夜行神龍》（Disney+）^
 電影
-   [编辑]
-     * 《夜訪吸血鬼》（1994年）
-     * 《刀鋒戰士系列電影》（1998年–2004年）
-     * 《決戰異世界》（2003年）
-     * 《血世紀》（2009年）
-     * 《魔法師的學徒》（2010年）
-     * 《獵魔教士》（2011年）
-     * 《天使聖物：骸骨之城》（2013年）
-     * 《科學怪人：屠魔大戰》（2014年）
-     * 《獵巫行動：大滅絕》（2015年）
-     * 《光靈》（2017年）（Netflix）
-     * 《暗夜獠牙（英语：Night Teeth）》（2021年）（Netflix）
-     * 《打卡獵人》（2022年）（Netflix）
 動畫
-   [编辑]
-     * 《夜行神龍》（1994年）
 另見
-   [编辑]
-     * 當代奇幻
 參考文獻
-   [编辑]
-    1. ^ Holmes, Jeannie. Writing Urban Fantasy, Part 1.
-       jeannieholmes.com. 2010-12-21 [2012-05-17]. （原始内容存档于2015-04-07）.
-       (Archived by WebCite® at )
-    2. ^ Datlow, Ellen. Naked City: Tales of Urban Fantasy. New York: St.
-       Martin's Press. 2011: xii–xiii. ISBN 978-0-312-38524-8.
-    3. ^ The Better Part of Darkness review. Publishers Weekly.
-       [2011-04-11]. （原始内容存档于2012-10-01）.
-    4. ^ Deadtown by Nancy Holzner. Publishers Weekly. [2011-04-11].
-       （原始内容存档于2012-06-02）.
-    5. ^ 作者. Gary Dauberman, James Wan’s Atomic Monster Tackling
-       Live-Action ‘Gargoyles’ for Disney+ (Exclusive). 出版者. OCTOBER 16,
-       2023 [查閱日期]. （原始内容存档于2023-10-16） （語言）. "引用的相關原文"  请检查|access-date=,
-       |date=中的日期值 (帮助) 引文格式1维护：未识别语文类型 (link)
-     * 查
-     * 论
-     * 编
-   奇幻文學
-     * 歷史
-     * 來源
-     * 概要
-   分支
-     * 班斯奇幻（英语：Bangsian fantasy）
-     * 當代奇幻
-     * 黑暗奇幻
-     * 失落世界（英语：lost world）
-     * 童話奇幻
-     * 推想小說
-     * 民俗學
-     * 喜感奇幻
-     * 哥德小說
-     * 硬奇幻
-     * 英雄奇幻
-     * 古典奇幻
-     * 歷史奇幻
-     * 少年奇幻
-     * 淺度奇幻
-     * 魔法少女
-     * 中世紀奇幻
-     * 神話
-     * 浪漫奇幻
-     * 科學奇幻
-     * 神魔小說
-     * 剑与魔法
-     * 都市奇幻
-     * 怪奇小說
-   媒體
-   電影與電視劇
-     * 奇幻動畫
-     * 奇幻电影
-     * 奇幻電視劇
-   文學
-     * 魔戒
-     * 納尼亞年代記
-     * 北歐神話
-     * 希臘神話
-     * 地海
-   雜誌
-     * Fantastic（英语：Fantastic (magazine)）
-     * 軌跡 (雜誌)（英语：Locus (magazine)）
-     * 奇幻與科幻雜誌（英语：The Magazine of Fantasy & Science Fiction）
-     * Science Fantasy（英语：Science Fantasy (magazine)）
-     * 《未知》
-     * 《詭麗幻譚》
-   文化
-     * 奇幻藝術
-     * 奇幻漫畫
-     * 奇幻遊戲
-     * 魔法物品
-   修辭
-   生物
-     * 天使
-     * 惡魔
-     * 巨龍
-     * 狼人
-     * 塞壬
-     * 精靈
-     * 小仙子
-     * 不死生物
-     * 獨角獸
-   人物
-     * 蠻族
-     * 英雄
-     * 仙女教母
-     * 穴居人
-     * 魔法師
-   魔法
-     * 泛靈論
-     * 魔鬼學
-     * 咒語
-     * 招魂術
-     * 變身
-   其他
-     * 地精
-     * 巨人
-     * 哥布林
-     * 侏儒
-     * 半身人
-     * 食人魔
-     * 半獸人
-     * 洞穴巨人
-   相關主題
-     * 靈異故事
-     * 寓言
-     * 史詩
-     * 童話
-     * 魔幻寫實主義
-     * 機甲
-     * 神話
-     * 託寓
-     * 分类 分類
-     * 主题 主題
-   检索自“https://zh.wikipedia.org/w/index.php?title=都市奇幻&oldid=84516321”
-   分类：​
-     * 都市奇幻
-   隐藏分类：​
-     * 引文格式1错误：日期
-     * 引文格式1维护：未识别语文类型
-     * 含有英語的條目
-     * 本页面最后修订于2024年10月9日 (星期三) 02:38。
-     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
-       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
-       维基媒体基金会是按美国国內稅收法501(c)(3)登记的非营利慈善机构。
-     * 隐私政策
-     * 关于维基百科
-     * 免责声明
-     * 行为准则
-     * 开发者
-     * 统计
-     * Cookie声明
-     * 手机版视图
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+1. ^ Holmes, Jeannie. Writing Urban Fantasy, Part 1.
+(Archived by WebCite® at )
+2. ^ Datlow, Ellen. Naked City: Tales of Urban Fantasy. New York: St.
+Martin's Press. 2011: xii–xiii. ISBN 978-0-312-38524-8.
+3. ^ The Better Part of Darkness review. Publishers Weekly.
+（原始内容存档于2012-06-02）.
+5. ^ 作者. Gary Dauberman, James Wan’s Atomic Monster Tackling
+Live-Action ‘Gargoyles’ for Disney+ (Exclusive). 出版者. OCTOBER 16,
+|date=中的日期值 (帮助) 引文格式1维护：未识别语文类型 (link)
+奇幻文學
+分支
+媒體
+電影與電視劇
+文學
+雜誌
+* 奇幻與科幻雜誌（英语：The Magazine of Fantasy & Science Fiction）
+* Science Fantasy（英语：Science Fantasy (magazine)）
+文化
+修辭
+生物
+人物
+魔法
+其他
+相關主題
+分类：​
+隐藏分类：​
+Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+维基媒体基金会是按美国国內稅收法501(c)(3)登记的非营利慈善机构。

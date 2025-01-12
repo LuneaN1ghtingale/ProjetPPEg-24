@@ -1,366 +1,84 @@
-   #alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
-   alternate alternate alternate alternate alternate alternate
-   Wikipedia的Atom feed
-   跳转到内容
-   [ ] 主菜单
-   主菜单
-   (BUTTON) 移至侧栏 (BUTTON) 隐藏
-   导航
-     * 首页
-     * 分类索引
-     * 特色内容
-     * 新闻动态
-     * 最近更改
-     * 随机条目
-   帮助
-     * 帮助
-     * 维基社群
-     * 方针与指引
-     * 互助客栈
-     * 知识问答
-     * 字词转换
-     * IRC即时聊天
-     * 联络我们
-     * 关于维基百科
-   维基百科 自由的百科全书
-   搜索
-   ____________________
-   (BUTTON) 搜索
-   [ ] 外观
-     * 资助维基百科
-     * 创建账号
-     * 登录
-   [ ] 个人工具
-     * 资助维基百科
-     * 创建账号
-     * 登录
-   未登录编辑者的页面 了解详情
-     * 贡献
-     * 讨论
+#alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
+alternate alternate alternate alternate alternate alternate
+Wikipedia的Atom feed
+跳转到内容
+主菜单
+导航
+帮助
+维基百科 自由的百科全书
+搜索
+____________________
+未登录编辑者的页面 了解详情
 目录
-   (BUTTON) 移至侧栏 (BUTTON) 隐藏
-     * 序言
-     * 1 另见
-     * 2 参考资料
-     * 3 外部链接
-   [ ] 开关目录
 奇幻迷
-   [ ] 3种语言
-     * کوردی
-     * English
-     * Tiếng Việt
-   编辑链接
-     * 条目
-     * 讨论
-   [ ] 不转换
-     * 不转换
-     * 简体
-     * 繁體
-     * 大陆简体
-     * 香港繁體
-     * 澳門繁體
-     * 大马简体
-     * 新加坡简体
-     * 臺灣正體
-     * 阅读
-     * 编辑
-     * 查看历史
-   [ ] 工具
-   工具
-   (BUTTON) 移至侧栏 (BUTTON) 隐藏
-   操作
-     * 阅读
-     * 编辑
-     * 查看历史
-   常规
-     * 链入页面
-     * 相关更改
-     * 上传文件
-     * 特殊页面
-     * 固定链接
-     * 页面信息
-     * 引用此页
-     * 获取短链接
-     * 下载二维码
-   打印/导出
-     * 下载为PDF
-     * 打印页面
-   在其他项目中
-     * 维基共享资源
-     * 维基数据项目
-   外观
-   (BUTTON) 移至侧栏 (BUTTON) 隐藏
-   维基百科，自由的百科全书
-   [220px-Professor_McGonagall%2C_Harry_Potter%2C_Severus_Snape_%285134038
-   581%29.jpg] 哈利波特迷们穿上米勒娃·麦格、哈利·波特和西弗勒斯·斯内普的复制长袍
-   奇幻迷（英語：Fantasy fandom）是指对奇幻作品感兴趣的人，所组成的爱好者群体。^
-   它是围绕着流行奇幻作品的跨媒体制作而展开^，包括搜集奇幻系列的延伸周边作品，组织有关奇幻系列及人物的特别活动。^^
-   他们组织致力于奇幻系列的粉丝俱乐部，例如：热衷于迪士尼奇幻的Disneyana Fan Club（英语：Disneyana Fan
-   Club）^、热衷J·R·R·托尔金文学作品的The Tolkien Society（英语：The Tolkien
-   Society）。^ 近年以来，互联网的发展也让奇幻迷走向网络社区。^
+编辑链接
+工具
+操作
+常规
+打印/导出
+在其他项目中
+外观
+维基百科，自由的百科全书
+[220px-Professor_McGonagall%2C_Harry_Potter%2C_Severus_Snape_%285134038
+581%29.jpg] 哈利波特迷们穿上米勒娃·麦格、哈利·波特和西弗勒斯·斯内普的复制长袍
+他们组织致力于奇幻系列的粉丝俱乐部，例如：热衷于迪士尼奇幻的Disneyana Fan Club（英语：Disneyana Fan
 另见
-   [编辑]
-     * Fantasy Fan（英语：Fantasy Fan），美国首本专业于幻想和怪奇小说的杂志
-     * 世界奇幻大会（英语：World Fantasy Convention）
-     * 托尔金迷（英语：Tolkien fandom）
-     * 哈利波特迷（英语：Harry Potter fandom）
-     * 怪物史莱克迷（英语：Shrek fandom）
-     * 科幻迷（英语：Science fiction fandom）
-     * 兽迷
-     * 洛夫克拉夫特迷（英语：Lovecraft fandom）
 参考资料
-   [编辑]
-    1. ^ How Long Will Our Fascination With the Fantasy Genre Last?.
-       Kaitlyn Fajilan. Highbrow Magazine. 23 January 2014.
-    2. ^ Michael A. Cramer. Medieval Fantasy as Performance: The Society
-       for Creative Anachronism and the Current Middle Ages. Rowman &
-       Littlefield. 2010. ISBN 978-0-8108-6995-0.
-    3. ^ Fandom and Creativity. [2024-05-02]. （原始内容存档于2024-05-02）.
-    4. ^ Lisa A. Lewis. The Adoring Audience: Fan Culture and Popular
-       Media. Routledge. 11 September 2002. ISBN 978-1-134-89918-0.
-    5. ^ Disneyana Fan Club - preserving and sharing the rich legacy of
-       Walt Disney. [2024-05-02]. （原始内容存档于2021-10-14）.
-    6. ^ Michael D. C. Drout. J.R.R. Tolkien Encyclopedia: Scholarship and
-       Critical Assessment. Taylor & Francis. 2007.
-       ISBN 978-0-415-96942-0.
-    7. ^ Kristina Busse. Fan Fiction and Fan Communities in the Age of the
-       Internet: New Essays. McFarland. 16 June 2006.
-       ISBN 978-0-7864-5496-9.
+1. ^ How Long Will Our Fascination With the Fantasy Genre Last?.
+Kaitlyn Fajilan. Highbrow Magazine. 23 January 2014.
+2. ^ Michael A. Cramer. Medieval Fantasy as Performance: The Society
+for Creative Anachronism and the Current Middle Ages. Rowman &
+Littlefield. 2010. ISBN 978-0-8108-6995-0.
+4. ^ Lisa A. Lewis. The Adoring Audience: Fan Culture and Popular
+Media. Routledge. 11 September 2002. ISBN 978-1-134-89918-0.
+5. ^ Disneyana Fan Club - preserving and sharing the rich legacy of
+6. ^ Michael D. C. Drout. J.R.R. Tolkien Encyclopedia: Scholarship and
+Critical Assessment. Taylor & Francis. 2007.
+ISBN 978-0-415-96942-0.
+7. ^ Kristina Busse. Fan Fiction and Fan Communities in the Age of the
+Internet: New Essays. McFarland. 16 June 2006.
+ISBN 978-0-7864-5496-9.
 外部链接
-   [编辑]
-     * The Communication of Fan Culture: The Impact of New Media on
-       Science Fiction and Fantasy Fandom （页面存档备份，存于互联网档案馆） Georgia
-       Institute of Technology
-     * 查
-     * 论
-     * 编
-   奇幻文學
-     * 歷史
-     * 來源
-     * 概要
-   分支
-     * 班斯奇幻（英语：Bangsian fantasy）
-     * 當代奇幻
-     * 黑暗奇幻
-     * 失落世界（英语：lost world）
-     * 童話奇幻
-     * 推想小說
-     * 民俗學
-     * 喜感奇幻
-     * 哥德小說
-     * 硬奇幻
-     * 英雄奇幻
-     * 古典奇幻
-     * 歷史奇幻
-     * 少年奇幻
-     * 淺度奇幻
-     * 魔法少女
-     * 中世紀奇幻
-     * 神話
-     * 浪漫奇幻
-     * 科學奇幻
-     * 神魔小說
-     * 剑与魔法
-     * 都市奇幻
-     * 怪奇小說
-   媒體
-   電影與電視劇
-     * 奇幻動畫
-     * 奇幻电影
-     * 奇幻電視劇
-   文學
-     * 魔戒
-     * 納尼亞年代記
-     * 北歐神話
-     * 希臘神話
-     * 地海
-   雜誌
-     * Fantastic（英语：Fantastic (magazine)）
-     * 軌跡 (雜誌)（英语：Locus (magazine)）
-     * 奇幻與科幻雜誌（英语：The Magazine of Fantasy & Science Fiction）
-     * Science Fantasy（英语：Science Fantasy (magazine)）
-     * 《未知》
-     * 《詭麗幻譚》
-   文化
-     * 奇幻藝術
-     * 奇幻漫畫
-     * 奇幻遊戲
-     * 魔法物品
-   修辭
-   生物
-     * 天使
-     * 惡魔
-     * 巨龍
-     * 狼人
-     * 塞壬
-     * 精靈
-     * 小仙子
-     * 不死生物
-     * 獨角獸
-   人物
-     * 蠻族
-     * 英雄
-     * 仙女教母
-     * 穴居人
-     * 魔法師
-   魔法
-     * 泛靈論
-     * 魔鬼學
-     * 咒語
-     * 招魂術
-     * 變身
-   其他
-     * 地精
-     * 巨人
-     * 哥布林
-     * 侏儒
-     * 半身人
-     * 食人魔
-     * 半獸人
-     * 洞穴巨人
-   相關主題
-     * 靈異故事
-     * 寓言
-     * 史詩
-     * 童話
-     * 魔幻寫實主義
-     * 機甲
-     * 神話
-     * 託寓
-     * 分类 分類
-     * 主题 主題
-     * 查
-     * 论
-     * 编
-   粉絲文化
-   按种类
-   按题材
-     * 獸迷
-     * 腐女
-     * 女体化
-     * 科幻迷
-     * G片迷
-          + 兄贵
-          + 淫夢厨
-     * 奇幻作品迷
-     * 共产趣味者
-   按類型
-     * 动漫迷
-     * 体育爱好者
-     * 电子游戏爱好者
-     * 書迷
-     * 電影迷（英语：Cinephilia）
-     * 鐵道迷
-     * 公交迷
-     * 道路迷
-     * 航空迷
-     * 历女
-     * 生物迷
-     * 化学迷
-   按作品
-     * 《冰与火之歌》迷
-     * 披头士狂
-     * 《小马宝莉》迷
-     * 《螢火蟲》迷
-     * 《哈利·波特》迷
-     * 詹姆斯·邦德迷
-     * 《星际之门》迷
-     * 托尔金迷
-     * 《星际迷航》迷
-     * 《暮光之城》迷
-     * 《神秘博士》迷
-     * 白学家
-     * 红学家
-     * 五學家
-     * 奥迷
-     * 哆啦迷
-     * 躲粉
-   按人物
-     * 李斯特狂熱
-     * 蛤丝
-     * 本质骑士
-     * 六学家
-     * ikun
-     * 狗粉丝
-     * 明学家
-     * 韩粉
-   人物
-     * 追星族
-     * 黑粉
-     * 邪典追捧
-     * 爱好者
-     * Groupie（英语：Groupie）
-     * 御宅族
-     * 私生饭
-     * 配對
-     * Stan（英语：Stan (fan)）
-     * Tifosi（英语：Tifosi）
-     * 乌尔特拉斯（英语：Ultras）
-   组织
-   及事件
-     * Amateur press association（英语：Amateur press association）
-     * 车友会（Lowrider（英语：Lowrider club））
-     * Cosplay
-     * 粉絲俱樂部
-     * Fan convention（英语：Fan convention）
-     * 球迷會
-     * 俱樂部
-     * Historical reenactment（英语：Historical reenactment）
-     * 臨場動態角色扮演遊戲
-     * 摩托车俱乐部（英语：Motorcycle club）
-     * 再创作组织
-     * 肖战事件
-   同人及活动
-     * 同人作品
-          + 粉絲繪圖
-          + 同人誌
-          + 同人小說
-          + 同人电影
-     * 动画音乐录像
-     * Fan edit（英语：Fan edit）
-     * Fan labor（英语：Fan labor）
-     * Fan mail（英语：Fan mail）
-     * 汉化组
-     * Fanac（英语：Fanac）
-     * 粉絲專頁
-     * 粉丝用语（英语：Fanspeak）
-     * 爱好者杂志
-     * Filk music（英语：Filk music）
-     * Real person fiction（英语：Real person fiction）
-     * Vidding（英语：Vidding）
-     * Zine（英语：Zine）
-   集会（英语：Fan convention）
-   按话题
-     * 漫展
-          + 列表（英语：list of anime conventions）
-     * 漫畫節
-     * Comic book（英语：List of comic book conventions）
-     * Furry（英语：furry convention）
-          + list（英语：list of furry conventions）
-     * Gaming（英语：gaming convention）
-          + list（英语：list of gaming conventions）
-     * Horror（英语：Horror convention）
-     * Multigenre（英语：List of multigenre conventions）
-     * 科幻
-          + list（英语：list of science fiction conventions） / by date of
-            establishment（英语：List of fan conventions by date of founding）
-   检索自“https://zh.wikipedia.org/w/index.php?title=奇幻迷&oldid=83737523”
-   分类：​
-     * 迷文化
-     * 书呆子文化
-   隐藏分类：​
-     * 含有英語的條目
-     * 本页面最后修订于2024年8月9日 (星期五) 04:40。
-     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
-       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
-       维基媒体基金会是按美国国內稅收法501(c)(3)登记的非营利慈善机构。
-     * 隐私政策
-     * 关于维基百科
-     * 免责声明
-     * 行为准则
-     * 开发者
-     * 统计
-     * Cookie声明
-     * 手机版视图
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+* The Communication of Fan Culture: The Impact of New Media on
+Science Fiction and Fantasy Fandom （页面存档备份，存于互联网档案馆） Georgia
+Institute of Technology
+奇幻文學
+分支
+媒體
+電影與電視劇
+文學
+雜誌
+* 奇幻與科幻雜誌（英语：The Magazine of Fantasy & Science Fiction）
+* Science Fantasy（英语：Science Fantasy (magazine)）
+文化
+修辭
+生物
+人物
+魔法
+其他
+相關主題
+粉絲文化
+按种类
+按题材
+按類型
+按作品
+按人物
+人物
+组织
+及事件
+* Amateur press association（英语：Amateur press association）
+同人及活动
+* Real person fiction（英语：Real person fiction）
+集会（英语：Fan convention）
+按话题
++ 列表（英语：list of anime conventions）
+* Comic book（英语：List of comic book conventions）
++ list（英语：list of furry conventions）
++ list（英语：list of gaming conventions）
+* Multigenre（英语：List of multigenre conventions）
++ list（英语：list of science fiction conventions） / by date of
+establishment（英语：List of fan conventions by date of founding）
+分类：​
+隐藏分类：​
+Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+维基媒体基金会是按美国国內稅收法501(c)(3)登记的非营利慈善机构。
