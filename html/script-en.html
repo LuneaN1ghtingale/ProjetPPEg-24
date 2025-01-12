@@ -51,7 +51,7 @@
     </div>
   </header>
 
-  <main></main>
+  <main>
     <div class="script-container">
       <div class="script-description">
         <h2>Script-en ou La récupération du texte pour l'enregistrement en local</h2>
@@ -120,7 +120,7 @@ echo "Extraction terminée. Les textes sont dans le dossier $output_dir"
             J'utilise donc un compteur pour savoir de quel url il s'agit, je récupère l'url. Le script utilise lynx pour récupérer le texte, encore une fois, et un count pour compter le nombre d'occurences du mot cible. J'ai aussi créer un petit "get_encoding" pour récuperer l'encodage de la page internet. 
         </p>
     </div>
-</div>
+
 <div class="script-code">
     <pre>
         # Vérifiez si le fichier contenant les URLs est fourni
@@ -198,6 +198,7 @@ echo "</table></body></html>" >> "$output_file"
 echo "Analyse terminée. Les résultats sont dans le fichier $output_file"
 
     </pre>
+</div>
 </div>
 
 <div class="script-container">
