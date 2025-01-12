@@ -36,6 +36,7 @@ Mélanie: Ajout code pour télécharger automatiquement dump depuis urls dans as
 Marie :
 - (8 janvier) :  avancé sur mon script (qui s'occupe de l'analyse du mot "fantasic" en anglais).   
 - (11 janvier) : Script terminé et upload du tableau pour le corpus anglais. Upload des scripts (abandon du nuage EN)
+- (le 12 janvier) : Dernière mise à jour, formatage correcte de mes scriptes et pages html pour aller avec le site internet.
 
 Mélanie : 
 - Ajout Contexte et Concordances, modification CSS. PALS à améliorer, les caractères chinois ne respecte pas le format demandé (un mot par ligne) parce que le chinois ne sépare pas les mots par espace.  
